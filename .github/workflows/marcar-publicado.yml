@@ -1,0 +1,60 @@
+# Anota no publicados.json uma publicação feita fora da API:
+# o TikTok postado pelo navegador, ou o vídeo do YouTube que você tornou público no Studio.
+name: Marcar publicado
+
+on:
+  workflow_dispatch:
+    inputs:
+      pasta:
+        description: "Pasta do vídeo (ex.: shorts/brasil-1)"
+        required: true
+        type: string
+      plataforma:
+        required: true
+        type: choice
+        options: [tiktok, youtube]
+      status:
+        required: true
+        default: publicado
+        type: choice
+        options: [publicado, privado_teste, pendente, nao_se_aplica]
+      id:
+        description: "ID do vídeo (TikTok: número no fim do link). Pode deixar vazio."
+        required: false
+        type: string
+
+concurrency:
+  group: publicacao
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  marcar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PASTA: ${{ inputs.pasta }}
+      PLATAFORMA: ${{ inputs.plataforma }}
+      STATUS: ${{ inputs.status }}
+      VID: ${{ inputs.id }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - name: Marcar
+        run: |
+          args=("$PASTA" "$PLATAFORMA" --status "$STATUS")
+          [ -n "$VID" ] && args+=(--id "$VID")
+          python automacao/marcar_publicado.py "${args[@]}"
+      - name: Gravar no publicados.json
+        run: |
+          git diff --quiet publicados.json && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add publicados.json
+          git commit -m "$PLATAFORMA: $PASTA marcado como $STATUS"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"

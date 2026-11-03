@@ -1,0 +1,159 @@
+{
+  "_sobre": "Registro do que ja foi publicado em cada plataforma. Os workflows leem este arquivo antes de enviar e nao enviam de novo o que ja tem status 'publicado' ou 'privado_teste'. Status: pendente, privado_teste, publicado, nao_se_aplica. id null = publicado, mas o ID nao foi anotado.",
+  "videos": {
+    "videos/01-paises-sem-vogais": {
+      "titulo": "Adivinhe 40 PAÍSES Sem as VOGAIS 🌍 Quiz de Geografia | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "hO9dj79-Y60",
+        "url": "https://youtu.be/hO9dj79-Y60",
+        "data": null,
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
+    },
+    "videos/02-jogadores-a-z": {
+      "titulo": "Você Lembra um JOGADOR de A até Z? ⚽ Quiz de Futebol | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "M4DKSfvhr4o",
+        "url": "https://youtu.be/M4DKSfvhr4o",
+        "data": null,
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
+    },
+    "videos/03-bandeiras-195": {
+      "titulo": "ADIVINHE os 195 PAÍSES pela BANDEIRA em 3 SEGUNDOS! 🌍 Fácil, Médio e Difícil | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "Aw_7QnJjBy8",
+        "url": "https://youtu.be/Aw_7QnJjBy8",
+        "data": null,
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
+    },
+    "videos/04-doce-ou-salgado": {
+      "titulo": "QUAL VOCÊ PREFERE? 🍫 DOCE ou SALGADO 🍕 40 Escolhas IMPOSSÍVEIS | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "y9B1OhTqz0w",
+        "url": "https://youtu.be/y9B1OhTqz0w",
+        "data": null,
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
+    },
+    "videos/05-nao-diga-o-mesmo": {
+      "titulo": "NÃO DIGA O MESMO QUE O PALITO 🤐 Só 5% Termina Com 8 Vidas! | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "ja33SUJEO9c",
+        "url": "https://youtu.be/ja33SUJEO9c",
+        "data": "2026-10-30",
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
+    },
+    "videos/06-quiz-brasil": {
+      "titulo": "QUIZ DO BRASIL 🇧🇷 30 Perguntas Que Todo Brasileiro Deveria Acertar! | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "EPc7AoX6Yw8",
+        "url": "https://youtu.be/EPc7AoX6Yw8",
+        "data": "2026-11-02",
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
+    },
+    "shorts/bandeiras-1": {
+      "titulo": "Você acerta essas 6 BANDEIRAS? 😱 Só 1% acerta a última! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "lk_Mx26kdkg",
+        "url": "https://youtu.be/lk_Mx26kdkg",
+        "data": null,
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "pendente",
+        "obs": "Short ainda sem versao no TikTok"
+      }
+    },
+    "shorts/qual-joga-1": {
+      "titulo": "Qual desses JOGA no time? ⚽ Só craque acerta as 8! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "wxpJen34tis",
+        "url": "https://youtu.be/wxpJen34tis",
+        "data": null,
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "publicado",
+        "id": null,
+        "origem": "navegador"
+      }
+    },
+    "shorts/portugues-1": {
+      "titulo": "Você passa no QUIZ DE PORTUGUÊS do 5º ano? ✏️ Só 1% acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "qrEwJDnbYZA",
+        "url": "https://youtu.be/qrEwJDnbYZA",
+        "data": null,
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "publicado",
+        "id": null,
+        "origem": "navegador"
+      }
+    },
+    "shorts/nao-diga-1": {
+      "titulo": "NÃO DIGA O MESMO QUE O PALITO 🤐 Você tem só 3 vidas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "SZjsj-f28r0",
+        "url": "https://youtu.be/SZjsj-f28r0",
+        "data": "2026-10-30",
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "publicado",
+        "id": "7702574023611305223",
+        "data": "2026-10-30",
+        "origem": "navegador"
+      }
+    },
+    "shorts/brasil-1": {
+      "titulo": "Você sabe tudo do BRASIL? 🇧🇷 Só 1% acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "pKpsE98dNyw",
+        "url": "https://youtu.be/pKpsE98dNyw",
+        "data": "2026-11-02",
+        "origem": "navegador"
+      },
+      "tiktok": {
+        "status": "publicado",
+        "id": null,
+        "data": "2026-11-02",
+        "origem": "navegador"
+      }
+    }
+  }
+}

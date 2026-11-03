@@ -56,3 +56,6 @@ desktop.ini
 .DS_Store
 .vscode/
 .idea/
+
+# ===== Automacao (saida dos workflows) =====
+saida/

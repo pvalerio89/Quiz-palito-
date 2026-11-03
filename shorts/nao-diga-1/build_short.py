@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.dirname(HERE))
 import short_base as s
 from short_base import b, W, H, FPS
 
-sys.path.insert(0, os.path.join(s.BASE, "quiz-nao-diga-o-mesmo"))
+sys.path.insert(0, os.path.join(QP, "videos", "05-nao-diga-o-mesmo"))
 import build_naodiga as bn
 
 A = lambda n: os.path.join(HERE, "assets", n)
