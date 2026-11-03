@@ -1,0 +1,58 @@
+# ===== Segredos e credenciais (nunca enviar) =====
+.env
+.env.*
+*.env
+!.env.example
+client_secret*.json
+client_secrets*.json
+credentials*.json
+*credentials*
+token*.json
+*token*.pickle
+*.pickle
+*.pkl
+oauth*.json
+*.key
+*.pem
+*.p12
+*.pfx
+cookies*.txt
+*.cookies
+
+# ===== Vídeos renderizados =====
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+
+# ===== Python: caches e ambientes =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# ===== Node / Playwright =====
+node_modules/
+playwright-report/
+test-results/
+
+# ===== Temporários e logs =====
+*.log
+*.tmp
+*.temp
+*.bak
+*~
+tmp/
+temp/
+jobs.json
+
+# ===== Sistema / editores =====
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

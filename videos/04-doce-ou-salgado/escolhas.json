@@ -1,0 +1,362 @@
+[
+ {
+  "n": 1,
+  "fase": 1,
+  "doce": "Bolo de chocolate",
+  "busca_doce": "chocolate cake slice",
+  "salgado": "Pizza",
+  "busca_salgado": "pepperoni pizza",
+  "palito": 1
+ },
+ {
+  "n": 2,
+  "fase": 1,
+  "doce": "Sorvete",
+  "busca_doce": "ice cream scoop bowl",
+  "salgado": "Batata frita",
+  "busca_salgado": "french fries",
+  "palito": 0
+ },
+ {
+  "n": 3,
+  "fase": 1,
+  "doce": "Brigadeiro",
+  "busca_doce": "brigadeiro",
+  "salgado": "Coxinha",
+  "busca_salgado": "coxinha",
+  "palito": 1
+ },
+ {
+  "n": 4,
+  "fase": 1,
+  "doce": "Pudim",
+  "busca_doce": "pudim de leite",
+  "salgado": "Hambúrguer",
+  "busca_salgado": "hamburger cheeseburger",
+  "palito": 1
+ },
+ {
+  "n": 5,
+  "fase": 1,
+  "doce": "Donut",
+  "busca_doce": "donuts glazed",
+  "salgado": "Cachorro-quente",
+  "busca_salgado": "hot dog sausage bun",
+  "palito": 0
+ },
+ {
+  "n": 6,
+  "fase": 1,
+  "doce": "Churros",
+  "busca_doce": "churros",
+  "salgado": "Pão de queijo",
+  "busca_salgado": "pão de queijo",
+  "palito": 1
+ },
+ {
+  "n": 7,
+  "fase": 1,
+  "doce": "Milk-shake",
+  "busca_doce": "milkshake glass",
+  "salgado": "Nuggets",
+  "busca_salgado": "chicken nuggets",
+  "palito": 0
+ },
+ {
+  "n": 8,
+  "fase": 1,
+  "doce": "Brownie",
+  "busca_doce": "brownie chocolate",
+  "salgado": "Lasanha",
+  "busca_salgado": "lasagna",
+  "palito": 1
+ },
+ {
+  "n": 9,
+  "fase": 1,
+  "doce": "Panqueca doce",
+  "busca_doce": "pancakes syrup",
+  "salgado": "Pastel",
+  "busca_salgado": "pastel de feira",
+  "palito": 1
+ },
+ {
+  "n": 10,
+  "fase": 1,
+  "doce": "Chocolate",
+  "busca_doce": "chocolate bar pieces",
+  "salgado": "Pipoca",
+  "busca_salgado": "popcorn bowl",
+  "palito": 0
+ },
+ {
+  "n": 11,
+  "fase": 2,
+  "doce": "Açaí",
+  "busca_doce": "açaí bowl",
+  "salgado": "Esfiha",
+  "busca_salgado": "esfiha",
+  "palito": 0
+ },
+ {
+  "n": 12,
+  "fase": 2,
+  "doce": "Pavê",
+  "busca_doce": "pavê sobremesa",
+  "salgado": "Estrogonofe",
+  "busca_salgado": "beef stroganoff rice",
+  "palito": 1
+ },
+ {
+  "n": 13,
+  "fase": 2,
+  "doce": "Bombom",
+  "busca_doce": "bonbons chocolate",
+  "salgado": "Empada",
+  "busca_salgado": "empada",
+  "palito": 0
+ },
+ {
+  "n": 14,
+  "fase": 2,
+  "doce": "Cheesecake",
+  "busca_doce": "cheesecake strawberry",
+  "salgado": "Sushi",
+  "busca_salgado": "sushi platter",
+  "palito": 1
+ },
+ {
+  "n": 15,
+  "fase": 2,
+  "doce": "Mousse de maracujá",
+  "busca_doce": "passion fruit mousse",
+  "salgado": "Torta de frango",
+  "busca_salgado": "chicken pie",
+  "palito": 0
+ },
+ {
+  "n": 16,
+  "fase": 2,
+  "doce": "Waffle",
+  "busca_doce": "waffles",
+  "salgado": "Pão de alho",
+  "busca_salgado": "garlic bread",
+  "palito": 0
+ },
+ {
+  "n": 17,
+  "fase": 2,
+  "doce": "Quindim",
+  "busca_doce": "quindim",
+  "salgado": "Acarajé",
+  "busca_salgado": "acarajé",
+  "palito": 1
+ },
+ {
+  "n": 18,
+  "fase": 2,
+  "doce": "Bolo de cenoura",
+  "busca_doce": "bolo de cenoura chocolate",
+  "salgado": "Macarronada",
+  "busca_salgado": "spaghetti tomato sauce",
+  "palito": 0
+ },
+ {
+  "n": 19,
+  "fase": 2,
+  "doce": "Cupcake",
+  "busca_doce": "cupcakes",
+  "salgado": "Quibe",
+  "busca_salgado": "kibbeh",
+  "palito": 0
+ },
+ {
+  "n": 20,
+  "fase": 2,
+  "doce": "Torta de limão",
+  "busca_doce": "lemon meringue pie",
+  "salgado": "Batata rústica",
+  "busca_salgado": "roasted potatoes rosemary",
+  "palito": 1
+ },
+ {
+  "n": 21,
+  "fase": 3,
+  "doce": "Petit gâteau",
+  "busca_doce": "lava cake ice cream",
+  "salgado": "Picanha",
+  "busca_salgado": "picanha",
+  "palito": 1
+ },
+ {
+  "n": 22,
+  "fase": 3,
+  "doce": "Sonho de padaria",
+  "busca_doce": "sonho doce padaria",
+  "salgado": "Misto-quente",
+  "busca_salgado": "grilled ham cheese sandwich",
+  "palito": 0
+ },
+ {
+  "n": 23,
+  "fase": 3,
+  "doce": "Goiabada",
+  "busca_doce": "goiabada",
+  "salgado": "Queijo coalho",
+  "busca_salgado": "queijo coalho",
+  "palito": 1
+ },
+ {
+  "n": 24,
+  "fase": 3,
+  "doce": "Cocada",
+  "busca_doce": "cocada",
+  "salgado": "Camarão empanado",
+  "busca_salgado": "fried breaded shrimp",
+  "palito": 1
+ },
+ {
+  "n": 25,
+  "fase": 3,
+  "doce": "Rabanada",
+  "busca_doce": "rabanada",
+  "salgado": "Farofa",
+  "busca_salgado": "farofa",
+  "palito": 0
+ },
+ {
+  "n": 26,
+  "fase": 3,
+  "doce": "Algodão-doce",
+  "busca_doce": "cotton candy",
+  "salgado": "Espetinho",
+  "busca_salgado": "churrasco espetinho skewers",
+  "palito": 1
+ },
+ {
+  "n": 27,
+  "fase": 3,
+  "doce": "Pamonha",
+  "busca_doce": "pamonha",
+  "salgado": "Milho cozido",
+  "busca_salgado": "corn on the cob boiled",
+  "palito": 0
+ },
+ {
+  "n": 28,
+  "fase": 3,
+  "doce": "Paçoca",
+  "busca_doce": "paçoca",
+  "salgado": "Amendoim salgado",
+  "busca_salgado": "roasted salted peanuts",
+  "palito": 0
+ },
+ {
+  "n": 29,
+  "fase": 3,
+  "doce": "Gelatina",
+  "busca_doce": "gelatin dessert jelly",
+  "salgado": "Escondidinho",
+  "busca_salgado": "escondidinho",
+  "palito": 1
+ },
+ {
+  "n": 30,
+  "fase": 3,
+  "doce": "Doce de leite",
+  "busca_doce": "doce de leite",
+  "salgado": "Queijo minas",
+  "busca_salgado": "queijo minas",
+  "palito": 0
+ },
+ {
+  "n": 31,
+  "fase": 4,
+  "doce": "Brigadeiro",
+  "busca_doce": "brigadeiro",
+  "salgado": "Feijoada",
+  "busca_salgado": "feijoada",
+  "palito": 1
+ },
+ {
+  "n": 32,
+  "fase": 4,
+  "doce": "Sorvete de chocolate",
+  "busca_doce": "chocolate ice cream",
+  "salgado": "Pizza de calabresa",
+  "busca_salgado": "pizza calabresa",
+  "palito": 1
+ },
+ {
+  "n": 33,
+  "fase": 4,
+  "doce": "Pudim",
+  "busca_doce": "pudim de leite",
+  "salgado": "Lasanha",
+  "busca_salgado": "lasagna",
+  "palito": 0
+ },
+ {
+  "n": 34,
+  "fase": 4,
+  "doce": "Açaí",
+  "busca_doce": "açaí bowl",
+  "salgado": "Churrasco",
+  "busca_salgado": "churrasco brazilian barbecue",
+  "palito": 1
+ },
+ {
+  "n": 35,
+  "fase": 4,
+  "doce": "Bolo de chocolate",
+  "busca_doce": "chocolate cake slice",
+  "salgado": "Coxinha",
+  "busca_salgado": "coxinha",
+  "palito": 0
+ },
+ {
+  "n": 36,
+  "fase": 4,
+  "doce": "Petit gâteau",
+  "busca_doce": "lava cake ice cream",
+  "salgado": "Hambúrguer",
+  "busca_salgado": "hamburger cheeseburger",
+  "palito": 1
+ },
+ {
+  "n": 37,
+  "fase": 4,
+  "doce": "Brownie",
+  "busca_doce": "brownie chocolate",
+  "salgado": "Batata frita",
+  "busca_salgado": "french fries",
+  "palito": 0
+ },
+ {
+  "n": 38,
+  "fase": 4,
+  "doce": "Churros",
+  "busca_doce": "churros",
+  "salgado": "Pastel",
+  "busca_salgado": "pastel de feira",
+  "palito": 0
+ },
+ {
+  "n": 39,
+  "fase": 4,
+  "doce": "Nutella",
+  "busca_doce": "nutella jar spread",
+  "salgado": "Pão de queijo",
+  "busca_salgado": "pão de queijo",
+  "palito": 1
+ },
+ {
+  "n": 40,
+  "fase": 4,
+  "doce": "Chocolate",
+  "busca_doce": "chocolate bar pieces",
+  "salgado": "Pizza",
+  "busca_salgado": "pepperoni pizza",
+  "palito": 1
+ }
+]

@@ -1,0 +1,419 @@
+[
+ {
+  "n": 1,
+  "tiles": "J_P__",
+  "answer": "JAPÃO",
+  "foto": "Chureito pagoda Mount Fuji",
+  "q": "Número um. Que país é esse sem as vogais?",
+  "a": "É o Japão! Começou bem?"
+ },
+ {
+  "n": 2,
+  "tiles": "C_B_",
+  "answer": "CUBA",
+  "foto": "Havana classic cars Capitol",
+  "q": "Número dois. E esse aqui?",
+  "a": "Cuba! Ponto pra você."
+ },
+ {
+  "n": 3,
+  "tiles": "P_R_",
+  "answer": "PERU",
+  "foto": "Machu Picchu",
+  "q": "Número três. Só quatro letrinhas…",
+  "a": "É o Peru! Mandou bem!"
+ },
+ {
+  "n": 4,
+  "tiles": "BR_S_L",
+  "answer": "BRASIL",
+  "foto": "Cristo Redentor Rio de Janeiro corcovado aerial",
+  "q": "Número quatro. Esse você tem que acertar!",
+  "a": "Brasil, claro!"
+ },
+ {
+  "n": 5,
+  "tiles": "CH_L_",
+  "answer": "CHILE",
+  "foto": "Torres del Paine",
+  "q": "Número cinco. Que país se esconde aqui?",
+  "a": "Acertou quem disse Chile."
+ },
+ {
+  "n": 6,
+  "tiles": "CH_N_",
+  "answer": "CHINA",
+  "foto": "Great Wall of China Mutianyu",
+  "q": "Número seis. Descobre esse?",
+  "a": "É a China!"
+ },
+ {
+  "n": 7,
+  "tiles": "M_X_C_",
+  "answer": "MÉXICO",
+  "foto": "Chichen Itza El Castillo",
+  "q": "Número sete. Olha as consoantes…",
+  "a": "México! Mais um ponto."
+ },
+ {
+  "n": 8,
+  "tiles": "FR_NÇ_",
+  "answer": "FRANÇA",
+  "foto": "Eiffel Tower Paris",
+  "q": "Número oito. Repara no cedilha!",
+  "a": "É a França!"
+ },
+ {
+  "n": 9,
+  "tiles": "C_N_D_",
+  "answer": "CANADÁ",
+  "foto": "Moraine Lake Banff",
+  "q": "Número nove. Que país é esse?",
+  "a": "Canadá! Fácil até aqui?"
+ },
+ {
+  "n": 10,
+  "type": "bandeira",
+  "titulo": "QUAL A BANDEIRA CORRETA DO JAPÃO?",
+  "flags": [
+   "jp_azul",
+   "jp",
+   "jp_amarelo"
+  ],
+  "correct": 1,
+  "q": "Pergunta bônus! Qual é a bandeira correta do Japão: a um, a dois ou a três?",
+  "a": "A certa é a número dois: círculo vermelho no fundo branco!"
+ },
+ {
+  "n": 11,
+  "tiles": "P_RT_G_L",
+  "answer": "PORTUGAL",
+  "foto": "Belem Tower Lisbon",
+  "q": "Número onze. Agora começa a ficar mais difícil.",
+  "a": "Portugal! Acertou?"
+ },
+ {
+  "n": 12,
+  "tiles": "R_SS__",
+  "answer": "RÚSSIA",
+  "foto": "Saint Basil's Cathedral Red Square exterior",
+  "q": "Número doze. Que país é esse?",
+  "a": "Rússia!"
+ },
+ {
+  "n": 13,
+  "tiles": "GR_C__",
+  "answer": "GRÉCIA",
+  "foto": "Oia Santorini",
+  "q": "Número treze. Olha bem as letras…",
+  "a": "É a Grécia!"
+ },
+ {
+  "n": 14,
+  "tiles": "_G_T_",
+  "answer": "EGITO",
+  "foto": "Giza pyramids",
+  "q": "Número catorze. Só sobraram duas consoantes!",
+  "a": "Egito! Ponto pra quem acertou."
+ },
+ {
+  "n": 15,
+  "tiles": "S__Ç_",
+  "answer": "SUÍÇA",
+  "foto": "Matterhorn Zermatt",
+  "q": "Número quinze. Repara no cedilha de novo…",
+  "a": "Suíça!"
+ },
+ {
+  "n": 16,
+  "tiles": "H_L_ND_",
+  "answer": "HOLANDA",
+  "foto": "Kinderdijk windmills",
+  "q": "Número dezesseis. Descobre esse?",
+  "a": "É a Holanda!"
+ },
+ {
+  "n": 17,
+  "tiles": "M_RR_C_S",
+  "answer": "MARROCOS",
+  "foto": "Chefchaouen blue city",
+  "q": "Número dezessete. Que país se esconde aqui?",
+  "a": "Marrocos!"
+ },
+ {
+  "n": 18,
+  "tiles": "C_L_MB__",
+  "answer": "COLÔMBIA",
+  "foto": "Cartagena Colombia colonial street",
+  "q": "Número dezoito. Esse é nosso vizinho!",
+  "a": "Colômbia!",
+  "skip": [
+   "fruit",
+   "palm",
+   "beach"
+  ]
+ },
+ {
+  "n": 19,
+  "tiles": "V_N_Z__L_",
+  "answer": "VENEZUELA",
+  "foto": "Angel Falls Venezuela",
+  "q": "Número dezenove. Esse nome é mais comprido…",
+  "a": "Venezuela! Acertou?"
+ },
+ {
+  "n": 20,
+  "type": "cores",
+  "titulo": "QUAIS AS CORES DA ALEMANHA?",
+  "flag": "de",
+  "options": [
+   [
+    "#000000",
+    "#DD0000",
+    "#FFCE00"
+   ],
+   [
+    "#000000",
+    "#FFFFFF",
+    "#DD0000"
+   ],
+   [
+    "#0055A4",
+    "#DD0000",
+    "#FFCE00"
+   ]
+  ],
+  "correct": 0,
+  "q": "Pergunta bônus! Quais são as cores da bandeira da Alemanha? A: preto, vermelho e amarelo. B: preto, branco e vermelho. Ou C: azul, vermelho e amarelo?",
+  "a": "É a letra A: preto, vermelho e amarelo!"
+ },
+ {
+  "n": 21,
+  "tiles": "_L_M_NH_",
+  "answer": "ALEMANHA",
+  "foto": "Brandenburg Gate",
+  "q": "Número vinte e um. E falando em Alemanha… que país é esse?",
+  "a": "Alemanha! Ficou fácil depois da dica, né?",
+  "skip": [
+   "Quadriga",
+   "night",
+   "nacht"
+  ]
+ },
+ {
+  "n": 22,
+  "tiles": "_NGL_T_RR_",
+  "answer": "INGLATERRA",
+  "foto": "Big Ben Westminster",
+  "q": "Número vinte e dois. Esse tem bastante letra!",
+  "a": "Inglaterra!"
+ },
+ {
+  "n": 23,
+  "tiles": "_SP_NH_",
+  "answer": "ESPANHA",
+  "foto": "Plaza de España Sevilla",
+  "q": "Número vinte e três. Que país é esse sem as vogais?",
+  "a": "Espanha!",
+  "skip": [
+   "night",
+   "detail",
+   "tile",
+   "azulejo",
+   "bench",
+   "interior"
+  ]
+ },
+ {
+  "n": 24,
+  "tiles": "N_R__G_",
+  "answer": "NORUEGA",
+  "foto": "Geirangerfjord",
+  "q": "Número vinte e quatro. Esse é bem gelado…",
+  "a": "Noruega! Ponto pra você."
+ },
+ {
+  "n": 25,
+  "tiles": "S__C__",
+  "answer": "SUÉCIA",
+  "foto": "Stockholm Gamla stan",
+  "q": "Número vinte e cinco. Mais um país nórdico!",
+  "a": "É a Suécia!"
+ },
+ {
+  "n": 26,
+  "tiles": "P_L_N__",
+  "answer": "POLÔNIA",
+  "foto": "Krakow Cloth Hall Main Square",
+  "q": "Número vinte e seis. Descobre esse?",
+  "a": "Polônia!"
+ },
+ {
+  "n": 27,
+  "tiles": "T_RQ___",
+  "answer": "TURQUIA",
+  "foto": "Cappadocia hot air balloons sunrise Goreme",
+  "q": "Número vinte e sete. Repara no Q…",
+  "a": "Turquia!"
+ },
+ {
+  "n": 28,
+  "tiles": "_RG_NT_N_",
+  "answer": "ARGENTINA",
+  "foto": "Obelisco Buenos Aires Avenida 9 de Julio",
+  "q": "Número vinte e oito. Esse é rival no futebol!",
+  "a": "Argentina!"
+ },
+ {
+  "n": 29,
+  "tiles": "_R_G___",
+  "answer": "URUGUAI",
+  "foto": "Montevideo Palacio Salvo Plaza Independencia",
+  "q": "Número vinte e nove. Esse é difícil: quase só vogais!",
+  "a": "Uruguai! Quem acertou esse é bom mesmo."
+ },
+ {
+  "n": 30,
+  "type": "opcoes",
+  "titulo": "QUAL A CAPITAL DA AUSTRÁLIA?",
+  "options": [
+   "SYDNEY",
+   "CANBERRA",
+   "MELBOURNE"
+  ],
+  "correct": 1,
+  "q": "Pergunta bônus! Qual é a capital da Austrália: Sydney, Canberra ou Melbourne?",
+  "a": "É Canberra! Muita gente erra essa."
+ },
+ {
+  "n": 31,
+  "tiles": "__STR_L__",
+  "answer": "AUSTRÁLIA",
+  "foto": "Sydney Opera House",
+  "q": "Número trinta e um. E por falar em Austrália…",
+  "a": "Austrália! Essa a dica entregou."
+ },
+ {
+  "n": 32,
+  "tiles": "T__L_ND__",
+  "answer": "TAILÂNDIA",
+  "foto": "Wat Arun Bangkok",
+  "q": "Número trinta e dois. Agora vêm os difíceis!",
+  "a": "Tailândia!"
+ },
+ {
+  "n": 33,
+  "tiles": "F_L_P_N_S",
+  "answer": "FILIPINAS",
+  "foto": "El Nido Palawan",
+  "q": "Número trinta e três. Que país é esse?",
+  "a": "Filipinas!"
+ },
+ {
+  "n": 34,
+  "tiles": "N_G_R__",
+  "answer": "NIGÉRIA",
+  "foto": "Zuma Rock Nigeria",
+  "q": "Número trinta e quatro. Esse fica na África…",
+  "a": "Nigéria!"
+ },
+ {
+  "n": 35,
+  "tiles": "_SL_ND__",
+  "answer": "ISLÂNDIA",
+  "foto": "Skogafoss",
+  "q": "Número trinta e cinco. Terra do gelo e dos vulcões!",
+  "a": "Islândia!"
+ },
+ {
+  "n": 36,
+  "tiles": "M_NG_L__",
+  "answer": "MONGÓLIA",
+  "foto": "Mongolia yurt steppe",
+  "q": "Número trinta e seis. Descobre esse?",
+  "a": "Mongólia! Acertou?"
+ },
+ {
+  "n": 37,
+  "tiles": "B_NGL_D_SH",
+  "answer": "BANGLADESH",
+  "foto": "Sixty Dome Mosque Bagerhat",
+  "q": "Número trinta e sete. Esse tem muita consoante…",
+  "a": "Bangladesh!"
+ },
+ {
+  "n": 38,
+  "tiles": "_Z_RB__J__",
+  "answer": "AZERBAIJÃO",
+  "foto": "Baku Flame Towers",
+  "q": "Número trinta e oito. Esse é bem difícil!",
+  "a": "Azerbaijão! Se acertou, parabéns!"
+ },
+ {
+  "n": 39,
+  "tiles": "M_D_G_SC_R",
+  "answer": "MADAGASCAR",
+  "foto": "Avenue of the Baobabs",
+  "q": "Número trinta e nove. Uma ilha enorme…",
+  "a": "Madagascar!"
+ },
+ {
+  "n": 40,
+  "type": "bandeira",
+  "titulo": "QUAL A BANDEIRA CORRETA DO CANADÁ?",
+  "flags": [
+   "ca_verde",
+   "ca_azul",
+   "ca"
+  ],
+  "correct": 2,
+  "q": "Pergunta bônus! Qual é a bandeira correta do Canadá: a um, a dois ou a três?",
+  "a": "É a número três, com a folha vermelha!"
+ },
+ {
+  "n": 41,
+  "tiles": "C_Z_Q__ST__",
+  "answer": "CAZAQUISTÃO",
+  "foto": "Bayterek Astana",
+  "q": "Desafio final! Número quarenta e um.",
+  "a": "Cazaquistão! Esse era difícil.",
+  "skip": [
+   "metro",
+   "station",
+   "car",
+   "street"
+  ]
+ },
+ {
+  "n": 42,
+  "tiles": "_ND_N_S__",
+  "answer": "INDONÉSIA",
+  "foto": "Tegallalang rice terraces Bali",
+  "q": "Número quarenta e dois. Que país se esconde aqui?",
+  "a": "Indonésia!"
+ },
+ {
+  "n": 43,
+  "tiles": "_FR_C_/D_/S_L",
+  "answer": "ÁFRICA DO SUL",
+  "foto": "Cape Town Table Mountain city view",
+  "q": "Número quarenta e três. Agora são três palavras!",
+  "a": "África do Sul!",
+  "skip": [
+   "century",
+   "painting",
+   "drawing",
+   "map",
+   "sketch",
+   "2825"
+  ]
+ },
+ {
+  "n": 44,
+  "tiles": "N_V_/Z_L_ND__",
+  "answer": "NOVA ZELÂNDIA",
+  "foto": "Lake Wanaka New Zealand",
+  "q": "Número quarenta e quatro, o último! Duas palavras…",
+  "a": "Nova Zelândia!"
+ }
+]

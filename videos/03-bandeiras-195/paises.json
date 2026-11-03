@@ -1,0 +1,1172 @@
+[
+ {
+  "n": 1,
+  "nivel": "FÁCIL",
+  "code": "br",
+  "nome": "Brasil"
+ },
+ {
+  "n": 2,
+  "nivel": "FÁCIL",
+  "code": "ar",
+  "nome": "Argentina"
+ },
+ {
+  "n": 3,
+  "nivel": "FÁCIL",
+  "code": "us",
+  "nome": "Estados Unidos"
+ },
+ {
+  "n": 4,
+  "nivel": "FÁCIL",
+  "code": "fr",
+  "nome": "França"
+ },
+ {
+  "n": 5,
+  "nivel": "FÁCIL",
+  "code": "it",
+  "nome": "Itália"
+ },
+ {
+  "n": 6,
+  "nivel": "FÁCIL",
+  "code": "de",
+  "nome": "Alemanha"
+ },
+ {
+  "n": 7,
+  "nivel": "FÁCIL",
+  "code": "pt",
+  "nome": "Portugal"
+ },
+ {
+  "n": 8,
+  "nivel": "FÁCIL",
+  "code": "es",
+  "nome": "Espanha"
+ },
+ {
+  "n": 9,
+  "nivel": "FÁCIL",
+  "code": "gb",
+  "nome": "Reino Unido"
+ },
+ {
+  "n": 10,
+  "nivel": "FÁCIL",
+  "code": "jp",
+  "nome": "Japão"
+ },
+ {
+  "n": 11,
+  "nivel": "FÁCIL",
+  "code": "ca",
+  "nome": "Canadá"
+ },
+ {
+  "n": 12,
+  "nivel": "FÁCIL",
+  "code": "mx",
+  "nome": "México"
+ },
+ {
+  "n": 13,
+  "nivel": "FÁCIL",
+  "code": "cn",
+  "nome": "China"
+ },
+ {
+  "n": 14,
+  "nivel": "FÁCIL",
+  "code": "au",
+  "nome": "Austrália"
+ },
+ {
+  "n": 15,
+  "nivel": "FÁCIL",
+  "code": "ru",
+  "nome": "Rússia"
+ },
+ {
+  "n": 16,
+  "nivel": "FÁCIL",
+  "code": "kr",
+  "nome": "Coreia do Sul"
+ },
+ {
+  "n": 17,
+  "nivel": "FÁCIL",
+  "code": "in",
+  "nome": "Índia"
+ },
+ {
+  "n": 18,
+  "nivel": "FÁCIL",
+  "code": "za",
+  "nome": "África do Sul"
+ },
+ {
+  "n": 19,
+  "nivel": "FÁCIL",
+  "code": "ch",
+  "nome": "Suíça"
+ },
+ {
+  "n": 20,
+  "nivel": "FÁCIL",
+  "code": "nl",
+  "nome": "Países Baixos"
+ },
+ {
+  "n": 21,
+  "nivel": "FÁCIL",
+  "code": "gr",
+  "nome": "Grécia"
+ },
+ {
+  "n": 22,
+  "nivel": "FÁCIL",
+  "code": "se",
+  "nome": "Suécia"
+ },
+ {
+  "n": 23,
+  "nivel": "FÁCIL",
+  "code": "no",
+  "nome": "Noruega"
+ },
+ {
+  "n": 24,
+  "nivel": "FÁCIL",
+  "code": "dk",
+  "nome": "Dinamarca"
+ },
+ {
+  "n": 25,
+  "nivel": "FÁCIL",
+  "code": "fi",
+  "nome": "Finlândia"
+ },
+ {
+  "n": 26,
+  "nivel": "FÁCIL",
+  "code": "ie",
+  "nome": "Irlanda"
+ },
+ {
+  "n": 27,
+  "nivel": "FÁCIL",
+  "code": "be",
+  "nome": "Bélgica"
+ },
+ {
+  "n": 28,
+  "nivel": "FÁCIL",
+  "code": "at",
+  "nome": "Áustria"
+ },
+ {
+  "n": 29,
+  "nivel": "FÁCIL",
+  "code": "tr",
+  "nome": "Turquia"
+ },
+ {
+  "n": 30,
+  "nivel": "FÁCIL",
+  "code": "sa",
+  "nome": "Arábia Saudita"
+ },
+ {
+  "n": 31,
+  "nivel": "FÁCIL",
+  "code": "eg",
+  "nome": "Egito"
+ },
+ {
+  "n": 32,
+  "nivel": "FÁCIL",
+  "code": "ma",
+  "nome": "Marrocos"
+ },
+ {
+  "n": 33,
+  "nivel": "FÁCIL",
+  "code": "ng",
+  "nome": "Nigéria"
+ },
+ {
+  "n": 34,
+  "nivel": "FÁCIL",
+  "code": "uy",
+  "nome": "Uruguai"
+ },
+ {
+  "n": 35,
+  "nivel": "FÁCIL",
+  "code": "cl",
+  "nome": "Chile"
+ },
+ {
+  "n": 36,
+  "nivel": "FÁCIL",
+  "code": "co",
+  "nome": "Colômbia"
+ },
+ {
+  "n": 37,
+  "nivel": "FÁCIL",
+  "code": "pe",
+  "nome": "Peru"
+ },
+ {
+  "n": 38,
+  "nivel": "FÁCIL",
+  "code": "py",
+  "nome": "Paraguai"
+ },
+ {
+  "n": 39,
+  "nivel": "FÁCIL",
+  "code": "bo",
+  "nome": "Bolívia"
+ },
+ {
+  "n": 40,
+  "nivel": "FÁCIL",
+  "code": "ec",
+  "nome": "Equador"
+ },
+ {
+  "n": 41,
+  "nivel": "FÁCIL",
+  "code": "ve",
+  "nome": "Venezuela"
+ },
+ {
+  "n": 42,
+  "nivel": "FÁCIL",
+  "code": "cu",
+  "nome": "Cuba"
+ },
+ {
+  "n": 43,
+  "nivel": "FÁCIL",
+  "code": "jm",
+  "nome": "Jamaica"
+ },
+ {
+  "n": 44,
+  "nivel": "FÁCIL",
+  "code": "pa",
+  "nome": "Panamá"
+ },
+ {
+  "n": 45,
+  "nivel": "FÁCIL",
+  "code": "cr",
+  "nome": "Costa Rica"
+ },
+ {
+  "n": 46,
+  "nivel": "FÁCIL",
+  "code": "nz",
+  "nome": "Nova Zelândia"
+ },
+ {
+  "n": 47,
+  "nivel": "FÁCIL",
+  "code": "is",
+  "nome": "Islândia"
+ },
+ {
+  "n": 48,
+  "nivel": "FÁCIL",
+  "code": "pl",
+  "nome": "Polônia"
+ },
+ {
+  "n": 49,
+  "nivel": "FÁCIL",
+  "code": "ua",
+  "nome": "Ucrânia"
+ },
+ {
+  "n": 50,
+  "nivel": "FÁCIL",
+  "code": "hr",
+  "nome": "Croácia"
+ },
+ {
+  "n": 51,
+  "nivel": "FÁCIL",
+  "code": "th",
+  "nome": "Tailândia"
+ },
+ {
+  "n": 52,
+  "nivel": "FÁCIL",
+  "code": "vn",
+  "nome": "Vietnã"
+ },
+ {
+  "n": 53,
+  "nivel": "FÁCIL",
+  "code": "id",
+  "nome": "Indonésia"
+ },
+ {
+  "n": 54,
+  "nivel": "FÁCIL",
+  "code": "ph",
+  "nome": "Filipinas"
+ },
+ {
+  "n": 55,
+  "nivel": "FÁCIL",
+  "code": "sg",
+  "nome": "Singapura"
+ },
+ {
+  "n": 56,
+  "nivel": "FÁCIL",
+  "code": "il",
+  "nome": "Israel"
+ },
+ {
+  "n": 57,
+  "nivel": "FÁCIL",
+  "code": "ps",
+  "nome": "Palestina"
+ },
+ {
+  "n": 58,
+  "nivel": "FÁCIL",
+  "code": "va",
+  "nome": "Vaticano"
+ },
+ {
+  "n": 59,
+  "nivel": "FÁCIL",
+  "code": "qa",
+  "nome": "Catar"
+ },
+ {
+  "n": 60,
+  "nivel": "FÁCIL",
+  "code": "ae",
+  "nome": "Emirados Árabes Unidos"
+ },
+ {
+  "n": 61,
+  "nivel": "FÁCIL",
+  "code": "ke",
+  "nome": "Quênia"
+ },
+ {
+  "n": 62,
+  "nivel": "FÁCIL",
+  "code": "np",
+  "nome": "Nepal"
+ },
+ {
+  "n": 63,
+  "nivel": "FÁCIL",
+  "code": "gh",
+  "nome": "Gana"
+ },
+ {
+  "n": 64,
+  "nivel": "FÁCIL",
+  "code": "cm",
+  "nome": "Camarões"
+ },
+ {
+  "n": 65,
+  "nivel": "FÁCIL",
+  "code": "sn",
+  "nome": "Senegal"
+ },
+ {
+  "n": 66,
+  "nivel": "MÉDIO",
+  "code": "ao",
+  "nome": "Angola"
+ },
+ {
+  "n": 67,
+  "nivel": "MÉDIO",
+  "code": "ro",
+  "nome": "Romênia"
+ },
+ {
+  "n": 68,
+  "nivel": "MÉDIO",
+  "code": "cd",
+  "nome": "República Democrática do Congo"
+ },
+ {
+  "n": 69,
+  "nivel": "MÉDIO",
+  "code": "hu",
+  "nome": "Hungria"
+ },
+ {
+  "n": 70,
+  "nivel": "MÉDIO",
+  "code": "rs",
+  "nome": "Sérvia"
+ },
+ {
+  "n": 71,
+  "nivel": "MÉDIO",
+  "code": "sk",
+  "nome": "Eslováquia"
+ },
+ {
+  "n": 72,
+  "nivel": "MÉDIO",
+  "code": "si",
+  "nome": "Eslovênia"
+ },
+ {
+  "n": 73,
+  "nivel": "MÉDIO",
+  "code": "bg",
+  "nome": "Bulgária"
+ },
+ {
+  "n": 74,
+  "nivel": "MÉDIO",
+  "code": "cz",
+  "nome": "República Tcheca"
+ },
+ {
+  "n": 75,
+  "nivel": "MÉDIO",
+  "code": "kz",
+  "nome": "Cazaquistão"
+ },
+ {
+  "n": 76,
+  "nivel": "MÉDIO",
+  "code": "uz",
+  "nome": "Uzbequistão"
+ },
+ {
+  "n": 77,
+  "nivel": "MÉDIO",
+  "code": "pk",
+  "nome": "Paquistão"
+ },
+ {
+  "n": 78,
+  "nivel": "MÉDIO",
+  "code": "ir",
+  "nome": "Irã"
+ },
+ {
+  "n": 79,
+  "nivel": "MÉDIO",
+  "code": "iq",
+  "nome": "Iraque"
+ },
+ {
+  "n": 80,
+  "nivel": "MÉDIO",
+  "code": "sy",
+  "nome": "Síria"
+ },
+ {
+  "n": 81,
+  "nivel": "MÉDIO",
+  "code": "jo",
+  "nome": "Jordânia"
+ },
+ {
+  "n": 82,
+  "nivel": "MÉDIO",
+  "code": "lb",
+  "nome": "Líbano"
+ },
+ {
+  "n": 83,
+  "nivel": "MÉDIO",
+  "code": "dz",
+  "nome": "Argélia"
+ },
+ {
+  "n": 84,
+  "nivel": "MÉDIO",
+  "code": "tn",
+  "nome": "Tunísia"
+ },
+ {
+  "n": 85,
+  "nivel": "MÉDIO",
+  "code": "ly",
+  "nome": "Líbia"
+ },
+ {
+  "n": 86,
+  "nivel": "MÉDIO",
+  "code": "sd",
+  "nome": "Sudão"
+ },
+ {
+  "n": 87,
+  "nivel": "MÉDIO",
+  "code": "ci",
+  "nome": "Costa do Marfim"
+ },
+ {
+  "n": 88,
+  "nivel": "MÉDIO",
+  "code": "et",
+  "nome": "Etiópia"
+ },
+ {
+  "n": 89,
+  "nivel": "MÉDIO",
+  "code": "tz",
+  "nome": "Tanzânia"
+ },
+ {
+  "n": 90,
+  "nivel": "MÉDIO",
+  "code": "ug",
+  "nome": "Uganda"
+ },
+ {
+  "n": 91,
+  "nivel": "MÉDIO",
+  "code": "zm",
+  "nome": "Zâmbia"
+ },
+ {
+  "n": 92,
+  "nivel": "MÉDIO",
+  "code": "zw",
+  "nome": "Zimbábue"
+ },
+ {
+  "n": 93,
+  "nivel": "MÉDIO",
+  "code": "bd",
+  "nome": "Bangladesh"
+ },
+ {
+  "n": 94,
+  "nivel": "MÉDIO",
+  "code": "lk",
+  "nome": "Sri Lanka"
+ },
+ {
+  "n": 95,
+  "nivel": "MÉDIO",
+  "code": "mm",
+  "nome": "Mianmar"
+ },
+ {
+  "n": 96,
+  "nivel": "MÉDIO",
+  "code": "kp",
+  "nome": "Coreia do Norte"
+ },
+ {
+  "n": 97,
+  "nivel": "MÉDIO",
+  "code": "mn",
+  "nome": "Mongólia"
+ },
+ {
+  "n": 98,
+  "nivel": "MÉDIO",
+  "code": "ge",
+  "nome": "Geórgia"
+ },
+ {
+  "n": 99,
+  "nivel": "MÉDIO",
+  "code": "am",
+  "nome": "Armênia"
+ },
+ {
+  "n": 100,
+  "nivel": "MÉDIO",
+  "code": "az",
+  "nome": "Azerbaijão"
+ },
+ {
+  "n": 101,
+  "nivel": "MÉDIO",
+  "code": "cy",
+  "nome": "Chipre"
+ },
+ {
+  "n": 102,
+  "nivel": "MÉDIO",
+  "code": "lu",
+  "nome": "Luxemburgo"
+ },
+ {
+  "n": 103,
+  "nivel": "MÉDIO",
+  "code": "mt",
+  "nome": "Malta"
+ },
+ {
+  "n": 104,
+  "nivel": "MÉDIO",
+  "code": "by",
+  "nome": "Belarus"
+ },
+ {
+  "n": 105,
+  "nivel": "MÉDIO",
+  "code": "lt",
+  "nome": "Lituânia"
+ },
+ {
+  "n": 106,
+  "nivel": "MÉDIO",
+  "code": "lv",
+  "nome": "Letônia"
+ },
+ {
+  "n": 107,
+  "nivel": "MÉDIO",
+  "code": "ee",
+  "nome": "Estônia"
+ },
+ {
+  "n": 108,
+  "nivel": "MÉDIO",
+  "code": "md",
+  "nome": "Moldávia"
+ },
+ {
+  "n": 109,
+  "nivel": "MÉDIO",
+  "code": "al",
+  "nome": "Albânia"
+ },
+ {
+  "n": 110,
+  "nivel": "MÉDIO",
+  "code": "gt",
+  "nome": "Guatemala"
+ },
+ {
+  "n": 111,
+  "nivel": "MÉDIO",
+  "code": "hn",
+  "nome": "Honduras"
+ },
+ {
+  "n": 112,
+  "nivel": "MÉDIO",
+  "code": "sv",
+  "nome": "El Salvador"
+ },
+ {
+  "n": 113,
+  "nivel": "MÉDIO",
+  "code": "ni",
+  "nome": "Nicarágua"
+ },
+ {
+  "n": 114,
+  "nivel": "MÉDIO",
+  "code": "do",
+  "nome": "República Dominicana"
+ },
+ {
+  "n": 115,
+  "nivel": "MÉDIO",
+  "code": "ht",
+  "nome": "Haiti"
+ },
+ {
+  "n": 116,
+  "nivel": "MÉDIO",
+  "code": "bh",
+  "nome": "Bahrein"
+ },
+ {
+  "n": 117,
+  "nivel": "MÉDIO",
+  "code": "om",
+  "nome": "Omã"
+ },
+ {
+  "n": 118,
+  "nivel": "MÉDIO",
+  "code": "kw",
+  "nome": "Kuwait"
+ },
+ {
+  "n": 119,
+  "nivel": "MÉDIO",
+  "code": "mg",
+  "nome": "Madagascar"
+ },
+ {
+  "n": 120,
+  "nivel": "MÉDIO",
+  "code": "mu",
+  "nome": "Maurício"
+ },
+ {
+  "n": 121,
+  "nivel": "MÉDIO",
+  "code": "mz",
+  "nome": "Moçambique"
+ },
+ {
+  "n": 122,
+  "nivel": "MÉDIO",
+  "code": "kh",
+  "nome": "Camboja"
+ },
+ {
+  "n": 123,
+  "nivel": "MÉDIO",
+  "code": "la",
+  "nome": "Laos"
+ },
+ {
+  "n": 124,
+  "nivel": "MÉDIO",
+  "code": "bn",
+  "nome": "Brunei"
+ },
+ {
+  "n": 125,
+  "nivel": "MÉDIO",
+  "code": "fj",
+  "nome": "Fiji"
+ },
+ {
+  "n": 126,
+  "nivel": "MÉDIO",
+  "code": "tt",
+  "nome": "Trinidad e Tobago"
+ },
+ {
+  "n": 127,
+  "nivel": "MÉDIO",
+  "code": "so",
+  "nome": "Somália"
+ },
+ {
+  "n": 128,
+  "nivel": "MÉDIO",
+  "code": "my",
+  "nome": "Malásia"
+ },
+ {
+  "n": 129,
+  "nivel": "MÉDIO",
+  "code": "mc",
+  "nome": "Mônaco"
+ },
+ {
+  "n": 130,
+  "nivel": "MÉDIO",
+  "code": "ba",
+  "nome": "Bósnia e Herzegovina"
+ },
+ {
+  "n": 131,
+  "nivel": "DIFÍCIL",
+  "code": "sz",
+  "nome": "Essuatíni"
+ },
+ {
+  "n": 132,
+  "nivel": "DIFÍCIL",
+  "code": "mh",
+  "nome": "Ilhas Marshall"
+ },
+ {
+  "n": 133,
+  "nivel": "DIFÍCIL",
+  "code": "sc",
+  "nome": "Seicheles"
+ },
+ {
+  "n": 134,
+  "nivel": "DIFÍCIL",
+  "code": "sb",
+  "nome": "Ilhas Salomão"
+ },
+ {
+  "n": 135,
+  "nivel": "DIFÍCIL",
+  "code": "pg",
+  "nome": "Papua-Nova Guiné"
+ },
+ {
+  "n": 136,
+  "nivel": "DIFÍCIL",
+  "code": "mv",
+  "nome": "Maldivas"
+ },
+ {
+  "n": 137,
+  "nivel": "DIFÍCIL",
+  "code": "bw",
+  "nome": "Botsuana"
+ },
+ {
+  "n": 138,
+  "nivel": "DIFÍCIL",
+  "code": "kn",
+  "nome": "São Cristóvão e Névis"
+ },
+ {
+  "n": 139,
+  "nivel": "DIFÍCIL",
+  "code": "sm",
+  "nome": "San Marino"
+ },
+ {
+  "n": 140,
+  "nivel": "DIFÍCIL",
+  "code": "pw",
+  "nome": "Palau"
+ },
+ {
+  "n": 141,
+  "nivel": "DIFÍCIL",
+  "code": "bz",
+  "nome": "Belize"
+ },
+ {
+  "n": 142,
+  "nivel": "DIFÍCIL",
+  "code": "nr",
+  "nome": "Nauru"
+ },
+ {
+  "n": 143,
+  "nivel": "DIFÍCIL",
+  "code": "ga",
+  "nome": "Gabão"
+ },
+ {
+  "n": 144,
+  "nivel": "DIFÍCIL",
+  "code": "cf",
+  "nome": "República Centro-Africana"
+ },
+ {
+  "n": 145,
+  "nivel": "DIFÍCIL",
+  "code": "gn",
+  "nome": "Guiné"
+ },
+ {
+  "n": 146,
+  "nivel": "DIFÍCIL",
+  "code": "bs",
+  "nome": "Bahamas"
+ },
+ {
+  "n": 147,
+  "nivel": "DIFÍCIL",
+  "code": "gy",
+  "nome": "Guiana"
+ },
+ {
+  "n": 148,
+  "nivel": "DIFÍCIL",
+  "code": "tm",
+  "nome": "Turcomenistão"
+ },
+ {
+  "n": 149,
+  "nivel": "DIFÍCIL",
+  "code": "tv",
+  "nome": "Tuvalu"
+ },
+ {
+  "n": 150,
+  "nivel": "DIFÍCIL",
+  "code": "ag",
+  "nome": "Antígua e Barbuda"
+ },
+ {
+  "n": 151,
+  "nivel": "DIFÍCIL",
+  "code": "ml",
+  "nome": "Mali"
+ },
+ {
+  "n": 152,
+  "nivel": "DIFÍCIL",
+  "code": "ls",
+  "nome": "Lesoto"
+ },
+ {
+  "n": 153,
+  "nivel": "DIFÍCIL",
+  "code": "mr",
+  "nome": "Mauritânia"
+ },
+ {
+  "n": 154,
+  "nivel": "DIFÍCIL",
+  "code": "lc",
+  "nome": "Santa Lúcia"
+ },
+ {
+  "n": 155,
+  "nivel": "DIFÍCIL",
+  "code": "gq",
+  "nome": "Guiné Equatorial"
+ },
+ {
+  "n": 156,
+  "nivel": "DIFÍCIL",
+  "code": "af",
+  "nome": "Afeganistão"
+ },
+ {
+  "n": 157,
+  "nivel": "DIFÍCIL",
+  "code": "me",
+  "nome": "Montenegro"
+ },
+ {
+  "n": 158,
+  "nivel": "DIFÍCIL",
+  "code": "ss",
+  "nome": "Sudão do Sul"
+ },
+ {
+  "n": 159,
+  "nivel": "DIFÍCIL",
+  "code": "lr",
+  "nome": "Libéria"
+ },
+ {
+  "n": 160,
+  "nivel": "DIFÍCIL",
+  "code": "gd",
+  "nome": "Granada"
+ },
+ {
+  "n": 161,
+  "nivel": "DIFÍCIL",
+  "code": "sl",
+  "nome": "Serra Leoa"
+ },
+ {
+  "n": 162,
+  "nivel": "DIFÍCIL",
+  "code": "tj",
+  "nome": "Tajiquistão"
+ },
+ {
+  "n": 163,
+  "nivel": "DIFÍCIL",
+  "code": "er",
+  "nome": "Eritreia"
+ },
+ {
+  "n": 164,
+  "nivel": "DIFÍCIL",
+  "code": "mk",
+  "nome": "Macedônia do Norte"
+ },
+ {
+  "n": 165,
+  "nivel": "DIFÍCIL",
+  "code": "li",
+  "nome": "Liechtenstein"
+ },
+ {
+  "n": 166,
+  "nivel": "DIFÍCIL",
+  "code": "tl",
+  "nome": "Timor-Leste"
+ },
+ {
+  "n": 167,
+  "nivel": "DIFÍCIL",
+  "code": "rw",
+  "nome": "Ruanda"
+ },
+ {
+  "n": 168,
+  "nivel": "DIFÍCIL",
+  "code": "gm",
+  "nome": "Gâmbia"
+ },
+ {
+  "n": 169,
+  "nivel": "DIFÍCIL",
+  "code": "ne",
+  "nome": "Níger"
+ },
+ {
+  "n": 170,
+  "nivel": "DIFÍCIL",
+  "code": "bj",
+  "nome": "Benin"
+ },
+ {
+  "n": 171,
+  "nivel": "DIFÍCIL",
+  "code": "bb",
+  "nome": "Barbados"
+ },
+ {
+  "n": 172,
+  "nivel": "DIFÍCIL",
+  "code": "dj",
+  "nome": "Djibuti"
+ },
+ {
+  "n": 173,
+  "nivel": "DIFÍCIL",
+  "code": "vc",
+  "nome": "São Vicente e Granadinas"
+ },
+ {
+  "n": 174,
+  "nivel": "DIFÍCIL",
+  "code": "ad",
+  "nome": "Andorra"
+ },
+ {
+  "n": 175,
+  "nivel": "DIFÍCIL",
+  "code": "tg",
+  "nome": "Togo"
+ },
+ {
+  "n": 176,
+  "nivel": "DIFÍCIL",
+  "code": "td",
+  "nome": "Chade"
+ },
+ {
+  "n": 177,
+  "nivel": "DIFÍCIL",
+  "code": "to",
+  "nome": "Tonga"
+ },
+ {
+  "n": 178,
+  "nivel": "DIFÍCIL",
+  "code": "sr",
+  "nome": "Suriname"
+ },
+ {
+  "n": 179,
+  "nivel": "DIFÍCIL",
+  "code": "bt",
+  "nome": "Butão"
+ },
+ {
+  "n": 180,
+  "nivel": "DIFÍCIL",
+  "code": "gw",
+  "nome": "Guiné-Bissau"
+ },
+ {
+  "n": 181,
+  "nivel": "DIFÍCIL",
+  "code": "bi",
+  "nome": "Burundi"
+ },
+ {
+  "n": 182,
+  "nivel": "DIFÍCIL",
+  "code": "st",
+  "nome": "São Tomé e Príncipe"
+ },
+ {
+  "n": 183,
+  "nivel": "DIFÍCIL",
+  "code": "km",
+  "nome": "Comores"
+ },
+ {
+  "n": 184,
+  "nivel": "DIFÍCIL",
+  "code": "ye",
+  "nome": "Iêmen"
+ },
+ {
+  "n": 185,
+  "nivel": "DIFÍCIL",
+  "code": "ws",
+  "nome": "Samoa"
+ },
+ {
+  "n": 186,
+  "nivel": "DIFÍCIL",
+  "code": "ki",
+  "nome": "Kiribati"
+ },
+ {
+  "n": 187,
+  "nivel": "DIFÍCIL",
+  "code": "na",
+  "nome": "Namíbia"
+ },
+ {
+  "n": 188,
+  "nivel": "DIFÍCIL",
+  "code": "bf",
+  "nome": "Burkina Faso"
+ },
+ {
+  "n": 189,
+  "nivel": "DIFÍCIL",
+  "code": "vu",
+  "nome": "Vanuatu"
+ },
+ {
+  "n": 190,
+  "nivel": "DIFÍCIL",
+  "code": "cv",
+  "nome": "Cabo Verde"
+ },
+ {
+  "n": 191,
+  "nivel": "DIFÍCIL",
+  "code": "kg",
+  "nome": "Quirguistão"
+ },
+ {
+  "n": 192,
+  "nivel": "DIFÍCIL",
+  "code": "fm",
+  "nome": "Micronésia"
+ },
+ {
+  "n": 193,
+  "nivel": "DIFÍCIL",
+  "code": "mw",
+  "nome": "Malawi"
+ },
+ {
+  "n": 194,
+  "nivel": "DIFÍCIL",
+  "code": "dm",
+  "nome": "Dominica"
+ },
+ {
+  "n": 195,
+  "nivel": "DIFÍCIL",
+  "code": "cg",
+  "nome": "Congo"
+ }
+]

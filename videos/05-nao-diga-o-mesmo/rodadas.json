@@ -1,0 +1,329 @@
+[
+ {
+  "pedido": "DIGA UMA FRUTA",
+  "emoji": "🍎",
+  "resposta": "BANANA",
+  "er": "🍌",
+  "fala": "banana",
+  "n": 1
+ },
+ {
+  "pedido": "DIGA UMA COR",
+  "emoji": "🎨",
+  "resposta": "AZUL",
+  "er": "🔵",
+  "fala": "azul",
+  "n": 2
+ },
+ {
+  "pedido": "DIGA UM NÚMERO DE 1 A 10",
+  "emoji": "🔢",
+  "resposta": "7",
+  "er": "",
+  "fala": "sete",
+  "falap": "Diga um número de um a dez!",
+  "n": 3
+ },
+ {
+  "pedido": "DIGA UM ANIMAL DE ESTIMAÇÃO",
+  "emoji": "🐾",
+  "resposta": "CACHORRO",
+  "er": "🐶",
+  "fala": "cachorro",
+  "n": 4
+ },
+ {
+  "pedido": "DIGA UM SABOR DE SORVETE",
+  "emoji": "🍦",
+  "resposta": "CHOCOLATE",
+  "er": "🍫",
+  "fala": "chocolate",
+  "n": 5
+ },
+ {
+  "pedido": "DIGA UM TIME DE FUTEBOL",
+  "emoji": "⚽",
+  "resposta": "FLAMENGO",
+  "er": "🔴",
+  "fala": "Flamengo",
+  "n": 6
+ },
+ {
+  "pedido": "DIGA UM REFRIGERANTE",
+  "emoji": "🥤",
+  "resposta": "COCA-COLA",
+  "er": "🥤",
+  "fala": "Coca-Cola",
+  "n": 7
+ },
+ {
+  "pedido": "DIGA UMA COMIDA DE FESTA JUNINA",
+  "emoji": "🌽",
+  "resposta": "PAÇOCA",
+  "er": "🥜",
+  "fala": "paçoca",
+  "n": 8
+ },
+ {
+  "pedido": "DIGA UMA MATÉRIA DA ESCOLA",
+  "emoji": "📚",
+  "resposta": "MATEMÁTICA",
+  "er": "➗",
+  "fala": "matemática",
+  "n": 9
+ },
+ {
+  "pedido": "DIGA UMA REDE SOCIAL",
+  "emoji": "📱",
+  "resposta": "INSTAGRAM",
+  "er": "📸",
+  "fala": "Instagram",
+  "n": 10
+ },
+ {
+  "pedido": "DIGA UM EMOJI",
+  "emoji": "🤔",
+  "resposta": "CHORANDO DE RIR",
+  "er": "😂",
+  "fala": "o emoji chorando de rir",
+  "n": 11
+ },
+ {
+  "pedido": "DIGA UM DESENHO ANIMADO",
+  "emoji": "📺",
+  "resposta": "BOB ESPONJA",
+  "er": "🧽",
+  "fala": "Bob Esponja",
+  "n": 12
+ },
+ {
+  "pedido": "DIGA UMA PROFISSÃO",
+  "emoji": "💼",
+  "resposta": "MÉDICO",
+  "er": "🩺",
+  "fala": "médico",
+  "n": 13
+ },
+ {
+  "pedido": "DIGA UM DOCE DE FESTA DE ANIVERSÁRIO",
+  "emoji": "🎂",
+  "resposta": "BRIGADEIRO",
+  "er": "🍫",
+  "fala": "brigadeiro",
+  "n": 14
+ },
+ {
+  "pedido": "DIGA UM PAÍS",
+  "emoji": "🌍",
+  "resposta": "ESTADOS UNIDOS",
+  "er": "🗽",
+  "fala": "Estados Unidos",
+  "n": 15
+ },
+ {
+  "pedido": "DIGA UM INSTRUMENTO MUSICAL",
+  "emoji": "🎵",
+  "resposta": "VIOLÃO",
+  "er": "🎸",
+  "fala": "violão",
+  "n": 16
+ },
+ {
+  "pedido": "DIGA UM NÚMERO DE 1 A 10... MAS NÃO VALE O 7!",
+  "emoji": "🚫",
+  "resposta": "3",
+  "er": "",
+  "fala": "três",
+  "pegadinha": true,
+  "falap": "Pegadinha! Diga um número de um a dez... mas não vale o sete!",
+  "falar": "Sem o sete, todo mundo corre pro três! O Palito disse três! Se você disse três, perde uma vida!",
+  "n": 17
+ },
+ {
+  "pedido": "DIGA UM ESPORTE",
+  "emoji": "🏅",
+  "resposta": "FUTEBOL",
+  "er": "⚽",
+  "fala": "futebol",
+  "n": 18
+ },
+ {
+  "pedido": "DIGA UM DIA DA SEMANA",
+  "emoji": "📅",
+  "resposta": "SEXTA-FEIRA",
+  "er": "🎉",
+  "fala": "sexta-feira",
+  "n": 19
+ },
+ {
+  "pedido": "DIGA UM SUPER-HERÓI",
+  "emoji": "🦸",
+  "resposta": "HOMEM-ARANHA",
+  "er": "🕷",
+  "fala": "Homem-Aranha",
+  "n": 20
+ },
+ {
+  "pedido": "DIGA UM ANIMAL DA SELVA",
+  "emoji": "🌴",
+  "resposta": "LEÃO",
+  "er": "🦁",
+  "fala": "leão",
+  "n": 21
+ },
+ {
+  "pedido": "DIGA UM LEGUME",
+  "emoji": "🥦",
+  "resposta": "CENOURA",
+  "er": "🥕",
+  "fala": "cenoura",
+  "n": 22
+ },
+ {
+  "pedido": "DIGA UM MÊS DO ANO",
+  "emoji": "📆",
+  "resposta": "DEZEMBRO",
+  "er": "🎄",
+  "fala": "dezembro",
+  "n": 23
+ },
+ {
+  "pedido": "DIGA UMA MARCA DE CARRO",
+  "emoji": "🚗",
+  "resposta": "FERRARI",
+  "er": "🏎",
+  "fala": "Ferrari",
+  "n": 24
+ },
+ {
+  "pedido": "DIGA UM SALGADINHO DE FESTA",
+  "emoji": "🎉",
+  "resposta": "COXINHA",
+  "er": "🍗",
+  "fala": "coxinha",
+  "n": 25
+ },
+ {
+  "pedido": "DIGA UM PLANETA",
+  "emoji": "🪐",
+  "resposta": "TERRA",
+  "er": "🌎",
+  "fala": "Terra",
+  "n": 26
+ },
+ {
+  "pedido": "DIGA UM JOGADOR DE FUTEBOL",
+  "emoji": "👟",
+  "resposta": "NEYMAR",
+  "er": "⚽",
+  "fala": "Neymar",
+  "n": 27
+ },
+ {
+  "pedido": "DIGA UM INSETO",
+  "emoji": "🐛",
+  "resposta": "FORMIGA",
+  "er": "🐜",
+  "fala": "formiga",
+  "n": 28
+ },
+ {
+  "pedido": "DIGA UMA COR... MAS NÃO VALE AZUL!",
+  "emoji": "🚫",
+  "resposta": "VERMELHO",
+  "er": "🔴",
+  "fala": "vermelho",
+  "pegadinha": true,
+  "falap": "Pegadinha! Diga uma cor... mas não vale azul!",
+  "falar": "Sem o azul, quase todo mundo vai de vermelho! O Palito também! Se você disse vermelho, perde uma vida!",
+  "n": 29
+ },
+ {
+  "pedido": "DIGA UMA ESTAÇÃO DO ANO",
+  "emoji": "🍂",
+  "resposta": "VERÃO",
+  "er": "☀",
+  "fala": "verão",
+  "n": 30
+ },
+ {
+  "pedido": "DIGA UM SABOR DE PIZZA",
+  "emoji": "🍕",
+  "resposta": "CALABRESA",
+  "er": "🍕",
+  "fala": "calabresa",
+  "n": 31
+ },
+ {
+  "pedido": "DIGA UM APLICATIVO DE CELULAR",
+  "emoji": "📲",
+  "resposta": "WHATSAPP",
+  "er": "💬",
+  "fala": "WhatsApp",
+  "n": 32
+ },
+ {
+  "pedido": "DIGA UMA PARTE DO CORPO",
+  "emoji": "🧍",
+  "resposta": "MÃO",
+  "er": "✋",
+  "fala": "mão",
+  "n": 33
+ },
+ {
+  "pedido": "DIGA UM OBJETO DA COZINHA",
+  "emoji": "🍳",
+  "resposta": "PANELA",
+  "er": "🍲",
+  "fala": "panela",
+  "n": 34
+ },
+ {
+  "pedido": "DIGA UMA CIDADE DO BRASIL",
+  "emoji": "🏙",
+  "resposta": "SÃO PAULO",
+  "er": "🌆",
+  "fala": "São Paulo",
+  "n": 35
+ },
+ {
+  "pedido": "DIGA UM BRINQUEDO",
+  "emoji": "🧸",
+  "resposta": "BOLA",
+  "er": "⚽",
+  "fala": "bola",
+  "n": 36
+ },
+ {
+  "pedido": "DIGA UMA BEBIDA QUENTE",
+  "emoji": "♨",
+  "resposta": "CAFÉ",
+  "er": "☕",
+  "fala": "café",
+  "n": 37
+ },
+ {
+  "pedido": "DIGA UMA PRINCESA DE CONTO DE FADAS",
+  "emoji": "🏰",
+  "resposta": "BRANCA DE NEVE",
+  "er": "🍎",
+  "fala": "Branca de Neve",
+  "n": 38
+ },
+ {
+  "pedido": "DIGA UMA LETRA DO ALFABETO",
+  "emoji": "🔤",
+  "resposta": "A",
+  "er": "🅰",
+  "fala": "a letra A",
+  "n": 39
+ },
+ {
+  "pedido": "DIGA UM ANIMAL DO MAR",
+  "emoji": "🌊",
+  "resposta": "TUBARÃO",
+  "er": "🦈",
+  "fala": "tubarão",
+  "n": 40
+ }
+]
