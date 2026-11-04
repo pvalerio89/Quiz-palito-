@@ -1,0 +1,15 @@
+{
+  "_sobre": "Envios de teste ao YouTube (sempre privados). Apague o vídeo no Studio e mude 'apagado' para true. Este arquivo não interfere no publicados.json.",
+  "testes": [
+    {
+      "pasta": "shorts/brasil-1",
+      "id": "BblwAUbK_rU",
+      "url": "https://youtu.be/BblwAUbK_rU",
+      "titulo": "[TESTE] Você sabe tudo do BRASIL? 🇧🇷 Só 1% acerta todas! #shorts",
+      "privacidade": "private",
+      "data": "2026-11-04T15:03:47",
+      "sha256": "0026b2457ae287bac6b7cb8b861f05e2f30ca1f7e448ac0f3104658879ee920a",
+      "apagado": false
+    }
+  ]
+}
