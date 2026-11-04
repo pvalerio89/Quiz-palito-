@@ -1,0 +1,87 @@
+# TESTE de envio ao YouTube com um mp4 que já está numa Release "video-<pasta>" (não renderiza de novo).
+# Sempre PRIVADO, título "[TESTE] ...". Não lê nem grava o publicados.json.
+# O ID fica em testes-youtube.json e no resumo da execução, para você apagar o vídeo depois.
+name: Teste de envio ao YouTube
+
+on:
+  workflow_dispatch:
+    inputs:
+      pasta:
+        description: "Pasta do vídeo já gerado (ex.: shorts/brasil-1)"
+        required: true
+        default: shorts/brasil-1
+        type: string
+      confirmar:
+        description: "Escreva ENVIAR TESTE para confirmar"
+        required: true
+        type: string
+      repetir:
+        description: "Enviar de novo mesmo se já houver teste deste arquivo"
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: publicacao
+  cancel-in-progress: false
+
+permissions:
+  contents: write  # para gravar o testes-youtube.json
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      PASTA: ${{ inputs.pasta }}
+    steps:
+      - name: Conferir confirmação
+        if: inputs.confirmar != 'ENVIAR TESTE'
+        run: |
+          echo "::error::Confirmação não digitada. Nada foi enviado."
+          exit 1
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Baixar o vídeo da Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          slug=$(echo "$PASTA" | sed 's#\\#/#g; s#^/*##; s#/*$##; s#/#-#g')
+          mkdir -p "baixado/$slug"
+          gh release download "video-$slug" --dir "baixado/$slug" --pattern '*.mp4' --pattern 'kit-youtube.zip'
+          unzip -q "baixado/$slug/kit-youtube.zip" -d "baixado/$slug/youtube"
+          echo "MP4=$(ls baixado/$slug/*.mp4 | head -1)" >> "$GITHUB_ENV"
+          cp publicados.json /tmp/publicados-antes.json
+
+      - name: Enviar cópia de teste (privado)
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          args=("$PASTA" "$MP4")
+          [ "${{ inputs.repetir }}" = "true" ] && args+=(--repetir)
+          python automacao/teste_youtube.py "${args[@]}"
+
+      - name: Garantir que o publicados.json não mudou
+        if: always()
+        run: cmp publicados.json /tmp/publicados-antes.json 2>/dev/null || { [ ! -f /tmp/publicados-antes.json ] || { echo "::error::publicados.json mudou"; exit 1; }; }
+
+      # Roda mesmo se algo falhar depois do envio, para o ID do teste nunca se perder.
+      - name: Gravar ID do teste
+        if: always()
+        run: |
+          [ -f testes-youtube.json ] || exit 0
+          python -c "import json;t=json.load(open('testes-youtube.json',encoding='utf-8'))['testes'][-1];print(f\"### Teste enviado (privado)\n\n- Título: {t['titulo']}\n- Vídeo: {t['url']}\n- Apagar: https://studio.youtube.com/video/{t['id']}/edit\")" >> "$GITHUB_STEP_SUMMARY"
+          git diff --quiet -- testes-youtube.json 2>/dev/null && git ls-files --error-unmatch testes-youtube.json >/dev/null 2>&1 && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add testes-youtube.json
+          git commit -m "Teste YouTube: $PASTA (privado)"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
