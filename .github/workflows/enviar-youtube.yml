@@ -1,0 +1,60 @@
+# Envia ao YouTube, como PRIVADO, o vídeo que o "Gerar vídeo" guardou na Release "video-<pasta>".
+# Confere o publicados.json antes e anota o ID depois. Você publica pelo YouTube Studio.
+name: Enviar ao YouTube (privado)
+
+on:
+  workflow_dispatch:
+    inputs:
+      pasta:
+        description: "Pasta do vídeo (ex.: shorts/brasil-1)"
+        required: true
+        type: string
+
+concurrency:
+  group: publicacao   # um envio/registro por vez, para não duplicar
+  cancel-in-progress: false
+
+permissions:
+  contents: write  # para gravar o publicados.json
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      PASTA: ${{ inputs.pasta }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Baixar o vídeo gerado na nuvem
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          slug=$(echo "$PASTA" | sed 's#\\#/#g; s#^/*##; s#/*$##; s#/#-#g')
+          mkdir -p "baixado/$slug"
+          gh release download "video-$slug" --dir "baixado/$slug" --pattern '*.mp4' --pattern 'kit-youtube.zip'
+          unzip -q "baixado/$slug/kit-youtube.zip" -d "baixado/$slug/youtube"
+          echo "MP4=$(ls baixado/$slug/*.mp4 | head -1)" >> "$GITHUB_ENV"
+
+      - name: Enviar como privado
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python automacao/publicar_youtube.py "$PASTA" "$MP4"
+
+      # Roda mesmo se algo falhar depois do envio, para o ID nunca se perder.
+      - name: Gravar no publicados.json
+        if: always()
+        run: |
+          git diff --quiet publicados.json && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add publicados.json
+          git commit -m "YouTube: $PASTA enviado como privado"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
