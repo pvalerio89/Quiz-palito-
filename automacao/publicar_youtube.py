@@ -64,21 +64,7 @@ def main():
                    "containsSyntheticMedia": False},
     }
     tk = token()
-    tam = os.path.getsize(mp4)
-    req = urllib.request.Request(
-        f"{API_UP}/videos?uploadType=resumable&part=snippet,status", data=json.dumps(meta).encode(),
-        headers={"Authorization": f"Bearer {tk}", "Content-Type": "application/json; charset=UTF-8",
-                 "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(tam)})
-    try:
-        destino = urllib.request.urlopen(req, timeout=60).headers["Location"]
-        print(f"Enviando {os.path.basename(mp4)} ({tam / 1e6:.0f} MB) como privado...", flush=True)
-        with open(mp4, "rb") as f:
-            up = urllib.request.Request(destino, data=f, method="PUT",
-                                        headers={"Authorization": f"Bearer {tk}", "Content-Type": "video/mp4",
-                                                 "Content-Length": str(tam)})
-            vid = json.load(urllib.request.urlopen(up, timeout=3600))["id"]
-    except urllib.error.HTTPError as e:
-        sys.exit(f"ERRO no envio (HTTP {e.code}): {e.read().decode(errors='replace')[:500]}")
+    vid = enviar_video(tk, mp4, meta)
 
     thumb = os.path.join(yt, "thumbnail.jpg")
     if os.path.exists(thumb) and not pasta.startswith("shorts/"):
@@ -94,6 +80,27 @@ def main():
            data=datetime.date.today().isoformat(), origem="github-actions", sha256=h)
     salvar_registro(doc)
     print(f"OK enviado como PRIVADO: https://youtu.be/{vid}  (publique pelo YouTube Studio)")
+
+
+def enviar_video(tk, mp4, meta):
+    """Upload retomável. Sempre força privado, aconteça o que acontecer com `meta`."""
+    meta["status"]["privacyStatus"] = "private"
+    tam = os.path.getsize(mp4)
+    req = urllib.request.Request(
+        f"{API_UP}/videos?uploadType=resumable&part=snippet,status", data=json.dumps(meta).encode(),
+        headers={"Authorization": f"Bearer {tk}", "Content-Type": "application/json; charset=UTF-8",
+                 "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(tam)})
+    try:
+        destino = urllib.request.urlopen(req, timeout=60).headers["Location"]
+        print(f"Enviando {os.path.basename(mp4)} ({tam / 1e6:.0f} MB) como privado...", flush=True)
+        with open(mp4, "rb") as f:
+            up = urllib.request.Request(destino, data=f, method="PUT",
+                                        headers={"Authorization": f"Bearer {tk}", "Content-Type": "video/mp4",
+                                                 "Content-Length": str(tam)})
+            vid = json.load(urllib.request.urlopen(up, timeout=3600))["id"]
+    except urllib.error.HTTPError as e:
+        sys.exit(f"ERRO no envio (HTTP {e.code}): {e.read().decode(errors='replace')[:500]}")
+    return vid
 
 
 if __name__ == "__main__":
