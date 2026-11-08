@@ -1,4 +1,50 @@
 {
   "_sobre": "Fila de produção: 1 vídeo longo + 1 Short publicados por dia, públicos, sem pedir autorização. Status: aguardando (só a referência) -> pronto (pastas feitas e conferidas pela rotina diária do Claude) -> publicado (o workflow 'Publicar do dia' subiu os dois) ou erro (falhou; a rotina do Claude conserta e volta para pronto). 'pulado' = não fazer.",
-  "itens": []
+  "itens": [
+    {
+      "id": "2026-11-06-conhecimentos-gerais",
+      "referencia": "https://youtu.be/j11NuxWLVGg",
+      "tema": "130 Perguntas de Conhecimentos Gerais (Capitão Quiz)",
+      "obs": "Perguntas de conhecimentos gerais escolares, fácil→difícil. Pode ser menos que 130 se ficar longo demais.",
+      "status": "aguardando",
+      "video": null,
+      "short": null
+    },
+    {
+      "id": "2026-11-06-frutas-3-segundos",
+      "referencia": "https://youtu.be/rTG3Uu2KWKE",
+      "tema": "Adivinhe a Fruta em 3 Segundos (frutas e legumes)",
+      "obs": "Imagens de frutas/legumes por emoji ou ícone livre; 3 s por pergunta.",
+      "status": "aguardando",
+      "video": null,
+      "short": null
+    },
+    {
+      "id": "2026-11-06-quiz-dos-animais",
+      "referencia": "https://youtu.be/PlFby7gRzgA",
+      "tema": "Quiz dos Animais: 30 perguntas, adivinhe o animal",
+      "obs": "Educativo; animais por emoji/ícone livre; pistas tipo 'qual animal...'.",
+      "status": "aguardando",
+      "video": null,
+      "short": null
+    },
+    {
+      "id": "2026-11-06-tudo-amarelo",
+      "referencia": "https://youtu.be/tAhIEzTK2Wk",
+      "tema": "Quiz mas TUDO É AMARELO (referência de Pokémon)",
+      "obs": "Só a ideia do formato: adivinhar coisas que ficaram todas de uma cor só (silhueta/tudo amarelo). NÃO usar Pokémon nem personagens com direitos: usar bandeiras, animais, objetos, frutas, emojis.",
+      "status": "aguardando",
+      "video": null,
+      "short": null
+    },
+    {
+      "id": "2026-11-06-desenho-pela-intro",
+      "referencia": "https://youtu.be/Obn1kv5IwjQ",
+      "tema": "Adivinhe o desenho pela intro (desafio musical)",
+      "obs": "Músicas de abertura têm direitos (strike no YouTube): NÃO usar trecho de áudio. Adaptar para algo sem música protegida (ex.: adivinhe o desenho/personagem por emojis ou pistas). Se não der um formato bom, marcar 'pulado' com obs.",
+      "status": "aguardando",
+      "video": null,
+      "short": null
+    }
+  ]
 }
