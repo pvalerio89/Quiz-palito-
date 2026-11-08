@@ -20,7 +20,7 @@ FONTES = {
     "seguiemj.ttf": "451df9bb5546055af625ff86aa72695df43e8e170b4c6c1316fe44e9c7a22f7c",
 }
 BUILDS = ["build_short.py", "build_brasil.py", "build_naodiga.py", "build_prefere.py",
-          "build_bandeiras.py", "build_futebol.py"]
+          "build_bandeiras.py", "build_futebol.py", "build_estados.py"]
 
 
 def aviso(msg):
