@@ -1,0 +1,3 @@
+# Vídeos que ainda não estão no publicados.json (um ID por linha, # e o título)
+hEYGr_g9aLs # Vídeo 08 Adivinhe o logo
+fXWaihJ3bkc # Short logos-1

@@ -1,0 +1,55 @@
+# Lê os comentários de todos os vídeos do canal e grava comentarios/pendentes.md (sem resposta do canal).
+# Para responder: escreva comentarios/respostas.json e rode com "responder" = RESPONDER.
+# Curtir não existe na API do YouTube (só pelo Studio).
+name: Comentários do YouTube
+
+on:
+  workflow_dispatch:
+    inputs:
+      responder:
+        description: "Escreva RESPONDER para publicar as respostas de comentarios/respostas.json"
+        required: false
+        type: string
+  push:
+    branches: ["claude/**"]
+    paths: ["comentarios/ler-agora.txt", "comentarios/respostas.json"]
+
+concurrency:
+  group: comentarios
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  comentarios:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - run: pip install -q -U yt-dlp
+      - name: Publicar respostas aprovadas
+        # No push só responde se o arquivo respostas.json mudou neste envio e tem a linha de confirmação.
+        if: inputs.responder == 'RESPONDER' || (github.event_name == 'push' && contains(github.event.head_commit.message, '[RESPONDER]'))
+        run: python automacao/comentarios_youtube.py responder comentarios/respostas.json
+      - name: Ler comentários
+        run: |
+          python automacao/comentarios_youtube.py ler
+          cat comentarios/pendentes.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Gravar no repositório
+        if: always()
+        run: |
+          git add comentarios/ 2>/dev/null
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Comentários do YouTube: $(date +%F)"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
