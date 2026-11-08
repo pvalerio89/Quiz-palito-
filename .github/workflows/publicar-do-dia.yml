@@ -1,0 +1,129 @@
+# Todo dia: pega o 1º item "pronto" de fila/fila.json, gera o vídeo longo e o Short, sobe os dois PÚBLICOS
+# no YouTube (o Short com o link do vídeo longo na descrição) e marca o item como publicado (ou erro).
+# Quem enche a fila com itens "pronto" é a rotina diária do Claude (ver automacao/LEIA-ME.md).
+name: Publicar do dia
+
+on:
+  schedule:
+    - cron: "17 21 * * *"   # 18h17 de Brasília, todo dia
+  workflow_dispatch:
+
+concurrency:
+  group: publicar-do-dia
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  escolher:
+    runs-on: ubuntu-latest
+    outputs:
+      id: ${{ steps.f.outputs.id }}
+      video: ${{ steps.f.outputs.video }}
+      short: ${{ steps.f.outputs.short }}
+      video_feito: ${{ steps.f.outputs.video_feito }}
+      short_feito: ${{ steps.f.outputs.short_feito }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - id: f
+        run: python automacao/fila.py proximo
+      - name: Resumo
+        run: |
+          if [ -z "${{ steps.f.outputs.id }}" ]; then
+            echo "Fila sem item pronto: nada publicado hoje." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Hoje: **${{ steps.f.outputs.id }}** — ${{ steps.f.outputs.video }} + ${{ steps.f.outputs.short }}" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+  gerar_video:
+    needs: escolher
+    if: needs.escolher.outputs.video != '' && needs.escolher.outputs.video_feito != 'true'
+    uses: ./.github/workflows/gerar-video.yml
+    with:
+      pasta: ${{ needs.escolher.outputs.video }}
+      modo: completo
+    secrets: inherit
+
+  gerar_short:
+    needs: escolher
+    if: needs.escolher.outputs.short != '' && needs.escolher.outputs.short_feito != 'true'
+    uses: ./.github/workflows/gerar-video.yml
+    with:
+      pasta: ${{ needs.escolher.outputs.short }}
+      modo: completo
+    secrets: inherit
+
+  enviar_video:
+    needs: [escolher, gerar_video]
+    if: needs.gerar_video.result == 'success'
+    uses: ./.github/workflows/enviar-youtube.yml
+    with:
+      pasta: ${{ needs.escolher.outputs.video }}
+      privacidade: publico
+    secrets: inherit
+
+  enviar_short:
+    needs: [escolher, gerar_short, enviar_video]
+    # O Short só sai depois do vídeo longo estar no ar (precisa do link dele).
+    if: >-
+      !cancelled() && needs.gerar_short.result == 'success' &&
+      (needs.escolher.outputs.video == '' || needs.escolher.outputs.video_feito == 'true' || needs.enviar_video.result == 'success')
+    uses: ./.github/workflows/enviar-youtube.yml
+    with:
+      pasta: ${{ needs.escolher.outputs.short }}
+      privacidade: publico
+      longo: ${{ needs.escolher.outputs.video }}
+    secrets: inherit
+
+  fechar:
+    needs: [escolher, gerar_video, gerar_short, enviar_video, enviar_short]
+    if: always() && needs.escolher.outputs.id != ''
+    runs-on: ubuntu-latest
+    env:
+      ID: ${{ needs.escolher.outputs.id }}
+      SHORT: ${{ needs.escolher.outputs.short }}
+      GH_TOKEN: ${{ github.token }}
+      # ok = cada parte foi publicada agora ou já estava publicada antes
+      OK: >-
+        ${{ (needs.escolher.outputs.video == '' || needs.escolher.outputs.video_feito == 'true' || needs.enviar_video.result == 'success') &&
+            (needs.escolher.outputs.short == '' || needs.escolher.outputs.short_feito == 'true' || needs.enviar_short.result == 'success') }}
+      RESULTADOS: >-
+        gerar_video=${{ needs.gerar_video.result }} gerar_short=${{ needs.gerar_short.result }}
+        enviar_video=${{ needs.enviar_video.result }} enviar_short=${{ needs.enviar_short.result }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - name: Marcar na fila
+        run: |
+          if [ "$OK" = "true" ]; then python automacao/fila.py fechar "$ID" ok
+          else python automacao/fila.py fechar "$ID" erro "$RESULTADOS"; fi
+      - name: Legenda do TikTok com o link (notas da Release do Short)
+        if: env.SHORT != ''
+        run: |
+          slug=$(echo "$SHORT" | sed 's#/#-#g')
+          f="$SHORT/youtube/tiktok.txt"
+          if [ -f "$f" ] && gh release view "video-$slug" >/dev/null 2>&1; then
+            { echo "Legenda do TikTok (copie e cole no app):"; echo; cat "$f"; } > notas.md
+            gh release edit "video-$slug" --notes-file notas.md
+          fi
+      - name: Gravar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add fila/fila.json shorts
+          git diff --cached --quiet && exit 0
+          git commit -m "Publicar do dia: $ID ($([ "$OK" = true ] && echo publicado || echo erro))"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
+      - name: Resumo
+        run: |
+          python automacao/fila.py status >> "$GITHUB_STEP_SUMMARY"
+          [ "$OK" = "true" ] || { echo "::error::$ID falhou: $RESULTADOS"; exit 1; }

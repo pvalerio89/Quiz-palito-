@@ -69,6 +69,8 @@ def main():
     previa = "--previa" in sys.argv
     aqui = os.path.join(RAIZ, pasta)
     builds = [b for b in BUILDS if os.path.exists(os.path.join(aqui, b))]
+    if not builds:  # vídeo novo com outro nome de script (ex.: build_cartao.py)
+        builds = sorted(os.path.basename(b) for b in glob.glob(os.path.join(aqui, "build_*.py")))
     if len(builds) != 1:
         sys.exit(f"ERRO: esperava um script de montagem em {pasta}, achei {builds or 'nenhum'}.")
     build = builds[0]

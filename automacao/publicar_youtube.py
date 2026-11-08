@@ -1,7 +1,8 @@
 """Envia um vídeo ao YouTube pela API oficial e anota no publicados.json.
 
-Uso: py -3 automacao/publicar_youtube.py <pasta> <arquivo.mp4> [--publico]
+Uso: py -3 automacao/publicar_youtube.py <pasta> <arquivo.mp4> [--publico] [--longo <pasta do vídeo longo>]
   sem --publico: sobe como PRIVADO (status privado_teste). Com --publico: publica direto (status publicado).
+  --longo: troca LINK_DO_VIDEO_LONGO na descrição pelo link já gravado no publicados.json.
 Precisa das variáveis de ambiente (no GitHub vêm dos Secrets; nunca são impressas):
   YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN
 Título, descrição, tags e miniatura vêm de <pasta>/youtube/ (titulo.txt, descricao.txt, tags.txt, thumbnail.jpg).
@@ -10,7 +11,7 @@ Não envia de novo se o registro já tiver esse vídeo como 'publicado' ou 'priv
 import datetime, json, os, sys, urllib.error, urllib.parse, urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from comum import RAIZ, checar_duplicado, ler_registro, marcar, pasta_rel, salvar_registro
+from comum import RAIZ, checar_duplicado, ler_registro, marcar, pasta_rel, salvar_registro, status
 
 API_UP = "https://www.googleapis.com/upload/youtube/v3"
 
@@ -58,8 +59,17 @@ def main():
     h = checar_duplicado(doc, pasta, "youtube", mp4)
 
     titulo = ler(os.path.join(yt, "titulo.txt")).splitlines()[0][:100]
+    descricao = ler(os.path.join(yt, "descricao.txt"))
+    if "--longo" in sys.argv:
+        longo = pasta_rel(sys.argv[sys.argv.index("--longo") + 1])
+        url = status(doc, longo, "youtube").get("url")
+        if not url:
+            sys.exit(f"ERRO: o vídeo longo {longo} ainda não tem link no publicados.json.")
+        descricao = descricao.replace("LINK_DO_VIDEO_LONGO", url)
+    if "LINK_DO_VIDEO_LONGO" in descricao:
+        sys.exit("PARADO: a descrição ainda tem LINK_DO_VIDEO_LONGO. Use --longo <pasta> ou troque o link.")
     meta = {
-        "snippet": {"title": titulo, "description": ler(os.path.join(yt, "descricao.txt"))[:5000],
+        "snippet": {"title": titulo, "description": descricao[:5000],
                     "tags": tags_ok(ler(os.path.join(yt, "tags.txt"))), "categoryId": "24",
                     "defaultLanguage": "pt-BR", "defaultAudioLanguage": "pt-BR"},
         "status": {"privacyStatus": "private", "selfDeclaredMadeForKids": False,

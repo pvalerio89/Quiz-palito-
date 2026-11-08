@@ -15,6 +15,22 @@ on:
         default: publico
         type: choice
         options: [publico, privado]
+      longo:
+        description: "Só para Short: pasta do vídeo longo (troca LINK_DO_VIDEO_LONGO pelo link dele)"
+        required: false
+        type: string
+  workflow_call:   # usado pelo "Publicar do dia"
+    inputs:
+      pasta:
+        required: true
+        type: string
+      privacidade:
+        required: false
+        default: publico
+        type: string
+      longo:
+        required: false
+        type: string
 
 concurrency:
   group: publicacao   # um envio/registro por vez, para não duplicar
@@ -30,8 +46,12 @@ jobs:
     env:
       PASTA: ${{ inputs.pasta }}
       PRIVACIDADE: ${{ inputs.privacidade }}
+      LONGO: ${{ inputs.longo }}
     steps:
+      # Pega a versão mais nova da branch (inclui o ID do vídeo longo gravado minutos antes).
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
@@ -52,7 +72,7 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-        run: python automacao/publicar_youtube.py "$PASTA" "$MP4" $([ "$PRIVACIDADE" = publico ] && echo --publico)
+        run: python automacao/publicar_youtube.py "$PASTA" "$MP4" $([ "$PRIVACIDADE" = publico ] && echo --publico) ${LONGO:+--longo "$LONGO"}
 
       # Roda mesmo se algo falhar depois do envio, para o ID nunca se perder.
       - name: Gravar no publicados.json

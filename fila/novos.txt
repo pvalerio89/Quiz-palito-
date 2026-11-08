@@ -1,0 +1,4 @@
+# Cole aqui links de vídeos de referência, um por linha (pode pôr um comentário depois do link).
+# A rotina diária do Claude passa cada link para a fila (fila.json) e apaga daqui.
+# Exemplo:
+# https://youtu.be/XXXXXXXXXXX  quero com bandeiras da Europa

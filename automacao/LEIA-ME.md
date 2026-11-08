@@ -22,6 +22,19 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
    Depois apague essa execução.
 4. Peça a auditoria do app (Content Posting API) para os vídeos saírem públicos.
 
+## 1 vídeo por dia, sozinho (fila)
+
+- **Lista do Patrick:** links de referência em `fila/novos.txt` (um por linha) ou mandados no chat do projeto.
+- **Rotina do Claude** (tarefa agendada no claude.ai, todo dia ~9h40): segue `fila/ROTINA.md`. Passa os links para
+  `fila/fila.json`, produz o próximo vídeo longo + Short (perguntas próprias, prévia conferida), marca `pronto`
+  e faz o merge em `main` sozinha. Mantém até 2 itens prontos de estoque.
+- **Publicar do dia** (workflow, todo dia 18h17 de Brasília, ou à mão em Actions): pega o 1º `pronto`, gera os dois,
+  sobe o vídeo longo **público**, depois o Short **público** com o link do longo na descrição, e marca `publicado`.
+  Se falhar, marca `erro` e no dia seguinte a rotina conserta. Sem item pronto, não faz nada.
+- **TikTok:** o mp4 do Short fica na Release `video-shorts-<nome>` com a legenda pronta nas notas (postar pelo celular).
+- **Parar tudo:** Actions > Publicar do dia > "Disable workflow" (e pausar a tarefa agendada no claude.ai).
+- Ver a fila: `py -3 automacao/fila.py status`.
+
 ## Comentários do YouTube
 
 - **Autorizar YouTube** (uma vez): libera ler e responder comentários (o token antigo só envia vídeos).
