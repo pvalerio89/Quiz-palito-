@@ -35,6 +35,7 @@ Para trocar um ID gravado de propósito: `py -3 automacao/marcar_publicado.py <p
 | `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN` | Envio ao YouTube. Gerados por `automacao/autorizar_youtube.py` no PC, uma vez. |
 | `GEMINI_API_KEY` | Só para refazer vozes dos vídeos 01 e 02. |
 | `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` | Envio ao TikTok (veja "TikTok: configurar uma vez"). |
+| `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` | Envio ao TikTok (veja "TikTok: configurar uma vez"). |
 
 ## Rodar no PC
 
