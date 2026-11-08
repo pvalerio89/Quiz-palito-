@@ -1,6 +1,7 @@
-"""Envia um vídeo ao YouTube pela API oficial, como PRIVADO (teste), e anota no publicados.json.
+"""Envia um vídeo ao YouTube pela API oficial e anota no publicados.json.
 
-Uso: py -3 automacao/publicar_youtube.py <pasta> <arquivo.mp4>
+Uso: py -3 automacao/publicar_youtube.py <pasta> <arquivo.mp4> [--publico]
+  sem --publico: sobe como PRIVADO (status privado_teste). Com --publico: publica direto (status publicado).
 Precisa das variáveis de ambiente (no GitHub vêm dos Secrets; nunca são impressas):
   YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN
 Título, descrição, tags e miniatura vêm de <pasta>/youtube/ (titulo.txt, descricao.txt, tags.txt, thumbnail.jpg).
@@ -45,6 +46,7 @@ def tags_ok(texto):
 def main():
     if len(sys.argv) < 3:
         sys.exit(__doc__)
+    publico = "--publico" in sys.argv
     pasta, mp4 = pasta_rel(sys.argv[1]), os.path.abspath(sys.argv[2])
     if not os.path.exists(mp4):
         sys.exit(f"ERRO: arquivo não encontrado: {mp4}")
@@ -64,7 +66,7 @@ def main():
                    "containsSyntheticMedia": False},
     }
     tk = token()
-    vid = enviar_video(tk, mp4, meta)
+    vid, priv = enviar_video(tk, mp4, meta, publico)
 
     thumb = os.path.join(yt, "thumbnail.jpg")
     if os.path.exists(thumb) and not pasta.startswith("shorts/"):
@@ -76,15 +78,19 @@ def main():
         except urllib.error.HTTPError as e:
             print(f"::warning::miniatura não foi aceita (HTTP {e.code}); suba pelo Studio.")
 
-    marcar(doc, pasta, "youtube", status="privado_teste", id=vid, url=f"https://youtu.be/{vid}",
+    no_ar = priv == "public"
+    marcar(doc, pasta, "youtube", status="publicado" if no_ar else "privado_teste", id=vid, url=f"https://youtu.be/{vid}",
            data=datetime.date.today().isoformat(), origem="github-actions", sha256=h)
     salvar_registro(doc)
-    print(f"OK enviado como PRIVADO: https://youtu.be/{vid}  (publique pelo YouTube Studio)")
+    if publico and not no_ar:
+        print(f"::warning::Pedi PÚBLICO mas o YouTube deixou como '{priv}'. Projeto da API sem verificação do Google "
+              "trava envios como privado; publique pelo Studio ou peça a auditoria da API.")
+    print(f"OK enviado como {priv.upper()}: https://youtu.be/{vid}")
 
 
-def enviar_video(tk, mp4, meta):
-    """Upload retomável. Sempre força privado, aconteça o que acontecer com `meta`."""
-    meta["status"]["privacyStatus"] = "private"
+def enviar_video(tk, mp4, meta, publico=False):
+    """Upload retomável. Só fica público com publico=True; devolve (id, privacidade que o YouTube gravou)."""
+    meta["status"]["privacyStatus"] = "public" if publico else "private"
     tam = os.path.getsize(mp4)
     req = urllib.request.Request(
         f"{API_UP}/videos?uploadType=resumable&part=snippet,status", data=json.dumps(meta).encode(),
@@ -92,15 +98,15 @@ def enviar_video(tk, mp4, meta):
                  "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(tam)})
     try:
         destino = urllib.request.urlopen(req, timeout=60).headers["Location"]
-        print(f"Enviando {os.path.basename(mp4)} ({tam / 1e6:.0f} MB) como privado...", flush=True)
+        print(f"Enviando {os.path.basename(mp4)} ({tam / 1e6:.0f} MB) como {meta['status']['privacyStatus']}...", flush=True)
         with open(mp4, "rb") as f:
             up = urllib.request.Request(destino, data=f, method="PUT",
                                         headers={"Authorization": f"Bearer {tk}", "Content-Type": "video/mp4",
                                                  "Content-Length": str(tam)})
-            vid = json.load(urllib.request.urlopen(up, timeout=3600))["id"]
+            resp = json.load(urllib.request.urlopen(up, timeout=3600))
     except urllib.error.HTTPError as e:
         sys.exit(f"ERRO no envio (HTTP {e.code}): {e.read().decode(errors='replace')[:500]}")
-    return vid
+    return resp["id"], resp.get("status", {}).get("privacyStatus", "?")
 
 
 if __name__ == "__main__":

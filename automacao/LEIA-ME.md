@@ -6,8 +6,8 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 
 1. **Gerar vídeo** (aba Actions, modo `previa`): confira a prancha no artefato.
 2. **Gerar vídeo** (modo `completo`): gera o mp4 + kit e guarda na Release `video-<pasta>`.
-3. **Enviar ao YouTube (privado)**: sobe o vídeo da Release como privado e grava o ID no `publicados.json`.
-   Depois de revisar, publique no YouTube Studio e rode **Marcar publicado** (youtube, publicado).
+3. **Enviar ao YouTube** (padrão `publico`): sobe o vídeo da Release já público e grava o ID no `publicados.json`.
+   Com `privado`, sobe só para você ver; depois publique no Studio e rode **Marcar publicado** (youtube, publicado).
 4. **TikTok** (Shorts): o Claude abre a Release no navegador, baixa o mp4 e posta no TikTok Studio
    com a legenda das notas da Release (`youtube/tiktok.txt`). Depois rode **Marcar publicado** (tiktok, com o ID).
 

@@ -48,7 +48,7 @@ def main():
                    "containsSyntheticMedia": False},
     }
     assert meta["status"]["privacyStatus"] == "private" and titulo.startswith(PREFIXO)
-    vid = enviar_video(token(), mp4, meta)
+    vid, _ = enviar_video(token(), mp4, meta)  # teste: sempre privado
 
     reg["testes"].append({"pasta": pasta, "id": vid, "url": f"https://youtu.be/{vid}", "titulo": titulo,
                           "privacidade": "private", "data": datetime.datetime.now().isoformat(timespec="seconds"),
