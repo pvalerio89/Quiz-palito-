@@ -5,7 +5,7 @@ name: Publicar do dia
 
 on:
   schedule:
-    - cron: "17 21 * * *"   # 18h17 de Brasília, todo dia
+    - cron: "7 12 * * *"   # 9h07 de Brasília, todo dia (no ar antes do meio-dia)
   workflow_dispatch:
 
 concurrency:

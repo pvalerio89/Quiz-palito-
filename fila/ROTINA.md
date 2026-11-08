@@ -1,10 +1,10 @@
 # Rotina diária do Claude: produzir o próximo vídeo da fila
 
-Roda sozinha todo dia de manhã (tarefa agendada no claude.ai). O Patrick **não aprova nada**: ele autorizou
+Roda sozinha todo dia de madrugada (4h43) (tarefa agendada no claude.ai). O Patrick **não aprova nada**: ele autorizou
 (2026-11-06) publicar direto como público e apaga do YouTube se algo sair errado. Não pergunte, não espere.
 Responda tudo em português do Brasil. Siga o `CLAUDE.md` e a memória do projeto.
 
-O workflow **Publicar do dia** (18h17 de Brasília) publica o 1º item `pronto`. Esta rotina só deixa itens prontos.
+O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publica o 1º item `pronto`. Esta rotina só deixa itens prontos.
 
 ## Passos
 
