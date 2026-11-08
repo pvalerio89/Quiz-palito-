@@ -6,18 +6,20 @@
       "referencia": "https://youtu.be/j11NuxWLVGg",
       "tema": "130 Perguntas de Conhecimentos Gerais (Capitão Quiz)",
       "obs": "Perguntas de conhecimentos gerais escolares, fácil→difícil. Pode ser menos que 130 se ficar longo demais.",
-      "status": "aguardando",
-      "video": null,
-      "short": null
+      "status": "pronto",
+      "video": "videos/10-conhecimentos-gerais",
+      "short": "shorts/gerais-1",
+      "titulo": "50 PERGUNTAS DE CONHECIMENTOS GERAIS 🧠 Do Fácil ao Difícil! Você Consegue? | Quiz Palito"
     },
     {
       "id": "2026-11-06-frutas-3-segundos",
       "referencia": "https://youtu.be/rTG3Uu2KWKE",
       "tema": "Adivinhe a Fruta em 3 Segundos (frutas e legumes)",
       "obs": "Imagens de frutas/legumes por emoji ou ícone livre; 3 s por pergunta.",
-      "status": "aguardando",
-      "video": null,
-      "short": null
+      "status": "pronto",
+      "video": "videos/11-fruta-3-segundos",
+      "short": "shorts/frutas-1",
+      "titulo": "ADIVINHE A FRUTA EM 3 SEGUNDOS! 🍓 33 Frutas e Legumes | Quiz Palito"
     },
     {
       "id": "2026-11-06-quiz-dos-animais",
