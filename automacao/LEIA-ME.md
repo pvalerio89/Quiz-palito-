@@ -16,7 +16,8 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 1. Em developers.tiktok.com, entre com a conta @quizpalitos e crie um app (tipo Web).
    Produtos: **Login Kit** e **Content Posting API** (ligue **Direct Post**). Escopos: `user.info.basic`, `video.publish`.
    Redirect URI do Login Kit: `https://github.com/pvalerio89/Quiz-palito-`.
-2. Secrets: `TIKTOK_CLIENT_KEY` e `TIKTOK_CLIENT_SECRET` (da página do app).
+2. Variable (aba Variables) `TIKTOK_CLIENT_KEY` e Secret `TIKTOK_CLIENT_SECRET` (da página do app).
+   A chave vai como Variable porque o GitHub esconde Secrets no resumo e o link de login sairia com `***`.
 3. Rode **Autorizar TikTok** sem nada: o resumo mostra o link. Abra, autorize, copie o endereço da página onde caiu
    e rode de novo colando no campo. O resumo mostra o valor do Secret `TIKTOK_REFRESH_TOKEN` (vale 1 ano).
    Depois apague essa execução.
@@ -55,12 +56,13 @@ Para trocar um ID gravado de propósito: `py -3 automacao/marcar_publicado.py <p
 
 ## Secrets (GitHub > Settings > Secrets and variables > Actions)
 
+`YT_CLIENT_ID` e `TIKTOK_CLIENT_KEY` são identificadores públicos: cadastre na aba **Variables** (se ficarem como Secret, o link de login sai com `***`).
+
 | Secret | Para quê |
 | --- | --- |
-| `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN` | Envio ao YouTube e comentários. Refresh token novo pelo workflow **Autorizar YouTube**. |
+| `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN` (e a Variable `YT_CLIENT_ID`) | Envio ao YouTube e comentários. Refresh token novo pelo workflow **Autorizar YouTube**. |
 | `GEMINI_API_KEY` | Só para refazer vozes dos vídeos 01 e 02. |
-| `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` | Envio ao TikTok (veja "TikTok: configurar uma vez"). |
-| `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` | Envio ao TikTok (veja "TikTok: configurar uma vez"). |
+| `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` (e a Variable `TIKTOK_CLIENT_KEY`) | Envio ao TikTok (veja "TikTok: configurar uma vez"). |
 
 ## Rodar no PC
 
