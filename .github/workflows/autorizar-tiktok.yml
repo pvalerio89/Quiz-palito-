@@ -1,0 +1,37 @@
+# Login do TikTok (uma vez). 1) Rode sem endereço: o resumo mostra o link de login.
+# 2) Abra o link, entre na conta @quizpalitos e autorize. 3) Copie o endereço inteiro da página onde caiu
+# e rode de novo colando no campo "endereco". O resumo mostra o valor para o Secret TIKTOK_REFRESH_TOKEN.
+name: Autorizar TikTok
+
+on:
+  workflow_dispatch:
+    inputs:
+      endereco:
+        description: "Endereço da página depois do login (deixe vazio para pegar o link de login)"
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  autorizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+      TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+      ENDERECO: ${{ inputs.endereco }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - name: Link ou troca do código
+        run: |
+          if [ -z "$ENDERECO" ]; then
+            { echo "### Abra este link no celular e autorize o Quiz Palito"; echo; python automacao/tiktok.py link; } >> "$GITHUB_STEP_SUMMARY"
+            echo "Link no resumo da execução (aba Summary)."
+          else
+            python automacao/tiktok.py trocar "$ENDERECO"
+          fi
