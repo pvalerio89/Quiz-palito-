@@ -240,9 +240,11 @@ def final_base():
     s.texto(d, (540, 460), "ACERTOU?", 150, b.YELLOW)
     d.rounded_rectangle([170, 590, 910, 730], 50, fill=b.RED, outline=b.WHITE, width=8)
     s.texto(d, (540, 660), "COMENTA AÍ!", 84, b.WHITE)
+    d.rounded_rectangle([110, 1065, 970, 1175], 55, fill=b.RED, outline=b.WHITE, width=8)
+    s.texto(d, (540, 1120), "QUIZ COMPLETO NO CANAL!", 62, b.WHITE, max_w=800)
     s.texto(d, (540, 860), "SEGUE O", 70, b.WHITE)
     b.selo(img, 540, 980, 1.3)
-    b.put_palito(img, "apontando", 380, 540, 1520)
+    b.put_palito(img, "apontando", 360, 540, 1580)
     return img
 
 
