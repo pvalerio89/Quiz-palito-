@@ -38,7 +38,7 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
    - **Confira** a prévia (`py automacao/gerar.py <pasta> --previa`, com as fontes substitutas descritas na memória):
      olhe a prancha, textos cortados, respostas certas, nenhuma pergunta repetida. Não precisa mostrar a ninguém.
    - No item: `video`, `short`, `titulo`, `status` = `pronto`.
-7. **Gravar:** commit (autor `Quiz Palito <quizpalito@gmail.com>`), push da sua branch, abra PR para `main`
+7. **Gravar:** commit (autor `pvalerio89 <294259185+pvalerio89@users.noreply.github.com>`), push da sua branch, abra PR para `main`
    e faça o merge você mesmo (squash). Sem `.mp4` no Git.
 8. Se a fila não tem `aguardando` nem `pronto`, não faça nada além dos passos 2 e 3.
 

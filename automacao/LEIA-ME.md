@@ -15,7 +15,7 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 
 1. Em developers.tiktok.com, entre com a conta @quizpalitos e crie um app (tipo Web).
    Produtos: **Login Kit** e **Content Posting API** (ligue **Direct Post**). Escopos: `user.info.basic`, `video.publish`.
-   Redirect URI do Login Kit: `https://github.com/quizpalito/quiz-palito`.
+   Redirect URI do Login Kit: `https://github.com/pvalerio89/Quiz-palito-`.
 2. Secrets: `TIKTOK_CLIENT_KEY` e `TIKTOK_CLIENT_SECRET` (da página do app).
 3. Rode **Autorizar TikTok** sem nada: o resumo mostra o link. Abra, autorize, copie o endereço da página onde caiu
    e rode de novo colando no campo. O resumo mostra o valor do Secret `TIKTOK_REFRESH_TOKEN` (vale 1 ano).

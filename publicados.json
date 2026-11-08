@@ -154,6 +154,32 @@
         "data": "2026-11-02",
         "origem": "navegador"
       }
+    },
+    "videos/07-estados-do-brasil": {
+      "titulo": "QUE ESTADO É ESSE? 🗺️ Acerte os 27 Estados do Brasil Pelo Mapa! | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "Ce-N3icMHZk",
+        "url": "https://youtu.be/Ce-N3icMHZk",
+        "data": "2026-11-04",
+        "origem": "actions"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
+    },
+    "shorts/estados-1": {
+      "titulo": "Você reconhece os ESTADOS do Brasil pelo MAPA? 🗺️ Só 1% acerta todos! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "_RpXAWiE3nA",
+        "url": "https://youtu.be/_RpXAWiE3nA",
+        "data": "2026-11-04",
+        "origem": "actions"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }

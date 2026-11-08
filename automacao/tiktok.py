@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from comum import checar_duplicado, ler_registro, marcar, pasta_rel, salvar_registro
 
 API = "https://open.tiktokapis.com/v2"
-REDIRECT = os.environ.get("TIKTOK_REDIRECT") or "https://github.com/quizpalito/quiz-palito"
+REDIRECT = os.environ.get("TIKTOK_REDIRECT") or "https://github.com/pvalerio89/Quiz-palito-"
 ESCOPOS = "user.info.basic,video.publish"
 LIMITE_UM_PEDACO = 64 * 1024 * 1024  # até 64 MB o vídeo vai inteiro numa parte só
 PEDACO = 10 * 1024 * 1024
