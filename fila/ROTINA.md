@@ -16,7 +16,12 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
    Se consertou, volte o item para `pronto` (o envio pula o que já foi publicado). Se não der, deixe `erro`
    com a explicação em `obs` e siga para o próximo.
 4. **Estoque:** se já há 2 ou mais itens `pronto`, pare aqui (só grave os passos 2 e 3).
-5. **Produzir** o 1º item `aguardando` (um por dia; se sobrar tempo e o estoque estiver 0, faça mais um):
+5. **Repetido ou parecido:** antes de produzir, compare o item com tudo que já existe (`publicados.json`,
+   pastas em `videos/` e `shorts/`, e os outros itens da fila). Se o tema/formato for **igual ou parecido**
+   (ex.: outro "adivinhe a bandeira", mesmo assunto com outro nome), **não produza**: marque `status` = `parecido`,
+   escreva em `obs` com qual vídeo ele se parece, avise o Patrick (ver "Avisos") e siga para o próximo item.
+   Se já produziu e só percebeu depois, avise do mesmo jeito.
+6. **Produzir** o 1º item `aguardando` (um por dia; se sobrar tempo e o estoque estiver 0, faça mais um):
    - Veja a referência leve: título pelo oembed, storyboard/miniaturas com `yt-dlp` (`-f sb0`), sem baixar o vídeo.
    - Faça a **versão Quiz Palito**: mesmo formato e ritmo, **perguntas próprias**, sem copiar arte, marca ou texto
      do outro canal, **sem parte de explicação/fonte**. Temas escolares/educativos para adolescentes quando der.
@@ -33,9 +38,17 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
    - **Confira** a prévia (`py automacao/gerar.py <pasta> --previa`, com as fontes substitutas descritas na memória):
      olhe a prancha, textos cortados, respostas certas, nenhuma pergunta repetida. Não precisa mostrar a ninguém.
    - No item: `video`, `short`, `titulo`, `status` = `pronto`.
-6. **Gravar:** commit (autor `Quiz Palito <quizpalito@gmail.com>`), push da sua branch, abra PR para `main`
+7. **Gravar:** commit (autor `Quiz Palito <quizpalito@gmail.com>`), push da sua branch, abra PR para `main`
    e faça o merge você mesmo (squash). Sem `.mp4` no Git.
-7. Se a fila não tem `aguardando` nem `pronto`, não faça nada além dos passos 2 e 3.
+8. Se a fila não tem `aguardando` nem `pronto`, não faça nada além dos passos 2 e 3.
+
+## Avisos ao Patrick (sempre, na mensagem final)
+
+Estes avisos valem **mesmo quando o pedido diz para terminar em silêncio**. Escreva-os no começo da mensagem final:
+
+- **Faltando links:** se depois do seu trabalho sobrar **1 ou 0** itens `aguardando` na fila, escreva:
+  "⚠️ Só falta 1 criação na fila (ou nenhuma): mande mais links de referência." (diga quantos `pronto` há.)
+- **Repetido/parecido:** para cada item marcado `parecido`, escreva qual link e com qual vídeo do canal ele se parece.
 
 ## Nunca
 
