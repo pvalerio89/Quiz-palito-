@@ -22,6 +22,18 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
    Depois apague essa execução.
 4. Peça a auditoria do app (Content Posting API) para os vídeos saírem públicos.
 
+## Comentários do YouTube
+
+- **Autorizar YouTube** (uma vez): libera ler e responder comentários (o token antigo só envia vídeos).
+  Rode sem nada, abra o link do resumo, entre com a conta do Quiz Palito e aceite. A última página não abre
+  (127.0.0.1): copie o endereço inteiro e rode de novo colando no campo. Troque o Secret `YT_REFRESH_TOKEN`
+  pelo valor do resumo e apague a execução.
+- **Comentários do YouTube**: lê todos os vídeos e grava `comentarios/pendentes.md` (sem resposta do canal).
+  Com `RESPONDER`, publica antes as respostas aprovadas de `comentarios/respostas.json`
+  (`[{"id": "...", "resposta": "..."}]`); nunca responde o mesmo comentário duas vezes (`respondidos.json`).
+- Curtir/coração não existe na API do YouTube: só pelo app YouTube Studio.
+- Vídeos fora do `publicados.json` entram em `comentarios/videos-extras.txt`.
+
 ## Registro `publicados.json`
 
 Um status por plataforma: `pendente`, `privado_teste`, `publicado`, `nao_se_aplica`.
@@ -32,7 +44,7 @@ Para trocar um ID gravado de propósito: `py -3 automacao/marcar_publicado.py <p
 
 | Secret | Para quê |
 | --- | --- |
-| `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN` | Envio ao YouTube. Gerados por `automacao/autorizar_youtube.py` no PC, uma vez. |
+| `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN` | Envio ao YouTube e comentários. Refresh token novo pelo workflow **Autorizar YouTube**. |
 | `GEMINI_API_KEY` | Só para refazer vozes dos vídeos 01 e 02. |
 | `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` | Envio ao TikTok (veja "TikTok: configurar uma vez"). |
 | `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN` | Envio ao TikTok (veja "TikTok: configurar uma vez"). |
