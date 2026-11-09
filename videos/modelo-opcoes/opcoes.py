@@ -1,5 +1,5 @@
 """Quiz Palito — modelo de vídeo LONGO (16:9) com pergunta em formato de QUESTÃO: foto + opções A/B/C,
-igual aos Shorts (pedido do Patrick, 2026-11-09).
+igual aos Shorts (pedido do Patrick, 2026-11-09). Fundo com movimento e alternativas animadas como no Short.
 
 Tela da pergunta: número + pergunta no topo, foto grande à esquerda, 3 opções empilhadas à direita,
 Palito pensando no canto e a barra de tempo embaixo. Na resposta a opção certa fica verde com ✔,
@@ -14,7 +14,7 @@ Uso num vídeo novo:
     for f in op.resposta_frames(q, dur, total=60): tl.frame(f)
 """
 import math, os, sys
-from PIL import Image, ImageDraw, ImageFilter, ImageOps
+from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageOps
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 VIDEOS = os.path.dirname(HERE)
@@ -38,11 +38,43 @@ BAR = (130, 905, 1480, 950)
 _cache = {}                         # só sprites de tamanho fixo
 
 
-def fundo(n):
-    c1, c2 = CORES[n % len(CORES)]
-    img = b.gradient(c1, c2)
-    img.paste(Image.new("RGB", (W, H), (255, 255, 255)), (0, 0), nd._mask())
-    return img.convert("RGBA")
+def _padrao():
+    """Ladrilho de '?' e globinhos que se repete sem emenda (240x216 cabe certinho em 1920x1080)."""
+    if "padrao" not in _cache:
+        tw, th = 240, 216
+        tile = Image.new("L", (tw, th), 0)
+        d = ImageDraw.Draw(tile)
+        d.text((60, 54), "?", font=b.font(b.F_BLACK, 76), fill=255, anchor="mm")
+        x, y = 180, 162
+        d.ellipse([x - 30, y - 30, x + 30, y + 30], outline=255, width=6)
+        d.line([x, y - 30, x, y + 30], fill=255, width=5)
+        d.line([x - 30, y, x + 30, y], fill=255, width=5)
+        m = Image.new("L", (W, H), 0)
+        for yy in range(0, H, th):
+            for xx in range(0, W, tw):
+                m.paste(tile, (xx, yy))
+        _cache["padrao"] = m.point(lambda v: v * 34 // 255)
+    return _cache["padrao"]
+
+
+def fundo(n, t=0.0):
+    """Degradê da cor da pergunta + padrão andando na diagonal (fundo com movimento)."""
+    k = ("grad", n % len(CORES))
+    if k not in _cache:
+        _cache[k] = b.gradient(*CORES[n % len(CORES)]).convert("RGBA")
+    img = _cache[k].copy()
+    m = ImageChops.offset(_padrao(), int(t * 40) % 240, int(t * 36) % 216)
+    img.paste((255, 255, 255, 255), (0, 0, W, H), m)
+    return img
+
+
+def zoom(img, z):
+    """Zoom lento na tela toda, igual ao Short."""
+    if abs(z - 1) < 1e-3:
+        return img
+    cw, ch = W / z, H / z
+    x0, y0 = (W - cw) / 2, (H - ch) / 2
+    return img.resize((W, H), Image.BILINEAR, box=(x0, y0, x0 + cw, y0 + ch))
 
 
 def foto(nome, size, filtro=None):
@@ -125,13 +157,17 @@ def topo(img, q, total):
     b.selo(img, 1730, 100, 0.7)
 
 
-def base(q, total):
-    k = ("base", q["n"], total)
+def base(q, total, t=0.0):
+    """Fundo andando + topo (o topo fica numa camada transparente guardada; tamanho fixo)."""
+    k = ("topo", q["n"], total)
     if k not in _cache:
-        img = fundo(q["n"])
-        topo(img, q, total)
-        _cache[k] = img
-    return _cache[k].copy()
+        lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        topo(lay, q, total)
+        _cache.pop(next((c for c in _cache if c[0] == "topo"), None), None)  # guarda só o atual
+        _cache[k] = lay
+    img = fundo(q["n"], t)
+    img.alpha_composite(_cache[k])
+    return img
 
 
 def colar(img, sp, cx, cy, sc=1.0):
@@ -162,40 +198,43 @@ def barra(img, frac, count=COUNT):
                stroke_width=4, stroke_fill=b.NAVY)
 
 
-def pergunta_frames(q, total, count=COUNT, filtro=None):
-    """Foto entra com pulinho, as opções entram uma a uma pela direita e a barra corre."""
+def pergunta_frames(q, total, count=COUNT, filtro=None, fala=0.0):
+    """Foto entra com pulinho, as alternativas pulam uma a uma e ficam flutuando; no fim do tempo tremem.
+    `fala`: segundos de narração antes da barra começar a correr."""
     card = cartao_sprite(q, filtro)
     ops = [opcao_sprite(i, o) for i, o in enumerate(q["opcoes"])]
-    n = int(count * FPS)
-    for i in range(n):
+    dur = fala + count
+    for i in range(int(dur * FPS)):
         t = i / FPS
-        frac = 1 - i / n
-        img = base(q, total)
-        colar(img, card, CARD_C[0], CARD_C[1] + 5 * math.sin(t * 2.5), pula(t / 0.35))
+        frac = 1.0 if t < fala else 1 - (t - fala) / count
+        img = base(q, total, t)
+        colar(img, card, CARD_C[0], CARD_C[1] + 6 * math.sin(t * 2.2), pula(t / 0.4))
         for k, sp in enumerate(ops):
-            a = min(max((t - 0.25 - 0.15 * k) / 0.3, 0.0), 1.0)
-            if a > 0:
-                colar(img, sp, OPT_X + (1 - pula(a)) * 300 if a < 1 else OPT_X, OPT_Y[k])
+            ent = pula((t - 0.3 - 0.15 * k) / 0.35)
+            dx = 5 * math.sin(t * 40 + k) if frac < 0.3 else 0
+            colar(img, sp, OPT_X + dx, OPT_Y[k] + 5 * math.sin(t * 3 + k * 1.3), ent)
         barra(img, frac, count)
-        pose = "pensando" if frac > 0.34 else "assustado"
+        pose = "pensando" if frac > 0.3 else "assustado"
         b.put_palito(img, pose, PAL_H, PAL_CX, PAL_BASE, int(7 * math.sin(t * (5 if pose == "pensando" else 18))))
-        yield img.convert("RGB")
+        yield zoom(img, 1.0 + 0.03 * t / dur).convert("RGB")
 
 
-def resposta_frames(q, dur, total, filtro_antes=None):
-    """A opção certa acende verde com ✔, as outras escurecem; foto volta à cor (se tinha filtro)."""
+def resposta_frames(q, dur, total, filtro_antes=None, t0=0.0):
+    """A certa cresce verde com ✔, as outras encolhem e escurecem; foto volta à cor (se tinha filtro)."""
     am, cor = cartao_sprite(q, filtro_antes), cartao_sprite(q, None)
-    ops = [opcao_sprite(i, o, "sim" if i == q["certa"] else "nao") for i, o in enumerate(q["opcoes"])]
     for i in range(int(dur * FPS)):
         tt = i / FPS
-        img = base(q, total)
+        img = base(q, total, t0 + tt)
         a = min(1.0, tt / 0.45)
         card = cor if (a >= 1 or filtro_antes is None) else Image.blend(am, cor, a)
         colar(img, card, CARD_C[0], CARD_C[1])
-        for k, sp in enumerate(ops):
-            sc = 1.0 + (0.06 * math.sin(min(tt / 0.35, 1) * math.pi) if k == q["certa"] else 0)
-            colar(img, sp, OPT_X, OPT_Y[k], sc)
+        for k, o in enumerate(q["opcoes"]):
+            if k == q["certa"]:
+                sc = 1.0 + 0.12 * math.sin(min(tt / 0.4, 1.0) * math.pi) + 0.04 * min(tt / 0.4, 1.0)
+                colar(img, opcao_sprite(k, o, "sim"), OPT_X, OPT_Y[k], sc)
+            else:
+                colar(img, opcao_sprite(k, o, "nao"), OPT_X, OPT_Y[k], 1.0 - 0.06 * min(tt / 0.25, 1.0))
         if tt < 0.2:
             img.alpha_composite(Image.new("RGBA", (W, H), (255, 255, 255, int(120 * (1 - tt / 0.2)))))
         b.put_palito(img, "comemorando", PAL_H, PAL_CX, PAL_BASE, -int(abs(26 * math.sin(tt * 7))))
-        yield img.convert("RGB")
+        yield zoom(img, 1.03 + 0.02 * tt / dur).convert("RGB")
