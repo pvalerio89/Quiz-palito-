@@ -234,6 +234,19 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/12-fruta-fotos-reais": {
+      "youtube": {
+        "status": "publicado",
+        "id": "jInQIa_bmXc",
+        "url": "https://youtu.be/jInQIa_bmXc",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "17fb104c87a957b5cda85cb5728823026b603c001a4742fd6ac353166cf0551e"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
