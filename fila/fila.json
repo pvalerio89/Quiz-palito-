@@ -6,10 +6,15 @@
       "referencia": "https://youtu.be/j11NuxWLVGg",
       "tema": "130 Perguntas de Conhecimentos Gerais (Capitão Quiz)",
       "obs": "Perguntas de conhecimentos gerais escolares, fácil→difícil. Pode ser menos que 130 se ficar longo demais.",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/10-conhecimentos-gerais",
       "short": "shorts/gerais-1",
-      "titulo": "50 PERGUNTAS DE CONHECIMENTOS GERAIS 🧠 Do Fácil ao Difícil! Você Consegue? | Quiz Palito"
+      "titulo": "50 PERGUNTAS DE CONHECIMENTOS GERAIS 🧠 Do Fácil ao Difícil! Você Consegue? | Quiz Palito",
+      "publicado_em": "2026-11-09",
+      "links": {
+        "video": "https://youtu.be/keMRIYfyBrA",
+        "short": "https://youtu.be/uNeMIzgXpqk"
+      }
     },
     {
       "id": "2026-11-06-frutas-3-segundos",

@@ -193,6 +193,19 @@
       "tiktok": {
         "status": "nao_se_aplica"
       }
+    },
+    "shorts/gerais-1": {
+      "titulo": "Só 1% acerta TODAS essas perguntas de CONHECIMENTOS GERAIS! 🧠 #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "uNeMIzgXpqk",
+        "url": "https://youtu.be/uNeMIzgXpqk",
+        "data": "2026-11-07",
+        "origem": "actions"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
