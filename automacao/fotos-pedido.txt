@@ -1,2 +1,1 @@
-baixar videos/12-fruta-fotos-reais/candidatas/teste.json videos/12-fruta-fotos-reais/candidatas/teste
-# teste brocolis 2
+buscar videos/13-animal-pela-foto/candidatas/lista.tsv videos/13-animal-pela-foto/candidatas
