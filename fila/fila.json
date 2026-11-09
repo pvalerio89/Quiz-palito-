@@ -51,10 +51,15 @@
       "referencia": "https://youtu.be/PlFby7gRzgA",
       "tema": "Quiz dos Animais: 30 perguntas, adivinhe o animal",
       "obs": "Formato 'pelo zoom': foto real começa ampliada e vai abrindo em 4 s. 90 animais (Wikimedia Commons), créditos na tela final. 11:17.",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/13-animal-pela-foto",
       "short": "shorts/animais-1",
-      "titulo": "ADIVINHE O ANIMAL PELO ZOOM! 🦁 90 Animais em Fotos Reais | Quiz Palito"
+      "titulo": "ADIVINHE O ANIMAL PELO ZOOM! 🦁 90 Animais em Fotos Reais | Quiz Palito",
+      "publicado_em": "2026-11-09",
+      "links": {
+        "video": "https://youtu.be/iotE51SoaZY",
+        "short": "https://youtu.be/jIr_cgaqj7g"
+      }
     },
     {
       "id": "2026-11-06-tudo-amarelo",
