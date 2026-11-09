@@ -19,5 +19,19 @@
   "arquivo": "brocolis-c.jpg",
   "autor": "Rasbak",
   "lic": "CC BY-SA 3.0"
+ },
+ "Brocolis D": {
+  "file": "Broccoli2.jpg",
+  "crop": null,
+  "arquivo": "brocolis-d.jpg",
+  "autor": "Wikimedia Commons",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Brocolis E": {
+  "file": "Broccolo_torbole_1.jpg",
+  "crop": null,
+  "arquivo": "brocolis-e.jpg",
+  "autor": "Kikko68",
+  "lic": "Public domain"
  }
 }
