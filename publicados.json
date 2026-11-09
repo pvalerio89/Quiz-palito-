@@ -275,6 +275,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/animais-1": {
+      "titulo": "Adivinhe o ANIMAL pela FOTO! 🦁 Só gênio acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "jIr_cgaqj7g",
+        "url": "https://youtu.be/jIr_cgaqj7g",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "3f8de48ef3a0354972752dcd8414cba1fd26dddf81606641eb8a6f418fc9c7a6"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
