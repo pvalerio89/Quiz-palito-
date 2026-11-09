@@ -53,7 +53,8 @@ def licenca(fn):
         return None
     lic = [l.strip() for l in re.findall(r'licensetpl_short"[^>]*>([^<]*)<', p)]
     m = re.search(r'id="fileinfotpl_aut"[^>]*>.*?</td>\s*<td[^>]*>(.*?)</td>', p, re.S)
-    autor = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", m.group(1))).strip()[:80] if m else ""
+    autor = re.sub(r"<style.*?</style>", "", m.group(1), flags=re.S) if m else ""  # Creator: traz CSS junto
+    autor = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", autor)).strip()[:80]
     return {"file": fn, "lic": lic, "autor": autor}
 
 
@@ -161,7 +162,9 @@ def baixar(escolhas, pasta, lado=720):
         info = e.get("lic") and e or (licenca(e["file"]) or {})
         lic = [l for l in info.get("lic", []) if not l.upper().startswith("GFDL")] or info.get("lic", ["?"])
         autor = re.sub(r"\s+", " ", html.unescape(info.get("autor") or "")).strip()
-        autor = re.sub(r"(?i)^self,?\s*|\s*\(?talk\)?$|[¡!]?שיחת!?\u200e?", "", autor).strip() or "autor no Wikimedia Commons"
+        autor = re.sub(r"(?i)^self,?\s*|\s*\(?talk\)?$|[¡!]?שיחת!?\u200e?", "", autor).strip()
+        autor = re.sub(r"(?i)^no machine-readable author provided\.\s*|~\w+$|^\S+\.(jpe?g|png):\s*|^English:\s*", "", autor).strip()
+        autor = re.split(r"\s{2,}|Alternative names", autor)[0].strip() or "autor no Wikimedia Commons"
         cred[nome] = {"file": e["file"], "crop": e.get("crop"), "arquivo": os.path.basename(dst),
                       "autor": autor[:60], "lic": lic[0]}
         print("ok", nome, cred[nome]["lic"], flush=True)

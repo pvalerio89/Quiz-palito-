@@ -1,0 +1,1099 @@
+{
+ "Gato": {
+  "file": "Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01.jpg: Hisashi from Japan der"
+ },
+ "Leão": {
+  "file": "020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Giles Laurent"
+ },
+ "Cachorro": {
+  "file": "Retriever_in_water.jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Kyfishfishfish"
+ },
+ "Elefante": {
+  "file": "178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Giles Laurent"
+ },
+ "Vaca": {
+  "file": "CowPosture_20150612.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Niranjan Arminius"
+ },
+ "Girafa": {
+  "file": "Giraffa_camelopardalis_reticulata_01,_flip.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "H. Zell"
+ },
+ "Cavalo": {
+  "file": "Biandintz_eta_zaldiak_-_modified2.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Mikel Ortega from Errenteria, Basque Country, Spain, with a retouche by Richard "
+ },
+ "Galinha": {
+  "file": "Male_and_female_chicken_sitting_together.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Andrei Niemimäki from Turku, Finland"
+ },
+ "Porco": {
+  "file": "Pig_farm_Vampula_1.jpg",
+  "crop": [
+   0.3,
+   0.6,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "kallerna"
+ },
+ "Macaco": {
+  "file": "015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Giles Laurent"
+ },
+ "Coelho": {
+  "file": "Oryctolagus_cuniculus_Rcdo.jpg",
+  "crop": [
+   0.5,
+   0.55,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY 3.0"
+  ],
+  "autor": "JM Ligero Loarte"
+ },
+ "Tigre": {
+  "file": "Panthera_tigris_corbetti_(Tierpark_Berlin)_832-714-(118).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Lotse"
+ },
+ "Urso-polar": {
+  "file": "Polar_Bear_-_Alaska_(cropped).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Alan Wilson"
+ },
+ "Golfinho": {
+  "file": "Tursiops_truncatus_01-cropped.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "NASA"
+ },
+ "Tartaruga": {
+  "file": "Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Sapo": {
+  "file": "Amplexus_Bufo_bufo_2010-03-29.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Bernie"
+ },
+ "Ovelha": {
+  "file": "A_curious_Welsh_Mountain_sheep_(Ovis_aries).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Seraaron"
+ },
+ "Papagaio": {
+  "file": "Amazona_aestiva_-Parque_das_Aves,_Foz_do_Iguacu,_Brazil_-head-8a.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Deni Williams"
+ },
+ "Pato": {
+  "file": "2015_Kaczka_krzyżowka_w_wodzie_(samiec)_(tight_crop).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Jacek Halicki"
+ },
+ "Cobra": {
+  "file": "Sucuri_verde.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "MKAMPIS"
+ },
+ "Borboleta": {
+  "file": "Monarch_In_May.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Kenneth Dwain Harrelson"
+ },
+ "Abelha": {
+  "file": "Apis_mellifera_Western_honey_bee.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.5"
+  ],
+  "autor": "Andreas Trepte"
+ },
+ "Tubarão": {
+  "file": "White_shark.jpg",
+  "crop": [
+   0.45,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY 2.5"
+  ],
+  "autor": "English: Pterantula (Terry Goss) at en.wikipedia"
+ },
+ "Baleia": {
+  "file": "Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 4.0"
+  ],
+  "autor": "Juan Cruzado Cortés"
+ },
+ "Jacaré": {
+  "file": "023_Yacare_caiman_sunbathing_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.5,
+   0.55,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Giles Laurent"
+ },
+ "Hipopótamo": {
+  "file": "Portrait_Hippopotamus_in_the_water.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Muhammad Mahdi Karim"
+ },
+ "Rinoceronte": {
+  "file": "109_Male_White_rhinoceros_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Giles Laurent"
+ },
+ "Canguru": {
+  "file": "Female_Red_Kangaroo_(Macropus_rufus).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 3.0"
+  ],
+  "autor": "Bidgee"
+ },
+ "Camelo": {
+  "file": "Dromadaire4478.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "No machine-readable author provided. Pierrepoitevin~commonswiki assumed (based o"
+ },
+ "Coala": {
+  "file": "Phascolarctos_cinereus_Bonorong.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "JJ Harrison (https://www.jjharrison.com.au/)"
+ },
+ "Gorila": {
+  "file": "Gorilla_Thinker.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Jim Bowen"
+ },
+ "Lobo": {
+  "file": "Eurasian_wolf_2.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "User:Mas3cf"
+ },
+ "Raposa": {
+  "file": "Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "ClaudiaTen"
+ },
+ "Esquilo": {
+  "file": "Squirrel_posing.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Peter Trimming"
+ },
+ "Cabra": {
+  "file": "Hausziege_04.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Kuebi = Armin Kübelbeck"
+ },
+ "Burro": {
+  "file": "Donkey_in_Clovelly,_North_Devon,_England.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain",
+   "Public domain"
+  ],
+  "autor": "Adrian Pingstone"
+ },
+ "Tucano": {
+  "file": "Toco_toucan_or_Tucanuçu_(Ramphastos_toco)_(20142718649).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Under the same moon..."
+ },
+ "Arara": {
+  "file": "Ara_ararauna_qtl3.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Quartl"
+ },
+ "Capivara": {
+  "file": "Hydrochoeris_hydrochaeris_in_Brazil_in_Petrópolis,_Rio_de_Janeiro,_Brazil_09.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Onça-pintada": {
+  "file": "Standing_jaguar.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "USFWS"
+ },
+ "Tatu": {
+  "file": "Dasypus_novemcinctus_en_Zoológico_de_Paraguaná.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 4.0"
+  ],
+  "autor": "Aramburu Carlos"
+ },
+ "Bicho-preguiça": {
+  "file": "Bradypus.jpg",
+  "crop": [
+   0.5,
+   0.35,
+   1.0
+  ],
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "Stefan Laube (Tauchgurke)"
+ },
+ "Tamanduá-bandeira": {
+  "file": "Myresluger2.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY-SA 2.5"
+  ],
+  "autor": "Malene Thyssen"
+ },
+ "Águia": {
+  "file": "Bald_eagle_about_to_fly_in_Alaska_(2016).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Andy Morffew from Itchen Abbas, Hampshire, UK"
+ },
+ "Caranguejo": {
+  "file": "Cancer_pagurus.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Hans Hillewaert"
+ },
+ "Estrela-do-mar": {
+  "file": "Starfish_montage.png",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Top left: Klaus Rassinger (Museum Wiesbaden) Top right: Katie Ahlfeld Bottom rig"
+ },
+ "Água-viva": {
+  "file": "Sea_Nettle_Jelly_1.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Fred Hsu (Wikipedia:User:Fredhsu on en.wikipedia)"
+ },
+ "Caracol": {
+  "file": "Snail1web.jpg",
+  "crop": [
+   0.6,
+   0.55,
+   1.0
+  ],
+  "lic": [
+   "Public domain",
+   "Public domain"
+  ],
+  "autor": ""
+ },
+ "Avestruz": {
+  "file": "Yaen001.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 4.0"
+  ],
+  "autor": "MathKnight"
+ },
+ "Guepardo": {
+  "file": "Cheetah,_Masai_Mara_(52448476886).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "flowcomm"
+ },
+ "Leopardo": {
+  "file": "African_leopard_male_(cropped).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Sumeet Moghe"
+ },
+ "Hiena": {
+  "file": "Spotted_Hyaena_(Crocuta_crocuta)_female_close-up_..._(31339658775).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Bernard DUPONT from FRANCE"
+ },
+ "Castor": {
+  "file": "American_Beaver.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Steve from Washington, DC, USA"
+ },
+ "Lontra": {
+  "file": "Sea_Otter_(Enhydra_lutris)_(25169790524)_crop.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Marshal Hedin from San Diego"
+ },
+ "Foca": {
+  "file": "Common_seal_(Phoca_vitulina)_2.jpg",
+  "crop": [
+   0.35,
+   0.45,
+   0.8
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Morsa": {
+  "file": "Walrus_2_(6383855895).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0",
+   "Public domain"
+  ],
+  "autor": "Dolovis (uploader)"
+ },
+ "Alce": {
+  "file": "Alaska_moose.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Paxson Woelber"
+ },
+ "Lhama": {
+  "file": "Domestic_llama_(2009-05-19).jpg",
+  "crop": [
+   0.55,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Kim Foster"
+ },
+ "Bisão": {
+  "file": "American_bison_k5680-1.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "Jack Dykinga"
+ },
+ "Beija-flor": {
+  "file": "Purple-throated_carib_hummingbird_feeding.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 3.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Iguana": {
+  "file": "Red_head_iguana_from_Costa_Rica_2.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Roy Luck"
+ },
+ "Mico-leão-dourado": {
+  "file": "Golden_Lion_Tamarin_Leontopithecus_rosalia.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "su neko"
+ },
+ "Pica-pau": {
+  "file": "PileatedWoodpeckerFeedingonTree,_crop.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Joshlaymon"
+ },
+ "Quati": {
+  "file": "South_American_Coatis_(Nasua_nasua)_female_and_young_crossing_the_road_..._-_Flickr_-_berniedup.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Bernard DUPONT from FRANCE"
+ },
+ "Lobo-guará": {
+  "file": "Lobo_Guará_andando.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Jonathan Wilkins"
+ },
+ "Anta": {
+  "file": "Tapirus_terrestris_run.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Bill McDavid"
+ },
+ "Peixe-boi": {
+  "file": "Underwater_photography_on_endangered_mammal_manatee.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain",
+   "Public domain"
+  ],
+  "autor": "Ramos Keith, U.S. Fish and Wildlife Service"
+ },
+ "Boto-cor-de-rosa": {
+  "file": "Inia_geoffrensis_179341177.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Diogo Luiz"
+ },
+ "Ema": {
+  "file": "Nandu_Rhea_americana_Tierpark_Hellabrunn-1.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Rufus46"
+ },
+ "Tamanduá-mirim": {
+  "file": "Tamandua_tetradactyla_-_Jardim_Zoológico_de_Brasília_-_DSC09859.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0",
+   "CC0"
+  ],
+  "autor": "Daderot"
+ },
+ "Suricato": {
+  "file": "Meerkat_(Suricata_suricatta)_Tswalu.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Ornitorrinco": {
+  "file": "Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Lêmure": {
+  "file": "Lemur_(36254433134).jpg",
+  "crop": [
+   0.5,
+   0.6,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Mathias Appel"
+ },
+ "Panda-vermelho": {
+  "file": "Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+  "crop": [
+   0.55,
+   0.6,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Sunuwargr"
+ },
+ "Javali": {
+  "file": "Jabalí_13._F._FOTO-ARDEIDAS.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "FOTO-ARDEIDAS"
+ },
+ "Orangotango": {
+  "file": "Orangutan_Kalimantan.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Ridwan0810"
+ },
+ "Tatu-bola": {
+  "file": "Brazilian_three-banded_armadillo_(Tolypeutes_tricinctus),_Natural_History_Museum,_London,_Mammals_Gallery.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "John Cummings"
+ },
+ "Ariranha": {
+  "file": "018_Giant_otter_eating_a_fish_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Giles Laurent"
+ },
+ "Axolote": {
+  "file": "AxolotlBE.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "th1098"
+ },
+ "Pangolim": {
+  "file": "Manis_pentadactyla_I.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 4.0"
+  ],
+  "autor": "Licheng Shih"
+ },
+ "Seriema": {
+  "file": "174_Red-legged_seriema_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Giles Laurent"
+ },
+ "Ocapi": {
+  "file": "Saint-Aignan_(Loir-et-Cher)._Okapi.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Daniel Jolivet"
+ },
+ "Tarsier": {
+  "file": "Bohol_Tarsier.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "mtoz"
+ },
+ "Baiacu": {
+  "file": "Colomesus.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Neale Monks"
+ },
+ "Louva-a-deus": {
+  "file": "Mantis_(European).jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Mihai C. Popa"
+ },
+ "Escorpião": {
+  "file": "Scorpion_Photograph_By_Shantanu_Kuveskar.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Shantanu Kuveskar"
+ },
+ "Tarântula": {
+  "file": "Brachypelma_vagans_p1.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Carlos Valenzuela Montuy"
+ },
+ "Formiga": {
+  "file": "Red_Ant_-_March_2025.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Samantha Henneke from Seagrove, North Carolina, USA"
+ },
+ "Dragão-de-komodo": {
+  "file": "202306_Varanus_komodoensis.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 4.0"
+  ],
+  "autor": "James Jolokia (james1203)"
+ },
+ "Gavião-real": {
+  "file": "Harpia_harpyja_001_800.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY 3.0"
+  ],
+  "autor": "http://www.birdphotos.com"
+ }
+}

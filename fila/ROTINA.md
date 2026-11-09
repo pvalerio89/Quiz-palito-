@@ -47,6 +47,10 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
      A mesma frase vai na tela de abertura, no título e no `tiktok.txt`. Na descrição e no `tiktok.txt`:
      link do canal (https://www.youtube.com/channel/UCerGMTooT9vl4yVgW7Ggd3A) e o texto `LINK_DO_VIDEO_LONGO` no lugar do link do vídeo
      longo (o workflow troca pelo link certo na hora de publicar).
+   - **Abertura falada variada** (pedido do Patrick, 2026-11-09): não comece todo vídeo com "Fala, pessoal! Bem-vindos
+     a mais um Quiz Palito!". Veja o `INTRO` dos últimos vídeos (`videos/*/gerar_vozes.py`) e use outra frase de entrada,
+     ligada ao tema (ex.: "Ei, você aí! Será que conhece mesmo os bichos?", "Atenção, que hoje o desafio é diferente:",
+     "Prepara o cérebro:", "Bora testar seu olho?", "Desafio rápido:", "Chegou mais um Quiz Palito!").
    - Voz: Edge TTS pt-BR-AntonioNeural rate +20% pitch +2Hz. Música só do `musicas/` com o crédito de 1 linha.
    - Script de montagem precisa chamar `build_*.py` (o `automacao/gerar.py` acha sozinho).
    - **Confira** a prévia (`py automacao/gerar.py <pasta> --previa`, com as fontes substitutas descritas na memória):
