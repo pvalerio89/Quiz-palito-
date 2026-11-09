@@ -45,7 +45,7 @@ def video():
         {"n": 2, "pergunta": "Que animal é esse?", "foto": "panda.jpg", "clipe": "panda.mp4",
          "opcoes": ["Panda", "Urso-pardo", "Guaxinim"], "certa": 0},
         dict(Q[1], n=3),
-        {"n": 4, "pergunta": "Que animal é esse?", "foto": "panda.jpg", "clipe": "guepardo.mp4",
+        {"n": 4, "pergunta": "Que animal é esse?", "foto": "panda.jpg", "clipe": "guepardo-2.mp4",
          "opcoes": ["Leopardo", "Onça-pintada", "Guepardo"], "certa": 2},
     ]
     tmp = tempfile.mkdtemp(prefix="opcoes_")

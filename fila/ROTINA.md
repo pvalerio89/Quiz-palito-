@@ -25,8 +25,14 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
    - Veja a referência leve: título pelo oembed, storyboard/miniaturas com `yt-dlp` (`-f sb0`), sem baixar o vídeo.
    - Faça a **versão Quiz Palito**: mesmo formato e ritmo, **perguntas próprias**, sem copiar arte, marca ou texto
      do outro canal, **sem parte de explicação/fonte**. Temas escolares/educativos para adolescentes quando der.
-   - Use o modelo de vídeo mais novo do repositório (o mais recente em `videos/`; estilo em `videos/modelo-cartao/`
-     se existir). Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
+   - **Layout aprovado (Patrick, 2026-11-09): `videos/modelo-opcoes/opcoes.py`.** Toda pergunta do vídeo longo é
+     QUESTÃO com 3 alternativas A/B/C (igual aos Shorts): foto à esquerda, alternativas animadas, Palito à direita,
+     fundo com movimento, **efeitos sonoros** (`make_sfx` + `sons_pergunta`) e **transição** entre perguntas
+     (`transicao_frames`). Em **algumas** perguntas (umas 1 a cada 5, quando houver clipe bom) troque a foto por um
+     **vídeo curto** (`q["clipe"]`): ache .webm/.ogv nos artigos da Wikipédia, confira a licença (PD/CC0/CC BY de
+     preferência) e baixe com `automacao/fotos_wiki.py clipes` pelo workflow "Fotos Wikimedia" (crédito vai na tela final).
+     Alternativas erradas plausíveis e do mesmo tipo; a certa em posição variada. Exemplo completo: `previa.py` (`video()`).
+     Só se o tema não couber em alternativas, use o modelo mais recente de `videos/`. Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
    - **Vídeo longo com MAIS DE 8 MINUTOS** (regra do Patrick, 2026-11-09: a partir de 8 min o YouTube deixa pôr
      anúncios no meio). Mire em **8:30 a 10 min** e coloque **o máximo de perguntas que couber** (não enrole com
      telas paradas). Depois de montar, confira a duração (`tempos.json` → `final` + fim ≥ 500 s, ou `ffprobe`); se
