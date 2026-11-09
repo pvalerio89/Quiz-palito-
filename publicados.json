@@ -206,6 +206,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/11-fruta-3-segundos": {
+      "titulo": "ADIVINHE A FRUTA EM 3 SEGUNDOS! 🍓 33 Frutas e Legumes | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "uHskqFbgyNQ",
+        "url": "https://youtu.be/uHskqFbgyNQ",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "c56cac827f64bec6607ae58fb89f466cd100a07c79f72cf907265404e3eb6ae2"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
