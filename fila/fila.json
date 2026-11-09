@@ -66,10 +66,15 @@
       "referencia": "https://youtu.be/tAhIEzTK2Wk",
       "tema": "Quiz mas TUDO É AMARELO (referência de Pokémon)",
       "obs": "Fotos reais (lugares famosos, objetos, animais) pintadas de amarelo; a cor volta na resposta. Sem Pokémon. 67 itens, Wikimedia Commons.",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/14-tudo-amarelo",
       "short": "shorts/amarelo-1",
-      "titulo": "QUIZ, MAS TUDO É AMARELO! 💛 Adivinhe 67 Lugares, Objetos e Animais Sem a Cor | Quiz Palito"
+      "titulo": "QUIZ, MAS TUDO É AMARELO! 💛 Adivinhe 67 Lugares, Objetos e Animais Sem a Cor | Quiz Palito",
+      "publicado_em": "2026-11-09",
+      "links": {
+        "video": "https://youtu.be/EE9ShTGX9Sc",
+        "short": "https://youtu.be/CGOP3Jfeh_k"
+      }
     },
     {
       "id": "2026-11-06-desenho-pela-intro",
