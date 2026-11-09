@@ -1,0 +1,23 @@
+{
+ "Panda": {
+  "file": "Pandas_playing_640x480.ogv",
+  "arquivo": "panda.mp4",
+  "autor": "Brian Dell",
+  "lic": "Public domain",
+  "video": true
+ },
+ "Guepardo": {
+  "file": "Cheetahs_on_the_Edge_(Director's_Cut).ogv",
+  "arquivo": "guepardo.mp4",
+  "autor": "Gregory Wilson",
+  "lic": "CC BY 3.0",
+  "video": true
+ },
+ "Guepardo 2": {
+  "file": "Cheetahs_on_the_Edge_(Director's_Cut).ogv",
+  "arquivo": "guepardo-2.mp4",
+  "autor": "Gregory Wilson",
+  "lic": "CC BY 3.0",
+  "video": true
+ }
+}
