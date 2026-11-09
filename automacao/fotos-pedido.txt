@@ -1,1 +1,1 @@
-buscar videos/13-animal-pela-foto/candidatas/lista.tsv videos/13-animal-pela-foto/candidatas
+clipes videos/modelo-opcoes/clipes.json videos/modelo-opcoes
