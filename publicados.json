@@ -289,6 +289,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/14-tudo-amarelo": {
+      "titulo": "QUIZ, MAS TUDO É AMARELO! 💛 Adivinhe 67 Lugares, Objetos e Animais Sem a Cor | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "EE9ShTGX9Sc",
+        "url": "https://youtu.be/EE9ShTGX9Sc",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "64257adc46d47ca6c37335353b59d033b5d38356337af477f67c0751f45be7c6"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
