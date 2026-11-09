@@ -1,0 +1,582 @@
+{
+ "Banana": {
+  "file": "Bananavarieties.jpg",
+  "crop": [
+   0.78,
+   0.5,
+   1.0
+  ],
+  "arquivo": "banana.jpg",
+  "autor": "TimothyPilgrim",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Morango": {
+  "file": "Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg",
+  "crop": null,
+  "arquivo": "morango.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Cenoura": {
+  "file": "Carrots_at_Ljubljana_Central_Market.JPG",
+  "crop": null,
+  "arquivo": "cenoura.jpg",
+  "autor": "domdomegg",
+  "lic": "CC BY 4.0"
+ },
+ "Melancia": {
+  "file": "Watermelon_cross_BNC.jpg",
+  "crop": "fit",
+  "arquivo": "melancia.jpg",
+  "autor": "Prathyush Thomas",
+  "lic": "FAL"
+ },
+ "Uva": {
+  "file": "Grapes,_Rostov-on-Don,_Russia.jpg",
+  "crop": null,
+  "arquivo": "uva.jpg",
+  "autor": "Vyacheslav Argenberg",
+  "lic": "CC BY 4.0"
+ },
+ "Milho": {
+  "file": "Brazilian_corn_on_the_cob.jpg",
+  "crop": null,
+  "arquivo": "milho.jpg",
+  "autor": "Ninatravassos",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Abacaxi": {
+  "file": "കൈതച്ചക്ക.jpg",
+  "crop": null,
+  "arquivo": "abacaxi.jpg",
+  "autor": "Suniltg at Malayalam Wikipedia",
+  "lic": "CC BY 3.0"
+ },
+ "Tomate": {
+  "file": "Tomato_je.jpg",
+  "crop": null,
+  "arquivo": "tomate.jpg",
+  "autor": "Softeis",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Maçã": {
+  "file": "Lobo_(apple)_(cropped).jpg",
+  "crop": null,
+  "arquivo": "maca.jpg",
+  "autor": "Aron Ambrosiani",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Batata": {
+  "file": "Patates.jpg",
+  "crop": null,
+  "arquivo": "batata.jpg",
+  "autor": "Scott Bauer, USDA ARS",
+  "lic": "Public domain"
+ },
+ "Laranja": {
+  "file": "Oranges_-_whole-halved-segment.jpg",
+  "crop": [
+   0.3,
+   0.5,
+   1.0
+  ],
+  "arquivo": "laranja.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Limão": {
+  "file": "Starr_080610-8303_Citrus_aurantiifolia.jpg",
+  "crop": null,
+  "arquivo": "limao.jpg",
+  "autor": "Forest & Kim Starr",
+  "lic": "CC BY 3.0"
+ },
+ "Brócolis": {
+  "file": "Broccoli_flowers_2525385935_e13d4de4c4_b.jpg",
+  "crop": null,
+  "arquivo": "brocolis.jpg",
+  "autor": "en:User:Jengod",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Cereja": {
+  "file": "Cherry_season_(48216568227).jpg",
+  "crop": null,
+  "arquivo": "cereja.jpg",
+  "autor": "spurekar",
+  "lic": "CC BY 2.0"
+ },
+ "Coco": {
+  "file": "Coconut_half_exocarp_removed.jpg",
+  "crop": null,
+  "arquivo": "coco.jpg",
+  "autor": "KEmel49",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Cebola": {
+  "file": "Mixed_onions.jpg",
+  "crop": null,
+  "arquivo": "cebola.jpg",
+  "autor": "Colin",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Pera": {
+  "file": "Pears.jpg",
+  "crop": null,
+  "arquivo": "pera.jpg",
+  "autor": "Keith Weller",
+  "lic": "Public domain"
+ },
+ "Pepino": {
+  "file": "Cucumber_BNC.jpg",
+  "crop": "fit",
+  "arquivo": "pepino.jpg",
+  "autor": "Prathyush Thomas",
+  "lic": "FAL"
+ },
+ "Abacate": {
+  "file": "Seedless_Avocado_in_Mexico.jpg",
+  "crop": null,
+  "arquivo": "abacate.jpg",
+  "autor": "nsaum75",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Alho": {
+  "file": "Opened_garlic_bulb_with_garlic_clove.jpg",
+  "crop": null,
+  "arquivo": "alho.jpg",
+  "autor": "Dubravko Sorić SoraZG on Flickr",
+  "lic": "CC BY 2.0"
+ },
+ "Kiwi": {
+  "file": "Kiwifruit_cross_section.jpg",
+  "crop": null,
+  "arquivo": "kiwi.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Berinjela": {
+  "file": "Eleven_long_purple_eggplants.jpg",
+  "crop": null,
+  "arquivo": "berinjela.jpg",
+  "autor": "JVRKPRASAD",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Manga": {
+  "file": "Mangos_-_single_and_halved.jpg",
+  "crop": "fit",
+  "arquivo": "manga.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Pimentão": {
+  "file": "Green-Yellow-Red-Pepper-2009.jpg",
+  "crop": "fit",
+  "arquivo": "pimentao.jpg",
+  "autor": "Kham Tran - www.khamtran.com",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Mamão": {
+  "file": "Papaya.jpg",
+  "crop": null,
+  "arquivo": "mamao.jpg",
+  "autor": "Scott Bauer, USDA ARS",
+  "lic": "Public domain"
+ },
+ "Abóbora": {
+  "file": "FrenchMarketPumpkinsB.jpg",
+  "crop": null,
+  "arquivo": "abobora.jpg",
+  "autor": "Infrogmation of New Orleans",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Alface": {
+  "file": "Romaine_lettuce.jpg",
+  "crop": null,
+  "arquivo": "alface.jpg",
+  "autor": "Rainer Zenz",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Pêssego": {
+  "file": "Autumn_Red_peaches.jpg",
+  "crop": null,
+  "arquivo": "pessego.jpg",
+  "autor": "Jack Dykinga, USDA",
+  "lic": "Public domain"
+ },
+ "Beterraba": {
+  "file": "Detroitdarkredbeets.png",
+  "crop": null,
+  "arquivo": "beterraba.jpg",
+  "autor": "BriannaWalther",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Tangerina": {
+  "file": "Citrus_reticulata_April_2013_Nordbaden.JPG",
+  "crop": null,
+  "arquivo": "tangerina.jpg",
+  "autor": "4028mdk09",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Couve-flor": {
+  "file": "Chou-fleur_02.jpg",
+  "crop": null,
+  "arquivo": "couve-flor.jpg",
+  "autor": "Coyau",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Melão": {
+  "file": "Cucumis_melo_var._reticulatus_(photo_by_Scott_Bauer).jpg",
+  "crop": null,
+  "arquivo": "melao.jpg",
+  "autor": "USDA photo by Scott Bauer. Image Number K7355-11.",
+  "lic": "Public domain"
+ },
+ "Batata-doce": {
+  "file": "Ipomoea_batatas_006.JPG",
+  "crop": null,
+  "arquivo": "batata-doce.jpg",
+  "autor": "Llez",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Goiaba": {
+  "file": "Guava_pink_fruit.jpg",
+  "crop": "fit",
+  "arquivo": "goiaba.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Repolho": {
+  "file": "Chou_1.jpg",
+  "crop": null,
+  "arquivo": "repolho.jpg",
+  "autor": "Kondah",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Maracujá": {
+  "file": "Passion_fruits_-_whole_and_halved.jpg",
+  "crop": "fit",
+  "arquivo": "maracuja.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Abobrinha": {
+  "file": "Zucchini-Whole.jpg",
+  "crop": "fit",
+  "arquivo": "abobrinha.jpg",
+  "autor": "Evan-Amos",
+  "lic": "Public domain"
+ },
+ "Ameixa": {
+  "file": "Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+  "crop": null,
+  "arquivo": "ameixa.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Mandioca": {
+  "file": "Manihot_esculenta_001.jpg",
+  "crop": "fit",
+  "arquivo": "mandioca.jpg",
+  "autor": "Amada44",
+  "lic": "CC BY 3.0"
+ },
+ "Framboesa": {
+  "file": "Raspberries_(Rubus_idaeus).jpg",
+  "crop": null,
+  "arquivo": "framboesa.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Pimenta": {
+  "file": "Madame_Jeanette_and_other_chillies.jpg",
+  "crop": null,
+  "arquivo": "pimenta.jpg",
+  "autor": "Takeaway",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Caju": {
+  "file": "Cashew_apples.jpg",
+  "crop": null,
+  "arquivo": "caju.jpg",
+  "autor": "Abhishek Jacob",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Cogumelo": {
+  "file": "ChampignonMushroom.jpg",
+  "crop": null,
+  "arquivo": "cogumelo.jpg",
+  "autor": "chris_73",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Amora": {
+  "file": "Ripe,_ripening,_and_green_blackberries.jpg",
+  "crop": null,
+  "arquivo": "amora.jpg",
+  "autor": "Ragesoss",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Ervilha": {
+  "file": "Peas_in_pods_-_Studio.jpg",
+  "crop": null,
+  "arquivo": "ervilha.jpg",
+  "autor": "Bill Ebbesen",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Mirtilo": {
+  "file": "Maturing_blueberry.jpg",
+  "crop": null,
+  "arquivo": "mirtilo.jpg",
+  "autor": "Dladek",
+  "lic": "Public domain"
+ },
+ "Rabanete": {
+  "file": "Radish_3371103037_4ab07db0bf_o.jpg",
+  "crop": null,
+  "arquivo": "rabanete.jpg",
+  "autor": "en:User:Jengod",
+  "lic": "Public domain"
+ },
+ "Figo": {
+  "file": "Feige-Schnitt.png",
+  "crop": null,
+  "arquivo": "figo.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "Public domain"
+ },
+ "Romã": {
+  "file": "Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+  "crop": null,
+  "arquivo": "roma.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Chuchu": {
+  "file": "Chayote_cross_section_BNC.jpg",
+  "crop": "fit",
+  "arquivo": "chuchu.jpg",
+  "autor": "Prathyush Thomas",
+  "lic": "FAL"
+ },
+ "Azeitona": {
+  "file": "Olivesfromjordan.jpg",
+  "crop": null,
+  "arquivo": "azeitona.jpg",
+  "autor": "en:User:Nickfraser",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Quiabo": {
+  "file": "Oklahoma-grown_okra.jpg",
+  "crop": null,
+  "arquivo": "quiabo.jpg",
+  "autor": "Geo Lightspeed7",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Carambola": {
+  "file": "Carambola_Starfruit.jpg",
+  "crop": "fit",
+  "arquivo": "carambola.jpg",
+  "autor": "SMasters",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Gengibre": {
+  "file": "Ginger_in_China_01.jpg",
+  "crop": [
+   0.75,
+   0.5,
+   1.0
+  ],
+  "arquivo": "gengibre.jpg",
+  "autor": "Anna Frodesiak",
+  "lic": "Public domain"
+ },
+ "Pitaya": {
+  "file": "Pitaya_cross_section_ed2.jpg",
+  "crop": "fit",
+  "arquivo": "pitaya.jpg",
+  "autor": "SMasters",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Vagem": {
+  "file": "CDC_greenbean.jpg",
+  "crop": null,
+  "arquivo": "vagem.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "Public domain"
+ },
+ "Lichia": {
+  "file": "Litchi_chinensis_Luc_Viatour.jpg",
+  "crop": null,
+  "arquivo": "lichia.jpg",
+  "autor": "Luc Viatour",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Aspargo": {
+  "file": "Asparagus-Bundle.jpg",
+  "crop": "fit",
+  "arquivo": "aspargo.jpg",
+  "autor": "Evan-Amos",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Caqui": {
+  "file": "Persimmon_(fuyu).jpg",
+  "crop": null,
+  "arquivo": "caqui.jpg",
+  "autor": "Rhododendrites",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Amendoim": {
+  "file": "Peanuts_(Arachis_hypogaea)_-_in_shell,_shell_cracked_open,_shelled,_peeled.jpg",
+  "crop": null,
+  "arquivo": "amendoim.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Jabuticaba": {
+  "file": "Jabuticaba_(do_tupi_îabotikaba,_'gordura_de_jabuti')_01.jpg",
+  "crop": null,
+  "arquivo": "jabuticaba.jpg",
+  "autor": "Bageense",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Couve": {
+  "file": "Collard_Plants.jpg",
+  "crop": null,
+  "arquivo": "couve.jpg",
+  "autor": "شارق کشمیری",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Acerola": {
+  "file": "Malpighia_emarginata_2013_002.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   0.75
+  ],
+  "arquivo": "acerola.jpg",
+  "autor": "Veronidae",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Alho-poró": {
+  "file": "Leek_on_white_background_-_0947.jpg",
+  "crop": "fit",
+  "arquivo": "alho-poro.jpg",
+  "autor": "Amada44",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Jaca": {
+  "file": "The_jackfruit_is_holding_on_to_the_tree.jpg",
+  "crop": null,
+  "arquivo": "jaca.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Nabo": {
+  "file": "Turnip_2622027.jpg",
+  "crop": null,
+  "arquivo": "nabo.jpg",
+  "autor": "thebittenword.com",
+  "lic": "CC BY 2.0"
+ },
+ "Damasco": {
+  "file": "Prunus_armeniaca_Nubra_Valley.jpg",
+  "crop": null,
+  "arquivo": "damasco.jpg",
+  "autor": "Karunakar Rayker from India",
+  "lic": "CC BY 2.0"
+ },
+ "Graviola": {
+  "file": "Guanábana_on_sale_04.jpg",
+  "crop": null,
+  "arquivo": "graviola.jpg",
+  "autor": "Spideog",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Salsão": {
+  "file": "Celery_1.jpg",
+  "crop": null,
+  "arquivo": "salsao.jpg",
+  "autor": "Lombroso",
+  "lic": "Public domain"
+ },
+ "Pitanga": {
+  "file": "Pitanga_(do_tupi_'ybapytanga)_no_pampa_gaúcho_01.jpg",
+  "crop": null,
+  "arquivo": "pitanga.jpg",
+  "autor": "Bageense",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Inhame": {
+  "file": "Satoimo(Japan).JPG",
+  "crop": null,
+  "arquivo": "inhame.jpg",
+  "autor": "Namazu-tron",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Tâmara": {
+  "file": "Dattes_deglet_from_Biskra.jpg",
+  "crop": null,
+  "arquivo": "tamara.jpg",
+  "autor": "M. Dhifallah",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Alcachofra": {
+  "file": "Artichoke_J1.jpg",
+  "crop": null,
+  "arquivo": "alcachofra.jpg",
+  "autor": "Jamain",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Fruta-do-conde": {
+  "file": "Annona_squamosa_fruit_from_Myanmar.jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ],
+  "arquivo": "fruta-do-conde.jpg",
+  "autor": "Yarzaryeni",
+  "lic": "CC BY 4.0"
+ },
+ "Couve-de-bruxelas": {
+  "file": "Brussels_sprouts_(4103982312)_(2).jpg",
+  "crop": null,
+  "arquivo": "couve-de-bruxelas.jpg",
+  "autor": "Nick Saltmarsh from London, UK",
+  "lic": "CC BY 2.0"
+ },
+ "Açaí": {
+  "file": "Cosecha_de_Naidí.jpg",
+  "crop": null,
+  "arquivo": "acai.jpg",
+  "autor": "Guapi-Tecnologies",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Cupuaçu": {
+  "file": "Cupuassu.jpg",
+  "crop": null,
+  "arquivo": "cupuacu.jpg",
+  "autor": "CiXeL at English Wikipedia",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Castanha-do-pará": {
+  "file": "Brazil_nuts.jpg",
+  "crop": null,
+  "arquivo": "castanha-do-para.jpg",
+  "autor": "Quadell",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Maxixe": {
+  "file": "Cucumis_anguria,_fruit.jpg",
+  "crop": null,
+  "arquivo": "maxixe.jpg",
+  "autor": "Filo gèn'",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Mangostão": {
+  "file": "Mangosteens_-_whole_and_opened.jpg",
+  "crop": "fit",
+  "arquivo": "mangostao.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0"
+ }
+}
