@@ -303,6 +303,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/amarelo-1": {
+      "titulo": "QUIZ, mas TUDO É AMARELO! 💛 A última é muito difícil! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "CGOP3Jfeh_k",
+        "url": "https://youtu.be/CGOP3Jfeh_k",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "7901bad487acdbb935e9b971cfb7d4c451efa21ced6cfd9bc90bd57e9e58f065"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
