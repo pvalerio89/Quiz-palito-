@@ -18,6 +18,28 @@ W, H, FPS = 1080, 1920, 30
 BAR = (90, 1090, 990, 1150)
 MUSICA_VOL = 0.14
 
+# Frases de chamada da abertura/título. Variar entre Shorts (Patrick, 2026-11-09): não repetir as dos
+# últimos 3 Shorts (títulos em publicados.json); "SÓ 1% ACERTA" só de vez em quando.
+CHAMADAS = [
+    "DUVIDO VOCÊ ACERTAR TODAS!",
+    "QUASE NINGUÉM ACERTA A ÚLTIMA!",
+    "SÓ GÊNIO ACERTA TODAS!",
+    "VALENDO! QUANTAS VOCÊ ACERTA?",
+    "SERÁ QUE VOCÊ GABARITA?",
+    "TESTE RÁPIDO: VOCÊ PASSA?",
+    "A ÚLTIMA É MUITO DIFÍCIL!",
+    "SEU AMIGO NÃO ACERTA ESSA!",
+    "ACERTOU TODAS? COMENTA!",
+    "SÓ 1% ACERTA TODAS!",
+]
+
+
+def chamada(usadas=(), seed=None):
+    """Escolhe uma frase de CHAMADAS que não está em `usadas` (frases dos últimos Shorts)."""
+    usadas = {u.upper() for u in usadas}
+    livres = [c for c in CHAMADAS if c.upper() not in usadas] or CHAMADAS
+    return random.Random(seed).choice(livres)
+
 
 def gradient(c1, c2):
     img = Image.new("RGB", (W, H), c1)

@@ -92,11 +92,11 @@
   "lic": "CC BY 3.0"
  },
  "Brócolis": {
-  "file": "Broccoli_flowers_2525385935_e13d4de4c4_b.jpg",
+  "file": "Broccoli2.jpg",
   "crop": null,
   "arquivo": "brocolis.jpg",
-  "autor": "en:User:Jengod",
-  "lic": "CC BY-SA 4.0"
+  "autor": "Ixitixel",
+  "lic": "CC BY-SA 3.0"
  },
  "Cereja": {
   "file": "Cherry_season_(48216568227).jpg",
@@ -340,7 +340,7 @@
   "file": "Feige-Schnitt.png",
   "crop": null,
   "arquivo": "figo.jpg",
-  "autor": "autor no Wikimedia Commons",
+  "autor": "domínio público",
   "lic": "Public domain"
  },
  "Romã": {
@@ -400,7 +400,7 @@
   "file": "CDC_greenbean.jpg",
   "crop": null,
   "arquivo": "vagem.jpg",
-  "autor": "autor no Wikimedia Commons",
+  "autor": "CDC (domínio público)",
   "lic": "Public domain"
  },
  "Lichia": {
@@ -442,7 +442,7 @@
   "file": "Collard_Plants.jpg",
   "crop": null,
   "arquivo": "couve.jpg",
-  "autor": "شارق کشمیری",
+  "autor": "Shariq Kashmiri",
   "lic": "CC BY-SA 4.0"
  },
  "Acerola": {
@@ -467,7 +467,7 @@
   "file": "The_jackfruit_is_holding_on_to_the_tree.jpg",
   "crop": null,
   "arquivo": "jaca.jpg",
-  "autor": "autor no Wikimedia Commons",
+  "autor": "Tushar Hossain",
   "lic": "CC BY-SA 4.0"
  },
  "Nabo": {

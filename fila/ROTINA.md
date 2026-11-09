@@ -27,12 +27,26 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
      do outro canal, **sem parte de explicação/fonte**. Temas escolares/educativos para adolescentes quando der.
    - Use o modelo de vídeo mais novo do repositório (o mais recente em `videos/`; estilo em `videos/modelo-cartao/`
      se existir). Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
+   - **Vídeo longo com MAIS DE 8 MINUTOS** (regra do Patrick, 2026-11-09: a partir de 8 min o YouTube deixa pôr
+     anúncios no meio). Mire em **8:30 a 10 min** e coloque **o máximo de perguntas que couber** (não enrole com
+     telas paradas). Depois de montar, confira a duração (`tempos.json` → `final` + fim ≥ 500 s, ou `ffprobe`); se
+     ficar abaixo de 8:10, acrescente perguntas e monte de novo. Placar a cada 10 perguntas.
+   - **Imagens reais quando o tema for de coisas reais** (frutas, legumes, animais, comidas, lugares, objetos,
+     monumentos...): fotos de verdade, nunca emoji. Use `automacao/fotos_wiki.py` (Wikimedia Commons pelo artigo
+     da Wikipédia; na nuvem o download dá 429, então use o workflow "Fotos Wikimedia": escreva os argumentos em
+     `automacao/fotos-pedido.txt`, dê push na sua branch e espere o commit dele): prefira **domínio público/CC0**, depois **CC BY**; CC BY-SA só se não houver outra boa. Olhe a
+     prancha de candidatas e escolha foto nítida, com o item inteiro e fácil de reconhecer. Créditos (autor +
+     licença) só numa **tela curta no fim do vídeo** (modelo: `videos/12-fruta-fotos-reais`), nunca na descrição nem em comentário. Emoji/ícone só para
+     temas abstratos (palavras, cores, sentimentos) ou bandeiras/logos (bandeiras SVG, simple-icons CC0).
    - Vídeo longo com kit completo em `youtube/`: título, descrição, tags e **miniatura** (título emocional grande,
      elementos recortados gigantes, **fundo colorido com raios**, Palito enorme em pânico, faixa "VOCÊ CONSEGUE?").
-   - Short 9:16 com movimento (`shorts/short_base.py`), 6 perguntas do mesmo tema. Na descrição e no `tiktok.txt`:
+   - Short 9:16 com movimento (`shorts/short_base.py`), 6 perguntas do mesmo tema. Use as mesmas fotos reais do vídeo longo
+     quando ele tiver fotos. **Frase de chamada variada:** não use sempre "Só 1% acerta". Escolha uma frase de
+     `CHAMADAS` em `shorts/short_base.py` (função `chamada()`) diferente das usadas nos últimos 3 Shorts
+     (veja os títulos em `publicados.json`); "Só 1% acerta" pode aparecer de vez em quando, nunca em 2 seguidos.
+     A mesma frase vai na tela de abertura, no título e no `tiktok.txt`. Na descrição e no `tiktok.txt`:
      link do canal (https://www.youtube.com/channel/UCerGMTooT9vl4yVgW7Ggd3A) e o texto `LINK_DO_VIDEO_LONGO` no lugar do link do vídeo
      longo (o workflow troca pelo link certo na hora de publicar).
-   - Fotos/logos de terceiros: prefira emojis, bandeiras ou ícones livres (simple-icons CC0); nada de créditos.
    - Voz: Edge TTS pt-BR-AntonioNeural rate +20% pitch +2Hz. Música só do `musicas/` com o crédito de 1 linha.
    - Script de montagem precisa chamar `build_*.py` (o `automacao/gerar.py` acha sozinho).
    - **Confira** a prévia (`py automacao/gerar.py <pasta> --previa`, com as fontes substitutas descritas na memória):
