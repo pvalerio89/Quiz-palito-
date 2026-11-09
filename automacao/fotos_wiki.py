@@ -13,6 +13,10 @@ A nuvem do Claude não abre commons.wikimedia.org nem a API, mas abre as página
 3) Baixar as escolhidas já recortadas em quadrado + creditos.json (autor e licença para a tela final):
      py -3 automacao/fotos_wiki.py baixar escolhas.json videos/NN-tema/   (grava fotos/<slug>.jpg)
    (folhas de novo a partir de um cand.json: py -3 automacao/fotos_wiki.py folhas cand.json saida/)
+Vídeos curtos (para trocar a foto por um clipe em algumas perguntas):
+     py -3 automacao/fotos_wiki.py clipes clipes.json videos/NN-tema/   (grava clipes/<slug>.mp4, quadrado, sem som)
+   clipes.json  {"Panda": {"file": "Pandas_playing_640x480.ogv", "inicio": 5, "dur": 10, "crop": [0.5, 0.5, 1.0]}}
+   Ache os clipes nos artigos da Wikipédia (links .webm/.ogv de commons/transcoded). Créditos vão no mesmo creditos.json.
 Na nuvem do Claude o upload.wikimedia.org dá 429 (IP compartilhado): rode pelo workflow "Fotos Wikimedia"
 (escreva os argumentos em automacao/fotos-pedido.txt e dê push numa branch claude/...; ele grava o resultado na branch).
 Créditos: só na tela final do vídeo (o Patrick não quer em descrição nem comentário).
@@ -173,10 +177,46 @@ def baixar(escolhas, pasta, lado=720):
         os.remove(tmp)
 
 
+def clipes(escolhas, pasta, lado=600):
+    """Baixa vídeos do Commons (versão 480p/720p já convertida), corta o trecho e grava mp4 quadrado sem som."""
+    esc = json.load(open(escolhas, encoding="utf-8"))
+    os.makedirs(os.path.join(pasta, "clipes"), exist_ok=True)
+    arq = os.path.join(pasta, "creditos.json")
+    cred = json.load(open(arq, encoding="utf-8")) if os.path.exists(arq) else {}
+    tmp = os.path.join(pasta, "clipes", "_tmp.webm")
+    for nome, e in esc.items():
+        dst = os.path.join(pasta, "clipes", slug(nome) + ".mp4")
+        n = e["file"].replace(" ", "_")
+        h = hashlib.md5(n.encode()).hexdigest()
+        q = urllib.parse.quote(n)
+        urls = [f"https://upload.wikimedia.org/wikipedia/commons/transcoded/{h[0]}/{h[:2]}/{q}/{q}.{r}.vp9.webm"
+                for r in ("720p", "480p", "360p")] + [url_arquivo(e["file"])]
+        if not any(get(u, tmp) for u in urls):
+            print("falhou", nome, e["file"])
+            continue
+        cx, cy, fr = e.get("crop") or (0.5, 0.5, 1.0)
+        lado_f = f"min(iw\\,ih)*{fr}"
+        vf = (f"crop={lado_f}:{lado_f}:min(max(iw*{cx}-{lado_f}/2\\,0)\\,iw-{lado_f}):"
+              f"min(max(ih*{cy}-{lado_f}/2\\,0)\\,ih-{lado_f}),scale={lado}:{lado},fps=30")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(e.get("inicio", 0)), "-i", tmp,
+                        "-t", str(e.get("dur", 10)), "-vf", vf, "-an", "-c:v", "libx264", "-crf", "20",
+                        "-pix_fmt", "yuv420p", dst], check=True)
+        info = licenca(e["file"]) or {}
+        lic = [l for l in info.get("lic", []) if not l.upper().startswith("GFDL")] or info.get("lic", ["?"])
+        autor = re.sub(r"\s+", " ", html.unescape(info.get("autor") or "")).strip()
+        autor = re.split(r"\s{2,}|\(", autor)[0].strip() or "autor no Wikimedia Commons"
+        cred[nome] = {"file": e["file"], "arquivo": os.path.basename(dst), "autor": autor[:60], "lic": lic[0],
+                      "video": True}
+        print("ok", nome, cred[nome]["lic"], flush=True)
+        json.dump(cred, open(arq, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    if os.path.exists(tmp):
+        os.remove(tmp)
+
+
 if __name__ == "__main__":
-    if len(sys.argv) < 4 or sys.argv[1] not in ("buscar", "baixar", "folhas"):
+    if len(sys.argv) < 4 or sys.argv[1] not in ("buscar", "baixar", "folhas", "clipes"):
         sys.exit(__doc__)
     if sys.argv[1] == "folhas":  # refaz só as folhas a partir de um cand.json
         folhas(json.load(open(sys.argv[2], encoding="utf-8")), sys.argv[3])
     else:
-        (buscar if sys.argv[1] == "buscar" else baixar)(sys.argv[2], sys.argv[3])
+        {"buscar": buscar, "baixar": baixar, "clipes": clipes}[sys.argv[1]](sys.argv[2], sys.argv[3])

@@ -23,6 +23,7 @@ jobs:
         with:
           python-version: "3.14"
       - run: pip install pillow
+      - run: which ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
       - name: Rodar pedido
         run: |
           args=$(head -1 automacao/fotos-pedido.txt)
