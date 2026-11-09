@@ -180,6 +180,19 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/10-conhecimentos-gerais": {
+      "titulo": "50 PERGUNTAS DE CONHECIMENTOS GERAIS 🧠 Do Fácil ao Difícil! Você Consegue? | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "keMRIYfyBrA",
+        "url": "https://youtu.be/keMRIYfyBrA",
+        "data": "2026-11-07",
+        "origem": "actions"
+      },
+      "tiktok": {
+        "status": "nao_se_aplica"
+      }
     }
   }
 }
