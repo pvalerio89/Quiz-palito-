@@ -1,0 +1,187 @@
+{
+ "Zebra": {
+  "file": "Maneless_zebras_at_Kidepo_Valley_NP_-_Uganda.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Mark Jordahl"
+ },
+ "Panda": {
+  "file": "Giant_Panda_Eating.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Chen Wu from Shanghai, China"
+ },
+ "Pinguim": {
+  "file": "Penguin_in_Antarctica_jumping_out_of_the_water.jpg",
+  "crop": [
+   0.6,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Flamingo": {
+  "file": "Phoenicopterus_ruber_in_São_Paulo_Zoo.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Wilfredor"
+ },
+ "Joaninha": {
+  "file": "Coccinella-septempunctata-15-fws.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Francisco Welter-Schultes"
+ },
+ "Peixe-palhaço": {
+  "file": "Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Ritiks"
+ },
+ "Pavão": {
+  "file": "Peacock_on_tree_(52077240794).jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Kandukuru Nagarjun from Bangalore, India"
+ },
+ "Cisne": {
+  "file": "CygneVaires.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Sanchezn"
+ },
+ "Coruja": {
+  "file": "American_Barn_Owl_(Tyto_furcata_guatemalae),_Orange_Walk.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Polvo": {
+  "file": "Octopus_vulgaris_02.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "H. Zell"
+ },
+ "Camaleão": {
+  "file": "C_Calyptratus_female.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "The original uploader was Geoff at English Wikipedia."
+ },
+ "Cavalo-marinho": {
+  "file": "Seahorse_Skeleton_Macro_8_-_edit.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY-SA 2.5"
+  ],
+  "autor": "“Jon Zander (Digon3)\"; Edit by jjron"
+ },
+ "Morcego": {
+  "file": "Short-nosed_Fruit_Bat_(Cynopterus_sphinx)_Photograph_By_Shantanu_Kuveskar.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Shantanu Kuveskar"
+ },
+ "Ouriço": {
+  "file": "Erinaceus_europaeus_LC0119.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0 de"
+  ],
+  "autor": "Jörg Hempel"
+ },
+ "Narval": {
+  "file": "Нарвал_в_российской_Арктике.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "пресс-служба ПАО \"Газпром нефть\""
+ }
+}

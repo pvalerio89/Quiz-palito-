@@ -1,0 +1,810 @@
+{
+ "Torre Eiffel": {
+  "file": "Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "Public domain",
+   "PDM",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Benh LIEU SONG"
+ },
+ "Estátua da Liberdade": {
+  "file": "Front_view_of_Statue_of_Liberty_(cropped).jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "AskALotl"
+ },
+ "Pirâmides do Egito": {
+  "file": "Pyramids_of_the_Giza_Necropolis.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "KennyOMG"
+ },
+ "Cristo Redentor": {
+  "file": "Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0 de"
+  ],
+  "autor": "©&nbsp;Arne Müseler .mw-parser-output .commons-creator-table{background-color:#f"
+ },
+ "Coliseu": {
+  "file": "Colosseo_2020.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "FeaturedPics"
+ },
+ "Muralha da China": {
+  "file": "The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Severin.stalder"
+ },
+ "Big Ben": {
+  "file": "Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Christian David"
+ },
+ "Torre de Pisa": {
+  "file": "Italy_-_Pisa_-_Leaning_Tower.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0 de"
+  ],
+  "autor": "©&nbsp;Arne Müseler .mw-parser-output .commons-creator-table{background-color:#f"
+ },
+ "Taj Mahal": {
+  "file": "Taj_Mahal_in_India_-_Kristian_Bertel.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Kristian Bertel"
+ },
+ "Machu Picchu": {
+  "file": "Machu_Picchu,_2023_(012).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Draceane"
+ },
+ "Ópera de Sydney": {
+  "file": "Sydney_Opera_House_2026.jpg",
+  "crop": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "BAVhah"
+ },
+ "Pão de Açúcar": {
+  "file": "Pão_de_Açucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0 de"
+  ],
+  "autor": "©&nbsp;Arne Müseler .mw-parser-output .commons-creator-table{background-color:#f"
+ },
+ "Esfinge": {
+  "file": "Sphinx_with_the_third_pyramid.jpg",
+  "crop": [
+   0.3,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Hesham Ebaid"
+ },
+ "Cataratas do Iguaçu": {
+  "file": "Iguazu_National_Park_Falls.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 3.0"
+  ],
+  "autor": "Tomfriedel"
+ },
+ "Congresso Nacional": {
+  "file": "Congresso_Nacional_durante_o_nascer_do_sol.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Joe Espindola"
+ },
+ "Stonehenge": {
+  "file": "Stonehenge2007_07_30.jpg",
+  "crop": [
+   0.5,
+   0.55,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "garethwiscombe"
+ },
+ "Ponte Golden Gate": {
+  "file": "Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Partenon": {
+  "file": "The_Parthenon_in_Athens.jpg",
+  "crop": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Steve Swayne"
+ },
+ "Moai": {
+  "file": "Moai_Rano_raraku.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain",
+   "Public domain"
+  ],
+  "autor": "Aurbina"
+ },
+ "Monte Fuji": {
+  "file": "View_of_Mount_Fuji_from_Ōwakudani_20211202.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Suicasmo"
+ },
+ "Arco do Triunfo": {
+  "file": "Arc_de_Triomphe_-_Août_2026.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "ZeusUpsistos"
+ },
+ "Sagrada Família": {
+  "file": "SF_maig_2_cropped.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Canaan"
+ },
+ "Kremlin": {
+  "file": "Башни_Московского_кремля.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Крылов Иван"
+ },
+ "Chichén Itzá": {
+  "file": "Chichen_Itza_3.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Daniel Schwen"
+ },
+ "Petra": {
+  "file": "Al_Deir_Petra.JPG",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Azurfrog"
+ },
+ "Monte Rushmore": {
+  "file": "Mount_Rushmore_Closeup_2017.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 4.0"
+  ],
+  "autor": "Winkelvi"
+ },
+ "Bicicleta": {
+  "file": "Left_side_of_Flying_Pigeon.jpg",
+  "crop": [
+   0.45,
+   0.6,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "齐健 from Peking, People's Republic of China"
+ },
+ "Torre de Belém": {
+  "file": "Lisbon_Torre_de_Belém_BW_2018-10-03_16-34-03.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Berthold Werner"
+ },
+ "Guarda-chuva": {
+  "file": "M0354_000727-005_1.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "MONNIN Jacques"
+ },
+ "Violão": {
+  "file": "Septiembre_08_275.jpg",
+  "crop": [
+   0.5,
+   0.65,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Mestremendo"
+ },
+ "Relógio": {
+  "file": "Morphy_Richards_Touch-Me_clock_radio.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 4.0"
+  ],
+  "autor": "Multicherry"
+ },
+ "Óculos": {
+  "file": "2023_Okulary_korekcyjne.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Jacek Halicki"
+ },
+ "Martelo": {
+  "file": "Claw-hammer.jpg",
+  "crop": "fit",
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "Evan-Amos"
+ },
+ "Piano": {
+  "file": "Piano_droit_Weinbach_(2).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Anfrx"
+ },
+ "Tesoura": {
+  "file": "Standard_household_scissors.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Doggerelblogger"
+ },
+ "Bola de futebol": {
+  "file": "UEFA_Champions_League_ball_2021-2022.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Արարատ Թրվանց"
+ },
+ "Cadeira": {
+  "file": "Plastic_Tuinstoel.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Tjako van Schie"
+ },
+ "Lâmpada": {
+  "file": "Edison_Carbon_Bulb.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Terren"
+ },
+ "Telefone": {
+  "file": "Telefon_BW_2012-02-18_13-44-32.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Berthold Werner"
+ },
+ "Trompete": {
+  "file": "Yamaha_Trumpet_YTR-8335LA_crop.jpg",
+  "crop": "fit",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Yamaha Corporation"
+ },
+ "Avião": {
+  "file": "United_A320_N405UA_at_BOS_(33787222465).jpg",
+  "crop": [
+   0.4,
+   0.6,
+   0.8
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "G B_NZ"
+ },
+ "Bule": {
+  "file": "Black_tea_pot_cropped.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Mendhak"
+ },
+ "Helicóptero": {
+  "file": "VH-SUF_Taking_Off.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 4.0"
+  ],
+  "autor": "Fly45yt"
+ },
+ "Ônibus": {
+  "file": "LTZ1328-19-20241030-160332.jpg",
+  "crop": [
+   0.4,
+   0.55,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "SIA321"
+ },
+ "Trator": {
+  "file": "Ford_8N.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Mulad"
+ },
+ "Navio": {
+  "file": "Amerigo_vespucci_1976_nyc_aufgetakelt.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "Public domain"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Câmera fotográfica": {
+  "file": "Hasselblad_500_CM.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "デニス モジョ"
+ },
+ "Violino": {
+  "file": "Stainer.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "User:Frinck51"
+ },
+ "Cadeado": {
+  "file": "Padlock_4_combination.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY 3.0"
+  ],
+  "autor": "wdwd"
+ },
+ "Bússola": {
+  "file": "2016_Busola.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Jacek Halicki"
+ },
+ "Globo terrestre": {
+  "file": "The_Great_Globe,_Guyot_Hall,_Princeton_University.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "David Keddie"
+ },
+ "Ampulheta": {
+  "file": "Sand_Clock.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Thamizhpparithi Maari"
+ },
+ "Zebra": {
+  "file": "Maneless_zebras_at_Kidepo_Valley_NP_-_Uganda.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Mark Jordahl"
+ },
+ "Panda": {
+  "file": "Giant_Panda_Eating.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Chen Wu from Shanghai, China"
+ },
+ "Pinguim": {
+  "file": "Penguin_in_Antarctica_jumping_out_of_the_water.jpg",
+  "crop": [
+   0.6,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Flamingo": {
+  "file": "Phoenicopterus_ruber_in_São_Paulo_Zoo.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Wilfredor"
+ },
+ "Joaninha": {
+  "file": "Coccinella-septempunctata-15-fws.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Francisco Welter-Schultes"
+ },
+ "Peixe-palhaço": {
+  "file": "Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Ritiks"
+ },
+ "Pavão": {
+  "file": "Peacock_on_tree_(52077240794).jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Kandukuru Nagarjun from Bangalore, India"
+ },
+ "Cisne": {
+  "file": "CygneVaires.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Sanchezn"
+ },
+ "Coruja": {
+  "file": "American_Barn_Owl_(Tyto_furcata_guatemalae),_Orange_Walk.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor"
+ },
+ "Polvo": {
+  "file": "Octopus_vulgaris_02.JPG",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "H. Zell"
+ },
+ "Camaleão": {
+  "file": "C_Calyptratus_female.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "The original uploader was Geoff at English Wikipedia."
+ },
+ "Cavalo-marinho": {
+  "file": "Seahorse_Skeleton_Macro_8_-_edit.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY-SA 2.5"
+  ],
+  "autor": "“Jon Zander (Digon3)\"; Edit by jjron"
+ },
+ "Morcego": {
+  "file": "Short-nosed_Fruit_Bat_(Cynopterus_sphinx)_Photograph_By_Shantanu_Kuveskar.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Shantanu Kuveskar"
+ },
+ "Ouriço": {
+  "file": "Erinaceus_europaeus_LC0119.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 2.0 de"
+  ],
+  "autor": "Jörg Hempel"
+ },
+ "Narval": {
+  "file": "Нарвал_в_российской_Арктике.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "пресс-служба ПАО \"Газпром нефть\""
+ }
+}

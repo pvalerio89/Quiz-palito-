@@ -12,8 +12,8 @@ if os.path.exists("/root/.ccr/ca-bundle.crt"):  # só na nuvem do Claude (proxy)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
-INTRO = ("Fala, pessoal! Bem-vindos a mais um Quiz Palito! Hoje é o desafio dos animais pelo zoom: a foto começa "
-         "bem de pertinho e vai abrindo. Você tem quatro segundos pra adivinhar o animal! Começa fácil e vai ficando "
+INTRO = ("Ei, você aí! Será que conhece mesmo os bichos? No Quiz Palito de hoje a foto começa bem de pertinho "
+         "e vai abrindo. Você tem quatro segundos pra adivinhar o animal! Começa fácil e vai ficando "
          "difícil. Conta quantos você acerta. Valendo!")
 PLACAR = {
     10: "Dez já foram! Quantos você acertou? Até aqui tava fácil, né?",
