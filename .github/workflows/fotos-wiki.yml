@@ -1,0 +1,40 @@
+# Baixa fotos do Wikimedia Commons fora da nuvem do Claude (lá o upload.wikimedia.org dá 429).
+# Como usar: escreva em automacao/fotos-pedido.txt os argumentos do automacao/fotos_wiki.py
+# (ex.: "folhas videos/12-x/candidatas/cand.json videos/12-x/candidatas" ou "baixar escolhas.json videos/12-x")
+# e dê push numa branch claude/... O workflow roda e grava o resultado na mesma branch.
+name: Fotos Wikimedia
+
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["automacao/fotos-pedido.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - run: pip install pillow
+      - name: Rodar pedido
+        run: |
+          args=$(head -1 automacao/fotos-pedido.txt)
+          echo "fotos_wiki.py $args"
+          python automacao/fotos_wiki.py $args
+          out=$(echo $args | awk '{print $NF}')
+          rm -rf "$out/thumbs"
+      - name: Gravar na branch
+        run: |
+          git config user.name "pvalerio89"
+          git config user.email "294259185+pvalerio89@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && { echo "nada novo"; exit 0; }
+          git commit -m "Fotos Wikimedia: $(head -1 automacao/fotos-pedido.txt | cut -c1-60)"
+          git push
