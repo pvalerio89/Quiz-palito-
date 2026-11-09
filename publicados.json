@@ -247,6 +247,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/frutas-2": {
+      "titulo": "Adivinhe a FRUTA pela FOTO em 3 segundos! 🍓 Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "bmG1ZBSVdEw",
+        "url": "https://youtu.be/bmG1ZBSVdEw",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "df8d75b43063472711489fbe8d4da43147e6f37ec611bf996521c4ad2e38d751"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
