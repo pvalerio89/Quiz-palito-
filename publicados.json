@@ -220,6 +220,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/frutas-1": {
+      "titulo": "Adivinhe a FRUTA em 3 SEGUNDOS! 🍓 Só 1% acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "vFdT0O4_dUk",
+        "url": "https://youtu.be/vFdT0O4_dUk",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "4b1d0fac5960e38015ecad020e6ce518b8a795aa621fb26838b9f7df6e7e2c12"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
