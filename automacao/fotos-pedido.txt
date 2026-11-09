@@ -1,1 +1,1 @@
-folhas videos/12-fruta-fotos-reais/candidatas/cand.json videos/12-fruta-fotos-reais/candidatas
+baixar videos/12-fruta-fotos-reais/candidatas/escolhas.json videos/12-fruta-fotos-reais

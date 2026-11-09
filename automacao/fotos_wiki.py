@@ -6,7 +6,7 @@ A nuvem do Claude não abre commons.wikimedia.org nem a API, mas abre as página
 1) Buscar candidatas (fotos do artigo da Wikipédia + licença e autor de cada uma):
      py -3 automacao/fotos_wiki.py buscar lista.tsv saida/         (lista: nome<TAB>tipo<TAB>Artigo_em_ingles)
    Grava saida/cand.json e saida/folha_*.jpg (fundo branco = licença boa: domínio público, CC0 ou CC BY;
-   rosa = CC BY-SA/GFDL, usar só se não houver outra).
+   rosa = CC BY-SA/GFDL, usar só se não houver outra; nunca foto só GFDL, sem CC).
 2) Escolher: escolhas.json  {"Banana": {"file": "Banana-Single.jpg", "crop": [0.5, 0.5, 1.0]}, ...}
    crop = centro x, centro y (0..1) e lado do quadrado (fração do lado menor). Sem crop = centro.
    crop = "fit" põe a foto inteira num quadrado branco (bom para foto comprida com fundo branco).
@@ -17,7 +17,7 @@ Na nuvem do Claude o upload.wikimedia.org dá 429 (IP compartilhado): rode pelo 
 (escreva os argumentos em automacao/fotos-pedido.txt e dê push numa branch claude/...; ele grava o resultado na branch).
 Créditos: só na tela final do vídeo (o Patrick não quer em descrição nem comentário).
 """
-import hashlib, json, os, re, subprocess, sys, threading, time, unicodedata, urllib.parse
+import hashlib, html, json, os, re, subprocess, sys, threading, time, unicodedata, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
 UA = "QuizPalitoBot/1.0 (https://github.com/pvalerio89/quiz-palito-; educational quiz video)"
@@ -160,8 +160,10 @@ def baixar(escolhas, pasta, lado=720):
         im.crop((int(x0), int(y0), int(x0 + s), int(y0 + s))).resize((lado, lado), Image.LANCZOS).save(dst, quality=88)
         info = e.get("lic") and e or (licenca(e["file"]) or {})
         lic = [l for l in info.get("lic", []) if not l.upper().startswith("GFDL")] or info.get("lic", ["?"])
+        autor = re.sub(r"\s+", " ", html.unescape(info.get("autor") or "")).strip()
+        autor = re.sub(r"(?i)^self,?\s*|\s*\(?talk\)?$|[¡!]?שיחת!?\u200e?", "", autor).strip() or "autor no Wikimedia Commons"
         cred[nome] = {"file": e["file"], "crop": e.get("crop"), "arquivo": os.path.basename(dst),
-                      "autor": info.get("autor") or "?", "lic": lic[0]}
+                      "autor": autor[:60], "lic": lic[0]}
         print("ok", nome, cred[nome]["lic"], flush=True)
         json.dump(cred, open(arq, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     if os.path.exists(tmp):
