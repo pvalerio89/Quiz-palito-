@@ -1,0 +1,23 @@
+{
+ "Brocolis A": {
+  "file": "巨無霸青花菜_20191121171730.jpg",
+  "crop": null,
+  "arquivo": "brocolis-a.jpg",
+  "autor": "Ping an Chang",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Brocolis B": {
+  "file": "Sa_broccoli_florets.jpg",
+  "crop": null,
+  "arquivo": "brocolis-b.jpg",
+  "autor": "Sanjay Acharya",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Brocolis C": {
+  "file": "Broccoli_bloem.jpg",
+  "crop": null,
+  "arquivo": "brocolis-c.jpg",
+  "autor": "Rasbak",
+  "lic": "CC BY-SA 3.0"
+ }
+}
