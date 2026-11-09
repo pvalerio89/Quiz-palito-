@@ -190,14 +190,14 @@ def clipes(escolhas, pasta, lado=600):
         h = hashlib.md5(n.encode()).hexdigest()
         q = urllib.parse.quote(n)
         urls = [f"https://upload.wikimedia.org/wikipedia/commons/transcoded/{h[0]}/{h[:2]}/{q}/{q}.{r}.vp9.webm"
-                for r in ("720p", "480p")] + [url_arquivo(e["file"])]
+                for r in ("720p", "480p", "360p")] + [url_arquivo(e["file"])]
         if not any(get(u, tmp) for u in urls):
             print("falhou", nome, e["file"])
             continue
         cx, cy, fr = e.get("crop") or (0.5, 0.5, 1.0)
-        lado_f = f"min(iw,ih)*{fr}"
-        vf = (f"crop={lado_f}:{lado_f}:min(max(iw*{cx}-{lado_f}/2,0),iw-{lado_f}):"
-              f"min(max(ih*{cy}-{lado_f}/2,0),ih-{lado_f}),scale={lado}:{lado},fps=30")
+        lado_f = f"min(iw\\,ih)*{fr}"
+        vf = (f"crop={lado_f}:{lado_f}:min(max(iw*{cx}-{lado_f}/2\\,0)\\,iw-{lado_f}):"
+              f"min(max(ih*{cy}-{lado_f}/2\\,0)\\,ih-{lado_f}),scale={lado}:{lado},fps=30")
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(e.get("inicio", 0)), "-i", tmp,
                         "-t", str(e.get("dur", 10)), "-vf", vf, "-an", "-c:v", "libx264", "-crf", "20",
                         "-pix_fmt", "yuv420p", dst], check=True)

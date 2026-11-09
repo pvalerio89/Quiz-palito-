@@ -25,6 +25,8 @@ cookies*.txt
 *.mkv
 *.webm
 *.avi
+# clipes curtos (10 s, 600 px) das perguntas com vídeo: precisam ir no Git para o Actions montar
+!**/clipes/*.mp4
 
 # ===== Python: caches e ambientes =====
 __pycache__/

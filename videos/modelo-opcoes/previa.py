@@ -1,6 +1,6 @@
 """Prévia do modelo com opções A/B/C (fotos do vídeo 14).
 Uso: py -3 previa.py          -> previa/layout-*.jpg
-     py -3 previa.py --video  -> previa/amostra.mp4 (3 perguntas, sem som)"""
+     py -3 previa.py --video  -> previa/amostra.mp4 (4 perguntas com som, 2 com vídeo)"""
 import os, subprocess, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -34,19 +34,43 @@ def main():
 
 
 def video():
+    """Amostra com som: 4 perguntas (2 com vídeo curto), transições, efeitos e música."""
+    import tempfile
+    sys.path.insert(0, os.path.join(os.path.dirname(HERE), "05-nao-diga-o-mesmo"))
+    import build_naodiga as nd
+    b = op.b
+    op.CLIPES = os.path.join(HERE, "clipes")
+    qs = [
+        dict(Q[0]),
+        {"n": 2, "pergunta": "Que animal é esse?", "foto": "panda.jpg", "clipe": "panda.mp4",
+         "opcoes": ["Panda", "Urso-pardo", "Guaxinim"], "certa": 0},
+        dict(Q[1], n=3),
+        {"n": 4, "pergunta": "Que animal é esse?", "foto": "panda.jpg", "clipe": "guepardo.mp4",
+         "opcoes": ["Leopardo", "Onça-pintada", "Guepardo"], "certa": 2},
+    ]
+    tmp = tempfile.mkdtemp(prefix="opcoes_")
+    sfx = op.make_sfx(tmp)
+    v = os.path.join(tmp, "v.mp4")
+    tl = b.Timeline(v)
+    ultimo = None
+    for q in qs:
+        if ultimo is not None:
+            tl.sound(sfx["whoosh"], vol=0.7)
+            for f in op.transicao_frames(ultimo, q, TOTAL):
+                tl.frame(f)
+        op.sons_pergunta(tl, sfx, tl.t, entrada=ultimo is None)
+        for f in op.pergunta_frames(q, TOTAL):
+            tl.frame(f)
+        for f in op.resposta_frames(q, 2.0, TOTAL, t0=op.COUNT):
+            tl.frame(f)
+            ultimo = f
+    total = tl.t
+    tl.close()
     out = os.path.join(HERE, "previa", "amostra.mp4")
-    os.makedirs(os.path.dirname(out), exist_ok=True)
-    pr = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
-                           "-s", f"{op.W}x{op.H}", "-r", str(op.FPS), "-i", "-", "-c:v", "libx264", "-crf", "23",
-                           "-preset", "medium", "-pix_fmt", "yuv420p", out], stdin=subprocess.PIPE)
-    for q, filtro in ((Q[0], None), (Q[1], None), (Q[2], "amarela")):
-        for f in op.pergunta_frames(q, TOTAL, filtro=filtro):
-            pr.stdin.write(f.tobytes())
-        for f in op.resposta_frames(q, 2.0, TOTAL, filtro_antes=filtro, t0=op.COUNT):
-            pr.stdin.write(f.tobytes())
-    pr.stdin.close()
-    pr.wait()
-    print(out)
+    nd.A = lambda n: os.path.join(os.path.dirname(os.path.dirname(HERE)), "musicas", "Sneaky Snitch.mp3")
+    nd.SAIDA = out
+    nd.mixar(tl, v, total)
+    print(out, f"{total:.1f}s")
 
 
 if __name__ == "__main__":

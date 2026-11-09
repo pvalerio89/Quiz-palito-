@@ -5,15 +5,23 @@ Tela da pergunta: número + pergunta no topo, foto grande à esquerda, 3 opçõe
 Palito pensando no canto e a barra de tempo embaixo. Na resposta a opção certa fica verde com ✔,
 as outras escurecem e o Palito comemora.
 
-Uso num vídeo novo:
+Extras (aprovados pelo Patrick, 2026-11-09):
+  - efeitos sonoros: `make_sfx(tmp)` + `sons_pergunta(...)` (whoosh, pop das alternativas, tique-taque,
+    tique rápido no fim, acerto);
+  - VÍDEO CURTO no lugar da foto em algumas perguntas (umas 1 a cada 5): q["clipe"] = "panda.mp4"
+    (arquivo em CLIPES, baixado com `automacao/fotos_wiki.py clipes`), aparece com selo "VÍDEO";
+  - transição entre perguntas: `transicao_frames(ultimo_quadro, q, total)` (faixa diagonal com o selo).
+
+Uso num vídeo novo (modelo completo em previa.py, função video()):
     sys.path.insert(0, os.path.join(VIDEOS, "modelo-opcoes")); import opcoes as op
-    op.FOTOS = os.path.join(HERE, "fotos")
+    op.FOTOS, op.CLIPES = os.path.join(HERE, "fotos"), os.path.join(HERE, "clipes")
     q = {"n": 1, "pergunta": "QUE LUGAR É ESSE?", "foto": "torre-eiffel.jpg",
          "opcoes": ["Big Ben", "Torre Eiffel", "Torre de Pisa"], "certa": 1}
-    for f in op.pergunta_frames(q, total=60): tl.frame(f)
-    for f in op.resposta_frames(q, dur, total=60): tl.frame(f)
+    op.sons_pergunta(tl, sfx, tl.t, fala, op.COUNT)
+    for f in op.pergunta_frames(q, total=60, fala=fala): tl.frame(f)
+    for f in op.resposta_frames(q, dur, total=60, t0=fala + op.COUNT): tl.frame(f)
 """
-import math, os, sys
+import math, os, subprocess, sys
 from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageOps
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -24,6 +32,7 @@ from build_naodiga import b
 
 W, H, FPS = b.W, b.H, b.FPS
 FOTOS = HERE                       # pasta das fotos do vídeo (trocar no vídeo novo)
+CLIPES = HERE                      # pasta dos vídeos curtos (clipes/<slug>.mp4)
 COUNT = 5.0                        # segundos para responder
 VERDE = (60, 200, 90)
 CORES = [((40, 170, 90), (10, 90, 60)), ((230, 60, 90), (130, 20, 60)), ((30, 120, 220), (15, 45, 140)),
@@ -93,19 +102,71 @@ def foto(nome, size, filtro=None):
     return im
 
 
+def moldura_sprite():
+    """Cartão branco vazio com sombra (a foto ou o vídeo vai por cima)."""
+    if "moldura" not in _cache:
+        m = 30
+        sp = Image.new("RGBA", (CARD + 2 * m, CARD + 2 * m), (0, 0, 0, 0))
+        sh = Image.new("RGBA", sp.size, (0, 0, 0, 0))
+        ImageDraw.Draw(sh).rounded_rectangle([m, m + 14, m + CARD, m + CARD + 14], 50, fill=(0, 0, 40, 110))
+        sp.alpha_composite(sh.filter(ImageFilter.GaussianBlur(10)))
+        ImageDraw.Draw(sp).rounded_rectangle([m, m, m + CARD, m + CARD], 50, fill=b.WHITE, outline=b.NAVY, width=8)
+        _cache["moldura"] = sp
+    return _cache["moldura"]
+
+
 def cartao_sprite(q, filtro=None):
     k = ("cartao", q["foto"], filtro)
     if k in _cache:
         return _cache[k]
-    m = 30
-    sp = Image.new("RGBA", (CARD + 2 * m, CARD + 2 * m), (0, 0, 0, 0))
-    sh = Image.new("RGBA", sp.size, (0, 0, 0, 0))
-    ImageDraw.Draw(sh).rounded_rectangle([m, m + 14, m + CARD, m + CARD + 14], 50, fill=(0, 0, 40, 110))
-    sp.alpha_composite(sh.filter(ImageFilter.GaussianBlur(10)))
-    ImageDraw.Draw(sp).rounded_rectangle([m, m, m + CARD, m + CARD], 50, fill=b.WHITE, outline=b.NAVY, width=8)
-    sp.alpha_composite(foto(q["foto"], CARD - 40, filtro), (m + 20, m + 20))
+    sp = moldura_sprite().copy()
+    sp.alpha_composite(foto(q["foto"], CARD - 40, filtro), (50, 50))
     _cache[k] = sp
     return sp
+
+
+class Clipe:
+    """Lê um vídeo curto quadro a quadro (em loop), já no tamanho do cartão. Não guarda nada na memória."""
+
+    def __init__(self, nome):
+        self.s = CARD - 40
+        self.p = subprocess.Popen(
+            ["ffmpeg", "-loglevel", "error", "-stream_loop", "-1", "-i", os.path.join(CLIPES, nome), "-vf",
+             f"scale={self.s}:{self.s}:force_original_aspect_ratio=increase,crop={self.s}:{self.s},fps={FPS}",
+             "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
+        m = Image.new("L", (self.s, self.s), 0)
+        ImageDraw.Draw(m).rounded_rectangle([0, 0, self.s - 1, self.s - 1], int(self.s * 0.07), fill=255)
+        self.mask = m
+        self.ult = None
+
+    def cartao(self):
+        raw = self.p.stdout.read(self.s * self.s * 3)
+        if len(raw) == self.s * self.s * 3:
+            self.ult = Image.frombytes("RGB", (self.s, self.s), raw)
+        sp = moldura_sprite().copy()
+        if self.ult is not None:
+            im = self.ult.convert("RGBA")
+            im.putalpha(self.mask)
+            sp.alpha_composite(im, (50, 50))
+        # selo "VÍDEO" no canto do cartão
+        d = ImageDraw.Draw(sp)
+        d.rounded_rectangle([62, 62, 262, 126], 32, fill=b.RED, outline=b.WHITE, width=5)
+        d.polygon([(84, 78), (84, 110), (110, 94)], fill=b.WHITE)
+        d.text((185, 95), "VÍDEO", font=b.font(b.F_BLACK, 36), fill=b.WHITE, anchor="mm")
+        return sp
+
+    def fechar(self):
+        self.p.kill()
+        self.p.wait()
+
+
+def _cartao_agora(q, filtro):
+    """Cartão da pergunta neste quadro: vídeo (se a pergunta tiver clipe) ou foto."""
+    if q.get("clipe"):
+        if "_clipe" not in q:
+            q["_clipe"] = Clipe(q["clipe"])
+        return q["_clipe"].cartao()
+    return cartao_sprite(q, filtro)
 
 
 def opcao_sprite(i, txt, estado=None):
@@ -201,14 +262,13 @@ def barra(img, frac, count=COUNT):
 def pergunta_frames(q, total, count=COUNT, filtro=None, fala=0.0):
     """Foto entra com pulinho, as alternativas pulam uma a uma e ficam flutuando; no fim do tempo tremem.
     `fala`: segundos de narração antes da barra começar a correr."""
-    card = cartao_sprite(q, filtro)
     ops = [opcao_sprite(i, o) for i, o in enumerate(q["opcoes"])]
     dur = fala + count
     for i in range(int(dur * FPS)):
         t = i / FPS
         frac = 1.0 if t < fala else 1 - (t - fala) / count
         img = base(q, total, t)
-        colar(img, card, CARD_C[0], CARD_C[1] + 6 * math.sin(t * 2.2), pula(t / 0.4))
+        colar(img, _cartao_agora(q, filtro), CARD_C[0], CARD_C[1] + 6 * math.sin(t * 2.2), pula(t / 0.4))
         for k, sp in enumerate(ops):
             ent = pula((t - 0.3 - 0.15 * k) / 0.35)
             dx = 5 * math.sin(t * 40 + k) if frac < 0.3 else 0
@@ -221,12 +281,16 @@ def pergunta_frames(q, total, count=COUNT, filtro=None, fala=0.0):
 
 def resposta_frames(q, dur, total, filtro_antes=None, t0=0.0):
     """A certa cresce verde com ✔, as outras encolhem e escurecem; foto volta à cor (se tinha filtro)."""
-    am, cor = cartao_sprite(q, filtro_antes), cartao_sprite(q, None)
+    clipe = bool(q.get("clipe"))
+    am, cor = (None, None) if clipe else (cartao_sprite(q, filtro_antes), cartao_sprite(q, None))
     for i in range(int(dur * FPS)):
         tt = i / FPS
         img = base(q, total, t0 + tt)
         a = min(1.0, tt / 0.45)
-        card = cor if (a >= 1 or filtro_antes is None) else Image.blend(am, cor, a)
+        if clipe:
+            card = _cartao_agora(q, None)
+        else:
+            card = cor if (a >= 1 or filtro_antes is None) else Image.blend(am, cor, a)
         colar(img, card, CARD_C[0], CARD_C[1])
         for k, o in enumerate(q["opcoes"]):
             if k == q["certa"]:
@@ -238,3 +302,64 @@ def resposta_frames(q, dur, total, filtro_antes=None, t0=0.0):
             img.alpha_composite(Image.new("RGBA", (W, H), (255, 255, 255, int(120 * (1 - tt / 0.2)))))
         b.put_palito(img, "comemorando", PAL_H, PAL_CX, PAL_BASE, -int(abs(26 * math.sin(tt * 7))))
         yield zoom(img, 1.03 + 0.02 * tt / dur).convert("RGB")
+    if "_clipe" in q:
+        q.pop("_clipe").fechar()
+
+
+def primeiro_quadro(q, total):
+    """Como a tela da pergunta começa (fundo, topo, barra cheia, Palito) — usado na transição."""
+    img = base(q, total, 0.0)
+    barra(img, 1.0)
+    b.put_palito(img, "pensando", PAL_H, PAL_CX, PAL_BASE, 0)
+    return img.convert("RGB")
+
+
+def transicao_frames(antes, q, total, dur=0.6):
+    """Faixa diagonal amarela com o selo varre a tela da esquerda para a direita, trocando de pergunta."""
+    depois = primeiro_quadro(q, total)
+    larg, incl = 520, 420                      # largura da faixa e inclinação
+    n = int(dur * FPS)
+    for i in range(n):
+        p = (i + 1) / n
+        p = p * p * (3 - 2 * p)
+        x = -larg - incl + p * (W + 2 * larg + 2 * incl)   # borda da frente da faixa (no topo)
+        m = Image.new("L", (W, H), 0)
+        ImageDraw.Draw(m).polygon([(-10, 0), (x - larg, 0), (x - larg - incl, H), (-10, H)], fill=255)
+        img = antes.copy()
+        img.paste(depois, (0, 0), m)
+        img = img.convert("RGBA")
+        d = ImageDraw.Draw(img)
+        d.polygon([(x - larg, 0), (x, 0), (x - incl, H), (x - larg - incl, H)], fill=b.YELLOW)
+        d.polygon([(x - larg, 0), (x - larg + 40, 0), (x - larg - incl + 40, H), (x - larg - incl, H)], fill=b.NAVY)
+        d.polygon([(x - 40, 0), (x, 0), (x - incl, H), (x - incl - 40, H)], fill=b.NAVY)
+        b.selo(img, int(x - larg / 2 - incl / 2), H // 2, 1.2)
+        yield img.convert("RGB")
+
+
+def make_sfx(tmp):
+    """Sons do modelo: os de sempre (tick, ding, whoosh) + pop, tique rápido e acerto."""
+    sfx = b.make_sfx(tmp)
+    novos = {
+        "pop": "aevalsrc='0.5*sin(2*PI*(500+2200*t)*t)*exp(-28*t)':s=44100:d=0.14",
+        "tique": "aevalsrc='0.55*sin(2*PI*2400*t)*exp(-70*t)':s=44100:d=0.07",
+        "acerto": "aevalsrc='0.3*(sin(2*PI*1047*t)*between(t,0,0.12)+sin(2*PI*1319*t)*between(t,0.09,0.21)"
+                  "+sin(2*PI*1568*t)*between(t,0.18,0.3)+(sin(2*PI*2093*t)+0.5*sin(2*PI*3136*t))*gte(t,0.27)"
+                  "*exp(-5*(t-0.27)))':s=44100:d=1.1",
+    }
+    for k, src in novos.items():
+        sfx[k] = os.path.join(tmp, k + ".wav")
+        b.run(["ffmpeg", "-y", "-f", "lavfi", "-i", src, sfx[k]])
+    return sfx
+
+
+def sons_pergunta(tl, sfx, t0, fala=0.0, count=COUNT, entrada=True):
+    """Agenda os sons de uma pergunta que começa em t0 (antes de gerar os quadros dela)."""
+    if entrada:
+        tl.sound(sfx["whoosh"], at=t0, vol=0.6)
+    for k in range(3):                                   # alternativas pulando
+        tl.sound(sfx["pop"], at=t0 + 0.3 + 0.15 * k, vol=0.7)
+    for s in range(int(count)):                          # tique-taque, mais rápido no fim
+        tl.sound(sfx["tick"], at=t0 + fala + s, vol=0.7)
+        if s >= count - 2:
+            tl.sound(sfx["tique"], at=t0 + fala + s + 0.5, vol=0.6)
+    tl.sound(sfx["acerto"], at=t0 + fala + count, vol=0.8)
