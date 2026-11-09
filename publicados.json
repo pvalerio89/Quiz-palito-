@@ -261,6 +261,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/13-animal-pela-foto": {
+      "titulo": "ADIVINHE O ANIMAL PELO ZOOM! 🦁 90 Animais em Fotos Reais | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "iotE51SoaZY",
+        "url": "https://youtu.be/iotE51SoaZY",
+        "data": "2026-11-09",
+        "origem": "github-actions",
+        "sha256": "bd69e819d71e4dc7342c4de81c132208559cbe7e22697c41d2692b87cce411c2"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
