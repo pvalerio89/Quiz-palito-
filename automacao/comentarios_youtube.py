@@ -202,7 +202,9 @@ def trocar(endereco):
              "\n\nDepois de salvar, apague esta execução.\n")
     if out:
         open(out, "a", encoding="utf-8").write(texto)
-        print("OK: token no resumo da execução (aba Summary).")
+        # o app do GitHub no celular não mostra o resumo: repete no log do passo
+        print("OK: copie a linha abaixo para o Secret YT_REFRESH_TOKEN e depois apague esta execução.")
+        print(r["refresh_token"])
     else:
         print(texto)
 
