@@ -21,10 +21,15 @@
       "referencia": "https://youtu.be/rTG3Uu2KWKE",
       "tema": "Adivinhe a Fruta em 3 Segundos (frutas e legumes)",
       "obs": "Imagens de frutas/legumes por emoji ou ícone livre; 3 s por pergunta.",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/11-fruta-3-segundos",
       "short": "shorts/frutas-1",
-      "titulo": "ADIVINHE A FRUTA EM 3 SEGUNDOS! 🍓 33 Frutas e Legumes | Quiz Palito"
+      "titulo": "ADIVINHE A FRUTA EM 3 SEGUNDOS! 🍓 33 Frutas e Legumes | Quiz Palito",
+      "publicado_em": "2026-11-09",
+      "links": {
+        "video": "https://youtu.be/uHskqFbgyNQ",
+        "short": "https://youtu.be/vFdT0O4_dUk"
+      }
     },
     {
       "id": "2026-11-06-quiz-dos-animais",
