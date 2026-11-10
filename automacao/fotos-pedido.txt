@@ -1,2 +1,1 @@
-clipes videos/modelo-opcoes/clipes.json videos/modelo-opcoes
-# 2a tentativa (filtro do ffmpeg corrigido)
+escudos videos/16-alfabeto-times/escudos.tsv videos/16-alfabeto-times
