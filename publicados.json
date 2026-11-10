@@ -342,6 +342,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/desenhos-1": {
+      "titulo": "Adivinhe o DESENHO pelos EMOJIS! 🧽 Será que você gabarita? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "rTmECoKfflk",
+        "url": "https://youtu.be/rTmECoKfflk",
+        "data": "2026-11-10",
+        "origem": "github-actions",
+        "sha256": "574d93ba2a205c78be240ec24846a5f8cbaae3500ed89ae67eb0da37b62ab3e8"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
