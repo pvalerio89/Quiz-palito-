@@ -11,6 +11,9 @@ Extras (aprovados pelo Patrick, 2026-11-09):
   - VÍDEO CURTO no lugar da foto em algumas perguntas (umas 1 a cada 5): q["clipe"] = "panda.mp4"
     (arquivo em CLIPES, baixado com `automacao/fotos_wiki.py clipes`), aparece com selo "VÍDEO";
   - transição entre perguntas: `transicao_frames(ultimo_quadro, q, total)` (faixa diagonal com o selo).
+Mudanças de 2026-11-10 (Patrick): SEM tela de abertura — o vídeo já começa na 1ª pergunta, com a chamada numa
+faixa por cima (`pergunta_frames(..., gancho="...")`, a saudação/apresentação é falada por cima dela);
+placar de bolinhas "CONTA SEUS PONTOS!" embaixo da barra e selo "+1 SE ACERTOU!" em cada resposta.
 
 Uso num vídeo novo (modelo completo em previa.py, função video()):
     sys.path.insert(0, os.path.join(VIDEOS, "modelo-opcoes")); import opcoes as op
@@ -28,6 +31,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 VIDEOS = os.path.dirname(HERE)
 sys.path.insert(0, os.path.join(VIDEOS, "05-nao-diga-o-mesmo"))
 import build_naodiga as nd
+sys.path.insert(0, HERE)
+import engaja as eg
 from build_naodiga import b
 
 W, H, FPS = b.W, b.H, b.FPS
@@ -259,9 +264,19 @@ def barra(img, frac, count=COUNT):
                stroke_width=4, stroke_fill=b.NAVY)
 
 
-def pergunta_frames(q, total, count=COUNT, filtro=None, fala=0.0):
+def placar(img, q, total, t, respondida=False):
+    """Bolinhas do bloco de 10 atual embaixo da barra (o placar falado continua a cada 10)."""
+    bloco = (q["n"] - 1) // 10
+    feitas = (q["n"] - 1) % 10 + (1 if respondida else 0)
+    eg.pontos(img, 930, 1012, feitas, min(10, total - bloco * 10), t, raio=25, gap=18,
+              rotulo="CONTA SEUS PONTOS!", rotulo_size=38, rotulo_acima=False)
+
+
+def pergunta_frames(q, total, count=COUNT, filtro=None, fala=0.0, gancho=None, gancho_dur=None):
     """Foto entra com pulinho, as alternativas pulam uma a uma e ficam flutuando; no fim do tempo tremem.
-    `fala`: segundos de narração antes da barra começar a correr."""
+    `fala`: segundos de narração antes da barra começar a correr.
+    `gancho`: só na 1ª pergunta — a chamada do vídeo ("CONSEGUE ACERTAR TODAS?\nVALENDO!") numa faixa por
+    cima do título durante `gancho_dur` s (padrão: a fala). Não há tela de abertura antes da 1ª pergunta."""
     ops = [opcao_sprite(i, o) for i, o in enumerate(q["opcoes"])]
     dur = fala + count
     for i in range(int(dur * FPS)):
@@ -274,8 +289,11 @@ def pergunta_frames(q, total, count=COUNT, filtro=None, fala=0.0):
             dx = 5 * math.sin(t * 40 + k) if frac < 0.3 else 0
             colar(img, sp, OPT_X + dx, OPT_Y[k] + 5 * math.sin(t * 3 + k * 1.3), ent)
         barra(img, frac, count)
+        placar(img, q, total, t)
         pose = "pensando" if frac > 0.3 else "assustado"
         b.put_palito(img, pose, PAL_H, PAL_CX, PAL_BASE, int(7 * math.sin(t * (5 if pose == "pensando" else 18))))
+        if gancho:
+            eg.faixa_gancho(img, 850, 122, gancho, t, gancho_dur or max(fala, 2.5), larg=1350, size=78)
         yield zoom(img, 1.0 + 0.03 * t / dur).convert("RGB")
 
 
@@ -298,6 +316,8 @@ def resposta_frames(q, dur, total, filtro_antes=None, t0=0.0):
                 colar(img, opcao_sprite(k, o, "sim"), OPT_X, OPT_Y[k], sc)
             else:
                 colar(img, opcao_sprite(k, o, "nao"), OPT_X, OPT_Y[k], 1.0 - 0.06 * min(tt / 0.25, 1.0))
+        placar(img, q, total, t0 + tt, respondida=True)
+        eg.mais_um(img, OPT_X, 840, tt, size=42)
         if tt < 0.2:
             img.alpha_composite(Image.new("RGBA", (W, H), (255, 255, 255, int(120 * (1 - tt / 0.2)))))
         b.put_palito(img, "comemorando", PAL_H, PAL_CX, PAL_BASE, -int(abs(26 * math.sin(tt * 7))))
@@ -310,6 +330,7 @@ def primeiro_quadro(q, total):
     """Como a tela da pergunta começa (fundo, topo, barra cheia, Palito) — usado na transição."""
     img = base(q, total, 0.0)
     barra(img, 1.0)
+    placar(img, q, total, 0.0)
     b.put_palito(img, "pensando", PAL_H, PAL_CX, PAL_BASE, 0)
     return img.convert("RGB")
 

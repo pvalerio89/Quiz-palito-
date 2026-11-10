@@ -32,7 +32,12 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
      **vídeo curto** (`q["clipe"]`): ache .webm/.ogv nos artigos da Wikipédia, confira a licença (PD/CC0/CC BY de
      preferência) e baixe com `automacao/fotos_wiki.py clipes` pelo workflow "Fotos Wikimedia" (crédito vai na tela final).
      Alternativas erradas plausíveis e do mesmo tipo; a certa em posição variada. Exemplo completo: `previa.py` (`video()`).
-     Só se o tema não couber em alternativas, use o modelo mais recente de `videos/`. Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
+     Só se o tema não couber em alternativas, use o modelo mais recente de `videos/`.
+   - **Sem tela de abertura (Patrick, 2026-11-10), no longo e no Short:** a 1ª pergunta aparece já no primeiro
+     segundo. A chamada vai numa faixa vermelha POR CIMA da 1ª pergunta (`pergunta_frames(..., gancho="...")` no
+     longo; no Short, `CHAMADA` + "VALENDO!") e a saudação/apresentação é falada junto com a pergunta 1 (curta,
+     até ~5 s). Placar na tela: bolinhas "CONTA SEUS PONTOS!"/"PONTOS:" + selo "+1 SE ACERTOU!" em cada resposta;
+     no fim, "__ / N" e "PAUSA E COMENTA SUA NOTA!". Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
    - **Vídeo longo com MAIS DE 8 MINUTOS** (regra do Patrick, 2026-11-09: a partir de 8 min o YouTube deixa pôr
      anúncios no meio). Mire em **8:30 a 10 min** e coloque **o máximo de perguntas que couber** (não enrole com
      telas paradas). Depois de montar, confira a duração (`tempos.json` → `final` + fim ≥ 500 s, ou `ffprobe`); se
@@ -46,7 +51,7 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
      temas abstratos (palavras, cores, sentimentos) ou bandeiras/logos (bandeiras SVG, simple-icons CC0).
    - Vídeo longo com kit completo em `youtube/`: título, descrição, tags e **miniatura** (título emocional grande,
      elementos recortados gigantes, **fundo colorido com raios**, Palito enorme em pânico, faixa "VOCÊ CONSEGUE?").
-   - Short 9:16 com movimento (`shorts/short_base.py`), 6 perguntas do mesmo tema. Use as mesmas fotos reais do vídeo longo
+   - Short 9:16 com movimento: **copie o modelo `shorts/modelo/`** (sem abertura, placar, 3 opções), 6 perguntas do mesmo tema. Use as mesmas fotos reais do vídeo longo
      quando ele tiver fotos. **Frase de chamada variada:** não use sempre "Só 1% acerta". Escolha uma frase de
      `CHAMADAS` em `shorts/short_base.py` (função `chamada()`) diferente das usadas nos últimos 3 Shorts
      (veja os títulos em `publicados.json`); "Só 1% acerta" pode aparecer de vez em quando, nunca em 2 seguidos.
