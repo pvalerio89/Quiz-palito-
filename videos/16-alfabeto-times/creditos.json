@@ -1,0 +1,597 @@
+{
+ "Arsenal": {
+  "file": "Kit_left_arm_arsenal2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "arsenal.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Arsenal_F.C."
+ },
+ "Atlético Mineiro": {
+  "file": "Kit_left_arm_atleticomg26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "atletico-mineiro.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Clube_Atlético_Mineiro"
+ },
+ "Ajax": {
+  "file": "Kit_left_arm_ajax2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "ajax.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "AFC_Ajax"
+ },
+ "Atlético de Madrid": {
+  "file": "Kit_left_arm_atleticomadrid2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "atletico-de-madrid.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Atlético_Madrid"
+ },
+ "Athletic Bilbao": {
+  "file": "Kit_left_arm_bilbao2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "athletic-bilbao.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Athletic_Bilbao"
+ },
+ "Barcelona": {
+  "file": "Kit_left_arm_barcelona2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "barcelona.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "FC_Barcelona"
+ },
+ "Bayern de Munique": {
+  "file": "Kit_left_arm_bayern2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "bayern-de-munique.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "FC_Bayern_Munich"
+ },
+ "Botafogo": {
+  "file": "Kit_left_arm_botafogo2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "botafogo.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Botafogo_de_Futebol_e_Regatas"
+ },
+ "Boca Juniors": {
+  "file": "Kit_left_arm_boca2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "boca-juniors.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Boca_Juniors"
+ },
+ "Benfica": {
+  "file": "Kit_left_arm_benfica2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "benfica.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "S.L._Benfica"
+ },
+ "Borussia Dortmund": {
+  "file": "Kit_left_arm_bvb2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "borussia-dortmund.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Borussia_Dortmund"
+ },
+ "Bahia": {
+  "file": "Kit_left_arm_bahia26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "bahia.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Esporte_Clube_Bahia"
+ },
+ "Corinthians": {
+  "file": "Kit_left_arm_corinthians2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "corinthians.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Sport_Club_Corinthians_Paulista"
+ },
+ "Cruzeiro": {
+  "file": "Kit_left_arm_cruzeiro26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "cruzeiro.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Cruzeiro_Esporte_Clube"
+ },
+ "Chelsea": {
+  "file": "Kit_left_arm_chelsea2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "chelsea.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Chelsea_F.C."
+ },
+ "Celtic": {
+  "file": "Kit_left_arm_celtic2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "celtic.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Celtic_F.C."
+ },
+ "Ceará": {
+  "file": "Kit_left_arm_ceara2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "ceara.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Ceará_Sporting_Club"
+ },
+ "Coritiba": {
+  "file": "Kit_left_arm_coxa26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "coritiba.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Coritiba_Foot_Ball_Club"
+ },
+ "Chapecoense": {
+  "file": "Kit_left_arm_chapecoense26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "chapecoense.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Associação_Chapecoense_de_Futebol"
+ },
+ "Dínamo de Zagreb": {
+  "file": "Kit_left_arm_dzagreb2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "dinamo-de-zagreb.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "GNK_Dinamo_Zagreb"
+ },
+ "Deportivo La Coruña": {
+  "file": "Kit_left_arm_depor2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "deportivo-la-coruna.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Deportivo_de_La_Coruña"
+ },
+ "Everton": {
+  "file": "Kit_left_arm_everton2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "everton.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Everton_F.C."
+ },
+ "Eintracht Frankfurt": {
+  "file": "Kit_left_arm_frankfurt2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "eintracht-frankfurt.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Eintracht_Frankfurt"
+ },
+ "Estudiantes": {
+  "file": "Kit_left_arm_edelp2026h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "estudiantes.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Estudiantes_de_La_Plata"
+ },
+ "Flamengo": {
+  "file": "Kit_left_arm_flamengo26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "flamengo.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "CR_Flamengo"
+ },
+ "Fluminense": {
+  "file": "Kit_left_arm_fluminense26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "fluminense.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Fluminense_FC"
+ },
+ "Fortaleza": {
+  "file": "Kit_left_arm_fortaleza26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "fortaleza.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Fortaleza_Esporte_Clube"
+ },
+ "Fenerbahçe": {
+  "file": "Kit_left_arm_fenerbahce2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "fenerbahce.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Fenerbahçe_S.K._(football)"
+ },
+ "Feyenoord": {
+  "file": "Kit_body_feyenoord2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "feyenoord.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Feyenoord"
+ },
+ "Fiorentina": {
+  "file": "Kit_left_arm_fiorentina2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "fiorentina.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "ACF_Fiorentina"
+ },
+ "Grêmio": {
+  "file": "Kit_left_arm_gremio26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "gremio.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Grêmio_Foot-Ball_Porto_Alegrense"
+ },
+ "Galatasaray": {
+  "file": "Kit_left_arm_galatasaray2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "galatasaray.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Galatasaray_S.K._(football)"
+ },
+ "Goiás": {
+  "file": "Kit_left_arm_goias26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "goias.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Goiás_Esporte_Clube"
+ },
+ "Genoa": {
+  "file": "Kit_left_arm_genoa2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "genoa.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Genoa_CFC"
+ },
+ "Hamburgo": {
+  "file": "Kit_left_arm_hsv2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "hamburgo.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Hamburger_SV"
+ },
+ "Hertha Berlim": {
+  "file": "Kit_left_arm_blueborder.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "hertha-berlim.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Hertha_BSC"
+ },
+ "Internacional": {
+  "file": "Kit_left_arm_inter26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "internacional.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Sport_Club_Internacional"
+ },
+ "Inter de Milão": {
+  "file": "Kit_left_arm_intermilan2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "inter-de-milao.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Inter_Milan"
+ },
+ "Independiente": {
+  "file": "Kit_left_arm_independiente2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "independiente.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Club_Atlético_Independiente"
+ },
+ "Juventus": {
+  "file": "Kit_left_arm_juventus2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "juventus.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Juventus_FC"
+ },
+ "Juventude": {
+  "file": "Kit_left_arm_juventude26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "juventude.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Esporte_Clube_Juventude"
+ },
+ "Kaiserslautern": {
+  "file": "Kit_left_arm_kaiserslautern2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "kaiserslautern.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "1._FC_Kaiserslautern"
+ },
+ "Liverpool": {
+  "file": "Kit_left_arm_liverpool2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "liverpool.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Liverpool_F.C."
+ },
+ "Lazio": {
+  "file": "Kit_left_arm_lazio2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "lazio.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "SS_Lazio"
+ },
+ "Lyon": {
+  "file": "Kit_left_arm_lyon2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "lyon.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Olympique_Lyonnais"
+ },
+ "Leicester": {
+  "file": "Kit_left_arm_leicester2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "leicester.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Leicester_City_F.C."
+ },
+ "Leeds": {
+  "file": "Kit_left_arm_leeds2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "leeds.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Leeds_United_F.C."
+ },
+ "Manchester United": {
+  "file": "Kit_left_arm_manutd2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "manchester-united.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Manchester_United_F.C."
+ },
+ "Manchester City": {
+  "file": "Kit_left_arm_mancity2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "manchester-city.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Manchester_City_F.C."
+ },
+ "Milan": {
+  "file": "Kit_left_arm_milan2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "milan.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "AC_Milan"
+ },
+ "Monaco": {
+  "file": "Kit_left_arm_monaco2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "monaco.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "AS_Monaco_FC"
+ },
+ "Mirassol": {
+  "file": "Kit_left_arm_mirassol26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "mirassol.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Mirassol_Futebol_Clube"
+ },
+ "Napoli": {
+  "file": "Kit_body_Napoli2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "napoli.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "SSC_Napoli"
+ },
+ "Newcastle": {
+  "file": "Kit_left_arm_newcastle2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "newcastle.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Newcastle_United_F.C."
+ },
+ "Náutico": {
+  "file": "Kit_left_arm_nautico26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "nautico.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Clube_Náutico_Capibaribe"
+ },
+ "Nacional": {
+  "file": "Kit_left_arm_nacional24h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "nacional.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Club_Nacional_de_Football"
+ },
+ "Olimpia": {
+  "file": "Kit_left_arm_olimpia25h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "olimpia.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Club_Olimpia"
+ },
+ "Olympique de Marselha": {
+  "file": "Kit_left_arm_marseille2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "olympique-de-marselha.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Olympique_de_Marseille"
+ },
+ "Palmeiras": {
+  "file": "Kit_body_palmeiras26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "palmeiras.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Sociedade_Esportiva_Palmeiras"
+ },
+ "PSG": {
+  "file": "Kit_left_arm_psg2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "psg.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Paris_Saint-Germain_FC"
+ },
+ "Porto": {
+  "file": "Kit_left_arm_porto2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "porto.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "FC_Porto"
+ },
+ "PSV": {
+  "file": "Kit_left_arm_psv2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "psv.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "PSV_Eindhoven"
+ },
+ "Peñarol": {
+  "file": "Kit_left_arm_penarol25h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "penarol.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Peñarol"
+ },
+ "Queens Park Rangers": {
+  "file": "Kit_left_arm_qpr2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "queens-park-rangers.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Queens_Park_Rangers_F.C."
+ },
+ "Real Madrid": {
+  "file": "Kit_left_arm_realmadrid2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "real-madrid.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Real_Madrid_CF"
+ },
+ "River Plate": {
+  "file": "Kit_left_arm_riverplate2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "river-plate.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Club_Atlético_River_Plate"
+ },
+ "Roma": {
+  "file": "Kit_left_arm_roma2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "roma.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "AS_Roma"
+ },
+ "Racing": {
+  "file": "Kit_left_arm_racing26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "racing.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Racing_Club_de_Avellaneda"
+ },
+ "Rangers": {
+  "file": "Kit_left_arm_rangers2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "rangers.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Rangers_F.C."
+ },
+ "Santos": {
+  "file": "Kit_left_arm_santos26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "santos.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Santos_FC"
+ },
+ "São Paulo": {
+  "file": "Kit_left_arm_spfc26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "sao-paulo.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "São_Paulo_FC"
+ },
+ "Sporting": {
+  "file": "Kit_left_arm_scp2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "sporting.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Sporting_CP"
+ },
+ "Sevilla": {
+  "file": "Kit_left_arm_sevilla2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "sevilla.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Sevilla_FC"
+ },
+ "Sport Recife": {
+  "file": "Kit_left_arm_sport26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "sport-recife.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Sport_Club_do_Recife"
+ },
+ "Tottenham": {
+  "file": "Kit_left_arm_tottenham2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "tottenham.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Tottenham_Hotspur_F.C."
+ },
+ "Torino": {
+  "file": "Kit_left_arm_torino2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "torino.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Torino_FC"
+ },
+ "Udinese": {
+  "file": "Kit_left_arm_udinese2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "udinese.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Udinese_Calcio"
+ },
+ "Vasco": {
+  "file": "Kit_left_arm_vasco26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "vasco.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "CR_Vasco_da_Gama"
+ },
+ "Valencia": {
+  "file": "Kit_left_arm_valencia2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "valencia.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Valencia_CF"
+ },
+ "Vitória": {
+  "file": "Kit_left_arm_vitoria26h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "vitoria.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Esporte_Clube_Vitória"
+ },
+ "Villarreal": {
+  "file": "Kit_left_arm_villarreal2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "villarreal.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Villarreal_CF"
+ },
+ "West Ham": {
+  "file": "Kit_left_arm_whu2526h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "west-ham.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "West_Ham_United_F.C."
+ },
+ "Wolverhampton": {
+  "file": "Kit_left_arm_wolverhampton2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "wolverhampton.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Wolverhampton_Wanderers_F.C."
+ },
+ "Xerez": {
+  "file": "Kit_body_xerez2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "xerez.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "Xerez_CD"
+ },
+ "Young Boys": {
+  "file": "Kit_left_arm_youngboys2627h.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  "arquivo": "young-boys.png",
+  "autor": "",
+  "lic": "logo do clube",
+  "artigo": "BSC_Young_Boys"
+ }
+}
