@@ -262,7 +262,10 @@
         "sha256": "df8d75b43063472711489fbe8d4da43147e6f37ec611bf996521c4ad2e38d751"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7706364655513634834",
+        "data": "2026-11-10",
+        "origem": "github-actions"
       }
     },
     "videos/13-animal-pela-foto": {
