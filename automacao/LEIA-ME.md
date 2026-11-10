@@ -14,7 +14,7 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 ## TikTok: configurar uma vez
 
 1. Em developers.tiktok.com, entre com a conta @quizpalitos e crie um app (tipo Web).
-   Produtos: **Login Kit** e **Content Posting API** (ligue **Direct Post**). Escopos: `user.info.basic`, `video.publish`.
+   Produtos: **Login Kit** e **Content Posting API** (ligue **Direct Post**). Escopos: `user.info.basic`, `video.upload`, `video.publish` (ligue também **Upload**).
    Redirect URI do Login Kit: `https://pvalerio89.github.io/quizpalito.github.io/tiktok.html`.
    Termos: `https://pvalerio89.github.io/quizpalito.github.io/termos.html` ; Privacidade: `https://pvalerio89.github.io/quizpalito.github.io/privacidade.html` (site no repo pvalerio89/quizpalito.github.io, GitHub Pages).
    No Sandbox, adicione a conta @quizpalitos como usuário de teste (Target users).
@@ -23,7 +23,8 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 3. Rode **Autorizar TikTok** sem nada: o resumo mostra o link. Abra, autorize; a página do Quiz Palito abre com o botão **Copiar**.
    Rode de novo colando no campo. O resumo mostra o valor do Secret `TIKTOK_REFRESH_TOKEN` (vale 1 ano).
    Depois apague essa execução.
-4. Peça a auditoria do app (Content Posting API) para os vídeos saírem públicos.
+4. Sem auditoria: rode **Enviar ao TikTok** no modo `rascunho`; o vídeo chega na caixa de entrada do TikTok e você publica pelo celular (legenda no resumo da execução).
+   Com a auditoria aprovada, o modo `direto` publica sozinho.
 
 ## 1 vídeo por dia, sozinho (fila)
 

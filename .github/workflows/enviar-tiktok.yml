@@ -1,6 +1,7 @@
 # Posta no TikTok, pela API oficial, o vídeo que o "Gerar vídeo" guardou na Release "video-<pasta>".
 # Legenda: youtube/tiktok.txt do kit. Confere o publicados.json antes e anota o ID depois.
-# Enquanto o app do TikTok não for auditado, o vídeo sai como "somente eu".
+# Modo "rascunho" (padrão): o vídeo vai para a caixa de entrada do TikTok; o dono abre a notificação,
+# cola a legenda (aparece no resumo da execução) e publica. Modo "direto" só funciona com o app auditado.
 name: Enviar ao TikTok
 
 on:
@@ -10,6 +11,12 @@ on:
         description: "Pasta do Short (ex.: shorts/estados-1)"
         required: true
         type: string
+      modo:
+        description: "rascunho (você publica pelo celular) ou direto (só depois da aprovação do TikTok)"
+        required: true
+        default: rascunho
+        type: choice
+        options: [rascunho, direto]
 
 concurrency:
   group: publicacao
@@ -24,6 +31,7 @@ jobs:
     timeout-minutes: 30
     env:
       PASTA: ${{ inputs.pasta }}
+      MODO: ${{ inputs.modo || 'rascunho' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -47,7 +55,13 @@ jobs:
           TIKTOK_CLIENT_KEY: ${{ vars.TIKTOK_CLIENT_KEY || secrets.TIKTOK_CLIENT_KEY }}
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
           TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
-        run: python automacao/tiktok.py publicar "$PASTA" "$MP4" "$LEGENDA"
+        run: |
+          if [ "$MODO" = "direto" ]; then
+            python automacao/tiktok.py publicar "$PASTA" "$MP4" "$LEGENDA"
+          else
+            python automacao/tiktok.py rascunho "$PASTA" "$MP4"
+            { echo "### Abra a notificação no app do TikTok e cole esta legenda"; echo; echo '```'; cat "$LEGENDA"; echo; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       # Roda mesmo se algo falhar depois do envio, para o ID nunca se perder.
       - name: Gravar no publicados.json
