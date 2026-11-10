@@ -4,6 +4,8 @@ Uso:
   python automacao/tiktok.py link                       -> mostra o link de login (1 vez, para autorizar)
   python automacao/tiktok.py trocar "<endereço colado>" -> troca o código do login pelo refresh token
   python automacao/tiktok.py publicar <pasta> <arquivo.mp4> [legenda.txt]
+  python automacao/tiktok.py rascunho <pasta> <arquivo.mp4>  -> manda para a caixa de entrada do TikTok;
+                                                                 o dono abre a notificação e publica
 Variáveis de ambiente (Secrets do GitHub; nunca são impressas):
   TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, TIKTOK_REFRESH_TOKEN (este só para publicar)
   TIKTOK_REDIRECT (opcional; padrão abaixo, tem que ser igual ao cadastrado no app do TikTok)
@@ -16,7 +18,7 @@ from comum import checar_duplicado, ler_registro, marcar, pasta_rel, salvar_regi
 
 API = "https://open.tiktokapis.com/v2"
 REDIRECT = os.environ.get("TIKTOK_REDIRECT") or "https://pvalerio89.github.io/quizpalito.github.io/tiktok.html"
-ESCOPOS = "user.info.basic,video.publish"
+ESCOPOS = "user.info.basic,video.upload,video.publish"
 LIMITE_UM_PEDACO = 64 * 1024 * 1024  # até 64 MB o vídeo vai inteiro numa parte só
 PEDACO = 10 * 1024 * 1024
 
@@ -67,8 +69,9 @@ def trocar(endereco):
     code = (q.get("code") or [endereco.strip()])[0]
     r = chamar(f"{API}/oauth/token/", {"client_key": ck, "client_secret": cs, "code": code,
                                          "grant_type": "authorization_code", "redirect_uri": REDIRECT}, form=True)
-    if "video.publish" not in r.get("scope", ""):
-        print("::warning::o login não liberou video.publish; confira os escopos do app.")
+    for esc in ("video.upload", "video.publish"):
+        if esc not in r.get("scope", ""):
+            print(f"::warning::o login não liberou {esc}; confira os escopos do app.")
     return r["refresh_token"], r.get("refresh_expires_in")
 
 
@@ -79,6 +82,46 @@ def acesso():
     if r.get("refresh_token") and r["refresh_token"] != rt:
         print("::warning::o TikTok trocou o refresh token. Rode 'Autorizar TikTok' de novo quando der.")
     return r["access_token"]
+
+
+def enviar_partes(url, mp4, tam, pedaco, partes):
+    enviar_partes(url, mp4, tam, pedaco, partes)
+
+
+def tamanhos(mp4):
+    tam = os.path.getsize(mp4)
+    pedaco = tam if tam <= LIMITE_UM_PEDACO else PEDACO
+    partes = 1 if pedaco == tam else tam // pedaco  # a última parte leva o resto
+    return tam, pedaco, partes
+
+
+def rascunho(pasta, mp4):
+    """Manda o vídeo para a caixa de entrada do TikTok (não precisa de app auditado nem conta privada)."""
+    pasta = pasta_rel(pasta)
+    doc = ler_registro()
+    checar_duplicado(doc, pasta, "tiktok")
+    tk = acesso()
+    tam, pedaco, partes = tamanhos(mp4)
+    ini = chamar(f"{API}/post/publish/inbox/video/init/", {
+        "source_info": {"source": "FILE_UPLOAD", "video_size": tam, "chunk_size": pedaco,
+                        "total_chunk_count": partes}}, token=tk)["data"]
+    pid = ini["publish_id"]
+    print(f"Enviando {os.path.basename(mp4)} ({tam / 1e6:.0f} MB) para a caixa de entrada", flush=True)
+    enviar_partes(ini["upload_url"], mp4, tam, pedaco, partes)
+    st = "?"
+    for _ in range(60):
+        time.sleep(10)
+        d = chamar(f"{API}/post/publish/status/fetch/", {"publish_id": pid}, token=tk)["data"]
+        st = d.get("status")
+        print("status:", st, flush=True)
+        if st == "FAILED":
+            sys.exit(f"ERRO: o TikTok recusou o vídeo ({d.get('fail_reason')}).")
+        if st in ("SEND_TO_USER_INBOX", "PUBLISH_COMPLETE"):
+            break
+    marcar(doc, pasta, "tiktok", status="rascunho", id=pid, data=datetime.date.today().isoformat(),
+           origem="github-actions")
+    salvar_registro(doc)
+    print(f"OK TikTok ({st}): abra a notificação no app do TikTok e publique.")
 
 
 def publicar(pasta, mp4, legenda_txt=None):
@@ -94,9 +137,7 @@ def publicar(pasta, mp4, legenda_txt=None):
     print(f"Conta: @{info.get('creator_username')} | privacidade: {priv} (opções: {', '.join(opcoes)})")
     dur = info.get("max_video_post_duration_sec")
 
-    tam = os.path.getsize(mp4)
-    pedaco = tam if tam <= LIMITE_UM_PEDACO else PEDACO
-    partes = 1 if pedaco == tam else tam // pedaco  # a última parte leva o resto
+    tam, pedaco, partes = tamanhos(mp4)
     ini = chamar(f"{API}/post/publish/video/init/", {
         "post_info": {"title": legenda[:2200], "privacy_level": priv, "disable_duet": False,
                       "disable_comment": False, "disable_stitch": False, "video_cover_timestamp_ms": 1000},
@@ -104,19 +145,7 @@ def publicar(pasta, mp4, legenda_txt=None):
                         "total_chunk_count": partes}}, token=tk)["data"]
     pid, url = ini["publish_id"], ini["upload_url"]
     print(f"Enviando {os.path.basename(mp4)} ({tam / 1e6:.0f} MB, {partes} parte(s)); limite da conta: {dur}s", flush=True)
-    with open(mp4, "rb") as f:
-        for i in range(partes):
-            a = i * pedaco
-            b = tam - 1 if i == partes - 1 else a + pedaco - 1
-            f.seek(a)
-            dados = f.read(b - a + 1)
-            req = urllib.request.Request(url, data=dados, method="PUT", headers={
-                "Content-Type": "video/mp4", "Content-Length": str(len(dados)),
-                "Content-Range": f"bytes {a}-{b}/{tam}"})
-            try:
-                urllib.request.urlopen(req, timeout=600)
-            except urllib.error.HTTPError as e:
-                sys.exit(f"ERRO no envio da parte {i + 1} (HTTP {e.code})")
+    enviar_partes(url, mp4, tam, pedaco, partes)
 
     post_id, st = None, "?"
     for _ in range(60):  # até ~10 min processando
@@ -156,6 +185,8 @@ if __name__ == "__main__":
             print("OK: refresh token no resumo da execução (aba Summary).")
         else:
             print(rt)
+    elif cmd == "rascunho" and len(sys.argv) >= 4:
+        rascunho(sys.argv[2], os.path.abspath(sys.argv[3]))
     elif cmd == "publicar" and len(sys.argv) >= 4:
         publicar(sys.argv[2], os.path.abspath(sys.argv[3]), sys.argv[4] if len(sys.argv) > 4 else None)
     else:
