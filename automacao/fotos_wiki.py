@@ -233,11 +233,8 @@ def escudos(lista, pasta, lado=512):
         pg = get(f"https://en.wikipedia.org/wiki/{urllib.parse.quote(art)}")
         i0 = pg.find('class="infobox') if pg else -1
         bloco = pg[i0:i0 + 60000] if i0 >= 0 else ""
-        if linha == linhas[0]:  # amostra para conferir o HTML
-            open(os.path.join(pasta, "escudos", "_debug.txt"), "w", encoding="utf-8").write(
-                "\n".join(re.findall(r"<img[^>]*>", bloco)[:12]) + "\n\n" + bloco[:3000])
         im_m, src, fn = None, "", ""
-        for im_m in re.finditer(r'<img[^>]*?src="((?:https:)?//upload\.wikimedia\.org/wikipedia/[^"]+)"', bloco):
+        for im_m in re.finditer(r'<img[^>]*?src="((?:https:)?//(?:upload|thumb)\.wikimedia\.org/wikipedia/[^"?]+)', bloco):
             src = html.unescape(im_m.group(1))
             partes = src.split("/")
             fn = urllib.parse.unquote(partes[partes.index("thumb") + 3] if "thumb" in partes else partes[-1])
