@@ -15,11 +15,13 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 
 1. Em developers.tiktok.com, entre com a conta @quizpalitos e crie um app (tipo Web).
    Produtos: **Login Kit** e **Content Posting API** (ligue **Direct Post**). Escopos: `user.info.basic`, `video.publish`.
-   Redirect URI do Login Kit: `https://github.com/pvalerio89/Quiz-palito-`.
+   Redirect URI do Login Kit: `https://pvalerio89.github.io/quizpalito.github.io/tiktok.html`.
+   Termos: `https://pvalerio89.github.io/quizpalito.github.io/termos.html` ; Privacidade: `https://pvalerio89.github.io/quizpalito.github.io/privacidade.html` (site no repo pvalerio89/quizpalito.github.io, GitHub Pages).
+   No Sandbox, adicione a conta @quizpalitos como usuário de teste (Target users).
 2. Variable (aba Variables) `TIKTOK_CLIENT_KEY` e Secret `TIKTOK_CLIENT_SECRET` (da página do app).
    A chave vai como Variable porque o GitHub esconde Secrets no resumo e o link de login sairia com `***`.
-3. Rode **Autorizar TikTok** sem nada: o resumo mostra o link. Abra, autorize, copie o endereço da página onde caiu
-   e rode de novo colando no campo. O resumo mostra o valor do Secret `TIKTOK_REFRESH_TOKEN` (vale 1 ano).
+3. Rode **Autorizar TikTok** sem nada: o resumo mostra o link. Abra, autorize; a página do Quiz Palito abre com o botão **Copiar**.
+   Rode de novo colando no campo. O resumo mostra o valor do Secret `TIKTOK_REFRESH_TOKEN` (vale 1 ano).
    Depois apague essa execução.
 4. Peça a auditoria do app (Content Posting API) para os vídeos saírem públicos.
 
