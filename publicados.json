@@ -356,6 +356,19 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/16-alfabeto-times": {
+      "youtube": {
+        "status": "publicado",
+        "id": "qtmgQ5WgqDU",
+        "url": "https://youtu.be/qtmgQ5WgqDU",
+        "data": "2026-11-10",
+        "origem": "github-actions",
+        "sha256": "c3f2ac05d9514947925da7d864a47e3267f6698007cac2b31b978b40cb77f9e3"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
