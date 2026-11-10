@@ -16,7 +16,7 @@ EXTRA = {
     "S": ["Schalke 04", "Southampton", "Sampdoria"], "T": ["Tigre", "Twente", "Toulouse"],
     "U": ["Universidad de Chile", "Unión Santa Fe", "Union Berlin"], "V": ["Vila Nova", "Vélez Sarsfield", "Verona"],
     "W": ["Watford", "Werder Bremen", "Wigan"], "X": ["Xelajú", "Xanthi", "Xavante"],
-    "Y": ["Yokohama Marinos", "Yeovil", "Yverdon"], "Z": ["Zaragoza", "Zulte Waregem", "Zürich"],
+    "Y": ["Yokohama Marinos", "Yeovil", "Yverdon"], "Z": ["Zulte Waregem", "Zürich", "Zwolle"],
 }
 FALA = {"PSG": "Paris Saint-Germain", "PSV": "P S V", "Bayern de Munique": "Bayern de Munique"}
 

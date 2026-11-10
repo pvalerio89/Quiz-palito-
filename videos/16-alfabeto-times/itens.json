@@ -1,0 +1,886 @@
+[
+ {
+  "n": 1,
+  "nome": "Arsenal",
+  "letra": "A",
+  "escudo": "arsenal.png",
+  "opcoes": [
+   "Arsenal",
+   "América-MG",
+   "Athletic Bilbao"
+  ],
+  "certa": 0,
+  "fala": "Arsenal"
+ },
+ {
+  "n": 2,
+  "nome": "Atlético Mineiro",
+  "letra": "A",
+  "escudo": "atletico-mineiro.png",
+  "opcoes": [
+   "Avaí",
+   "Atlético Mineiro",
+   "Athletic Bilbao"
+  ],
+  "certa": 1,
+  "fala": "Atlético Mineiro"
+ },
+ {
+  "n": 3,
+  "nome": "Ajax",
+  "letra": "A",
+  "escudo": "ajax.png",
+  "opcoes": [
+   "Aston Villa",
+   "Ajax",
+   "Arsenal"
+  ],
+  "certa": 1,
+  "fala": "Ajax"
+ },
+ {
+  "n": 4,
+  "nome": "Atlético de Madrid",
+  "letra": "A",
+  "escudo": "atletico-de-madrid.png",
+  "opcoes": [
+   "Avaí",
+   "Atlético de Madrid",
+   "Atlético Mineiro"
+  ],
+  "certa": 1,
+  "fala": "Atlético de Madrid"
+ },
+ {
+  "n": 5,
+  "nome": "Barcelona",
+  "letra": "B",
+  "escudo": "barcelona.png",
+  "opcoes": [
+   "Benfica",
+   "Bayern de Munique",
+   "Barcelona"
+  ],
+  "certa": 2,
+  "fala": "Barcelona"
+ },
+ {
+  "n": 6,
+  "nome": "Bayern de Munique",
+  "letra": "B",
+  "escudo": "bayern-de-munique.png",
+  "opcoes": [
+   "Borussia Dortmund",
+   "Bahia",
+   "Bayern de Munique"
+  ],
+  "certa": 2,
+  "fala": "Bayern de Munique"
+ },
+ {
+  "n": 7,
+  "nome": "Botafogo",
+  "letra": "B",
+  "escudo": "botafogo.png",
+  "opcoes": [
+   "Boca Juniors",
+   "Borussia Dortmund",
+   "Botafogo"
+  ],
+  "certa": 2,
+  "fala": "Botafogo"
+ },
+ {
+  "n": 8,
+  "nome": "Boca Juniors",
+  "letra": "B",
+  "escudo": "boca-juniors.png",
+  "opcoes": [
+   "Benfica",
+   "Boca Juniors",
+   "Borussia Dortmund"
+  ],
+  "certa": 1,
+  "fala": "Boca Juniors"
+ },
+ {
+  "n": 9,
+  "nome": "Benfica",
+  "letra": "B",
+  "escudo": "benfica.png",
+  "opcoes": [
+   "Botafogo",
+   "Benfica",
+   "Barcelona"
+  ],
+  "certa": 1,
+  "fala": "Benfica"
+ },
+ {
+  "n": 10,
+  "nome": "Borussia Dortmund",
+  "letra": "B",
+  "escudo": "borussia-dortmund.png",
+  "opcoes": [
+   "Betis",
+   "Benfica",
+   "Borussia Dortmund"
+  ],
+  "certa": 2,
+  "fala": "Borussia Dortmund"
+ },
+ {
+  "n": 11,
+  "nome": "Bahia",
+  "letra": "B",
+  "escudo": "bahia.png",
+  "opcoes": [
+   "Benfica",
+   "Borussia Dortmund",
+   "Bahia"
+  ],
+  "certa": 2,
+  "fala": "Bahia"
+ },
+ {
+  "n": 12,
+  "nome": "Corinthians",
+  "letra": "C",
+  "escudo": "corinthians.png",
+  "opcoes": [
+   "Criciúma",
+   "Corinthians",
+   "Chelsea"
+  ],
+  "certa": 1,
+  "fala": "Corinthians"
+ },
+ {
+  "n": 13,
+  "nome": "Cruzeiro",
+  "letra": "C",
+  "escudo": "cruzeiro.png",
+  "opcoes": [
+   "Cuiabá",
+   "Cruzeiro",
+   "Criciúma"
+  ],
+  "certa": 1,
+  "fala": "Cruzeiro"
+ },
+ {
+  "n": 14,
+  "nome": "Chelsea",
+  "letra": "C",
+  "escudo": "chelsea.png",
+  "opcoes": [
+   "Chelsea",
+   "Celtic",
+   "Coritiba"
+  ],
+  "certa": 0,
+  "fala": "Chelsea"
+ },
+ {
+  "n": 15,
+  "nome": "Celtic",
+  "letra": "C",
+  "escudo": "celtic.png",
+  "opcoes": [
+   "Celtic",
+   "Corinthians",
+   "Coritiba"
+  ],
+  "certa": 0,
+  "fala": "Celtic"
+ },
+ {
+  "n": 16,
+  "nome": "Ceará",
+  "letra": "C",
+  "escudo": "ceara.png",
+  "opcoes": [
+   "Corinthians",
+   "Chapecoense",
+   "Ceará"
+  ],
+  "certa": 2,
+  "fala": "Ceará"
+ },
+ {
+  "n": 17,
+  "nome": "Dínamo de Zagreb",
+  "letra": "D",
+  "escudo": "dinamo-de-zagreb.png",
+  "opcoes": [
+   "Danubio",
+   "Deportivo La Coruña",
+   "Dínamo de Zagreb"
+  ],
+  "certa": 2,
+  "fala": "Dínamo de Zagreb"
+ },
+ {
+  "n": 18,
+  "nome": "Everton",
+  "letra": "E",
+  "escudo": "everton.png",
+  "opcoes": [
+   "Espanyol",
+   "Everton",
+   "Elche"
+  ],
+  "certa": 1,
+  "fala": "Everton"
+ },
+ {
+  "n": 19,
+  "nome": "Flamengo",
+  "letra": "F",
+  "escudo": "flamengo.png",
+  "opcoes": [
+   "Ferroviária",
+   "Fluminense",
+   "Flamengo"
+  ],
+  "certa": 2,
+  "fala": "Flamengo"
+ },
+ {
+  "n": 20,
+  "nome": "Fluminense",
+  "letra": "F",
+  "escudo": "fluminense.png",
+  "opcoes": [
+   "Ferroviária",
+   "Fluminense",
+   "Figueirense"
+  ],
+  "certa": 1,
+  "fala": "Fluminense"
+ },
+ {
+  "n": 21,
+  "nome": "Fortaleza",
+  "letra": "F",
+  "escudo": "fortaleza.png",
+  "opcoes": [
+   "Ferroviária",
+   "Fortaleza",
+   "Fulham"
+  ],
+  "certa": 1,
+  "fala": "Fortaleza"
+ },
+ {
+  "n": 22,
+  "nome": "Fenerbahçe",
+  "letra": "F",
+  "escudo": "fenerbahce.png",
+  "opcoes": [
+   "Fenerbahçe",
+   "Flamengo",
+   "Fulham"
+  ],
+  "certa": 0,
+  "fala": "Fenerbahçe"
+ },
+ {
+  "n": 23,
+  "nome": "Grêmio",
+  "letra": "G",
+  "escudo": "gremio.png",
+  "opcoes": [
+   "Gil Vicente",
+   "Galatasaray",
+   "Grêmio"
+  ],
+  "certa": 2,
+  "fala": "Grêmio"
+ },
+ {
+  "n": 24,
+  "nome": "Galatasaray",
+  "letra": "G",
+  "escudo": "galatasaray.png",
+  "opcoes": [
+   "Getafe",
+   "Galatasaray",
+   "Grêmio"
+  ],
+  "certa": 1,
+  "fala": "Galatasaray"
+ },
+ {
+  "n": 25,
+  "nome": "Goiás",
+  "letra": "G",
+  "escudo": "goias.png",
+  "opcoes": [
+   "Gil Vicente",
+   "Grêmio",
+   "Goiás"
+  ],
+  "certa": 2,
+  "fala": "Goiás"
+ },
+ {
+  "n": 26,
+  "nome": "Hamburgo",
+  "letra": "H",
+  "escudo": "hamburgo.png",
+  "opcoes": [
+   "Hoffenheim",
+   "Hull City",
+   "Hamburgo"
+  ],
+  "certa": 2,
+  "fala": "Hamburgo"
+ },
+ {
+  "n": 27,
+  "nome": "Internacional",
+  "letra": "I",
+  "escudo": "internacional.png",
+  "opcoes": [
+   "Inter de Milão",
+   "Ipswich",
+   "Internacional"
+  ],
+  "certa": 2,
+  "fala": "Internacional"
+ },
+ {
+  "n": 28,
+  "nome": "Inter de Milão",
+  "letra": "I",
+  "escudo": "inter-de-milao.png",
+  "opcoes": [
+   "Inter de Milão",
+   "Ituano",
+   "Ipatinga"
+  ],
+  "certa": 0,
+  "fala": "Inter de Milão"
+ },
+ {
+  "n": 29,
+  "nome": "Juventus",
+  "letra": "J",
+  "escudo": "juventus.png",
+  "opcoes": [
+   "Juventude",
+   "Jaguares",
+   "Juventus"
+  ],
+  "certa": 2,
+  "fala": "Juventus"
+ },
+ {
+  "n": 30,
+  "nome": "Juventude",
+  "letra": "J",
+  "escudo": "juventude.png",
+  "opcoes": [
+   "Juventude",
+   "Juventus",
+   "Junior Barranquilla"
+  ],
+  "certa": 0,
+  "fala": "Juventude"
+ },
+ {
+  "n": 31,
+  "nome": "Kaiserslautern",
+  "letra": "K",
+  "escudo": "kaiserslautern.png",
+  "opcoes": [
+   "Kawasaki Frontale",
+   "Kashima Antlers",
+   "Kaiserslautern"
+  ],
+  "certa": 2,
+  "fala": "Kaiserslautern"
+ },
+ {
+  "n": 32,
+  "nome": "Liverpool",
+  "letra": "L",
+  "escudo": "liverpool.png",
+  "opcoes": [
+   "Liverpool",
+   "Lazio",
+   "Leeds"
+  ],
+  "certa": 0,
+  "fala": "Liverpool"
+ },
+ {
+  "n": 33,
+  "nome": "Lazio",
+  "letra": "L",
+  "escudo": "lazio.png",
+  "opcoes": [
+   "Liverpool",
+   "Lille",
+   "Lazio"
+  ],
+  "certa": 2,
+  "fala": "Lazio"
+ },
+ {
+  "n": 34,
+  "nome": "Lyon",
+  "letra": "L",
+  "escudo": "lyon.png",
+  "opcoes": [
+   "Lyon",
+   "Lanús",
+   "Liverpool"
+  ],
+  "certa": 0,
+  "fala": "Lyon"
+ },
+ {
+  "n": 35,
+  "nome": "Leeds",
+  "letra": "L",
+  "escudo": "leeds.png",
+  "opcoes": [
+   "Leeds",
+   "Lazio",
+   "Lanús"
+  ],
+  "certa": 0,
+  "fala": "Leeds"
+ },
+ {
+  "n": 36,
+  "nome": "Manchester United",
+  "letra": "M",
+  "escudo": "manchester-united.png",
+  "opcoes": [
+   "Manchester United",
+   "Monaco",
+   "Milan"
+  ],
+  "certa": 0,
+  "fala": "Manchester United"
+ },
+ {
+  "n": 37,
+  "nome": "Manchester City",
+  "letra": "M",
+  "escudo": "manchester-city.png",
+  "opcoes": [
+   "Málaga",
+   "Manchester United",
+   "Manchester City"
+  ],
+  "certa": 2,
+  "fala": "Manchester City"
+ },
+ {
+  "n": 38,
+  "nome": "Milan",
+  "letra": "M",
+  "escudo": "milan.png",
+  "opcoes": [
+   "Málaga",
+   "Milan",
+   "Manchester City"
+  ],
+  "certa": 1,
+  "fala": "Milan"
+ },
+ {
+  "n": 39,
+  "nome": "Monaco",
+  "letra": "M",
+  "escudo": "monaco.png",
+  "opcoes": [
+   "Monaco",
+   "Manchester United",
+   "Mainz"
+  ],
+  "certa": 0,
+  "fala": "Monaco"
+ },
+ {
+  "n": 40,
+  "nome": "Mirassol",
+  "letra": "M",
+  "escudo": "mirassol.png",
+  "opcoes": [
+   "Mirassol",
+   "Milan",
+   "Monaco"
+  ],
+  "certa": 0,
+  "fala": "Mirassol"
+ },
+ {
+  "n": 41,
+  "nome": "Napoli",
+  "letra": "N",
+  "escudo": "napoli.png",
+  "opcoes": [
+   "Newcastle",
+   "Nottingham Forest",
+   "Napoli"
+  ],
+  "certa": 2,
+  "fala": "Napoli"
+ },
+ {
+  "n": 42,
+  "nome": "Newcastle",
+  "letra": "N",
+  "escudo": "newcastle.png",
+  "opcoes": [
+   "Norwich",
+   "Newcastle",
+   "Nottingham Forest"
+  ],
+  "certa": 1,
+  "fala": "Newcastle"
+ },
+ {
+  "n": 43,
+  "nome": "Olimpia",
+  "letra": "O",
+  "escudo": "olimpia.png",
+  "opcoes": [
+   "Osasuna",
+   "Olympique de Marselha",
+   "Olimpia"
+  ],
+  "certa": 2,
+  "fala": "Olimpia"
+ },
+ {
+  "n": 44,
+  "nome": "Olympique de Marselha",
+  "letra": "O",
+  "escudo": "olympique-de-marselha.png",
+  "opcoes": [
+   "Olimpia",
+   "Olympique de Marselha",
+   "Osasuna"
+  ],
+  "certa": 1,
+  "fala": "Olympique de Marselha"
+ },
+ {
+  "n": 45,
+  "nome": "Palmeiras",
+  "letra": "P",
+  "escudo": "palmeiras.png",
+  "opcoes": [
+   "Peñarol",
+   "Palmeiras",
+   "Ponte Preta"
+  ],
+  "certa": 1,
+  "fala": "Palmeiras"
+ },
+ {
+  "n": 46,
+  "nome": "PSG",
+  "letra": "P",
+  "escudo": "psg.png",
+  "opcoes": [
+   "Paysandu",
+   "Peñarol",
+   "PSG"
+  ],
+  "certa": 2,
+  "fala": "Paris Saint-Germain"
+ },
+ {
+  "n": 47,
+  "nome": "Porto",
+  "letra": "P",
+  "escudo": "porto.png",
+  "opcoes": [
+   "Paraná",
+   "Porto",
+   "PSG"
+  ],
+  "certa": 1,
+  "fala": "Porto"
+ },
+ {
+  "n": 48,
+  "nome": "PSV",
+  "letra": "P",
+  "escudo": "psv.png",
+  "opcoes": [
+   "PSV",
+   "Peñarol",
+   "Ponte Preta"
+  ],
+  "certa": 0,
+  "fala": "P S V"
+ },
+ {
+  "n": 49,
+  "nome": "Queens Park Rangers",
+  "letra": "Q",
+  "escudo": "queens-park-rangers.png",
+  "opcoes": [
+   "Queens Park Rangers",
+   "Quilmes",
+   "Querétaro"
+  ],
+  "certa": 0,
+  "fala": "Queens Park Rangers"
+ },
+ {
+  "n": 50,
+  "nome": "Real Madrid",
+  "letra": "R",
+  "escudo": "real-madrid.png",
+  "opcoes": [
+   "Rangers",
+   "Roma",
+   "Real Madrid"
+  ],
+  "certa": 2,
+  "fala": "Real Madrid"
+ },
+ {
+  "n": 51,
+  "nome": "River Plate",
+  "letra": "R",
+  "escudo": "river-plate.png",
+  "opcoes": [
+   "River Plate",
+   "Roma",
+   "Rennes"
+  ],
+  "certa": 0,
+  "fala": "River Plate"
+ },
+ {
+  "n": 52,
+  "nome": "Roma",
+  "letra": "R",
+  "escudo": "roma.png",
+  "opcoes": [
+   "Rangers",
+   "Roma",
+   "Rennes"
+  ],
+  "certa": 1,
+  "fala": "Roma"
+ },
+ {
+  "n": 53,
+  "nome": "Racing",
+  "letra": "R",
+  "escudo": "racing.png",
+  "opcoes": [
+   "River Plate",
+   "Racing",
+   "Rangers"
+  ],
+  "certa": 1,
+  "fala": "Racing"
+ },
+ {
+  "n": 54,
+  "nome": "Rangers",
+  "letra": "R",
+  "escudo": "rangers.png",
+  "opcoes": [
+   "Roma",
+   "Rangers",
+   "Rayo Vallecano"
+  ],
+  "certa": 1,
+  "fala": "Rangers"
+ },
+ {
+  "n": 55,
+  "nome": "Santos",
+  "letra": "S",
+  "escudo": "santos.png",
+  "opcoes": [
+   "Santos",
+   "Sampdoria",
+   "Sporting"
+  ],
+  "certa": 0,
+  "fala": "Santos"
+ },
+ {
+  "n": 56,
+  "nome": "São Paulo",
+  "letra": "S",
+  "escudo": "sao-paulo.png",
+  "opcoes": [
+   "Sporting",
+   "Southampton",
+   "São Paulo"
+  ],
+  "certa": 2,
+  "fala": "São Paulo"
+ },
+ {
+  "n": 57,
+  "nome": "Sporting",
+  "letra": "S",
+  "escudo": "sporting.png",
+  "opcoes": [
+   "Sampdoria",
+   "Sporting",
+   "Santos"
+  ],
+  "certa": 1,
+  "fala": "Sporting"
+ },
+ {
+  "n": 58,
+  "nome": "Sport Recife",
+  "letra": "S",
+  "escudo": "sport-recife.png",
+  "opcoes": [
+   "Sport Recife",
+   "Sporting",
+   "Schalke 04"
+  ],
+  "certa": 0,
+  "fala": "Sport Recife"
+ },
+ {
+  "n": 59,
+  "nome": "Tottenham",
+  "letra": "T",
+  "escudo": "tottenham.png",
+  "opcoes": [
+   "Torino",
+   "Toulouse",
+   "Tottenham"
+  ],
+  "certa": 2,
+  "fala": "Tottenham"
+ },
+ {
+  "n": 60,
+  "nome": "Udinese",
+  "letra": "U",
+  "escudo": "udinese.png",
+  "opcoes": [
+   "Udinese",
+   "Union Berlin",
+   "Unión Santa Fe"
+  ],
+  "certa": 0,
+  "fala": "Udinese"
+ },
+ {
+  "n": 61,
+  "nome": "Vasco",
+  "letra": "V",
+  "escudo": "vasco.png",
+  "opcoes": [
+   "Vélez Sarsfield",
+   "Vila Nova",
+   "Vasco"
+  ],
+  "certa": 2,
+  "fala": "Vasco"
+ },
+ {
+  "n": 62,
+  "nome": "Valencia",
+  "letra": "V",
+  "escudo": "valencia.png",
+  "opcoes": [
+   "Valencia",
+   "Vélez Sarsfield",
+   "Vila Nova"
+  ],
+  "certa": 0,
+  "fala": "Valencia"
+ },
+ {
+  "n": 63,
+  "nome": "Vitória",
+  "letra": "V",
+  "escudo": "vitoria.png",
+  "opcoes": [
+   "Valencia",
+   "Vila Nova",
+   "Vitória"
+  ],
+  "certa": 2,
+  "fala": "Vitória"
+ },
+ {
+  "n": 64,
+  "nome": "West Ham",
+  "letra": "W",
+  "escudo": "west-ham.png",
+  "opcoes": [
+   "Wolverhampton",
+   "West Ham",
+   "Werder Bremen"
+  ],
+  "certa": 1,
+  "fala": "West Ham"
+ },
+ {
+  "n": 65,
+  "nome": "Xerez",
+  "letra": "X",
+  "escudo": "xerez.png",
+  "opcoes": [
+   "Xelajú",
+   "Xerez",
+   "Xanthi"
+  ],
+  "certa": 1,
+  "fala": "Xerez"
+ },
+ {
+  "n": 66,
+  "nome": "Young Boys",
+  "letra": "Y",
+  "escudo": "young-boys.png",
+  "opcoes": [
+   "Yeovil",
+   "Young Boys",
+   "Yokohama Marinos"
+  ],
+  "certa": 1,
+  "fala": "Young Boys"
+ },
+ {
+  "n": 67,
+  "nome": "Zenit",
+  "letra": "Z",
+  "escudo": "zenit.png",
+  "opcoes": [
+   "Zenit",
+   "Zaragoza",
+   "Zürich"
+  ],
+  "certa": 0,
+  "fala": "Zenit"
+ },
+ {
+  "n": 68,
+  "nome": "Zaragoza",
+  "letra": "Z",
+  "escudo": "zaragoza.png",
+  "opcoes": [
+   "Zaragoza",
+   "Zulte Waregem",
+   "Zenit"
+  ],
+  "certa": 0,
+  "fala": "Zaragoza"
+ }
+]
