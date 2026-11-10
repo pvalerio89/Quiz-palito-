@@ -1,2 +1,1 @@
-clipes videos/modelo-opcoes/clipes.json videos/modelo-opcoes
-# 2a tentativa (filtro do ffmpeg corrigido)
+# escudos baixados em 2026-11-10 (videos/16-alfabeto-times)

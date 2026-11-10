@@ -17,6 +17,9 @@ Vídeos curtos (para trocar a foto por um clipe em algumas perguntas):
      py -3 automacao/fotos_wiki.py clipes clipes.json videos/NN-tema/   (grava clipes/<slug>.mp4, quadrado, sem som)
    clipes.json  {"Panda": {"file": "Pandas_playing_640x480.ogv", "inicio": 5, "dur": 10, "crop": [0.5, 0.5, 1.0]}}
    Ache os clipes nos artigos da Wikipédia (links .webm/.ogv de commons/transcoded). Créditos vão no mesmo creditos.json.
+Escudos/logos (imagem da caixa de informações do artigo, ex.: escudo do time):
+     py -3 automacao/fotos_wiki.py escudos lista.tsv videos/NN-tema/   (lista: nome<TAB>Artigo_em_ingles)
+   Grava escudos/<slug>.png (fundo transparente, 512 px), creditos.json e escudos/folha.jpg para conferir.
 Na nuvem do Claude o upload.wikimedia.org dá 429 (IP compartilhado): rode pelo workflow "Fotos Wikimedia"
 (escreva os argumentos em automacao/fotos-pedido.txt e dê push numa branch claude/...; ele grava o resultado na branch).
 Créditos: só na tela final do vídeo (o Patrick não quer em descrição nem comentário).
@@ -213,10 +216,76 @@ def clipes(escolhas, pasta, lado=600):
         os.remove(tmp)
 
 
+def escudos(lista, pasta, lado=512):
+    """Imagem principal da caixa de informações do artigo (escudo do time, logo...) em PNG transparente."""
+    from PIL import Image, ImageDraw
+    os.makedirs(os.path.join(pasta, "escudos"), exist_ok=True)
+    arq = os.path.join(pasta, "creditos.json")
+    cred = json.load(open(arq, encoding="utf-8")) if os.path.exists(arq) else {}
+    tmp = os.path.join(pasta, "escudos", "_tmp")
+    linhas = [l for l in open(lista, encoding="utf-8").read().splitlines() if l.strip() and not l.startswith("#")]
+    for linha in linhas:
+        nome, art = linha.split("\t")[:2]
+        dst = os.path.join(pasta, "escudos", slug(nome) + ".png")
+        if os.path.exists(dst) and nome in cred:
+            continue
+        time.sleep(0.5)
+        pg = get(f"https://en.wikipedia.org/wiki/{urllib.parse.quote(art)}")
+        i0 = pg.find('class="infobox') if pg else -1
+        bloco = pg[i0:i0 + 60000] if i0 >= 0 else ""
+        im_m, src, fn = None, "", ""
+        for im_m in re.finditer(r'<img[^>]*?src="((?:https:)?//(?:upload|thumb)\.wikimedia\.org/wikipedia/[^"?]+)', bloco):
+            src = html.unescape(im_m.group(1))
+            partes = src.split("/")
+            fn = urllib.parse.unquote(partes[partes.index("thumb") + 3] if "thumb" in partes else partes[-1])
+            if not re.match(r"(?i)(kit_|flag_of|soccerball|football_pictogram|edit-clear|ok\.svg)", fn):
+                break
+        else:
+            im_m = None
+        if not im_m:
+            print("sem escudo:", nome, art, "infobox" if i0 >= 0 else "sem infobox", flush=True)
+            continue
+        src = "https:" + src if src.startswith("//") else src
+        urls = [re.sub(r"/\d+px-", f"/{px}px-", src) for px in (500, 330)] if "/thumb/" in src else []
+        if not any(get(u, tmp) for u in urls + [src]):
+            print("falhou download:", nome, src, flush=True)
+            continue
+        im = Image.open(tmp).convert("RGBA")
+        bb = im.getchannel("A").getbbox()
+        if bb:
+            im = im.crop(bb)
+        r = (lado - 16) / max(im.size)
+        im = im.resize((max(1, int(im.width * r)), max(1, int(im.height * r))), Image.LANCZOS)
+        q = Image.new("RGBA", (lado, lado), (0, 0, 0, 0))
+        q.alpha_composite(im, ((lado - im.width) // 2, (lado - im.height) // 2))
+        q.save(dst)
+        info = licenca(fn) or {}
+        cred[nome] = {"file": fn, "arquivo": os.path.basename(dst), "autor": (info.get("autor") or "")[:60],
+                      "lic": (info.get("lic") or ["logo do clube"])[0], "artigo": art}
+        print("ok", nome, fn, cred[nome]["lic"], flush=True)
+        json.dump(cred, open(arq, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    if os.path.exists(tmp):
+        os.remove(tmp)
+    # folha para conferir
+    nomes = [l.split("\t")[0] for l in linhas]
+    th, cols = 150, 10
+    fs = Image.new("RGB", (cols * th, -(-len(nomes) // cols) * (th + 20)), (200, 200, 210))
+    d = ImageDraw.Draw(fs)
+    for i, n in enumerate(nomes):
+        x, y = (i % cols) * th, (i // cols) * (th + 20)
+        p = os.path.join(pasta, "escudos", slug(n) + ".png")
+        if os.path.exists(p):
+            e = Image.open(p)
+            e.thumbnail((th - 10, th - 10))
+            fs.paste(e, (x + 5, y + 5), e)
+        d.text((x + 4, y + th + 2), n[:22], fill="black")
+    fs.save(os.path.join(pasta, "escudos", "folha.jpg"), quality=85)
+
+
 if __name__ == "__main__":
-    if len(sys.argv) < 4 or sys.argv[1] not in ("buscar", "baixar", "folhas", "clipes"):
+    if len(sys.argv) < 4 or sys.argv[1] not in ("buscar", "baixar", "folhas", "clipes", "escudos"):
         sys.exit(__doc__)
     if sys.argv[1] == "folhas":  # refaz só as folhas a partir de um cand.json
         folhas(json.load(open(sys.argv[2], encoding="utf-8")), sys.argv[3])
     else:
-        {"buscar": buscar, "baixar": baixar, "clipes": clipes}[sys.argv[1]](sys.argv[2], sys.argv[3])
+        {"buscar": buscar, "baixar": baixar, "clipes": clipes, "escudos": escudos}[sys.argv[1]](sys.argv[2], sys.argv[3])
