@@ -293,7 +293,10 @@
         "sha256": "3f8de48ef3a0354972752dcd8414cba1fd26dddf81606641eb8a6f418fc9c7a6"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7706365275234682901",
+        "data": "2026-11-10",
+        "origem": "github-actions"
       }
     },
     "videos/14-tudo-amarelo": {
