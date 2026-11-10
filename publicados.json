@@ -232,7 +232,10 @@
         "sha256": "4b1d0fac5960e38015ecad020e6ce518b8a795aa621fb26838b9f7df6e7e2c12"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7706354490555009032",
+        "data": "2026-11-10",
+        "origem": "github-actions"
       }
     },
     "videos/12-fruta-fotos-reais": {
