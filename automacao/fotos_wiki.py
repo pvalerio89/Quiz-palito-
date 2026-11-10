@@ -231,12 +231,15 @@ def escudos(lista, pasta, lado=512):
             continue
         time.sleep(0.5)
         pg = get(f"https://en.wikipedia.org/wiki/{urllib.parse.quote(art)}")
-        m = pg and re.search(r'<table class="infobox.*?</table>', pg, re.S)
-        im_m = m and re.search(r'href="/wiki/File:([^"#?]+)"[^>]*>\s*<img[^>]*?src="([^"]+)"', m.group(0), re.S)
+        i0 = pg.find('class="infobox') if pg else -1
+        bloco = pg[i0:i0 + 60000] if i0 >= 0 else ""
+        im_m = re.search(r'<img[^>]*?src="((?:https:)?//upload\.wikimedia\.org/wikipedia/[^"]+)"', bloco)
         if not im_m:
-            print("sem escudo:", nome, art, flush=True)
+            print("sem escudo:", nome, art, "infobox" if i0 >= 0 else "sem infobox", bloco[:300].replace("\n", " "), flush=True)
             continue
-        fn, src = urllib.parse.unquote(im_m.group(1)), html.unescape(im_m.group(2))
+        src = html.unescape(im_m.group(1))
+        partes = src.split("/")
+        fn = urllib.parse.unquote(partes[partes.index("thumb") + 3] if "thumb" in partes else partes[-1])
         src = "https:" + src if src.startswith("//") else src
         urls = [re.sub(r"/\d+px-", f"/{px}px-", src) for px in (500, 330)] if "/thumb/" in src else []
         if not any(get(u, tmp) for u in urls + [src]):
