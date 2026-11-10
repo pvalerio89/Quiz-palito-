@@ -1,0 +1,611 @@
+{
+ "Arsenal": {
+  "file": "Arsenal_FC.svg",
+  "arquivo": "arsenal.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Arsenal_F.C."
+ },
+ "Atlético Mineiro": {
+  "file": "Clube_Atlético_Mineiro_logo.svg",
+  "arquivo": "atletico-mineiro.png",
+  "autor": "Clube Atlético Mineiro",
+  "lic": "Public domain",
+  "artigo": "Clube_Atlético_Mineiro"
+ },
+ "Ajax": {
+  "file": "Logo_AFC_Ajax_(1928-1991,_2025-).png",
+  "arquivo": "ajax.png",
+  "autor": "AFC Ajax",
+  "lic": "Public domain",
+  "artigo": "AFC_Ajax"
+ },
+ "Atlético de Madrid": {
+  "file": "Atletico_Madrid_Logo_2024.svg",
+  "arquivo": "atletico-de-madrid.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Atlético_Madrid"
+ },
+ "Athletic Bilbao": {
+  "file": "Club_Athletic_Bilbao_logo.svg",
+  "arquivo": "athletic-bilbao.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Athletic_Bilbao"
+ },
+ "Barcelona": {
+  "file": "FC_Barcelona_(crest).svg",
+  "arquivo": "barcelona.png",
+  "autor": "19:09, 7 April 2012",
+  "lic": "PD",
+  "artigo": "FC_Barcelona"
+ },
+ "Bayern de Munique": {
+  "file": "FC_Bayern_München_logo_(2024).svg",
+  "arquivo": "bayern-de-munique.png",
+  "autor": "FC Bayern Munich",
+  "lic": "Public domain",
+  "artigo": "FC_Bayern_Munich"
+ },
+ "Botafogo": {
+  "file": "Botafogo_de_Futebol_e_Regatas_logo.svg",
+  "arquivo": "botafogo.png",
+  "autor": "Botafogo de Futebol e Regatas",
+  "lic": "Public domain",
+  "artigo": "Botafogo_de_Futebol_e_Regatas"
+ },
+ "Boca Juniors": {
+  "file": "Boca_Juniors_logo18.svg",
+  "arquivo": "boca-juniors.png",
+  "autor": "Estudio Shakespear",
+  "lic": "Public domain",
+  "artigo": "Boca_Juniors"
+ },
+ "Benfica": {
+  "file": "SL_Benfica_logo.svg",
+  "arquivo": "benfica.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "S.L._Benfica"
+ },
+ "Borussia Dortmund": {
+  "file": "Borussia_Dortmund_logo.svg",
+  "arquivo": "borussia-dortmund.png",
+  "autor": "Lispir (Lispir)",
+  "lic": "Public domain",
+  "artigo": "Borussia_Dortmund"
+ },
+ "Bahia": {
+  "file": "Esporte_Clube_Bahia_logo.svg",
+  "arquivo": "bahia.png",
+  "autor": "Esporte Clube Bahia",
+  "lic": "Public domain",
+  "artigo": "Esporte_Clube_Bahia"
+ },
+ "Corinthians": {
+  "file": "Sport_Club_Corinthians_Paulista_crest.svg",
+  "arquivo": "corinthians.png",
+  "autor": "00:08, 13 August 2021",
+  "lic": "Fair use",
+  "artigo": "Sport_Club_Corinthians_Paulista"
+ },
+ "Cruzeiro": {
+  "file": "Cruzeiro_Esporte_Clube_(logo).svg",
+  "arquivo": "cruzeiro.png",
+  "autor": "Cruzeiro Esporte Clube",
+  "lic": "Public domain",
+  "artigo": "Cruzeiro_Esporte_Clube"
+ },
+ "Chelsea": {
+  "file": "Chelsea_FC.svg",
+  "arquivo": "chelsea.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Chelsea_F.C."
+ },
+ "Celtic": {
+  "file": "Celtic_FC_crest.svg",
+  "arquivo": "celtic.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Celtic_F.C."
+ },
+ "Ceará": {
+  "file": "Ceará_Sporting_Club_logo.svg",
+  "arquivo": "ceara.png",
+  "autor": "Ceará Sporting Club",
+  "lic": "Public domain",
+  "artigo": "Ceará_Sporting_Club"
+ },
+ "Coritiba": {
+  "file": "Coritiba_Foot_Ball_Club_logo.svg",
+  "arquivo": "coritiba.png",
+  "autor": "Coritiba Foot Ball Club",
+  "lic": "Public domain",
+  "artigo": "Coritiba_Foot_Ball_Club"
+ },
+ "Chapecoense": {
+  "file": "Logo_Associação_Chapecoense_de_Futebol.svg",
+  "arquivo": "chapecoense.png",
+  "autor": "Chapecoense",
+  "lic": "Public domain",
+  "artigo": "Associação_Chapecoense_de_Futebol"
+ },
+ "Dínamo de Zagreb": {
+  "file": "Logo_GNK_Dinamo_Zagreb_(2019).svg",
+  "arquivo": "dinamo-de-zagreb.png",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain",
+  "artigo": "GNK_Dinamo_Zagreb"
+ },
+ "Deportivo La Coruña": {
+  "file": "RC_Deportivo_A_Coruña_logo_2026.svg",
+  "arquivo": "deportivo-la-coruna.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Deportivo_de_La_Coruña"
+ },
+ "Everton": {
+  "file": "Everton_FC_logo.svg",
+  "arquivo": "everton.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Everton_F.C."
+ },
+ "Eintracht Frankfurt": {
+  "file": "Eintracht_Frankfurt_crest.svg",
+  "arquivo": "eintracht-frankfurt.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Eintracht_Frankfurt"
+ },
+ "Estudiantes": {
+  "file": "Estudiantes_de_la_Plata_crest_(2025)_cropped.svg",
+  "arquivo": "estudiantes.png",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain",
+  "artigo": "Estudiantes_de_La_Plata"
+ },
+ "Flamengo": {
+  "file": "Clube_de_Regatas_do_Flamengo_logo.svg",
+  "arquivo": "flamengo.png",
+  "autor": "Clube de Regatas do Flamengo",
+  "lic": "Public domain",
+  "artigo": "CR_Flamengo"
+ },
+ "Fluminense": {
+  "file": "Fluminense_Football_Club.svg",
+  "arquivo": "fluminense.png",
+  "autor": "Fluminense FC",
+  "lic": "Public domain",
+  "artigo": "Fluminense_FC"
+ },
+ "Fortaleza": {
+  "file": "Fortaleza_Esporte_Clube_logo.svg",
+  "arquivo": "fortaleza.png",
+  "autor": "Fortaleza Esporte Clube",
+  "lic": "Public domain",
+  "artigo": "Fortaleza_Esporte_Clube"
+ },
+ "Fenerbahçe": {
+  "file": "Fenerbahçe.svg",
+  "arquivo": "fenerbahce.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Fenerbahçe_S.K._(football)"
+ },
+ "Feyenoord": {
+  "file": "Feyenoord_logo_since_2024.svg",
+  "arquivo": "feyenoord.png",
+  "autor": "Feyenoord Rotterdam N.V.",
+  "lic": "Public domain",
+  "artigo": "Feyenoord"
+ },
+ "Fiorentina": {
+  "file": "ACF_Fiorentina_-_logo_(Italy,_2022).svg",
+  "arquivo": "fiorentina.png",
+  "autor": "FutureBrand Creative Agency / ACF Fiorentina S.r.l. a socio ",
+  "lic": "Public domain",
+  "artigo": "ACF_Fiorentina"
+ },
+ "Grêmio": {
+  "file": "Gremio_logo.svg",
+  "arquivo": "gremio.png",
+  "autor": "Grêmio Foot-Ball Porto Alegrense",
+  "lic": "Public domain",
+  "artigo": "Grêmio_Foot-Ball_Porto_Alegrense"
+ },
+ "Galatasaray": {
+  "file": "Galatasaray_S.K._Logo_2026_5-stars.svg",
+  "arquivo": "galatasaray.png",
+  "autor": "Isaozler",
+  "lic": "CC0",
+  "artigo": "Galatasaray_S.K._(football)"
+ },
+ "Goiás": {
+  "file": "Goiás_Esporte_Clube_logo.svg",
+  "arquivo": "goias.png",
+  "autor": "Goiás Esporte Clube",
+  "lic": "Public domain",
+  "artigo": "Goiás_Esporte_Clube"
+ },
+ "Genoa": {
+  "file": "Genoa_CFC_crest.svg",
+  "arquivo": "genoa.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Genoa_CFC"
+ },
+ "Hamburgo": {
+  "file": "Hamburger_SV_logo.svg",
+  "arquivo": "hamburgo.png",
+  "autor": "Hamburger SV",
+  "lic": "Public domain",
+  "artigo": "Hamburger_SV"
+ },
+ "Hertha Berlim": {
+  "file": "Hertha_BSC_Logo_2012.svg",
+  "arquivo": "hertha-berlim.png",
+  "autor": "Hertha, Berliner SC e. V. / Hertha BSC GmbH &amp; Co KGaA (L",
+  "lic": "Public domain",
+  "artigo": "Hertha_BSC"
+ },
+ "Internacional": {
+  "file": "Sport_Club_Internacional_logo.svg",
+  "arquivo": "internacional.png",
+  "autor": "Sport Club Internacional",
+  "lic": "Public domain",
+  "artigo": "Sport_Club_Internacional"
+ },
+ "Inter de Milão": {
+  "file": "FC_Internazionale_Milano_2021.svg",
+  "arquivo": "inter-de-milao.png",
+  "autor": "FC Internazionale Milano S.p.A. / Bureau Borsche",
+  "lic": "Public domain",
+  "artigo": "Inter_Milan"
+ },
+ "Independiente": {
+  "file": "Escudo_del_Club_Atlético_Independiente.svg",
+  "arquivo": "independiente.png",
+  "autor": "Club Atlético Independiente",
+  "lic": "Public domain",
+  "artigo": "Club_Atlético_Independiente"
+ },
+ "Juventus": {
+  "file": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+  "arquivo": "juventus.png",
+  "autor": "Interbrand – Global Brand Consultancy / Juventus Football Cl",
+  "lic": "Public domain",
+  "artigo": "Juventus_FC"
+ },
+ "Juventude": {
+  "file": "Esporte_Clube_Juventude_logo.svg",
+  "arquivo": "juventude.png",
+  "autor": "Esporte Clube Juventude",
+  "lic": "Public domain",
+  "artigo": "Esporte_Clube_Juventude"
+ },
+ "Kaiserslautern": {
+  "file": "Logo_1_FC_Kaiserslautern.svg",
+  "arquivo": "kaiserslautern.png",
+  "autor": "1. FC Kaiserslautern Gmbh &amp; Co. KGaa",
+  "lic": "Public domain",
+  "artigo": "1._FC_Kaiserslautern"
+ },
+ "Liverpool": {
+  "file": "Liverpool_FC.svg",
+  "arquivo": "liverpool.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Liverpool_F.C."
+ },
+ "Lazio": {
+  "file": "S.S._Lazio_badge.svg",
+  "arquivo": "lazio.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "SS_Lazio"
+ },
+ "Lyon": {
+  "file": "Olympique_Lyonnais_logo.svg",
+  "arquivo": "lyon.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Olympique_Lyonnais"
+ },
+ "Leicester": {
+  "file": "Leicester_City_crest.svg",
+  "arquivo": "leicester.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Leicester_City_F.C."
+ },
+ "Leeds": {
+  "file": "Leeds_United_F.C._logo.svg",
+  "arquivo": "leeds.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Leeds_United_F.C."
+ },
+ "Manchester United": {
+  "file": "Manchester_United_FC_crest.svg",
+  "arquivo": "manchester-united.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Manchester_United_F.C."
+ },
+ "Manchester City": {
+  "file": "Manchester_City_FC_badge.svg",
+  "arquivo": "manchester-city.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Manchester_City_F.C."
+ },
+ "Milan": {
+  "file": "Logo_of_AC_Milan.svg",
+  "arquivo": "milan.png",
+  "autor": "A.C. Milan Uploaded by Vargklo at en.wikipedia",
+  "lic": "Public domain",
+  "artigo": "AC_Milan"
+ },
+ "Monaco": {
+  "file": "LogoASMonacoFC2021.svg",
+  "arquivo": "monaco.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "AS_Monaco_FC"
+ },
+ "Mirassol": {
+  "file": "Mirassol_Futebol_Clube.svg",
+  "arquivo": "mirassol.png",
+  "autor": "00:34, 28 October 2026",
+  "lic": "Fair use",
+  "artigo": "Mirassol_Futebol_Clube"
+ },
+ "Napoli": {
+  "file": "SSC_Napoli_2025_(white_and_azure).svg",
+  "arquivo": "napoli.png",
+  "autor": "Logo: SSC Napoli S.p.A. Upload: The White Lion",
+  "lic": "Public domain",
+  "artigo": "SSC_Napoli"
+ },
+ "Newcastle": {
+  "file": "Newcastle_United_FC_2026_crest.svg",
+  "arquivo": "newcastle.png",
+  "autor": "00:11, 3 October 2026",
+  "lic": "Fair use",
+  "artigo": "Newcastle_United_F.C."
+ },
+ "Náutico": {
+  "file": "Clube_Náutico_Capibaribe_(2010).svg",
+  "arquivo": "nautico.png",
+  "autor": "Clube Náutico Capibaribe",
+  "lic": "Public domain",
+  "artigo": "Clube_Náutico_Capibaribe"
+ },
+ "Nacional": {
+  "file": "Club_Nacional_de_Football_logo.svg",
+  "arquivo": "nacional.png",
+  "autor": "Club Nacional de Football",
+  "lic": "Public domain",
+  "artigo": "Club_Nacional_de_Football"
+ },
+ "Olimpia": {
+  "file": "Club_Olimpia_logo.svg",
+  "arquivo": "olimpia.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Club_Olimpia"
+ },
+ "Olympique de Marselha": {
+  "file": "Olympique_de_Marseille_2026_logo.svg",
+  "arquivo": "olympique-de-marselha.png",
+  "autor": "Olympique de Marseille",
+  "lic": "Public domain",
+  "artigo": "Olympique_de_Marseille"
+ },
+ "Palmeiras": {
+  "file": "Sociedade_Esportiva_Palmeiras_logo_(1_red_star).svg",
+  "arquivo": "palmeiras.png",
+  "autor": "Sociedade Esportiva Palmeiras",
+  "lic": "Public domain",
+  "artigo": "Sociedade_Esportiva_Palmeiras"
+ },
+ "PSG": {
+  "file": "Paris_Saint-Germain_F.C..svg",
+  "arquivo": "psg.png",
+  "autor": "20:11, 10 November 2018",
+  "lic": "PD",
+  "artigo": "Paris_Saint-Germain_FC"
+ },
+ "Porto": {
+  "file": "FC_Porto.svg",
+  "arquivo": "porto.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "FC_Porto"
+ },
+ "PSV": {
+  "file": "PSV_Eindhoven.svg",
+  "arquivo": "psv.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "PSV_Eindhoven"
+ },
+ "Peñarol": {
+  "file": "Escudo_del_Club_Atlético_Peñarol.svg",
+  "arquivo": "penarol.png",
+  "autor": "Club Atlético Peñarol",
+  "lic": "Public domain",
+  "artigo": "Peñarol"
+ },
+ "Queens Park Rangers": {
+  "file": "Queens_Park_Rangers_crest.svg",
+  "arquivo": "queens-park-rangers.png",
+  "autor": "00:04, 15 November 2021",
+  "lic": "PD",
+  "artigo": "Queens_Park_Rangers_F.C."
+ },
+ "Real Madrid": {
+  "file": "Real_Madrid_CF.svg",
+  "arquivo": "real-madrid.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Real_Madrid_CF"
+ },
+ "River Plate": {
+  "file": "Club_Atlético_River_Plate_logo.svg",
+  "arquivo": "river-plate.png",
+  "autor": "Club Atlético River Plate",
+  "lic": "Public domain",
+  "artigo": "Club_Atlético_River_Plate"
+ },
+ "Roma": {
+  "file": "AS_Roma_logo_(2017).svg",
+  "arquivo": "roma.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "AS_Roma"
+ },
+ "Racing": {
+  "file": "Escudo_de_Racing_Club_(2014).svg",
+  "arquivo": "racing.png",
+  "autor": "Racing Club de Avellaneda",
+  "lic": "Public domain",
+  "artigo": "Racing_Club_de_Avellaneda"
+ },
+ "Rangers": {
+  "file": "Rangers_FC.svg",
+  "arquivo": "rangers.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Rangers_F.C."
+ },
+ "Santos": {
+  "file": "Santos_Futebol_Clube_logo_(with_two_stars_and_a_golden_crown).svg",
+  "arquivo": "santos.png",
+  "autor": "Santos Futebol Clube",
+  "lic": "Public domain",
+  "artigo": "Santos_FC"
+ },
+ "São Paulo": {
+  "file": "São_Paulo_Futebol_Clube_logo_(2022).svg",
+  "arquivo": "sao-paulo.png",
+  "autor": "São Paulo FC &nbsp;",
+  "lic": "Public domain",
+  "artigo": "São_Paulo_FC"
+ },
+ "Sporting": {
+  "file": "Sporting_Clube_de_Portugal_logo_(2026).svg",
+  "arquivo": "sporting.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Sporting_CP"
+ },
+ "Sevilla": {
+  "file": "Sevilla_FC_logo.svg",
+  "arquivo": "sevilla.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Sevilla_FC"
+ },
+ "Sport Recife": {
+  "file": "Sport_Club_Recife.svg",
+  "arquivo": "sport-recife.png",
+  "autor": "00:07, 25 April 2026",
+  "lic": "Fair use",
+  "artigo": "Sport_Club_do_Recife"
+ },
+ "Tottenham": {
+  "file": "Tottenham_Hotspur.svg",
+  "arquivo": "tottenham.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Tottenham_Hotspur_F.C."
+ },
+ "Torino": {
+  "file": "Torino_FC_Logo.svg",
+  "arquivo": "torino.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Torino_FC"
+ },
+ "Udinese": {
+  "file": "Udinese_Calcio_logo.svg",
+  "arquivo": "udinese.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Udinese_Calcio"
+ },
+ "Vasco": {
+  "file": "Club_de_Regatas_Vasco_da_Gama_logo_(2021).svg",
+  "arquivo": "vasco.png",
+  "autor": "00:05, 2 December 2025",
+  "lic": "Fair use",
+  "artigo": "CR_Vasco_da_Gama"
+ },
+ "Valencia": {
+  "file": "Valenciacf.svg",
+  "arquivo": "valencia.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Valencia_CF"
+ },
+ "Vitória": {
+  "file": "Esporte_Clube_Vitória_(2024).svg",
+  "arquivo": "vitoria.png",
+  "autor": "Esporte Clube Vitória",
+  "lic": "Public domain",
+  "artigo": "Esporte_Clube_Vitória"
+ },
+ "Villarreal": {
+  "file": "Villarreal_CF_logo-en.svg",
+  "arquivo": "villarreal.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Villarreal_CF"
+ },
+ "West Ham": {
+  "file": "West_Ham_United_FC_logo.svg",
+  "arquivo": "west-ham.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "West_Ham_United_F.C."
+ },
+ "Wolverhampton": {
+  "file": "Wolverhampton_Wanderers_FC_crest.svg",
+  "arquivo": "wolverhampton.png",
+  "autor": "00:06, 14 May 2024",
+  "lic": "PD",
+  "artigo": "Wolverhampton_Wanderers_F.C."
+ },
+ "Xerez": {
+  "file": "Xerez_CD_logo.svg",
+  "arquivo": "xerez.png",
+  "autor": "00:20, 9 November 2026",
+  "lic": "Fair use",
+  "artigo": "Xerez_CD"
+ },
+ "Young Boys": {
+  "file": "BSC_Young_Boys.svg",
+  "arquivo": "young-boys.png",
+  "autor": "BSC Young Boys",
+  "lic": "Public domain",
+  "artigo": "BSC_Young_Boys"
+ },
+ "Zenit": {
+  "file": "FC_Zenit_Saint_Petersburg_crest.svg",
+  "arquivo": "zenit.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "FC_Zenit_Saint_Petersburg"
+ },
+ "Zaragoza": {
+  "file": "Real_Zaragoza_logo.svg",
+  "arquivo": "zaragoza.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Real_Zaragoza"
+ }
+}
