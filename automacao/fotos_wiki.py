@@ -233,13 +233,21 @@ def escudos(lista, pasta, lado=512):
         pg = get(f"https://en.wikipedia.org/wiki/{urllib.parse.quote(art)}")
         i0 = pg.find('class="infobox') if pg else -1
         bloco = pg[i0:i0 + 60000] if i0 >= 0 else ""
-        im_m = re.search(r'<img[^>]*?src="((?:https:)?//upload\.wikimedia\.org/wikipedia/[^"]+)"', bloco)
+        if linha == linhas[0]:  # amostra para conferir o HTML
+            open(os.path.join(pasta, "escudos", "_debug.txt"), "w", encoding="utf-8").write(
+                "\n".join(re.findall(r"<img[^>]*>", bloco)[:12]) + "\n\n" + bloco[:3000])
+        im_m, src, fn = None, "", ""
+        for im_m in re.finditer(r'<img[^>]*?src="((?:https:)?//upload\.wikimedia\.org/wikipedia/[^"]+)"', bloco):
+            src = html.unescape(im_m.group(1))
+            partes = src.split("/")
+            fn = urllib.parse.unquote(partes[partes.index("thumb") + 3] if "thumb" in partes else partes[-1])
+            if not re.match(r"(?i)(kit_|flag_of|soccerball|football_pictogram|edit-clear|ok\.svg)", fn):
+                break
+        else:
+            im_m = None
         if not im_m:
-            print("sem escudo:", nome, art, "infobox" if i0 >= 0 else "sem infobox", bloco[:300].replace("\n", " "), flush=True)
+            print("sem escudo:", nome, art, "infobox" if i0 >= 0 else "sem infobox", flush=True)
             continue
-        src = html.unescape(im_m.group(1))
-        partes = src.split("/")
-        fn = urllib.parse.unquote(partes[partes.index("thumb") + 3] if "thumb" in partes else partes[-1])
         src = "https:" + src if src.startswith("//") else src
         urls = [re.sub(r"/\d+px-", f"/{px}px-", src) for px in (500, 330)] if "/thumb/" in src else []
         if not any(get(u, tmp) for u in urls + [src]):
