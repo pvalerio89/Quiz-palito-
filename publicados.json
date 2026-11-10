@@ -329,6 +329,19 @@
         "data": "2026-11-10",
         "origem": "github-actions"
       }
+    },
+    "videos/15-desenho-pelos-emojis": {
+      "youtube": {
+        "status": "publicado",
+        "id": "zLwBKyVbyS4",
+        "url": "https://youtu.be/zLwBKyVbyS4",
+        "data": "2026-11-10",
+        "origem": "github-actions",
+        "sha256": "a020e03b0a8ab7b87bc8b465c842474caa7cb7bea87d89a04d94e138f847865f"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
