@@ -369,6 +369,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/times-1": {
+      "titulo": "ALFABETO DOS TIMES pelo ESCUDO! ⚽ Teste rápido: você passa? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "3Y_nZBWz8_o",
+        "url": "https://youtu.be/3Y_nZBWz8_o",
+        "data": "2026-11-10",
+        "origem": "github-actions",
+        "sha256": "6f626a4931b97f343ad0c0a5f4f82983fa837ca1e43f9e9412648557711a8599"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
