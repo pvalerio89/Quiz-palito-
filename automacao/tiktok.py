@@ -85,7 +85,19 @@ def acesso():
 
 
 def enviar_partes(url, mp4, tam, pedaco, partes):
-    enviar_partes(url, mp4, tam, pedaco, partes)
+    with open(mp4, "rb") as f:
+        for i in range(partes):
+            a = i * pedaco
+            b = tam - 1 if i == partes - 1 else a + pedaco - 1
+            f.seek(a)
+            dados = f.read(b - a + 1)
+            req = urllib.request.Request(url, data=dados, method="PUT", headers={
+                "Content-Type": "video/mp4", "Content-Length": str(len(dados)),
+                "Content-Range": f"bytes {a}-{b}/{tam}"})
+            try:
+                urllib.request.urlopen(req, timeout=600)
+            except urllib.error.HTTPError as e:
+                sys.exit(f"ERRO no envio da parte {i + 1} (HTTP {e.code})")
 
 
 def tamanhos(mp4):
