@@ -1,12 +1,20 @@
-# Todo dia: pega o 1º item "pronto" de fila/fila.json, gera o vídeo longo e o Short, sobe os dois PÚBLICOS
-# no YouTube (o Short com o link do vídeo longo na descrição) e marca o item como publicado (ou erro).
+# 2 vídeos por dia: 3h e 18h de Brasília (HORARIOS em automacao/fila.py).
+# Cada rodada pega o 1º item "pronto" de fila/fila.json e o próximo horário livre (com 2 h de folga),
+# gera o vídeo longo e o Short e sobe os dois AGENDADOS no YouTube (publishAt): o YouTube deixa públicos
+# na hora certa, então o atraso do cron do GitHub não atrapalha. Roda a cada 4 h; sem horário livre, não faz nada.
 # Quem enche a fila com itens "pronto" é a rotina diária do Claude (ver automacao/LEIA-ME.md).
 name: Publicar do dia
 
 on:
   schedule:
-    - cron: "7 12 * * *"   # 9h07 de Brasília, todo dia (no ar antes do meio-dia)
+    - cron: "17 */4 * * *"   # a cada 4 h (UTC); quem decide a hora de ir ao ar é o agendamento
   workflow_dispatch:
+    inputs:
+      agora:
+        description: "Publicar JÁ (sem esperar o horário das 3h/18h)"
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
   group: publicar-do-dia
@@ -24,19 +32,24 @@ jobs:
       short: ${{ steps.f.outputs.short }}
       video_feito: ${{ steps.f.outputs.video_feito }}
       short_feito: ${{ steps.f.outputs.short_feito }}
+      agendar: ${{ steps.f.outputs.agendar }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # versão mais nova da fila (a rodada pode ter esperado na fila do GitHub)
       - uses: actions/setup-python@v5
         with:
           python-version: "3.14"
       - id: f
+        env:
+          SEM_AGENDAR: ${{ inputs.agora && 'true' || 'false' }}
         run: python automacao/fila.py proximo
       - name: Resumo
         run: |
           if [ -z "${{ steps.f.outputs.id }}" ]; then
-            echo "Fila sem item pronto: nada publicado hoje." >> "$GITHUB_STEP_SUMMARY"
+            echo "Nada a fazer agora (horários já agendados ou fila sem item pronto)." >> "$GITHUB_STEP_SUMMARY"
           else
-            echo "Hoje: **${{ steps.f.outputs.id }}** — ${{ steps.f.outputs.video }} + ${{ steps.f.outputs.short }}" >> "$GITHUB_STEP_SUMMARY"
+            echo "**${{ steps.f.outputs.id }}** — ${{ steps.f.outputs.video }} + ${{ steps.f.outputs.short }}, no ar em ${{ steps.f.outputs.agendar }} (UTC)" >> "$GITHUB_STEP_SUMMARY"
           fi
 
   gerar_video:
@@ -64,6 +77,7 @@ jobs:
     with:
       pasta: ${{ needs.escolher.outputs.video }}
       privacidade: publico
+      agendar: ${{ needs.escolher.outputs.agendar }}
     secrets: inherit
 
   enviar_short:
@@ -77,6 +91,7 @@ jobs:
       pasta: ${{ needs.escolher.outputs.short }}
       privacidade: publico
       longo: ${{ needs.escolher.outputs.video }}
+      agendar: ${{ needs.escolher.outputs.agendar }}
     secrets: inherit
 
   fechar:
@@ -86,6 +101,7 @@ jobs:
     env:
       ID: ${{ needs.escolher.outputs.id }}
       SHORT: ${{ needs.escolher.outputs.short }}
+      AGENDAR: ${{ needs.escolher.outputs.agendar }}
       GH_TOKEN: ${{ github.token }}
       # ok = cada parte foi publicada agora ou já estava publicada antes
       OK: >-
