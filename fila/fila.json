@@ -80,10 +80,11 @@
       "id": "2026-11-06-desenho-pela-intro",
       "referencia": "https://youtu.be/Obn1kv5IwjQ",
       "tema": "Adivinhe o desenho pela intro (desafio musical)",
-      "obs": "Músicas de abertura têm direitos (strike no YouTube): NÃO usar trecho de áudio. Adaptar para algo sem música protegida (ex.: adivinhe o desenho/personagem por emojis ou pistas). Se não der um formato bom, marcar 'pulado' com obs.",
-      "status": "aguardando",
-      "video": null,
-      "short": null
+      "obs": "Sem música de abertura (direitos): versão 'pelos emojis' — 68 desenhos/filmes animados, 3-4 emojis + alternativas A/B/C, layout modelo-opcoes, ~10:40. Short com 6 (chamada 'SERÁ QUE VOCÊ GABARITA?').",
+      "status": "pronto",
+      "video": "videos/15-desenho-pelos-emojis",
+      "short": "shorts/desenhos-1",
+      "titulo": "ADIVINHE O DESENHO PELOS EMOJIS! 🧽 68 Desenhos e Filmes Animados | Quiz Palito"
     },
     {
       "id": "2026-11-09-alfabeto-times",

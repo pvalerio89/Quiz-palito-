@@ -1,0 +1,818 @@
+[
+ {
+  "n": 1,
+  "nome": "Bob Esponja",
+  "emojis": "🧽🍍🌊",
+  "opcoes": [
+   "Bob Esponja",
+   "Toy Story",
+   "Peppa Pig"
+  ],
+  "certa": 0,
+  "fala": "Bob Esponja"
+ },
+ {
+  "n": 2,
+  "nome": "Peppa Pig",
+  "emojis": "🐷💦👢",
+  "opcoes": [
+   "Turma da Mônica",
+   "Bob Esponja",
+   "Peppa Pig"
+  ],
+  "certa": 2,
+  "fala": "Peppa Pig"
+ },
+ {
+  "n": 3,
+  "nome": "Pokémon",
+  "emojis": "⚡🐭🔴",
+  "opcoes": [
+   "Pokémon",
+   "Procurando Nemo",
+   "Bob Esponja"
+  ],
+  "certa": 0,
+  "fala": "Pokémon"
+ },
+ {
+  "n": 4,
+  "nome": "Frozen",
+  "emojis": "❄️👸⛄",
+  "opcoes": [
+   "Carros",
+   "Frozen",
+   "Turma da Mônica"
+  ],
+  "certa": 1,
+  "fala": "Frozen"
+ },
+ {
+  "n": 5,
+  "nome": "Toy Story",
+  "emojis": "🤠🚀🧸",
+  "opcoes": [
+   "Toy Story",
+   "Frozen",
+   "Meu Malvado Favorito"
+  ],
+  "certa": 0,
+  "fala": "Toy Story"
+ },
+ {
+  "n": 6,
+  "nome": "Carros",
+  "emojis": "🚗⚡🏁",
+  "opcoes": [
+   "Turma da Mônica",
+   "Carros",
+   "Tom e Jerry"
+  ],
+  "certa": 1,
+  "fala": "Carros"
+ },
+ {
+  "n": 7,
+  "nome": "O Rei Leão",
+  "emojis": "🦁👑🌅",
+  "opcoes": [
+   "Tom e Jerry",
+   "O Rei Leão",
+   "Turma da Mônica"
+  ],
+  "certa": 1,
+  "fala": "O Rei Leão"
+ },
+ {
+  "n": 8,
+  "nome": "Shrek",
+  "emojis": "👹🧅🏰",
+  "opcoes": [
+   "Shrek",
+   "O Rei Leão",
+   "Turma da Mônica"
+  ],
+  "certa": 0,
+  "fala": "Shrek"
+ },
+ {
+  "n": 9,
+  "nome": "Procurando Nemo",
+  "emojis": "🐠🔎🌊",
+  "opcoes": [
+   "Shrek",
+   "Scooby-Doo",
+   "Procurando Nemo"
+  ],
+  "certa": 2,
+  "fala": "Procurando Nemo"
+ },
+ {
+  "n": 10,
+  "nome": "Tom e Jerry",
+  "emojis": "🐱🐭🧀",
+  "opcoes": [
+   "Patrulha Canina",
+   "Tom e Jerry",
+   "Moana"
+  ],
+  "certa": 1,
+  "fala": "Tom e Jerry"
+ },
+ {
+  "n": 11,
+  "nome": "Scooby-Doo",
+  "emojis": "🐶👻🚐",
+  "opcoes": [
+   "Scooby-Doo",
+   "Cinderela",
+   "Divertida Mente"
+  ],
+  "certa": 0,
+  "fala": "Scooby-Doo"
+ },
+ {
+  "n": 12,
+  "nome": "Meu Malvado Favorito",
+  "emojis": "💛👓🍌",
+  "opcoes": [
+   "Up",
+   "Meu Malvado Favorito",
+   "Pokémon"
+  ],
+  "certa": 1,
+  "fala": "Meu Malvado Favorito"
+ },
+ {
+  "n": 13,
+  "nome": "Turma da Mônica",
+  "emojis": "👧🐰💪",
+  "opcoes": [
+   "Cinderela",
+   "Zootopia",
+   "Turma da Mônica"
+  ],
+  "certa": 2,
+  "fala": "Turma da Mônica"
+ },
+ {
+  "n": 14,
+  "nome": "Os Simpsons",
+  "emojis": "🍩💛📺",
+  "opcoes": [
+   "Os Simpsons",
+   "Divertida Mente",
+   "Cinderela"
+  ],
+  "certa": 0,
+  "fala": "Os Simpsons"
+ },
+ {
+  "n": 15,
+  "nome": "Moana",
+  "emojis": "🌊🛶🐔",
+  "opcoes": [
+   "Dragon Ball",
+   "Moana",
+   "A Era do Gelo"
+  ],
+  "certa": 1,
+  "fala": "Moana"
+ },
+ {
+  "n": 16,
+  "nome": "Divertida Mente",
+  "emojis": "😀😢😡🤢",
+  "opcoes": [
+   "Os Simpsons",
+   "Divertida Mente",
+   "Zootopia"
+  ],
+  "certa": 1,
+  "fala": "Divertida Mente"
+ },
+ {
+  "n": 17,
+  "nome": "Up: Altas Aventuras",
+  "emojis": "🎈🏠👴",
+  "opcoes": [
+   "Branca de Neve",
+   "Ben 10",
+   "Up"
+  ],
+  "certa": 2,
+  "fala": "Up, Altas Aventuras"
+ },
+ {
+  "n": 18,
+  "nome": "Patrulha Canina",
+  "emojis": "🐶🚒🚓",
+  "opcoes": [
+   "Tom e Jerry",
+   "Shrek",
+   "Patrulha Canina"
+  ],
+  "certa": 2,
+  "fala": "Patrulha Canina"
+ },
+ {
+  "n": 19,
+  "nome": "Branca de Neve",
+  "emojis": "🍎👸⛏️",
+  "opcoes": [
+   "Branca de Neve",
+   "Tom e Jerry",
+   "Naruto"
+  ],
+  "certa": 0,
+  "fala": "Branca de Neve"
+ },
+ {
+  "n": 20,
+  "nome": "Cinderela",
+  "emojis": "👠🎃👸",
+  "opcoes": [
+   "Sonic",
+   "Ben 10",
+   "Cinderela"
+  ],
+  "certa": 2,
+  "fala": "Cinderela"
+ },
+ {
+  "n": 21,
+  "nome": "Madagascar",
+  "emojis": "🦁🦓🦒🦛",
+  "opcoes": [
+   "Divertida Mente",
+   "Madagascar",
+   "Dragon Ball"
+  ],
+  "certa": 1,
+  "fala": "Madagascar"
+ },
+ {
+  "n": 22,
+  "nome": "A Era do Gelo",
+  "emojis": "🦣🐿️🌰",
+  "opcoes": [
+   "Meu Malvado Favorito",
+   "A Era do Gelo",
+   "A Pequena Sereia"
+  ],
+  "certa": 1,
+  "fala": "A Era do Gelo"
+ },
+ {
+  "n": 23,
+  "nome": "Ratatouille",
+  "emojis": "🐀🍲🗼",
+  "opcoes": [
+   "Meu Malvado Favorito",
+   "Madagascar",
+   "Ratatouille"
+  ],
+  "certa": 2,
+  "fala": "Ratatouille"
+ },
+ {
+  "n": 24,
+  "nome": "Dragon Ball",
+  "emojis": "🐉🟠⭐",
+  "opcoes": [
+   "Meu Malvado Favorito",
+   "Naruto",
+   "Dragon Ball"
+  ],
+  "certa": 2,
+  "fala": "Dragon Ball"
+ },
+ {
+  "n": 25,
+  "nome": "Naruto",
+  "emojis": "🍥🦊🥷",
+  "opcoes": [
+   "Pinóquio",
+   "Os Incríveis",
+   "Naruto"
+  ],
+  "certa": 2,
+  "fala": "Naruto"
+ },
+ {
+  "n": 26,
+  "nome": "Kung Fu Panda",
+  "emojis": "🐼🥋🥟",
+  "opcoes": [
+   "Dragon Ball",
+   "Os Incríveis",
+   "Kung Fu Panda"
+  ],
+  "certa": 2,
+  "fala": "Kung Fu Panda"
+ },
+ {
+  "n": 27,
+  "nome": "Zootopia",
+  "emojis": "🐰🦊🚓",
+  "opcoes": [
+   "Patrulha Canina",
+   "Miraculous",
+   "Zootopia"
+  ],
+  "certa": 2,
+  "fala": "Zootopia"
+ },
+ {
+  "n": 28,
+  "nome": "Lilo & Stitch",
+  "emojis": "👧👽🌺",
+  "opcoes": [
+   "Naruto",
+   "Lilo & Stitch",
+   "Divertida Mente"
+  ],
+  "certa": 1,
+  "fala": "Lilo e Stitch"
+ },
+ {
+  "n": 29,
+  "nome": "Os Incríveis",
+  "emojis": "🦸💪🔥",
+  "opcoes": [
+   "Dragon Ball",
+   "Os Incríveis",
+   "Cinderela"
+  ],
+  "certa": 1,
+  "fala": "Os Incríveis"
+ },
+ {
+  "n": 30,
+  "nome": "Ben 10",
+  "emojis": "⌚👦👽",
+  "opcoes": [
+   "Kung Fu Panda",
+   "Ben 10",
+   "Lilo & Stitch"
+  ],
+  "certa": 1,
+  "fala": "Ben 10"
+ },
+ {
+  "n": 31,
+  "nome": "Miraculous: Ladybug",
+  "emojis": "🐞🐱🗼",
+  "opcoes": [
+   "Zootopia",
+   "Viva",
+   "Miraculous"
+  ],
+  "certa": 2,
+  "fala": "Miraculous, Ladybug"
+ },
+ {
+  "n": 32,
+  "nome": "Pernalonga",
+  "emojis": "🐰🥕🕳️",
+  "opcoes": [
+   "Pernalonga",
+   "Popeye",
+   "Cinderela"
+  ],
+  "certa": 0,
+  "fala": "Pernalonga"
+ },
+ {
+  "n": 33,
+  "nome": "Garfield",
+  "emojis": "🐱🍝😴",
+  "opcoes": [
+   "Garfield",
+   "Super Mario Bros.",
+   "Ratatouille"
+  ],
+  "certa": 0,
+  "fala": "Garfield"
+ },
+ {
+  "n": 34,
+  "nome": "Sonic",
+  "emojis": "🦔💨💍",
+  "opcoes": [
+   "Hora de Aventura",
+   "A Pequena Sereia",
+   "Sonic"
+  ],
+  "certa": 2,
+  "fala": "Sonic"
+ },
+ {
+  "n": 35,
+  "nome": "Super Mario Bros.",
+  "emojis": "🍄⭐🐢",
+  "opcoes": [
+   "Super Mario Bros.",
+   "Garfield",
+   "Madagascar"
+  ],
+  "certa": 0,
+  "fala": "Super Mario"
+ },
+ {
+  "n": 36,
+  "nome": "A Pequena Sereia",
+  "emojis": "🧜🦀🐚",
+  "opcoes": [
+   "Encanto",
+   "A Pequena Sereia",
+   "Dragon Ball"
+  ],
+  "certa": 1,
+  "fala": "A Pequena Sereia"
+ },
+ {
+  "n": 37,
+  "nome": "Aladdin",
+  "emojis": "🧞🐒🕌",
+  "opcoes": [
+   "Naruto",
+   "Dragon Ball",
+   "Aladdin"
+  ],
+  "certa": 2,
+  "fala": "Aladdin"
+ },
+ {
+  "n": 38,
+  "nome": "Pinóquio",
+  "emojis": "🤥👃🦗",
+  "opcoes": [
+   "Naruto",
+   "Pernalonga",
+   "Pinóquio"
+  ],
+  "certa": 2,
+  "fala": "Pinóquio"
+ },
+ {
+  "n": 39,
+  "nome": "Dumbo",
+  "emojis": "🐘👂🎪",
+  "opcoes": [
+   "A Bela e a Fera",
+   "Wall-E",
+   "Dumbo"
+  ],
+  "certa": 2,
+  "fala": "Dumbo"
+ },
+ {
+  "n": 40,
+  "nome": "Monstros S.A.",
+  "emojis": "👁️🚪👧",
+  "opcoes": [
+   "Hora de Aventura",
+   "Bambi",
+   "Monstros S.A."
+  ],
+  "certa": 2,
+  "fala": "Monstros S.A."
+ },
+ {
+  "n": 41,
+  "nome": "Wall-E",
+  "emojis": "🤖🌱🌎",
+  "opcoes": [
+   "Lilo & Stitch",
+   "Popeye",
+   "Wall-E"
+  ],
+  "certa": 2,
+  "fala": "Wall-i"
+ },
+ {
+  "n": 42,
+  "nome": "Hora de Aventura",
+  "emojis": "🐶👦🗡️",
+  "opcoes": [
+   "Hora de Aventura",
+   "Popeye",
+   "Mulan"
+  ],
+  "certa": 0,
+  "fala": "Hora de Aventura"
+ },
+ {
+  "n": 43,
+  "nome": "Os Smurfs",
+  "emojis": "💙🍄🏠",
+  "opcoes": [
+   "Valente",
+   "Os Smurfs",
+   "Popeye"
+  ],
+  "certa": 1,
+  "fala": "Os Smurfs"
+ },
+ {
+  "n": 44,
+  "nome": "Popeye",
+  "emojis": "💪🥬⚓",
+  "opcoes": [
+   "Popeye",
+   "Mulan",
+   "Luca"
+  ],
+  "certa": 0,
+  "fala": "Popeye"
+ },
+ {
+  "n": 45,
+  "nome": "Viva: A Vida é uma Festa",
+  "emojis": "💀🎸🌼",
+  "opcoes": [
+   "Bambi",
+   "Viva",
+   "Mulan"
+  ],
+  "certa": 1,
+  "fala": "Viva, a Vida é uma Festa"
+ },
+ {
+  "n": 46,
+  "nome": "Encanto",
+  "emojis": "🦋🏠🕯️",
+  "opcoes": [
+   "Encanto",
+   "Bambi",
+   "Sonic"
+  ],
+  "certa": 0,
+  "fala": "Encanto"
+ },
+ {
+  "n": 47,
+  "nome": "Enrolados",
+  "emojis": "💇🍳🏰",
+  "opcoes": [
+   "Enrolados",
+   "Garfield",
+   "Sonic"
+  ],
+  "certa": 0,
+  "fala": "Enrolados"
+ },
+ {
+  "n": 48,
+  "nome": "Valente",
+  "emojis": "🏹🐻👸",
+  "opcoes": [
+   "Os Flintstones",
+   "Valente",
+   "Mulan"
+  ],
+  "certa": 1,
+  "fala": "Valente"
+ },
+ {
+  "n": 49,
+  "nome": "Luca",
+  "emojis": "🐟👦🛵",
+  "opcoes": [
+   "Valente",
+   "Luca",
+   "Encanto"
+  ],
+  "certa": 1,
+  "fala": "Luca"
+ },
+ {
+  "n": 50,
+  "nome": "Hércules",
+  "emojis": "💪⚡🏛️",
+  "opcoes": [
+   "Hércules",
+   "Pocahontas",
+   "Os Flintstones"
+  ],
+  "certa": 0,
+  "fala": "Hércules"
+ },
+ {
+  "n": 51,
+  "nome": "Tarzan",
+  "emojis": "🦍🌴🧔",
+  "opcoes": [
+   "Papa-Léguas",
+   "Tarzan",
+   "A Bela e a Fera"
+  ],
+  "certa": 1,
+  "fala": "Tarzan"
+ },
+ {
+  "n": 52,
+  "nome": "A Bela e a Fera",
+  "emojis": "🌹📚🕰️",
+  "opcoes": [
+   "Pocahontas",
+   "A Bela e a Fera",
+   "Galinha Pintadinha"
+  ],
+  "certa": 1,
+  "fala": "A Bela e a Fera"
+ },
+ {
+  "n": 53,
+  "nome": "Mogli",
+  "emojis": "🐻🐯👦🌴",
+  "opcoes": [
+   "Mogli",
+   "Galinha Pintadinha",
+   "A Bela e a Fera"
+  ],
+  "certa": 0,
+  "fala": "Mogli"
+ },
+ {
+  "n": 54,
+  "nome": "Bambi",
+  "emojis": "🦌🐰🌸",
+  "opcoes": [
+   "Monstros S.A.",
+   "Bambi",
+   "Phineas e Ferb"
+  ],
+  "certa": 1,
+  "fala": "Bambi"
+ },
+ {
+  "n": 55,
+  "nome": "Mulan",
+  "emojis": "🏯⚔️👧",
+  "opcoes": [
+   "Mulan",
+   "Coragem",
+   "Mogli"
+  ],
+  "certa": 0,
+  "fala": "Mulan"
+ },
+ {
+  "n": 56,
+  "nome": "Pocahontas",
+  "emojis": "🦝🍃🏹",
+  "opcoes": [
+   "Pocahontas",
+   "Hora de Aventura",
+   "Encanto"
+  ],
+  "certa": 0,
+  "fala": "Pocahontas"
+ },
+ {
+  "n": 57,
+  "nome": "Papa-Léguas",
+  "emojis": "🐦💨🐺",
+  "opcoes": [
+   "Hércules",
+   "Os Flintstones",
+   "Papa-Léguas"
+  ],
+  "certa": 2,
+  "fala": "Papa-Léguas"
+ },
+ {
+  "n": 58,
+  "nome": "Snoopy",
+  "emojis": "🐶🏠🐤",
+  "opcoes": [
+   "Snoopy",
+   "Bambi",
+   "Tarzan"
+  ],
+  "certa": 0,
+  "fala": "Snoopy"
+ },
+ {
+  "n": 59,
+  "nome": "Os Flintstones",
+  "emojis": "🦖🏠🪨",
+  "opcoes": [
+   "Os Flintstones",
+   "Padrinhos Mágicos",
+   "Mulan"
+  ],
+  "certa": 0,
+  "fala": "Os Flintstones"
+ },
+ {
+  "n": 60,
+  "nome": "Os Jetsons",
+  "emojis": "🚀🤖🏙️",
+  "opcoes": [
+   "Pocahontas",
+   "Encanto",
+   "Os Jetsons"
+  ],
+  "certa": 2,
+  "fala": "Os Jetsons"
+ },
+ {
+  "n": 61,
+  "nome": "Coragem, o Cão Covarde",
+  "emojis": "🐶😱🏚️",
+  "opcoes": [
+   "Snoopy",
+   "Bambi",
+   "Coragem"
+  ],
+  "certa": 2,
+  "fala": "Coragem, o Cão Covarde"
+ },
+ {
+  "n": 62,
+  "nome": "Phineas e Ferb",
+  "emojis": "🔺👦🦆",
+  "opcoes": [
+   "Luca",
+   "Phineas e Ferb",
+   "Mogli"
+  ],
+  "certa": 1,
+  "fala": "Phineas e Ferb"
+ },
+ {
+  "n": 63,
+  "nome": "O Incrível Mundo de Gumball",
+  "emojis": "🐱🐟🏫",
+  "opcoes": [
+   "Bananas de Pijamas",
+   "A Bela e a Fera",
+   "Gumball"
+  ],
+  "certa": 2,
+  "fala": "O Incrível Mundo de Gumball"
+ },
+ {
+  "n": 64,
+  "nome": "Os Padrinhos Mágicos",
+  "emojis": "🧚⭐👑",
+  "opcoes": [
+   "Phineas e Ferb",
+   "Padrinhos Mágicos",
+   "Os Jetsons"
+  ],
+  "certa": 1,
+  "fala": "Os Padrinhos Mágicos"
+ },
+ {
+  "n": 65,
+  "nome": "Galinha Pintadinha",
+  "emojis": "🐔🔵🎶",
+  "opcoes": [
+   "Galinha Pintadinha",
+   "Coragem",
+   "Bambi"
+  ],
+  "certa": 0,
+  "fala": "Galinha Pintadinha"
+ },
+ {
+  "n": 66,
+  "nome": "Bananas de Pijamas",
+  "emojis": "🍌🍌🛏️",
+  "opcoes": [
+   "Phineas e Ferb",
+   "Os Flintstones",
+   "Bananas de Pijamas"
+  ],
+  "certa": 2,
+  "fala": "Bananas de Pijamas"
+ },
+ {
+  "n": 67,
+  "nome": "O Show da Luna",
+  "emojis": "🌙👧🔬",
+  "opcoes": [
+   "O Show da Luna",
+   "Phineas e Ferb",
+   "Coragem"
+  ],
+  "certa": 0,
+  "fala": "O Show da Luna"
+ },
+ {
+  "n": 68,
+  "nome": "Pato Donald",
+  "emojis": "🦆😡⛵",
+  "opcoes": [
+   "Coragem",
+   "Gumball",
+   "Pato Donald"
+  ],
+  "certa": 2,
+  "fala": "Pato Donald"
+ }
+]
