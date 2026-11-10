@@ -96,10 +96,13 @@
       "referencia": "https://youtu.be/gN00zzDT4xs",
       "tema": "Alfabeto de TIMES de A a Z (futebol) — ref. \"5% ACERTAM o Alfabeto de TIMES de A a Z!\" (NaTraveQuiz)",
       "obs": "Patrick liberou (2026-11-09) mesmo parecido com o vídeo 02 (jogadores A-Z) e quer COM OS ESCUDOS dos times, igual ao vídeo de referência. Formato: para cada letra de A a Z, mostrar escudos de times (Brasil e mundo) e o jogador adivinha o time; resposta com o nome. Escudos: preferir Wikimedia Commons (muitos são PD-textlogo / domínio público) ou a prévia já feita em previas/adivinhe-o-time/; créditos só na tela final. Vídeo longo >8 min com o máximo de perguntas (vários times por letra); sem parte de explicação/fonte do canal original; saudação de abertura variada. | FEITO 2026-11-10: 68 times (todas as letras A-Z), escudo da Wikipédia aparece pixelado e fica nítido em 5 s, 3 alternativas com a mesma letra, ~10:37. Short com 6 (chamada 'TESTE RÁPIDO: VOCÊ PASSA?').",
-      "status": "pronto",
+      "status": "erro",
       "video": "videos/16-alfabeto-times",
       "short": "shorts/times-1",
-      "titulo": "ALFABETO DOS TIMES DE A a Z ⚽ Adivinhe 68 Times Pelo Escudo! | Quiz Palito"
+      "titulo": "ALFABETO DOS TIMES DE A a Z ⚽ Adivinhe 68 Times Pelo Escudo! | Quiz Palito",
+      "erro": "2026-11-10: gerar_video=cancelled gerar_short=success enviar_video=skipped enviar_short=skipped",
+      "agendar_em": "2026-11-10T21:00:00Z",
+      "links": {}
     }
   ]
 }
