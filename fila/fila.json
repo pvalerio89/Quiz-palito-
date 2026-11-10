@@ -81,10 +81,15 @@
       "referencia": "https://youtu.be/Obn1kv5IwjQ",
       "tema": "Adivinhe o desenho pela intro (desafio musical)",
       "obs": "Sem música de abertura (direitos): versão 'pelos emojis' — 68 desenhos/filmes animados, 3-4 emojis + alternativas A/B/C, layout modelo-opcoes, ~10:40. Short com 6 (chamada 'SERÁ QUE VOCÊ GABARITA?').",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/15-desenho-pelos-emojis",
       "short": "shorts/desenhos-1",
-      "titulo": "ADIVINHE O DESENHO PELOS EMOJIS! 🧽 68 Desenhos e Filmes Animados | Quiz Palito"
+      "titulo": "ADIVINHE O DESENHO PELOS EMOJIS! 🧽 68 Desenhos e Filmes Animados | Quiz Palito",
+      "publicado_em": "2026-11-10",
+      "links": {
+        "video": "https://youtu.be/zLwBKyVbyS4",
+        "short": "https://youtu.be/rTmECoKfflk"
+      }
     },
     {
       "id": "2026-11-09-alfabeto-times",
