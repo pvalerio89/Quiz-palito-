@@ -93,3 +93,45 @@ def mais_um(img, cx, cy, tt, size=46):
         return
     sp = _faixa_sprite("+1 SE ACERTOU!", int(size * 9.2), size, (40, 170, 70))
     _colar(img, sp, cx, cy + 4 * math.sin(tt * 6), sc)
+
+
+def intro_rapida_frames(fundo_fn, linhas, dur, W, H, cy0, passo, tamanhos, palito, selo, imagens=(), img_y=None,
+                        img_lado=180):
+    """Intro RAPIDINHA (2 a 3 s; Patrick, 2026-11-10): selo + título do tema pulando linha a linha, fotos do tema
+    e o Palito acenando. Depois dela vem a transição direto para a 1ª pergunta.
+    fundo_fn(t) -> imagem RGBA do fundo andando; linhas = [(texto, cor)]; tamanhos = fonte de cada linha;
+    palito = (altura, cx, base); selo = (cx, cy, escala); imagens = fotos RGBA quadradas (já no tamanho)."""
+    fs = [b.font(b.F_BLACK, s) for s in tamanhos]
+    for i in range(int(dur * 30)):
+        t = i / 30
+        img = fundo_fn(t)
+        d = ImageDraw.Draw(img)
+        if pula(t / 0.3) > 0.1:
+            b.selo(img, selo[0], selo[1], selo[2] * pula(t / 0.3))
+        for k, (txt, cor) in enumerate(linhas):
+            sc = pula((t - 0.1 - 0.12 * k) / 0.3)
+            if sc <= 0.02:
+                continue
+            f = fs[k] if abs(sc - 1) < 0.02 else b.font(b.F_BLACK, max(8, int(fs[k].size * sc)))
+            while d.textlength(txt, font=f) > W - 120 and f.size > 30:
+                f = b.font(b.F_BLACK, f.size - 4)
+            b.text_outline(d, (W // 2, cy0 + k * passo), txt,
+                           f, cor, w=max(6, f.size // 10))
+        n = len(imagens)
+        for k, im in enumerate(imagens):
+            sc = pula((t - 0.35 - 0.08 * k) / 0.3)
+            if sc <= 0.02:
+                continue
+            x = W / 2 + (k - (n - 1) / 2) * (img_lado + 40)
+            sp = Image.new("RGBA", (img_lado + 20, img_lado + 20), (0, 0, 0, 0))
+            ImageDraw.Draw(sp).rounded_rectangle([0, 0, img_lado + 19, img_lado + 19], 26, fill=b.WHITE,
+                                                 outline=b.NAVY, width=6)
+            sp.alpha_composite(im.resize((img_lado, img_lado)), (10, 10))
+            _colar(img, sp, x, img_y + 6 * math.sin(t * 4 + k), sc * (1 + 0.04 * math.sin(t * 5 + k)))
+        ent = min(1.0, t / 0.35)
+        b.put_palito(img, "acenando", palito[0], palito[1] + int((1 - pula(ent)) * 500), palito[2],
+                     -int(abs(14 * math.sin(t * 6))))
+        z = 1.0 + 0.04 * t / dur
+        cw, ch = W / z, H / z
+        x0, y0 = (W - cw) / 2, (H - ch) / 2
+        yield img.resize((W, H), Image.BILINEAR, box=(x0, y0, x0 + cw, y0 + ch)).convert("RGB")

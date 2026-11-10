@@ -33,10 +33,12 @@ O workflow **Publicar do dia** (9h07 de Brasília, no ar antes do meio-dia) publ
      preferência) e baixe com `automacao/fotos_wiki.py clipes` pelo workflow "Fotos Wikimedia" (crédito vai na tela final).
      Alternativas erradas plausíveis e do mesmo tipo; a certa em posição variada. Exemplo completo: `previa.py` (`video()`).
      Só se o tema não couber em alternativas, use o modelo mais recente de `videos/`.
-   - **Sem tela de abertura (Patrick, 2026-11-10), no longo e no Short:** a 1ª pergunta aparece já no primeiro
-     segundo. A chamada vai numa faixa vermelha POR CIMA da 1ª pergunta (`pergunta_frames(..., gancho="...")` no
-     longo; no Short, `CHAMADA` + "VALENDO!") e a saudação/apresentação é falada junto com a pergunta 1 (curta,
-     até ~5 s). Placar na tela: bolinhas "CONTA SEUS PONTOS!"/"PONTOS:" + selo "+1 SE ACERTOU!" em cada resposta;
+   - **Abertura RAPIDINHA (Patrick, 2026-11-10), no longo e no Short:** intro de 2 a 3 s (selo, nome do tema,
+     3 a 5 imagens do tema que NÃO estão nas perguntas, Palito acenando) com só a saudação curta + o tema falados
+     (`op.intro_rapida(...)` no longo, `s.intro_rapida(...)` no Short; fala "intro" de no máximo ~3 s, variar a
+     saudação). Depois transição e a 1ª pergunta, com a chamada numa faixa vermelha por cima (`gancho=...` no
+     longo; `CHAMADA` + "VALENDO!" no Short). Exemplos: `videos/16-alfabeto-times`, `shorts/times-1`.
+     Placar na tela: bolinhas "CONTA SEUS PONTOS!"/"PONTOS:" + selo "+1 SE ACERTOU!" em cada resposta;
      no fim, "__ / N" e "PAUSA E COMENTA SUA NOTA!". Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
    - **Vídeo longo com MAIS DE 8 MINUTOS** (regra do Patrick, 2026-11-09: a partir de 8 min o YouTube deixa pôr
      anúncios no meio). Mire em **8:30 a 10 min** e coloque **o máximo de perguntas que couber** (não enrole com

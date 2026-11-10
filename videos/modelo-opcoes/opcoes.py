@@ -11,7 +11,8 @@ Extras (aprovados pelo Patrick, 2026-11-09):
   - VÍDEO CURTO no lugar da foto em algumas perguntas (umas 1 a cada 5): q["clipe"] = "panda.mp4"
     (arquivo em CLIPES, baixado com `automacao/fotos_wiki.py clipes`), aparece com selo "VÍDEO";
   - transição entre perguntas: `transicao_frames(ultimo_quadro, q, total)` (faixa diagonal com o selo).
-Mudanças de 2026-11-10 (Patrick): SEM tela de abertura — o vídeo já começa na 1ª pergunta, com a chamada numa
+Intro RAPIDINHA (2026-11-10, 2º pedido): `intro_rapida(titulo, sub, dur, fotos)` de 2 a 3 s com saudação curta
+falada, transição e já a 1ª pergunta. Mudanças de 2026-11-10 (Patrick): SEM tela de abertura longa — o vídeo já começa na 1ª pergunta, com a chamada numa
 faixa por cima (`pergunta_frames(..., gancho="...")`, a saudação/apresentação é falada por cima dela);
 placar de bolinhas "CONTA SEUS PONTOS!" embaixo da barra e selo "+1 SE ACERTOU!" em cada resposta.
 
@@ -384,3 +385,14 @@ def sons_pergunta(tl, sfx, t0, fala=0.0, count=COUNT, entrada=True):
         if s >= count - 2:
             tl.sound(sfx["tique"], at=t0 + fala + s + 0.5, vol=0.6)
     tl.sound(sfx["acerto"], at=t0 + fala + count, vol=0.8)
+
+
+def intro_rapida(titulo, sub="", dur=2.6, fotos=(), filtro=None, cor=4):
+    """Intro rapidinha 16:9 (2 a 3 s): selo, título do tema, até 5 fotos do tema e o Palito acenando.
+    Fale por cima uma saudação CURTA e variada + o tema (ex.: "Chegou mais um Quiz Palito! Times de A a Z!").
+    Depois: `transicao_frames(ultimo_quadro_da_intro, q1, total)` e a 1ª pergunta (com `gancho`)."""
+    linhas = [(titulo, b.WHITE)] + ([(sub, b.YELLOW)] if sub else [])
+    ims = [f if isinstance(f, Image.Image) else foto(f, 170, filtro) for f in fotos[:5]]  # nome do arquivo ou imagem
+    return eg.intro_rapida_frames(lambda t: fundo(cor, t), linhas, dur, W, H, cy0=300 if ims else 390, passo=165,
+                                  tamanhos=[130, 150][:len(linhas)], palito=(600, 1660, 1060), selo=(800, 110, 1.0),
+                                  imagens=ims, img_y=720, img_lado=170)
