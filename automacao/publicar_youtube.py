@@ -1,7 +1,9 @@
 """Envia um vídeo ao YouTube pela API oficial e anota no publicados.json.
 
-Uso: py -3 automacao/publicar_youtube.py <pasta> <arquivo.mp4> [--publico] [--longo <pasta do vídeo longo>]
+Uso: py -3 automacao/publicar_youtube.py <pasta> <arquivo.mp4> [--publico] [--agendar <AAAA-MM-DDTHH:MM:SSZ>] [--longo <pasta>]
   sem --publico: sobe como PRIVADO (status privado_teste). Com --publico: publica direto (status publicado).
+  --publico --agendar <hora UTC>: sobe privado com publishAt; o YouTube deixa público sozinho nessa hora
+  (status publicado, com "no_ar_em").
   --longo: troca LINK_DO_VIDEO_LONGO na descrição pelo link já gravado no publicados.json.
 Precisa das variáveis de ambiente (no GitHub vêm dos Secrets; nunca são impressas):
   YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN
@@ -48,6 +50,9 @@ def main():
     if len(sys.argv) < 3:
         sys.exit(__doc__)
     publico = "--publico" in sys.argv
+    agendar = sys.argv[sys.argv.index("--agendar") + 1] if "--agendar" in sys.argv else ""
+    if agendar and not publico:
+        sys.exit("ERRO: --agendar só junto com --publico.")
     pasta, mp4 = pasta_rel(sys.argv[1]), os.path.abspath(sys.argv[2])
     if not os.path.exists(mp4):
         sys.exit(f"ERRO: arquivo não encontrado: {mp4}")
@@ -76,7 +81,9 @@ def main():
                    "containsSyntheticMedia": False},
     }
     tk = token()
-    vid, priv = enviar_video(tk, mp4, meta, publico)
+    if agendar:
+        meta["status"]["publishAt"] = agendar
+    vid, priv = enviar_video(tk, mp4, meta, publico and not agendar)
 
     thumb = os.path.join(yt, "thumbnail.jpg")
     if os.path.exists(thumb) and not pasta.startswith("shorts/"):
@@ -88,14 +95,14 @@ def main():
         except urllib.error.HTTPError as e:
             print(f"::warning::miniatura não foi aceita (HTTP {e.code}); suba pelo Studio.")
 
-    no_ar = priv == "public"
+    no_ar = priv == "public" or bool(agendar)
     marcar(doc, pasta, "youtube", status="publicado" if no_ar else "privado_teste", id=vid, url=f"https://youtu.be/{vid}",
-           data=datetime.date.today().isoformat(), origem="github-actions", sha256=h)
+           data=datetime.date.today().isoformat(), origem="github-actions", sha256=h, no_ar_em=agendar or None)
     salvar_registro(doc)
     if publico and not no_ar:
         print(f"::warning::Pedi PÚBLICO mas o YouTube deixou como '{priv}'. Projeto da API sem verificação do Google "
               "trava envios como privado; publique pelo Studio ou peça a auditoria da API.")
-    print(f"OK enviado como {priv.upper()}: https://youtu.be/{vid}")
+    print(f"OK enviado como {priv.upper()}{' (entra no ar ' + agendar + ' UTC)' if agendar else ''}: https://youtu.be/{vid}")
 
 
 def enviar_video(tk, mp4, meta, publico=False):

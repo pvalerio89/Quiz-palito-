@@ -26,15 +26,17 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 4. Sem auditoria: rode **Enviar ao TikTok** no modo `rascunho`; o vídeo chega na caixa de entrada do TikTok e você publica pelo celular (legenda no resumo da execução).
    Com a auditoria aprovada, o modo `direto` publica sozinho.
 
-## 1 vídeo por dia, sozinho (fila)
+## 2 vídeos por dia, sozinho (fila): 3h e 18h
 
 - **Lista do Patrick:** links de referência em `fila/novos.txt` (um por linha) ou mandados no chat do projeto.
-- **Rotina do Claude** (tarefa agendada no claude.ai, todo dia 4h43): segue `fila/ROTINA.md`. Passa os links para
+- **Rotina do Claude** (tarefa agendada no claude.ai, 2 vezes por dia: 4h43 e 13h43): segue `fila/ROTINA.md`. Passa os links para
   `fila/fila.json`, produz o próximo vídeo longo + Short (perguntas próprias, prévia conferida), marca `pronto`
-  e faz o merge em `main` sozinha. Mantém até 2 itens prontos de estoque.
-- **Publicar do dia** (workflow, todo dia 9h07 de Brasília, ou à mão em Actions): pega o 1º `pronto`, gera os dois,
-  sobe o vídeo longo **público**, depois o Short **público** com o link do longo na descrição, e marca `publicado`.
-  Se falhar, marca `erro` e no dia seguinte a rotina conserta. Sem item pronto, não faz nada.
+  e faz o merge em `main` sozinha. Mantém até 4 itens prontos de estoque (2 dias).
+- **Publicar do dia** (workflow, a cada 4 h, ou à mão em Actions): pega o 1º `pronto` e o próximo horário livre
+  (3h ou 18h de Brasília, com 2 h de folga; `HORARIOS` em `automacao/fila.py`), gera os dois e sobe o longo e o Short
+  **agendados** (o YouTube deixa públicos sozinho na hora; o Short leva o link do longo). Marca `publicado` com `no_ar_em`.
+  Assim o atraso do cron do GitHub não muda a hora de ir ao ar. À mão com "Publicar JÁ" marcado, sobe público na hora.
+  Se falhar, marca `erro` e a rotina conserta. Sem horário livre nas próximas 24 h ou sem item pronto, não faz nada.
 - **TikTok:** o mp4 do Short fica na Release `video-shorts-<nome>` com a legenda pronta nas notas (postar pelo celular).
 - **Parar tudo:** Actions > Publicar do dia > "Disable workflow" (e pausar a tarefa agendada no claude.ai).
 - Ver a fila: `py -3 automacao/fila.py status`.

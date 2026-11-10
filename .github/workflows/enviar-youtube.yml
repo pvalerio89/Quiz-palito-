@@ -19,6 +19,10 @@ on:
         description: "Só para Short: pasta do vídeo longo (troca LINK_DO_VIDEO_LONGO pelo link dele)"
         required: false
         type: string
+      agendar:
+        description: "Opcional: hora UTC em que o YouTube solta o vídeo (ex.: 2026-11-11T06:00:00Z = 3h de Brasília)"
+        required: false
+        type: string
   workflow_call:   # usado pelo "Publicar do dia"
     inputs:
       pasta:
@@ -29,6 +33,9 @@ on:
         default: publico
         type: string
       longo:
+        required: false
+        type: string
+      agendar:
         required: false
         type: string
 
@@ -47,6 +54,7 @@ jobs:
       PASTA: ${{ inputs.pasta }}
       PRIVACIDADE: ${{ inputs.privacidade }}
       LONGO: ${{ inputs.longo }}
+      AGENDAR: ${{ inputs.agendar }}
     steps:
       # Pega a versão mais nova da branch (inclui o ID do vídeo longo gravado minutos antes).
       - uses: actions/checkout@v4
@@ -72,7 +80,7 @@ jobs:
           YT_CLIENT_ID: ${{ vars.YT_CLIENT_ID || secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-        run: python automacao/publicar_youtube.py "$PASTA" "$MP4" $([ "$PRIVACIDADE" = publico ] && echo --publico) ${LONGO:+--longo "$LONGO"}
+        run: python automacao/publicar_youtube.py "$PASTA" "$MP4" $([ "$PRIVACIDADE" = publico ] && echo --publico) ${LONGO:+--longo "$LONGO"} ${AGENDAR:+--agendar "$AGENDAR"}
 
       # Roda mesmo se algo falhar depois do envio, para o ID nunca se perder.
       - name: Gravar no publicados.json
