@@ -192,3 +192,15 @@ def mixar(tl, video, musica, out):
     buf.tofile(raw)
     b.run(["ffmpeg", "-y", "-i", video, "-f", "f32le", "-ar", str(sr), "-ac", "2", "-i", raw, "-map", "0:v",
            "-map", "1:a", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest", out])
+
+
+def intro_rapida(titulo, sub, dur, imagens=(), cores=((255, 150, 0), (200, 60, 0))):
+    """Intro RAPIDINHA do Short (2 a 3 s; Patrick, 2026-11-10): selo, tema, até 4 fotos e o Palito acenando.
+    Fale por cima só o tema, curtinho (FALAS["intro"]); a chamada vem na faixa da 1ª pergunta."""
+    sys.path.insert(0, os.path.join(QP, "videos", "modelo-opcoes"))
+    import engaja as eg
+    bs = fundo(*cores, seed=11).convert("RGBA")
+    linhas = [(titulo, b.WHITE)] + ([(sub, b.YELLOW)] if sub else [])
+    return eg.intro_rapida_frames(lambda t: bs.copy(), linhas, dur, W, H, cy0=470, passo=150,
+                                  tamanhos=[100, 130][:len(linhas)], palito=(640, 540, 1560), selo=(540, 250, 1.1),
+                                  imagens=list(imagens)[:4], img_y=830, img_lado=200)

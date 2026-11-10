@@ -2,7 +2,7 @@
 
 Para cada letra, escudos de times do Brasil e do mundo. O escudo aparece PIXELADO e vai ficando nítido nos 5 s
 (assim o nome escrito no escudo não entrega a resposta logo); 3 alternativas com a MESMA letra.
-Layout aprovado `videos/modelo-opcoes/opcoes.py` (sem tela de abertura, chamada por cima da 1ª pergunta,
+Layout aprovado `videos/modelo-opcoes/opcoes.py` (intro rapidinha de 2-3 s, chamada por cima da 1ª pergunta,
 placar de bolinhas, sons, transição). Escudos: imagem do artigo de cada clube na Wikipédia (escudos/, créditos na
 tela final).
 Uso: py -3 build_times.py            (monta quiz-palito-alfabeto-dos-times.mp4)
@@ -132,7 +132,7 @@ RESP = lambda n: max(1.6, dur(A(f"p{n}.mp3")) + 0.6)
 
 
 def duracao():
-    t = dur(A("q1.mp3")) + 0.2 + op.COUNT + RESP(1)
+    t = dur(A("intro.mp3")) + 0.6 + dur(A("q1.mp3")) + 0.2 + op.COUNT + RESP(1)
     for r in R[1:]:
         t += 0.6 + op.COUNT + RESP(r["n"])
     for n in range(10, TOTAL, 10):
@@ -143,7 +143,7 @@ def duracao():
 def previa():
     out = os.path.join(HERE, "previa")
     os.makedirs(out, exist_ok=True)
-    fr = [list(op.pergunta_frames(q_de(R[0], 3.0), TOTAL, fala=3.0, gancho=GANCHO))[15]]
+    fr = [list(intro_frames(2.5))[40], list(op.pergunta_frames(q_de(R[0], 3.0), TOTAL, fala=3.0, gancho=GANCHO))[15]]
     for k in (3, 15, 30, 45, TOTAL - 1):
         pf = list(op.pergunta_frames(q_de(R[k]), TOTAL))
         fr += [pf[5], pf[int(op.COUNT * FPS * 0.8)]]
@@ -163,30 +163,41 @@ def previa():
     print(out, f"duração estimada {duracao():.0f}s")
 
 
+INTRO_ESCUDOS = ["flamengo.png", "barcelona.png", "corinthians.png", "real-madrid.png", "palmeiras.png"]
+
+
+def intro_frames(d):
+    return op.intro_rapida("ALFABETO DOS TIMES", "DE A A Z!", d, fotos=[escudo(e, 170) for e in INTRO_ESCUDOS])
+
+
 def main():
     tmp = tempfile.mkdtemp(prefix="quiz_times_")
     sfx = op.make_sfx(tmp)
     video = os.path.join(tmp, "video.mp4")
     tl = b.Timeline(video)
     marcas = {}
+    # intro rapidinha (Patrick, 2026-11-10): título + escudos famosos + Palito acenando, depois transição
+    tl.sound(A("intro.mp3"), at=0.15)
     ultimo = None
+    for f in intro_frames(dur(A("intro.mp3"))):
+        tl.frame(f)
+        ultimo = f
     for r in R:
         n = r["n"]
         if n % 10 == 1:
             marcas[str(n)] = tl.t
         primeira = n == 1
         fala = 0.0
-        if primeira:   # sem tela de abertura: apresentação falada por cima da 1ª pergunta
-            tl.sound(A("q1.mp3"), at=0.1)
-            fala = dur(A("q1.mp3")) + 0.2
-        q = q_de(r, fala)
-        if primeira:
-            pass
-        elif ultimo is not None:
+        q = q_de(r, 0.0)
+        if ultimo is not None:
             tl.sound(sfx["whoosh"], vol=0.7)
             for f in op.transicao_frames(ultimo, q, TOTAL):
                 tl.frame(f)
-        op.sons_pergunta(tl, sfx, tl.t, fala=fala, entrada=not primeira and ultimo is None)
+        if primeira:   # chamada por cima da 1ª pergunta, logo depois da intro rapidinha
+            tl.sound(A("q1.mp3"), at=tl.t + 0.1)
+            fala = dur(A("q1.mp3")) + 0.2
+            q = q_de(r, fala)
+        op.sons_pergunta(tl, sfx, tl.t, fala=fala, entrada=ultimo is None)
         for f in op.pergunta_frames(q, TOTAL, fala=fala, gancho=GANCHO if primeira else None):
             tl.frame(f)
         tl.sound(A(f"p{n}.mp3"), at=tl.t + 0.25)

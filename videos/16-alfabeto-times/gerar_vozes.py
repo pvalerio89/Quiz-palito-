@@ -1,6 +1,6 @@
 """Narração do "Alfabeto dos times de A a Z" — Edge pt-BR-AntonioNeural +20%, pitch +2Hz.
 
-Cria em assets/: q1 (apresentação + 1ª pergunta, falada por cima dela), p1..pN (resposta), placar10.., outro.
+Cria em assets/: intro (intro rapidinha), q1 (1ª pergunta, falada por cima dela), p1..pN (resposta), placar10.., outro.
 Uso: py -3 gerar_vozes.py   (gera só o que falta; --tudo refaz)
 """
 import asyncio, json, os, sys, time
@@ -12,7 +12,8 @@ if os.path.exists("/root/.ccr/ca-bundle.crt"):  # só na nuvem do Claude (proxy)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
-Q1 = "Bora ver se você manja de futebol! Times de A a Z, pelo escudo. Valendo! Letra A: que time é esse?"
+INTRO = "Chegou o alfabeto dos times, de A a Z!"   # intro rapidinha (2 a 3 s)
+Q1 = "Pelo escudo, valendo! Letra A: que time é esse?"
 PLACAR = {
     10: "Dez já foram! Quantos escudos você acertou?",
     20: "Vinte! Tá indo bem? Continua contando!",
@@ -30,7 +31,7 @@ FRASES = ["{x}!", "É {x}!", "{x}! Acertou?", "{x}!", "Resposta: {x}!", "{x}! Ac
 
 def textos():
     R = json.load(open(os.path.join(HERE, "itens.json"), encoding="utf-8"))
-    reg = {"q1": Q1, **{f"placar{k}": v for k, v in PLACAR.items() if k < len(R)}, "outro": OUTRO}
+    reg = {"intro": INTRO, "q1": Q1, **{f"placar{k}": v for k, v in PLACAR.items() if k < len(R)}, "outro": OUTRO}
     for r in R:
         reg[f"p{r['n']}"] = FRASES[r["n"] % len(FRASES)].format(x=r["fala"])
     return reg

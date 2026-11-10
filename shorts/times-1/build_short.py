@@ -40,7 +40,8 @@ PERG = [
      ["Yokohama Marinos", "Yeovil", "Young Boys"], 2, "Young Boys, da Suíça!", ((30, 110, 210), (15, 40, 130))),
 ]
 FALAS = {
-    "gancho": "Alfabeto dos times pelo escudo! Teste rápido: você passa? Valendo!",
+    "intro": "Alfabeto dos times pelo escudo!",            # intro rapidinha (2 a 3 s)
+    "gancho": "Teste rápido: você passa? Valendo!",   # falado por cima da 1ª pergunta
     "final": "Quantos pontos você fez? Pausa e comenta sua nota e o seu time! E segue o Quiz Palito! O desafio completo, de A a Z, tá no canal!",
 }
 CARD = (90, 330, 990, 950)          # cartão da pergunta
@@ -54,7 +55,7 @@ def textos():
     for k, p in enumerate(PERG, 1):
         t[f"q{k}"] = f"Pergunta {['um','dois','três','quatro','cinco','seis'][k-1]}! {p[1]}"
         t[f"a{k}"] = p[5]
-    t["q1"] = f"{FALAS['gancho']} {PERG[0][1]}"   # gancho falado POR CIMA da 1ª pergunta (sem tela de abertura)
+    t["q1"] = f"{FALAS['gancho']} {PERG[0][1]}"   # chamada falada POR CIMA da 1ª pergunta, logo depois da intro
     t.pop("gancho")
     return t
 
@@ -292,11 +293,16 @@ def final_frames(dur):
         yield zoom(bs, 1.0 + 0.05 * n / FPS / dur).convert("RGB")
 
 
+def intro_frames(dur):
+    return s.intro_rapida("ALFABETO DOS TIMES", "PELO ESCUDO!", dur,
+                          [foto(n, 200) for n in ["Palmeiras", "Real Madrid", "São Paulo"] if n in CRED] or [])
+
+
 def previa():
     out = os.path.join(HERE, "previa")
     os.makedirs(out, exist_ok=True)
     fr = list(pergunta_frames(1, PERG[0], 3.0))
-    ims = [fr[0], fr[8], fr[40], list(resposta_frames(1, PERG[0], 1.2))[-1],
+    ims = [list(intro_frames(2.0))[40], fr[8], fr[40], list(resposta_frames(1, PERG[0], 1.2))[-1],
            list(pergunta_frames(5, PERG[4], 1.0))[50], list(resposta_frames(6, PERG[5], 1.2))[-1],
            list(final_frames(1.0))[10]]
     sheet = Image.new("RGB", (len(ims) * 370, 640), (25, 25, 25))
@@ -312,11 +318,13 @@ def main():
     sfx = b.make_sfx(tmp)
     video = os.path.join(tmp, "video.mp4")
     tl = s.Timeline(video)
-    # sem tela de abertura: a 1ª pergunta já aparece no quadro 1 (o gancho é falado em q1)
+    # intro rapidinha (2 a 3 s) e logo a 1ª pergunta (Patrick, 2026-11-10)
+    tl.sound(A("intro.mp3"), at=0.1, voz=True)
+    for f in intro_frames(s.duracao(A("intro.mp3"))):
+        tl.frame(f)
     for k, p in enumerate(PERG, 1):
         q = A(f"q{k}.mp3")
-        if k > 1:
-            tl.sound(sfx["whoosh"], vol=0.6)
+        tl.sound(sfx["whoosh"], vol=0.6)
         tl.sound(q, at=tl.t + 0.1, voz=True)
         fala = s.duracao(q) + 0.2
         for n in range(int(COUNT)):
