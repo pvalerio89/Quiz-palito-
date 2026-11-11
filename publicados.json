@@ -386,6 +386,20 @@
         "data": "2026-11-11",
         "origem": "github-actions"
       }
+    },
+    "videos/18-monte-o-time": {
+      "youtube": {
+        "status": "publicado",
+        "id": "FjBKg6XCsQE",
+        "url": "https://youtu.be/FjBKg6XCsQE",
+        "data": "2026-11-11",
+        "origem": "github-actions",
+        "sha256": "3c35b5601cc52db223bcaa91168162f57f181e67e67398cd9144967adee35324",
+        "no_ar_em": "2026-11-11T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
