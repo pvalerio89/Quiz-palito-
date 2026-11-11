@@ -134,11 +134,18 @@
       "id": "2026-11-10-quiz-futebol-mundial",
       "referencia": "https://youtu.be/FN3y_qvgJYc",
       "tema": "SUPER QUIZ DE FUTEBOL MUNDIAL (BuuQuiz Futebol)",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/17-futebol-mundial",
       "short": "shorts/futebol-1",
       "titulo": "SUPER QUIZ DE FUTEBOL ⚽ 72 Perguntas do Fácil ao Difícil! Você Manja Mesmo? | Quiz Palito",
-      "obs": "72 perguntas próprias A/B/C (país pelo escudo, craque pela bandeira, estádios, apelidos, campeões das Copas até 2022, onde os craques começaram). Imagens reaproveitadas do repo (escudos do vídeo 16, bandeiras do 03, fotos de jogadores do Short qual-joga-1), créditos na tela final. ~11:50. Sem clipes."
+      "obs": "72 perguntas próprias A/B/C (país pelo escudo, craque pela bandeira, estádios, apelidos, campeões das Copas até 2022, onde os craques começaram). Imagens reaproveitadas do repo (escudos do vídeo 16, bandeiras do 03, fotos de jogadores do Short qual-joga-1), créditos na tela final. ~11:50. Sem clipes.",
+      "publicado_em": "2026-11-11",
+      "no_ar_em": "2026-11-12T06:00:00Z",
+      "no_ar_brasilia": "12/11 03h00",
+      "links": {
+        "video": "https://youtu.be/9thukvLDoy0",
+        "short": "https://youtu.be/OyevAvYqlKg"
+      }
     },
     {
       "id": "2026-11-10-musica-tiktok-emojis",
