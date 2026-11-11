@@ -32,7 +32,7 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 - **Rotina do Claude** (tarefa agendada no claude.ai, 2 vezes por dia: 4h43 e 13h43): segue `fila/ROTINA.md`. Passa os links para
   `fila/fila.json`, produz o próximo vídeo longo + Short (perguntas próprias, prévia conferida), marca `pronto`
   e faz o merge em `main` sozinha. Mantém até 4 itens prontos de estoque (2 dias).
-- **Publicar do dia** (workflow, a cada 4 h, ou à mão em Actions): pega o 1º `pronto` e o próximo horário livre
+- **Publicar do dia** (workflow: a cada 4 h, logo que a fila muda na main, e de novo sozinho enquanto houver pronto + horário livre; ou à mão em Actions): pega o 1º `pronto` e o próximo horário livre
   (3h ou 18h de Brasília, com 2 h de folga; `HORARIOS` em `automacao/fila.py`), gera os dois e sobe o longo e o Short
   **agendados** (o YouTube deixa públicos sozinho na hora; o Short leva o link do longo). Marca `publicado` com `no_ar_em`.
   Assim o atraso do cron do GitHub não muda a hora de ir ao ar. À mão com "Publicar JÁ" marcado, sobe público na hora.

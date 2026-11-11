@@ -8,6 +8,9 @@ name: Publicar do dia
 on:
   schedule:
     - cron: "17 */4 * * *"   # a cada 4 h (UTC); quem decide a hora de ir ao ar é o agendamento
+  push:   # quando a rotina deixa vídeo pronto na fila, já agenda (o cron do GitHub falha muito)
+    branches: [main]
+    paths: [fila/fila.json]
   workflow_dispatch:
     inputs:
       agora:
@@ -22,6 +25,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write   # para chamar a si mesmo quando ainda há vídeo pronto e horário livre
 
 jobs:
   escolher:
@@ -139,6 +143,11 @@ jobs:
           git commit -m "Publicar do dia: $ID ($([ "$OK" = true ] && echo publicado || echo erro))"
           git pull --rebase origin "$GITHUB_REF_NAME"
           git push origin "HEAD:$GITHUB_REF_NAME"
+      - name: Agendar o próximo, se houver
+        if: env.OK == 'true' && env.AGENDAR != ''
+        run: |
+          python automacao/fila.py proximo > prox.txt
+          if grep -q '^id=.\+' prox.txt; then gh workflow run publicar-do-dia.yml --ref "$GITHUB_REF_NAME"; fi
       - name: Resumo
         run: |
           python automacao/fila.py status >> "$GITHUB_STEP_SUMMARY"
