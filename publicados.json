@@ -415,6 +415,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/17-futebol-mundial": {
+      "youtube": {
+        "status": "publicado",
+        "id": "9thukvLDoy0",
+        "url": "https://youtu.be/9thukvLDoy0",
+        "data": "2026-11-11",
+        "origem": "github-actions",
+        "sha256": "67344b97e04ad0934433a7149f70336c85be1c656a4136c2c92314f4904662df",
+        "no_ar_em": "2026-11-12T06:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
