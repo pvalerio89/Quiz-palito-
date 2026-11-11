@@ -429,6 +429,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/futebol-1": {
+      "titulo": "SUPER QUIZ DE FUTEBOL! ⚽ Seu amigo não acerta essa! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "OyevAvYqlKg",
+        "url": "https://youtu.be/OyevAvYqlKg",
+        "data": "2026-11-11",
+        "origem": "github-actions",
+        "sha256": "970724b0ba85419d166897552f82a057615c8a760a5fe109f7739eff2ba617ad",
+        "no_ar_em": "2026-11-12T06:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
