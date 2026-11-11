@@ -1,0 +1,938 @@
+[
+ {
+  "n": 1,
+  "img": "foto:messi",
+  "foto": "foto-messi.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "Argentina",
+   "Uruguai",
+   "Espanha"
+  ],
+  "certa": 0,
+  "fala": "Argentina! É o Messi!"
+ },
+ {
+  "n": 2,
+  "img": "escudo:barcelona",
+  "foto": "escudo-barcelona.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Espanha",
+   "Itália",
+   "Portugal"
+  ],
+  "certa": 0,
+  "fala": "Espanha! É o Barcelona!"
+ },
+ {
+  "n": 3,
+  "img": "band:pt",
+  "foto": "band-pt.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Messi",
+   "Cristiano Ronaldo",
+   "Neymar"
+  ],
+  "certa": 1,
+  "fala": "Cristiano Ronaldo, de Portugal!"
+ },
+ {
+  "n": 4,
+  "img": "escudo:flamengo",
+  "foto": "escudo-flamengo.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Morumbi",
+   "Maracanã",
+   "Mineirão"
+  ],
+  "certa": 1,
+  "fala": "Maracanã!"
+ },
+ {
+  "n": 5,
+  "img": "band:qa",
+  "foto": "band-qa.jpg",
+  "pergunta": "COPA DE 2022, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "França",
+   "Argentina",
+   "Croácia"
+  ],
+  "certa": 1,
+  "fala": "Argentina, no Catar!"
+ },
+ {
+  "n": 6,
+  "img": "escudo:corinthians",
+  "foto": "escudo-corinthians.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Verdão",
+   "Peixe",
+   "Timão"
+  ],
+  "certa": 2,
+  "fala": "Timão!"
+ },
+ {
+  "n": 7,
+  "img": "foto:mbappe",
+  "foto": "foto-mbappe.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "Bélgica",
+   "França",
+   "Holanda"
+  ],
+  "certa": 1,
+  "fala": "França! É o Mbappé!"
+ },
+ {
+  "n": 8,
+  "img": "escudo:juventus",
+  "foto": "escudo-juventus.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Itália",
+   "Espanha",
+   "França"
+  ],
+  "certa": 0,
+  "fala": "Itália! É a Juventus!"
+ },
+ {
+  "n": 9,
+  "img": "band:ar",
+  "foto": "band-ar.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Pelé",
+   "Zidane",
+   "Maradona"
+  ],
+  "certa": 2,
+  "fala": "Maradona, da Argentina!"
+ },
+ {
+  "n": 10,
+  "img": "escudo:real-madrid",
+  "foto": "escudo-real-madrid.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Camp Nou",
+   "Old Trafford",
+   "Santiago Bernabéu"
+  ],
+  "certa": 2,
+  "fala": "Santiago Bernabéu!"
+ },
+ {
+  "n": 11,
+  "img": "escudo:boca-juniors",
+  "foto": "escudo-boca-juniors.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Argentina",
+   "Uruguai",
+   "Chile"
+  ],
+  "certa": 0,
+  "fala": "Argentina! É o Boca Juniors!"
+ },
+ {
+  "n": 12,
+  "img": "band:fr",
+  "foto": "band-fr.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Ronaldinho",
+   "Beckham",
+   "Zidane"
+  ],
+  "certa": 2,
+  "fala": "Zidane, da França!"
+ },
+ {
+  "n": 13,
+  "img": "foto:salah",
+  "foto": "foto-salah.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "Marrocos",
+   "Argélia",
+   "Egito"
+  ],
+  "certa": 2,
+  "fala": "Egito! É o Salah!"
+ },
+ {
+  "n": 14,
+  "img": "escudo:palmeiras",
+  "foto": "escudo-palmeiras.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Timão",
+   "Verdão",
+   "Tricolor"
+  ],
+  "certa": 1,
+  "fala": "Verdão!"
+ },
+ {
+  "n": 15,
+  "img": "band:ru",
+  "foto": "band-ru.jpg",
+  "pergunta": "COPA DE 2018, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Croácia",
+   "Bélgica",
+   "França"
+  ],
+  "certa": 2,
+  "fala": "França, na Rússia!"
+ },
+ {
+  "n": 16,
+  "img": "escudo:liverpool",
+  "foto": "escudo-liverpool.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Anfield",
+   "Old Trafford",
+   "Stamford Bridge"
+  ],
+  "certa": 0,
+  "fala": "Anfield!"
+ },
+ {
+  "n": 17,
+  "img": "escudo:bayern-de-munique",
+  "foto": "escudo-bayern-de-munique.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Alemanha",
+   "Áustria",
+   "Holanda"
+  ],
+  "certa": 0,
+  "fala": "Alemanha! É o Bayern de Munique!"
+ },
+ {
+  "n": 18,
+  "img": "foto:haaland",
+  "foto": "foto-haaland.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "Noruega",
+   "Suécia",
+   "Dinamarca"
+  ],
+  "certa": 0,
+  "fala": "Noruega! É o Haaland!"
+ },
+ {
+  "n": 19,
+  "img": "escudo:santos",
+  "foto": "escudo-santos.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Vila Belmiro",
+   "Pacaembu",
+   "São Januário"
+  ],
+  "certa": 0,
+  "fala": "Vila Belmiro!"
+ },
+ {
+  "n": 20,
+  "img": "band:za",
+  "foto": "band-za.jpg",
+  "pergunta": "COPA DE 2010, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Espanha",
+   "Holanda",
+   "Alemanha"
+  ],
+  "certa": 0,
+  "fala": "Espanha, na África do Sul!"
+ },
+ {
+  "n": 21,
+  "img": "escudo:arsenal",
+  "foto": "escudo-arsenal.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Gunners",
+   "Reds",
+   "Blues"
+  ],
+  "certa": 0,
+  "fala": "Gunners, os artilheiros!"
+ },
+ {
+  "n": 22,
+  "img": "foto:kane",
+  "foto": "foto-kane.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "Escócia",
+   "País de Gales",
+   "Inglaterra"
+  ],
+  "certa": 2,
+  "fala": "Inglaterra! É o Harry Kane!"
+ },
+ {
+  "n": 23,
+  "img": "escudo:ajax",
+  "foto": "escudo-ajax.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Holanda",
+   "Bélgica",
+   "Alemanha"
+  ],
+  "certa": 0,
+  "fala": "Holanda! É o Ajax!"
+ },
+ {
+  "n": 24,
+  "img": "band:nl",
+  "foto": "band-nl.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Beckenbauer",
+   "Cruyff",
+   "Puskás"
+  ],
+  "certa": 1,
+  "fala": "Johan Cruyff, da Holanda!"
+ },
+ {
+  "n": 25,
+  "img": "escudo:manchester-united",
+  "foto": "escudo-manchester-united.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Old Trafford",
+   "Anfield",
+   "Etihad"
+  ],
+  "certa": 0,
+  "fala": "Old Trafford!"
+ },
+ {
+  "n": 26,
+  "img": "band:us",
+  "foto": "band-us.jpg",
+  "pergunta": "COPA DE 1994, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Itália",
+   "Suécia",
+   "Brasil"
+  ],
+  "certa": 2,
+  "fala": "Brasil, o tetra nos Estados Unidos!"
+ },
+ {
+  "n": 27,
+  "img": "escudo:benfica",
+  "foto": "escudo-benfica.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Portugal",
+   "Espanha",
+   "Brasil"
+  ],
+  "certa": 0,
+  "fala": "Portugal! É o Benfica!"
+ },
+ {
+  "n": 28,
+  "img": "escudo:cruzeiro",
+  "foto": "escudo-cruzeiro.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Raposa",
+   "Galo",
+   "Coelho"
+  ],
+  "certa": 0,
+  "fala": "Raposa!"
+ },
+ {
+  "n": 29,
+  "img": "foto:son",
+  "foto": "foto-son.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "Japão",
+   "Coreia do Sul",
+   "China"
+  ],
+  "certa": 1,
+  "fala": "Coreia do Sul! É o Son!"
+ },
+ {
+  "n": 30,
+  "img": "escudo:chelsea",
+  "foto": "escudo-chelsea.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Emirates",
+   "Anfield",
+   "Stamford Bridge"
+  ],
+  "certa": 2,
+  "fala": "Stamford Bridge!"
+ },
+ {
+  "n": 31,
+  "img": "band:de",
+  "foto": "band-de.jpg",
+  "pergunta": "COPA DE 2006, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "França",
+   "Alemanha",
+   "Itália"
+  ],
+  "certa": 2,
+  "fala": "Itália, na Alemanha!"
+ },
+ {
+  "n": 32,
+  "img": "escudo:atletico-mineiro",
+  "foto": "escudo-atletico-mineiro.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Galo",
+   "Raposa",
+   "Coelho"
+  ],
+  "certa": 0,
+  "fala": "Galo!"
+ },
+ {
+  "n": 33,
+  "img": "band:sn",
+  "foto": "band-sn.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Salah",
+   "Drogba",
+   "Sadio Mané"
+  ],
+  "certa": 2,
+  "fala": "Sadio Mané, do Senegal!"
+ },
+ {
+  "n": 34,
+  "img": "escudo:galatasaray",
+  "foto": "escudo-galatasaray.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Turquia",
+   "Grécia",
+   "Rússia"
+  ],
+  "certa": 0,
+  "fala": "Turquia! É o Galatasaray!"
+ },
+ {
+  "n": 35,
+  "img": "foto:modric",
+  "foto": "foto-modric.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "Croácia",
+   "Sérvia",
+   "Bósnia"
+  ],
+  "certa": 0,
+  "fala": "Croácia! É o Modric!"
+ },
+ {
+  "n": 36,
+  "img": "escudo:sao-paulo",
+  "foto": "escudo-sao-paulo.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Pacaembu",
+   "Maracanã",
+   "Morumbi"
+  ],
+  "certa": 2,
+  "fala": "Morumbi!"
+ },
+ {
+  "n": 37,
+  "img": "band:kr",
+  "foto": "band-kr.jpg",
+  "pergunta": "COPA DE 2002, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Alemanha",
+   "Turquia",
+   "Brasil"
+  ],
+  "certa": 2,
+  "fala": "Brasil, o penta na Coreia e no Japão!"
+ },
+ {
+  "n": 38,
+  "img": "escudo:atletico-de-madrid",
+  "foto": "escudo-atletico-de-madrid.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Merengues",
+   "Colchoneros",
+   "Culés"
+  ],
+  "certa": 1,
+  "fala": "Colchoneros!"
+ },
+ {
+  "n": 39,
+  "img": "escudo:penarol",
+  "foto": "escudo-penarol.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Argentina",
+   "Uruguai",
+   "Paraguai"
+  ],
+  "certa": 1,
+  "fala": "Uruguai! É o Peñarol!"
+ },
+ {
+  "n": 40,
+  "img": "foto:vinicius-jr",
+  "foto": "foto-vinicius-jr.jpg",
+  "pergunta": "EM QUE TIME ELE COMEÇOU?",
+  "opcoes": [
+   "Fluminense",
+   "Flamengo",
+   "Vasco"
+  ],
+  "certa": 1,
+  "fala": "Flamengo! É o Vini Júnior!"
+ },
+ {
+  "n": 41,
+  "img": "band:ci",
+  "foto": "band-ci.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Eto'o",
+   "Weah",
+   "Drogba"
+  ],
+  "certa": 2,
+  "fala": "Didier Drogba, da Costa do Marfim!"
+ },
+ {
+  "n": 42,
+  "img": "escudo:vasco",
+  "foto": "escudo-vasco.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "São Januário",
+   "Engenhão",
+   "Maracanã"
+  ],
+  "certa": 0,
+  "fala": "São Januário!"
+ },
+ {
+  "n": 43,
+  "img": "band:mx",
+  "foto": "band-mx.jpg",
+  "pergunta": "COPA DE 1970, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Itália",
+   "Brasil",
+   "Alemanha"
+  ],
+  "certa": 1,
+  "fala": "Brasil, o tri no México!"
+ },
+ {
+  "n": 44,
+  "img": "escudo:celtic",
+  "foto": "escudo-celtic.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Irlanda",
+   "Escócia",
+   "Inglaterra"
+  ],
+  "certa": 1,
+  "fala": "Escócia! É o Celtic!"
+ },
+ {
+  "n": 45,
+  "img": "escudo:inter-de-milao",
+  "foto": "escudo-inter-de-milao.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Rossoneri",
+   "Bianconeri",
+   "Nerazzurri"
+  ],
+  "certa": 2,
+  "fala": "Nerazzurri, os azul e preto!"
+ },
+ {
+  "n": 46,
+  "img": "foto:lewandowski",
+  "foto": "foto-lewandowski.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE CRAQUE?",
+  "opcoes": [
+   "República Tcheca",
+   "Polônia",
+   "Ucrânia"
+  ],
+  "certa": 1,
+  "fala": "Polônia! É o Lewandowski!"
+ },
+ {
+  "n": 47,
+  "img": "band:se",
+  "foto": "band-se.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Ibrahimović",
+   "Haaland",
+   "Eriksen"
+  ],
+  "certa": 0,
+  "fala": "Ibrahimović, da Suécia!"
+ },
+ {
+  "n": 48,
+  "img": "escudo:borussia-dortmund",
+  "foto": "escudo-borussia-dortmund.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Signal Iduna Park",
+   "Allianz Arena",
+   "Olympiastadion"
+  ],
+  "certa": 0,
+  "fala": "Signal Iduna Park!"
+ },
+ {
+  "n": 49,
+  "img": "escudo:psg",
+  "foto": "escudo-psg.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "França",
+   "Bélgica",
+   "Suíça"
+  ],
+  "certa": 0,
+  "fala": "França! É o PSG!"
+ },
+ {
+  "n": 50,
+  "img": "band:it",
+  "foto": "band-it.jpg",
+  "pergunta": "COPA DE 1990, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Argentina",
+   "Alemanha",
+   "Itália"
+  ],
+  "certa": 1,
+  "fala": "Alemanha, na Itália!"
+ },
+ {
+  "n": 51,
+  "img": "escudo:internacional",
+  "foto": "escudo-internacional.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "Arena do Grêmio",
+   "Couto Pereira",
+   "Beira-Rio"
+  ],
+  "certa": 2,
+  "fala": "Beira-Rio!"
+ },
+ {
+  "n": 52,
+  "img": "band:hu",
+  "foto": "band-hu.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Eusébio",
+   "Cruyff",
+   "Puskás"
+  ],
+  "certa": 2,
+  "fala": "Ferenc Puskás, da Hungria!"
+ },
+ {
+  "n": 53,
+  "img": "foto:cristiano-ronaldo",
+  "foto": "foto-cristiano-ronaldo.jpg",
+  "pergunta": "EM QUE ILHA ELE NASCEU?",
+  "opcoes": [
+   "Açores",
+   "Sicília",
+   "Madeira"
+  ],
+  "certa": 2,
+  "fala": "Ilha da Madeira, em Portugal!"
+ },
+ {
+  "n": 54,
+  "img": "escudo:zenit",
+  "foto": "escudo-zenit.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Ucrânia",
+   "Rússia",
+   "Polônia"
+  ],
+  "certa": 1,
+  "fala": "Rússia! É o Zenit!"
+ },
+ {
+  "n": 55,
+  "img": "band:es",
+  "foto": "band-es.jpg",
+  "pergunta": "COPA DE 1982, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Alemanha",
+   "Brasil",
+   "Itália"
+  ],
+  "certa": 2,
+  "fala": "Itália, na Espanha!"
+ },
+ {
+  "n": 56,
+  "img": "escudo:bahia",
+  "foto": "escudo-bahia.jpg",
+  "pergunta": "QUAL É O APELIDO DESSE TIME?",
+  "opcoes": [
+   "Leão da Barra",
+   "Esquadrão de Aço",
+   "Vozão"
+  ],
+  "certa": 1,
+  "fala": "Esquadrão de Aço!"
+ },
+ {
+  "n": 57,
+  "img": "escudo:milan",
+  "foto": "escudo-milan.jpg",
+  "pergunta": "QUAL É O ESTÁDIO DESSE TIME?",
+  "opcoes": [
+   "San Siro",
+   "Estádio Olímpico",
+   "Allianz Stadium"
+  ],
+  "certa": 0,
+  "fala": "San Siro!"
+ },
+ {
+  "n": 58,
+  "img": "band:be",
+  "foto": "band-be.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Modric",
+   "De Bruyne",
+   "Kroos"
+  ],
+  "certa": 1,
+  "fala": "Kevin De Bruyne, da Bélgica!"
+ },
+ {
+  "n": 59,
+  "img": "escudo:nautico",
+  "foto": "escudo-nautico.jpg",
+  "pergunta": "EM QUE CIDADE FICA ESSE TIME?",
+  "opcoes": [
+   "Salvador",
+   "Natal",
+   "Recife"
+  ],
+  "certa": 2,
+  "fala": "Recife!"
+ },
+ {
+  "n": 60,
+  "img": "foto:raphinha",
+  "foto": "foto-raphinha.jpg",
+  "pergunta": "EM QUE TIME ELE COMEÇOU?",
+  "opcoes": [
+   "Avaí",
+   "Figueirense",
+   "Grêmio"
+  ],
+  "certa": 0,
+  "fala": "Avaí, de Florianópolis!"
+ },
+ {
+  "n": 61,
+  "img": "band:se",
+  "foto": "band-se.jpg",
+  "pergunta": "COPA DE 1958, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Suécia",
+   "França",
+   "Brasil"
+  ],
+  "certa": 2,
+  "fala": "Brasil, o primeiro título, na Suécia!"
+ },
+ {
+  "n": 62,
+  "img": "escudo:olimpia",
+  "foto": "escudo-olimpia.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Bolívia",
+   "Paraguai",
+   "Uruguai"
+  ],
+  "certa": 1,
+  "fala": "Paraguai! É o Olimpia!"
+ },
+ {
+  "n": 63,
+  "img": "band:cm",
+  "foto": "band-cm.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Drogba",
+   "Eto'o",
+   "Weah"
+  ],
+  "certa": 1,
+  "fala": "Samuel Eto'o, de Camarões!"
+ },
+ {
+  "n": 64,
+  "img": "foto:bellingham",
+  "foto": "foto-bellingham.jpg",
+  "pergunta": "EM QUE TIME ELE COMEÇOU?",
+  "opcoes": [
+   "Aston Villa",
+   "Birmingham",
+   "Leeds"
+  ],
+  "certa": 1,
+  "fala": "Birmingham City!"
+ },
+ {
+  "n": 65,
+  "img": "escudo:dinamo-de-zagreb",
+  "foto": "escudo-dinamo-de-zagreb.jpg",
+  "pergunta": "DE QUE PAÍS É ESSE TIME?",
+  "opcoes": [
+   "Sérvia",
+   "Croácia",
+   "Eslovênia"
+  ],
+  "certa": 1,
+  "fala": "Croácia! É o Dínamo de Zagreb!"
+ },
+ {
+  "n": 66,
+  "img": "band:uy",
+  "foto": "band-uy.jpg",
+  "pergunta": "EM QUE ANO FOI A 1ª COPA, AQUI?",
+  "opcoes": [
+   "1950",
+   "1930",
+   "1924"
+  ],
+  "certa": 1,
+  "fala": "Mil novecentos e trinta, no Uruguai!"
+ },
+ {
+  "n": 67,
+  "img": "escudo:juventude",
+  "foto": "escudo-juventude.jpg",
+  "pergunta": "EM QUE CIDADE FICA ESSE TIME?",
+  "opcoes": [
+   "Caxias do Sul",
+   "Porto Alegre",
+   "Pelotas"
+  ],
+  "certa": 0,
+  "fala": "Caxias do Sul!"
+ },
+ {
+  "n": 68,
+  "img": "band:lr",
+  "foto": "band-lr.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Eto'o",
+   "Okocha",
+   "George Weah"
+  ],
+  "certa": 2,
+  "fala": "George Weah, da Libéria!"
+ },
+ {
+  "n": 69,
+  "img": "foto:haaland",
+  "foto": "foto-haaland.jpg",
+  "pergunta": "ELE NASCEU EM QUE PAÍS?",
+  "opcoes": [
+   "Noruega",
+   "Alemanha",
+   "Inglaterra"
+  ],
+  "certa": 2,
+  "fala": "Inglaterra! O Haaland nasceu em Leeds!"
+ },
+ {
+  "n": 70,
+  "img": "escudo:estudiantes",
+  "foto": "escudo-estudiantes.jpg",
+  "pergunta": "EM QUE CIDADE FICA ESSE TIME?",
+  "opcoes": [
+   "Buenos Aires",
+   "La Plata",
+   "Córdoba"
+  ],
+  "certa": 1,
+  "fala": "La Plata!"
+ },
+ {
+  "n": 71,
+  "img": "band:gb-eng",
+  "foto": "band-gb-eng.jpg",
+  "pergunta": "COPA DE 1966, AQUI: QUEM GANHOU?",
+  "opcoes": [
+   "Alemanha",
+   "Inglaterra",
+   "Portugal"
+  ],
+  "certa": 1,
+  "fala": "Inglaterra, em casa!"
+ },
+ {
+  "n": 72,
+  "img": "band:ro",
+  "foto": "band-ro.jpg",
+  "pergunta": "QUAL CRAQUE É DESSE PAÍS?",
+  "opcoes": [
+   "Stoichkov",
+   "Hagi",
+   "Nedved"
+  ],
+  "certa": 1,
+  "fala": "Gheorghe Hagi, da Romênia!"
+ }
+]
