@@ -400,6 +400,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/monte-1": {
+      "titulo": "QUEM FALTA NO TIME CAMPEÃO? ⚽ Quase ninguém acerta a última! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "K1-zv9LEvyo",
+        "url": "https://youtu.be/K1-zv9LEvyo",
+        "data": "2026-11-11",
+        "origem": "github-actions",
+        "sha256": "38bf0b256bd44ad79cf6c7c8a139add916a326536d8e5ecfa75e262d7ae2cc2f",
+        "no_ar_em": "2026-11-11T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
