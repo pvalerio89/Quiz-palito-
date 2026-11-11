@@ -1,0 +1,860 @@
+[
+ {
+  "n": 1,
+  "time": 0,
+  "slot": 0,
+  "pergunta": "QUEM ERA O GOLEIRO?",
+  "opcoes": [
+   "Dida",
+   "Taffarel",
+   "Marcos"
+  ],
+  "certa": 2,
+  "nome": "Marcos"
+ },
+ {
+  "n": 2,
+  "time": 0,
+  "slot": 1,
+  "pergunta": "QUEM ERA UM DOS ZAGUEIROS?",
+  "opcoes": [
+   "Juan",
+   "Lúcio",
+   "Aldair"
+  ],
+  "certa": 1,
+  "nome": "Lúcio"
+ },
+ {
+  "n": 3,
+  "time": 0,
+  "slot": 2,
+  "pergunta": "E O OUTRO ZAGUEIRO?",
+  "opcoes": [
+   "Juan",
+   "Edmílson",
+   "Júnior Baiano"
+  ],
+  "certa": 1,
+  "nome": "Edmílson"
+ },
+ {
+  "n": 4,
+  "time": 0,
+  "slot": 3,
+  "pergunta": "E O TERCEIRO ZAGUEIRO?",
+  "opcoes": [
+   "Roque Júnior",
+   "Aldair",
+   "Anderson Polga"
+  ],
+  "certa": 0,
+  "nome": "Roque Júnior"
+ },
+ {
+  "n": 5,
+  "time": 0,
+  "slot": 4,
+  "pergunta": "QUEM ERA O LATERAL DIREITO E CAPITÃO?",
+  "opcoes": [
+   "Belletti",
+   "Cafu",
+   "Jorginho"
+  ],
+  "certa": 1,
+  "nome": "Cafu"
+ },
+ {
+  "n": 6,
+  "time": 0,
+  "slot": 5,
+  "pergunta": "QUEM ERA O VOLANTE?",
+  "opcoes": [
+   "Gilberto Silva",
+   "Emerson",
+   "Mauro Silva"
+  ],
+  "certa": 0,
+  "nome": "Gilberto Silva"
+ },
+ {
+  "n": 7,
+  "time": 0,
+  "slot": 6,
+  "pergunta": "E O OUTRO VOLANTE?",
+  "opcoes": [
+   "Juninho Paulista",
+   "Kléberson",
+   "Dunga"
+  ],
+  "certa": 1,
+  "nome": "Kléberson"
+ },
+ {
+  "n": 8,
+  "time": 0,
+  "slot": 7,
+  "pergunta": "E O LATERAL ESQUERDO?",
+  "opcoes": [
+   "Júnior",
+   "Roberto Carlos",
+   "Branco"
+  ],
+  "certa": 1,
+  "nome": "Roberto Carlos"
+ },
+ {
+  "n": 9,
+  "time": 0,
+  "slot": 8,
+  "pergunta": "QUEM ERA O CAMISA 11?",
+  "opcoes": [
+   "Kaká",
+   "Denílson",
+   "Ronaldinho"
+  ],
+  "certa": 2,
+  "nome": "Ronaldinho"
+ },
+ {
+  "n": 10,
+  "time": 0,
+  "slot": 9,
+  "pergunta": "QUEM ERA O CAMISA 10?",
+  "opcoes": [
+   "Kaká",
+   "Edílson",
+   "Rivaldo"
+  ],
+  "certa": 2,
+  "nome": "Rivaldo"
+ },
+ {
+  "n": 11,
+  "time": 0,
+  "slot": 10,
+  "pergunta": "QUEM ERA O CENTROAVANTE?",
+  "opcoes": [
+   "Ronaldo",
+   "Luizão",
+   "Romário"
+  ],
+  "certa": 0,
+  "nome": "Ronaldo"
+ },
+ {
+  "n": 12,
+  "time": 1,
+  "slot": 0,
+  "pergunta": "QUEM ERA O GOLEIRO?",
+  "opcoes": [
+   "Casillas",
+   "Courtois",
+   "Keylor Navas"
+  ],
+  "certa": 2,
+  "nome": "Keylor Navas"
+ },
+ {
+  "n": 13,
+  "time": 1,
+  "slot": 1,
+  "pergunta": "E O LATERAL DIREITO?",
+  "opcoes": [
+   "Carvajal",
+   "Arbeloa",
+   "Míchel Salgado"
+  ],
+  "certa": 0,
+  "nome": "Carvajal"
+ },
+ {
+  "n": 14,
+  "time": 1,
+  "slot": 2,
+  "pergunta": "QUEM ERA UM DOS ZAGUEIROS?",
+  "opcoes": [
+   "Hierro",
+   "Cannavaro",
+   "Varane"
+  ],
+  "certa": 2,
+  "nome": "Varane"
+ },
+ {
+  "n": 15,
+  "time": 1,
+  "slot": 3,
+  "pergunta": "E O OUTRO ZAGUEIRO?",
+  "opcoes": [
+   "Hierro",
+   "Sergio Ramos",
+   "Cannavaro"
+  ],
+  "certa": 1,
+  "nome": "Sergio Ramos"
+ },
+ {
+  "n": 16,
+  "time": 1,
+  "slot": 4,
+  "pergunta": "E O LATERAL ESQUERDO?",
+  "opcoes": [
+   "Marcelo",
+   "Roberto Carlos",
+   "Míchel Salgado"
+  ],
+  "certa": 0,
+  "nome": "Marcelo"
+ },
+ {
+  "n": 17,
+  "time": 1,
+  "slot": 5,
+  "pergunta": "QUEM ERA O VOLANTE?",
+  "opcoes": [
+   "Makélélé",
+   "Xabi Alonso",
+   "Casemiro"
+  ],
+  "certa": 2,
+  "nome": "Casemiro"
+ },
+ {
+  "n": 18,
+  "time": 1,
+  "slot": 6,
+  "pergunta": "QUEM ERA UM DOS MEIAS?",
+  "opcoes": [
+   "Özil",
+   "Kroos",
+   "Guti"
+  ],
+  "certa": 1,
+  "nome": "Kroos"
+ },
+ {
+  "n": 19,
+  "time": 1,
+  "slot": 7,
+  "pergunta": "E O OUTRO MEIA?",
+  "opcoes": [
+   "Özil",
+   "Guti",
+   "Modric"
+  ],
+  "certa": 2,
+  "nome": "Modric"
+ },
+ {
+  "n": 20,
+  "time": 1,
+  "slot": 8,
+  "pergunta": "E O ÚLTIMO MEIA?",
+  "opcoes": [
+   "Kaká",
+   "Isco",
+   "Özil"
+  ],
+  "certa": 1,
+  "nome": "Isco"
+ },
+ {
+  "n": 21,
+  "time": 1,
+  "slot": 9,
+  "pergunta": "QUEM ERA UM DOS ATACANTES?",
+  "opcoes": [
+   "Higuaín",
+   "Raúl",
+   "Benzema"
+  ],
+  "certa": 2,
+  "nome": "Benzema"
+ },
+ {
+  "n": 22,
+  "time": 1,
+  "slot": 10,
+  "pergunta": "E O OUTRO ATACANTE?",
+  "opcoes": [
+   "Raúl",
+   "Figo",
+   "Cristiano Ronaldo"
+  ],
+  "certa": 2,
+  "nome": "Cristiano Ronaldo"
+ },
+ {
+  "n": 23,
+  "time": 2,
+  "slot": 0,
+  "pergunta": "QUEM ERA O GOLEIRO?",
+  "opcoes": [
+   "Emiliano Martínez",
+   "Armani",
+   "Sergio Romero"
+  ],
+  "certa": 0,
+  "nome": "Emiliano Martínez"
+ },
+ {
+  "n": 24,
+  "time": 2,
+  "slot": 1,
+  "pergunta": "E O LATERAL DIREITO?",
+  "opcoes": [
+   "Molina",
+   "Zabaleta",
+   "Mercado"
+  ],
+  "certa": 0,
+  "nome": "Molina"
+ },
+ {
+  "n": 25,
+  "time": 2,
+  "slot": 2,
+  "pergunta": "QUEM ERA UM DOS ZAGUEIROS?",
+  "opcoes": [
+   "Cuti Romero",
+   "Demichelis",
+   "Garay"
+  ],
+  "certa": 0,
+  "nome": "Cuti Romero"
+ },
+ {
+  "n": 26,
+  "time": 2,
+  "slot": 3,
+  "pergunta": "E O OUTRO ZAGUEIRO?",
+  "opcoes": [
+   "Demichelis",
+   "Garay",
+   "Otamendi"
+  ],
+  "certa": 2,
+  "nome": "Otamendi"
+ },
+ {
+  "n": 27,
+  "time": 2,
+  "slot": 4,
+  "pergunta": "E O LATERAL ESQUERDO?",
+  "opcoes": [
+   "Rojo",
+   "Tagliafico",
+   "Heinze"
+  ],
+  "certa": 1,
+  "nome": "Tagliafico"
+ },
+ {
+  "n": 28,
+  "time": 2,
+  "slot": 5,
+  "pergunta": "QUEM ERA UM DOS MEIAS?",
+  "opcoes": [
+   "Mascherano",
+   "Banega",
+   "De Paul"
+  ],
+  "certa": 2,
+  "nome": "De Paul"
+ },
+ {
+  "n": 29,
+  "time": 2,
+  "slot": 6,
+  "pergunta": "QUEM ERA O VOLANTE?",
+  "opcoes": [
+   "Biglia",
+   "Gago",
+   "Enzo Fernández"
+  ],
+  "certa": 2,
+  "nome": "Enzo Fernández"
+ },
+ {
+  "n": 30,
+  "time": 2,
+  "slot": 7,
+  "pergunta": "E O OUTRO MEIA?",
+  "opcoes": [
+   "Lo Celso",
+   "Banega",
+   "Mac Allister"
+  ],
+  "certa": 2,
+  "nome": "Mac Allister"
+ },
+ {
+  "n": 31,
+  "time": 2,
+  "slot": 8,
+  "pergunta": "QUEM ERA O PONTA QUE FEZ GOL?",
+  "opcoes": [
+   "Di María",
+   "Lavezzi",
+   "Agüero"
+  ],
+  "certa": 0,
+  "nome": "Di María"
+ },
+ {
+  "n": 32,
+  "time": 2,
+  "slot": 9,
+  "pergunta": "QUEM ERA UM DOS ATACANTES?",
+  "opcoes": [
+   "Julián Álvarez",
+   "Higuaín",
+   "Agüero"
+  ],
+  "certa": 0,
+  "nome": "Julián Álvarez"
+ },
+ {
+  "n": 33,
+  "time": 2,
+  "slot": 10,
+  "pergunta": "E O CAMISA 10 E CAPITÃO?",
+  "opcoes": [
+   "Riquelme",
+   "Messi",
+   "Tévez"
+  ],
+  "certa": 1,
+  "nome": "Messi"
+ },
+ {
+  "n": 34,
+  "time": 3,
+  "slot": 0,
+  "pergunta": "QUEM ERA O GOLEIRO?",
+  "opcoes": [
+   "Pinto",
+   "Víctor Valdés",
+   "Bravo"
+  ],
+  "certa": 1,
+  "nome": "Víctor Valdés"
+ },
+ {
+  "n": 35,
+  "time": 3,
+  "slot": 1,
+  "pergunta": "E O LATERAL DIREITO?",
+  "opcoes": [
+   "Daniel Alves",
+   "Belletti",
+   "Zambrotta"
+  ],
+  "certa": 0,
+  "nome": "Daniel Alves"
+ },
+ {
+  "n": 36,
+  "time": 3,
+  "slot": 2,
+  "pergunta": "QUEM ERA UM DOS ZAGUEIROS?",
+  "opcoes": [
+   "Márquez",
+   "Piqué",
+   "Thuram"
+  ],
+  "certa": 1,
+  "nome": "Piqué"
+ },
+ {
+  "n": 37,
+  "time": 3,
+  "slot": 3,
+  "pergunta": "E O OUTRO ZAGUEIRO?",
+  "opcoes": [
+   "Márquez",
+   "Milito",
+   "Mascherano"
+  ],
+  "certa": 2,
+  "nome": "Mascherano"
+ },
+ {
+  "n": 38,
+  "time": 3,
+  "slot": 4,
+  "pergunta": "E O LATERAL ESQUERDO?",
+  "opcoes": [
+   "Abidal",
+   "Maxwell",
+   "Sylvinho"
+  ],
+  "certa": 0,
+  "nome": "Abidal"
+ },
+ {
+  "n": 39,
+  "time": 3,
+  "slot": 5,
+  "pergunta": "QUEM ERA O VOLANTE?",
+  "opcoes": [
+   "Yaya Touré",
+   "Keita",
+   "Busquets"
+  ],
+  "certa": 2,
+  "nome": "Busquets"
+ },
+ {
+  "n": 40,
+  "time": 3,
+  "slot": 6,
+  "pergunta": "QUEM ERA UM DOS MEIAS?",
+  "opcoes": [
+   "Fàbregas",
+   "Xavi",
+   "Deco"
+  ],
+  "certa": 1,
+  "nome": "Xavi"
+ },
+ {
+  "n": 41,
+  "time": 3,
+  "slot": 7,
+  "pergunta": "E O OUTRO MEIA?",
+  "opcoes": [
+   "Thiago",
+   "Deco",
+   "Iniesta"
+  ],
+  "certa": 2,
+  "nome": "Iniesta"
+ },
+ {
+  "n": 42,
+  "time": 3,
+  "slot": 8,
+  "pergunta": "QUEM ERA O PONTA DIREITA?",
+  "opcoes": [
+   "Pedro",
+   "Afellay",
+   "Giuly"
+  ],
+  "certa": 0,
+  "nome": "Pedro"
+ },
+ {
+  "n": 43,
+  "time": 3,
+  "slot": 9,
+  "pergunta": "QUEM ERA O CAMISA 10?",
+  "opcoes": [
+   "Messi",
+   "Eto'o",
+   "Ibrahimović"
+  ],
+  "certa": 0,
+  "nome": "Messi"
+ },
+ {
+  "n": 44,
+  "time": 3,
+  "slot": 10,
+  "pergunta": "E O PONTA ESQUERDA?",
+  "opcoes": [
+   "Henry",
+   "Bojan",
+   "David Villa"
+  ],
+  "certa": 2,
+  "nome": "David Villa"
+ },
+ {
+  "n": 45,
+  "time": 4,
+  "slot": 0,
+  "pergunta": "QUEM ERA O GOLEIRO?",
+  "opcoes": [
+   "Casillas",
+   "Zubizarreta",
+   "De Gea"
+  ],
+  "certa": 0,
+  "nome": "Casillas"
+ },
+ {
+  "n": 46,
+  "time": 4,
+  "slot": 1,
+  "pergunta": "E O LATERAL DIREITO?",
+  "opcoes": [
+   "Míchel Salgado",
+   "Sergio Ramos",
+   "Carvajal"
+  ],
+  "certa": 1,
+  "nome": "Sergio Ramos"
+ },
+ {
+  "n": 47,
+  "time": 4,
+  "slot": 2,
+  "pergunta": "QUEM ERA UM DOS ZAGUEIROS?",
+  "opcoes": [
+   "Hierro",
+   "Piqué",
+   "Nadal"
+  ],
+  "certa": 1,
+  "nome": "Piqué"
+ },
+ {
+  "n": 48,
+  "time": 4,
+  "slot": 3,
+  "pergunta": "E O OUTRO ZAGUEIRO?",
+  "opcoes": [
+   "Hierro",
+   "Puyol",
+   "Nadal"
+  ],
+  "certa": 1,
+  "nome": "Puyol"
+ },
+ {
+  "n": 49,
+  "time": 4,
+  "slot": 4,
+  "pergunta": "E O LATERAL ESQUERDO?",
+  "opcoes": [
+   "Jordi Alba",
+   "Reguilón",
+   "Capdevila"
+  ],
+  "certa": 2,
+  "nome": "Capdevila"
+ },
+ {
+  "n": 50,
+  "time": 4,
+  "slot": 5,
+  "pergunta": "QUEM ERA O VOLANTE?",
+  "opcoes": [
+   "Busquets",
+   "Rodri",
+   "Senna"
+  ],
+  "certa": 0,
+  "nome": "Busquets"
+ },
+ {
+  "n": 51,
+  "time": 4,
+  "slot": 6,
+  "pergunta": "E O OUTRO VOLANTE?",
+  "opcoes": [
+   "Rodri",
+   "Xabi Alonso",
+   "Senna"
+  ],
+  "certa": 1,
+  "nome": "Xabi Alonso"
+ },
+ {
+  "n": 52,
+  "time": 4,
+  "slot": 7,
+  "pergunta": "QUEM ERA UM DOS MEIAS?",
+  "opcoes": [
+   "Xavi",
+   "Pedri",
+   "Gavi"
+  ],
+  "certa": 0,
+  "nome": "Xavi"
+ },
+ {
+  "n": 53,
+  "time": 4,
+  "slot": 8,
+  "pergunta": "QUEM FEZ O GOL DO TÍTULO?",
+  "opcoes": [
+   "Pedri",
+   "Iniesta",
+   "Gavi"
+  ],
+  "certa": 1,
+  "nome": "Iniesta"
+ },
+ {
+  "n": 54,
+  "time": 4,
+  "slot": 9,
+  "pergunta": "QUEM ERA O PONTA?",
+  "opcoes": [
+   "Joaquín",
+   "Pedro",
+   "Lamine Yamal"
+  ],
+  "certa": 1,
+  "nome": "Pedro"
+ },
+ {
+  "n": 55,
+  "time": 4,
+  "slot": 10,
+  "pergunta": "E O ATACANTE?",
+  "opcoes": [
+   "David Villa",
+   "Raúl",
+   "Morata"
+  ],
+  "certa": 0,
+  "nome": "David Villa"
+ },
+ {
+  "n": 56,
+  "time": 5,
+  "slot": 0,
+  "pergunta": "QUEM ERA O GOLEIRO?",
+  "opcoes": [
+   "Leão",
+   "Félix",
+   "Gilmar"
+  ],
+  "certa": 1,
+  "nome": "Félix"
+ },
+ {
+  "n": 57,
+  "time": 5,
+  "slot": 1,
+  "pergunta": "QUEM ERA O LATERAL DIREITO E CAPITÃO?",
+  "opcoes": [
+   "Djalma Santos",
+   "Carlos Alberto",
+   "Zé Maria"
+  ],
+  "certa": 1,
+  "nome": "Carlos Alberto"
+ },
+ {
+  "n": 58,
+  "time": 5,
+  "slot": 2,
+  "pergunta": "QUEM ERA UM DOS ZAGUEIROS?",
+  "opcoes": [
+   "Bellini",
+   "Mauro Ramos",
+   "Brito"
+  ],
+  "certa": 2,
+  "nome": "Brito"
+ },
+ {
+  "n": 59,
+  "time": 5,
+  "slot": 3,
+  "pergunta": "E O OUTRO ZAGUEIRO?",
+  "opcoes": [
+   "Piazza",
+   "Bellini",
+   "Orlando"
+  ],
+  "certa": 0,
+  "nome": "Piazza"
+ },
+ {
+  "n": 60,
+  "time": 5,
+  "slot": 4,
+  "pergunta": "E O LATERAL ESQUERDO?",
+  "opcoes": [
+   "Nílton Santos",
+   "Everaldo",
+   "Júnior"
+  ],
+  "certa": 1,
+  "nome": "Everaldo"
+ },
+ {
+  "n": 61,
+  "time": 5,
+  "slot": 5,
+  "pergunta": "QUEM ERA O VOLANTE?",
+  "opcoes": [
+   "Zito",
+   "Falcão",
+   "Clodoaldo"
+  ],
+  "certa": 2,
+  "nome": "Clodoaldo"
+ },
+ {
+  "n": 62,
+  "time": 5,
+  "slot": 6,
+  "pergunta": "E O MEIA CANHOTINHA?",
+  "opcoes": [
+   "Didi",
+   "Gérson",
+   "Zico"
+  ],
+  "certa": 1,
+  "nome": "Gérson"
+ },
+ {
+  "n": 63,
+  "time": 5,
+  "slot": 7,
+  "pergunta": "QUEM ERA O PONTA QUE MARCOU EM TODOS OS JOGOS?",
+  "opcoes": [
+   "Jairzinho",
+   "Garrincha",
+   "Edu"
+  ],
+  "certa": 0,
+  "nome": "Jairzinho"
+ },
+ {
+  "n": 64,
+  "time": 5,
+  "slot": 8,
+  "pergunta": "E O CENTROAVANTE?",
+  "opcoes": [
+   "Vavá",
+   "Careca",
+   "Tostão"
+  ],
+  "certa": 2,
+  "nome": "Tostão"
+ },
+ {
+  "n": 65,
+  "time": 5,
+  "slot": 9,
+  "pergunta": "QUEM ERA O CAMISA 10?",
+  "opcoes": [
+   "Zico",
+   "Pelé",
+   "Sócrates"
+  ],
+  "certa": 1,
+  "nome": "Pelé"
+ },
+ {
+  "n": 66,
+  "time": 5,
+  "slot": 10,
+  "pergunta": "E O DONO DA PATADA ATÔMICA?",
+  "opcoes": [
+   "Zagallo",
+   "Éder",
+   "Rivelino"
+  ],
+  "certa": 2,
+  "nome": "Rivelino"
+ }
+]
