@@ -106,11 +106,12 @@ def main():
 
 
 def enviar_video(tk, mp4, meta, publico=False):
-    """Upload retomável. Só fica público com publico=True; devolve (id, privacidade que o YouTube gravou)."""
+    """Upload retomável. Só fica público com publico=True; devolve (id, privacidade que o YouTube gravou).
+    notifySubscribers=false: não publica no feed de inscrições nem notifica inscritos (pedido do Patrick, 2026-11-11)."""
     meta["status"]["privacyStatus"] = "public" if publico else "private"
     tam = os.path.getsize(mp4)
     req = urllib.request.Request(
-        f"{API_UP}/videos?uploadType=resumable&part=snippet,status", data=json.dumps(meta).encode(),
+        f"{API_UP}/videos?uploadType=resumable&part=snippet,status&notifySubscribers=false", data=json.dumps(meta).encode(),
         headers={"Authorization": f"Bearer {tk}", "Content-Type": "application/json; charset=UTF-8",
                  "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(tam)})
     try:
