@@ -165,11 +165,18 @@
       "id": "2026-11-11-monte-seu-clube",
       "referencia": "https://www.youtube.com/watch?v=u2vmTM2Nkmw",
       "tema": "MONTE O SEU CLUBE (refazer igual à referência Universo Quiz)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "PRIORIDADE (Patrick, 2026-11-11). O vídeo 18 saiu errado (virou quiz de escalações). Formato CERTO: vídeo de ESCOLHA, sem resposta certa, sem placar. O espectador monta o PRÓPRIO clube passo a passo: uniforme, escudo, estádio, mascote, técnico/comissão e depois 1 jogador por posição (goleiro, zagueiros, laterais, volante, meias, atacantes). Em cada etapa mostrar 4 a 6 OPÇÕES À VISTA (Patrick escolheu) com foto/desenho e nome, contagem curta ('ESCOLHA O SEU!'), Palito comentando; no fim, campinho/resumo 'MONTOU? COMENTA SEU TIME!'. Jogadores famosos atuais (Neymar, Messi, CR7, Vinícius Jr., Mbappé, Haaland...) TUDO COM FOTOS REAIS (Patrick, 2026-11-11: 'com fotos reais puxadas da internet'): jogadores, técnicos, estádios reais (Maracanã, Camp Nou, Bernabéu...), uniformes/camisas reais (foto de jogador com a camisa), escudos reais (Wikimedia, muitos PD-textlogo) e mascotes reais de clubes. Buscar pelo automacao/fotos_wiki.py (Wikimedia, licença livre; créditos na tela final). Nada de desenho. >8 min com o máximo de etapas. Pasta nova videos/NN-monte-seu-clube + shorts/clube-1 (Short: monte seu time em 6 escolhas). | FEITO (2026-11-12): vídeo de ESCOLHA, sem resposta certa e sem placar: 24 etapas (cidade, cor da camisa, estilo do escudo, estádio, mascote, técnico, 11 titulares por posição, joia da base e 6 lendas), 6 opções numeradas com foto real (Wikimedia) + contagem 10 s 'ESCOLHA O SEU!'; campinho 'MONTOU? COMENTA SEU TIME!' no fim. Short clube-1: 6 escolhas com 4 opções.",
       "video": "videos/19-monte-seu-clube",
       "short": "shorts/clube-1",
-      "titulo": "MONTE O SEU CLUBE ⚽ Escolha Estádio, Técnico, Craques e Lendas! Qual é o Seu Time? | Quiz Palito"
+      "titulo": "MONTE O SEU CLUBE ⚽ Escolha Estádio, Técnico, Craques e Lendas! Qual é o Seu Time? | Quiz Palito",
+      "publicado_em": "2026-11-12",
+      "no_ar_em": "2026-11-12T21:00:00Z",
+      "no_ar_brasilia": "12/11 18h00",
+      "links": {
+        "video": "https://youtu.be/rM5UmVdt4xs",
+        "short": "https://youtu.be/KlFpT9yZA3o"
+      }
     },
     {
       "id": "2026-11-11-jogador-pela-foto",
