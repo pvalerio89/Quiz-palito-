@@ -473,6 +473,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/20-quiz-ingles": {
+      "youtube": {
+        "status": "publicado",
+        "id": "-_mZQhLOJAI",
+        "url": "https://youtu.be/-_mZQhLOJAI",
+        "data": "2026-11-12",
+        "origem": "github-actions",
+        "sha256": "ead3321ee348f96369027827b7d1621d29ea41ad5348859f9673f5fe73157c67",
+        "no_ar_em": "2026-11-13T06:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
