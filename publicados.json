@@ -458,6 +458,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/clube-1": {
+      "titulo": "MONTE O SEU TIME EM 6 ESCOLHAS! ⚽ Qual é o seu time? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "KlFpT9yZA3o",
+        "url": "https://youtu.be/KlFpT9yZA3o",
+        "data": "2026-11-12",
+        "origem": "github-actions",
+        "sha256": "29e73faba7d3fdf833a879b09630f5bc9ad434e729818f199a75c23424b1c4fa",
+        "no_ar_em": "2026-11-12T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
