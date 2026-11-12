@@ -165,8 +165,11 @@
       "id": "2026-11-11-monte-seu-clube",
       "referencia": "https://www.youtube.com/watch?v=u2vmTM2Nkmw",
       "tema": "MONTE O SEU CLUBE (refazer igual à referência Universo Quiz)",
-      "status": "aguardando",
-      "obs": "PRIORIDADE (Patrick, 2026-11-11). O vídeo 18 saiu errado (virou quiz de escalações). Formato CERTO: vídeo de ESCOLHA, sem resposta certa, sem placar. O espectador monta o PRÓPRIO clube passo a passo: uniforme, escudo, estádio, mascote, técnico/comissão e depois 1 jogador por posição (goleiro, zagueiros, laterais, volante, meias, atacantes). Em cada etapa mostrar 4 a 6 OPÇÕES À VISTA (Patrick escolheu) com foto/desenho e nome, contagem curta ('ESCOLHA O SEU!'), Palito comentando; no fim, campinho/resumo 'MONTOU? COMENTA SEU TIME!'. Jogadores famosos atuais (Neymar, Messi, CR7, Vinícius Jr., Mbappé, Haaland...) TUDO COM FOTOS REAIS (Patrick, 2026-11-11: 'com fotos reais puxadas da internet'): jogadores, técnicos, estádios reais (Maracanã, Camp Nou, Bernabéu...), uniformes/camisas reais (foto de jogador com a camisa), escudos reais (Wikimedia, muitos PD-textlogo) e mascotes reais de clubes. Buscar pelo automacao/fotos_wiki.py (Wikimedia, licença livre; créditos na tela final). Nada de desenho. >8 min com o máximo de etapas. Pasta nova videos/NN-monte-seu-clube + shorts/clube-1 (Short: monte seu time em 6 escolhas)."
+      "status": "pronto",
+      "obs": "PRIORIDADE (Patrick, 2026-11-11). O vídeo 18 saiu errado (virou quiz de escalações). Formato CERTO: vídeo de ESCOLHA, sem resposta certa, sem placar. O espectador monta o PRÓPRIO clube passo a passo: uniforme, escudo, estádio, mascote, técnico/comissão e depois 1 jogador por posição (goleiro, zagueiros, laterais, volante, meias, atacantes). Em cada etapa mostrar 4 a 6 OPÇÕES À VISTA (Patrick escolheu) com foto/desenho e nome, contagem curta ('ESCOLHA O SEU!'), Palito comentando; no fim, campinho/resumo 'MONTOU? COMENTA SEU TIME!'. Jogadores famosos atuais (Neymar, Messi, CR7, Vinícius Jr., Mbappé, Haaland...) TUDO COM FOTOS REAIS (Patrick, 2026-11-11: 'com fotos reais puxadas da internet'): jogadores, técnicos, estádios reais (Maracanã, Camp Nou, Bernabéu...), uniformes/camisas reais (foto de jogador com a camisa), escudos reais (Wikimedia, muitos PD-textlogo) e mascotes reais de clubes. Buscar pelo automacao/fotos_wiki.py (Wikimedia, licença livre; créditos na tela final). Nada de desenho. >8 min com o máximo de etapas. Pasta nova videos/NN-monte-seu-clube + shorts/clube-1 (Short: monte seu time em 6 escolhas). | FEITO (2026-11-12): vídeo de ESCOLHA, sem resposta certa e sem placar: 24 etapas (cidade, cor da camisa, estilo do escudo, estádio, mascote, técnico, 11 titulares por posição, joia da base e 6 lendas), 6 opções numeradas com foto real (Wikimedia) + contagem 10 s 'ESCOLHA O SEU!'; campinho 'MONTOU? COMENTA SEU TIME!' no fim. Short clube-1: 6 escolhas com 4 opções.",
+      "video": "videos/19-monte-seu-clube",
+      "short": "shorts/clube-1",
+      "titulo": "MONTE O SEU CLUBE ⚽ Escolha Estádio, Técnico, Craques e Lendas! Qual é o Seu Time? | Quiz Palito"
     },
     {
       "id": "2026-11-11-jogador-pela-foto",
@@ -179,8 +182,11 @@
       "id": "2026-11-11-quiz-ingles",
       "referencia": "https://www.youtube.com/shorts/Xzj30-tSHTY",
       "tema": "Quantas perguntas de inglês você consegue acertar? (QI EVOLUE, Short)",
-      "status": "aguardando",
-      "obs": "Patrick aprovou (2026-11-11) 'do teu jeito', perguntas do nível do 5º ao 9º ano escolar: vocabulário, tradução, verbos, frases simples, gramática básica (to be, plural, passado), 3 alternativas A/B/C, do fácil (5º) ao difícil (9º), mostrando a série em cada bloco. Foto real quando for objeto/animal/comida."
+      "status": "pronto",
+      "obs": "Patrick aprovou (2026-11-11) 'do teu jeito', perguntas do nível do 5º ao 9º ano escolar: vocabulário, tradução, verbos, frases simples, gramática básica (to be, plural, passado), 3 alternativas A/B/C, do fácil (5º) ao difícil (9º), mostrando a série em cada bloco. Foto real quando for objeto/animal/comida. | FEITO (2026-11-12): 65 perguntas próprias A/B/C em 5 blocos (5º a 9º ano, 13 cada), fotos reais reaproveitadas (vídeos 12/13/14) ou cartão com a frase. Short ingles-1: 6 palavras com foto.",
+      "video": "videos/20-quiz-ingles",
+      "short": "shorts/ingles-1",
+      "titulo": "QUIZ DE INGLÊS DO 5º AO 9º ANO 🇺🇸 65 Perguntas: Até Que Série Você Chega? | Quiz Palito"
     }
   ]
 }
