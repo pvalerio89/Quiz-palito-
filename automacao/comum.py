@@ -7,7 +7,7 @@ import hashlib, json, os, sys
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REGISTRO = os.path.join(RAIZ, "publicados.json")
 PLATAFORMAS = ("youtube", "tiktok")
-BLOQUEIA = ("publicado", "privado_teste")  # status que impedem um novo envio
+BLOQUEIA = ("publicado", "privado_teste", "rascunho")  # status que impedem um novo envio
 
 
 def pasta_rel(pasta):

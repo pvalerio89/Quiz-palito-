@@ -17,6 +17,15 @@ on:
         default: rascunho
         type: choice
         options: [rascunho, direto]
+  workflow_call:   # usado pelo "Publicar do dia" logo depois do Short sair no YouTube
+    inputs:
+      pasta:
+        required: true
+        type: string
+      modo:
+        required: false
+        default: rascunho
+        type: string
 
 concurrency:
   group: publicacao
@@ -33,7 +42,10 @@ jobs:
       PASTA: ${{ inputs.pasta }}
       MODO: ${{ inputs.modo || 'rascunho' }}
     steps:
+      # Versão mais nova da branch (tiktok.txt já com o link do vídeo longo, publicados.json atualizado).
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
@@ -48,7 +60,10 @@ jobs:
           gh release download "video-$slug" --dir "baixado/$slug" --pattern '*.mp4' --pattern 'kit-youtube.zip'
           unzip -q "baixado/$slug/kit-youtube.zip" -d "baixado/$slug/youtube"
           echo "MP4=$(ls baixado/$slug/*.mp4 | head -1)" >> "$GITHUB_ENV"
-          echo "LEGENDA=baixado/$slug/youtube/tiktok.txt" >> "$GITHUB_ENV"
+          # Prefere a legenda do repositório (já com o link do vídeo longo); senão, a do kit.
+          leg="$PASTA/youtube/tiktok.txt"; [ -f "$leg" ] || leg="baixado/$slug/youtube/tiktok.txt"
+          echo "LEGENDA=$leg" >> "$GITHUB_ENV"
+          echo "SLUG=$slug" >> "$GITHUB_ENV"
 
       - name: Enviar
         env:
@@ -62,6 +77,16 @@ jobs:
             python automacao/tiktok.py rascunho "$PASTA" "$MP4"
             { echo "### Abra a notificação no app do TikTok e cole esta legenda"; echo; echo '```'; cat "$LEGENDA"; echo; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
           fi
+
+      # Legenda fácil de copiar pelo celular: notas da Release do Short.
+      - name: Legenda nas notas da Release
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ -f "$LEGENDA" ] || exit 0
+          { echo "Legenda do TikTok (copie e cole no app):"; echo; cat "$LEGENDA"; } > notas.md
+          gh release edit "video-$SLUG" --notes-file notas.md || true
 
       # Roda mesmo se algo falhar depois do envio, para o ID nunca se perder.
       - name: Gravar no publicados.json
