@@ -87,6 +87,21 @@ def main():
     for v in vids:
         v.update(por_video.get(v["id"], {}))
 
+    # Curva de retenção (fração do vídeo -> % de quem ainda assiste), só com Analytics
+    curvas = {}
+    if not aviso:
+        for v in vids:
+            if v["privacidade"] != "public":
+                continue
+            r3, e3 = get(ANALYTICS, tk, {"ids": "channel==MINE", "startDate": "2020-01-01",
+                                         "endDate": hoje.isoformat(), "metrics": "audienceWatchRatio",
+                                         "dimensions": "elapsedVideoTimeRatio", "filters": f"video=={v['id']}"})
+            if not e3 and r3.get("rows"):
+                curvas[v["id"]] = [[round(a, 2), round(b, 3)] for a, b in r3["rows"]]
+        json.dump({v["id"]: {"titulo": v["titulo"], "duracao": v["duracao"], "curva": curvas[v["id"]]}
+                   for v in vids if v["id"] in curvas},
+                  open(os.path.join(PASTA, "retencao.json"), "w", encoding="utf-8"), ensure_ascii=False)
+
     os.makedirs(PASTA, exist_ok=True)
     json.dump({"data": hoje.isoformat(), "canal": est, "videos": vids, "diario": diario, "aviso": aviso},
               open(os.path.join(PASTA, "ultimo.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -109,6 +124,19 @@ def main():
             priv = "" if v["privacidade"] == "public" else f" ({v['privacidade']})"
             L.append(f"| {v['views']} | {v['likes']} | {v['comentarios']} | {pct} | {v['publicado']} | "
                      f"[{v['titulo']}](https://youtu.be/{v['id']}){priv} |")
+        L += [""]
+    if curvas:
+        marcas = (0.01, 0.05, 0.1, 0.25, 0.5, 0.75, 0.99)
+        L += ["## Retenção (% de quem ainda assiste em cada ponto do vídeo)", "",
+              "| tipo | dur | " + " | ".join(f"{int(m*100)}%" for m in marcas) + " | título |",
+              "|---|---|" + "---|" * len(marcas) + "---|"]
+        for v in sorted(vids, key=lambda v: (v["tipo"], -v.get("pct_media", 0))):
+            c = curvas.get(v["id"])
+            if not c:
+                continue
+            val = [min(c, key=lambda p: abs(p[0] - m))[1] for m in marcas]
+            L.append(f"| {v['tipo']} | {v['duracao']//60}:{v['duracao']%60:02d} | "
+                     + " | ".join(f"{x*100:.0f}" for x in val) + f" | {v['titulo'][:50]} |")
         L += [""]
     md = "\n".join(L)
     open(os.path.join(PASTA, f"{hoje.isoformat()}.md"), "w", encoding="utf-8").write(md)
