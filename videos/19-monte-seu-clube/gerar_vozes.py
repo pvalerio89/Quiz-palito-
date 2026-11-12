@@ -14,7 +14,9 @@ if os.path.exists("/root/.ccr/ca-bundle.crt"):  # só na nuvem do Claude (proxy)
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 INTRO = "Hoje é diferente: monte o seu próprio clube!"   # intro rapidinha (2 a 3 s)
-GANCHO = "Anota o número de cada escolha! Valendo!"      # antes da 1ª etapa
+# antes da 1ª etapa: chamada de anotar nos comentários (Patrick, 2026-11-12; frases em engaja.CHAMADAS_ANOTAR)
+GANCHO = ("Clica no coração e abre os comentários pra ir anotando o número de cada escolha. "
+          "Assim que terminar o vídeo, é só enviar! Valendo!")
 REACOES = ["Escolheu? Anota aí!", "Boa escolha! Bora pra próxima!", "Anotou o número? Próxima!",
            "Difícil, né? Vamos lá!", "Comenta qual você pegou!", "Essa foi rápida! Próxima!"]
 BANCO = "Time titular pronto! Agora vamos montar o banco de reservas, com joia e lendas!"

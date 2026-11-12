@@ -29,7 +29,7 @@ E = [next(e for e in bc.E if e["chave"] == c) for c in ETAPAS]
 for e in E:
     e["opcoes"] = e["opcoes"][:4]
 FALA_E = {
-    "estadio": "Monta o seu time em seis escolhas! Valendo! Primeiro, o estádio: Maracanã, Camp Nou, Bernabéu ou Old Trafford?",
+    "estadio": "Monta o seu time em seis escolhas! Clica no coração e abre os comentários pra ir anotando; acabou, é só enviar! Primeiro, o estádio: Maracanã, Camp Nou, Bernabéu ou Old Trafford?",
     "tecnico": "O técnico: Guardiola, Ancelotti, Klopp ou Mourinho?",
     "gol": "O goleiro: Alisson, Ederson, Courtois ou Neuer?",
     "dez": "O camisa dez: Messi, Bruno Fernandes, Wirtz ou Mussiala?",

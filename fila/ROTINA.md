@@ -88,6 +88,10 @@ São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** 
      a mais um Quiz Palito!". Veja o `INTRO` dos últimos vídeos (`videos/*/gerar_vozes.py`) e use outra frase de entrada,
      ligada ao tema (ex.: "Ei, você aí! Será que conhece mesmo os bichos?", "Atenção, que hoje o desafio é diferente:",
      "Prepara o cérebro:", "Bora testar seu olho?", "Desafio rápido:", "Chegou mais um Quiz Palito!").
+   - **Vídeo de anotar/escolher** (monte o seu clube, escolha 1 de cada, etc.; Patrick, 2026-11-12): logo no começo,
+     antes da 1ª etapa, a fala chama para **clicar no coração e abrir os comentários para ir anotando; assim que
+     terminar o vídeo, é só enviar**. Use `engaja.chamada_anotar(usadas=...)` (`videos/modelo-opcoes/engaja.py`),
+     variando a frase em relação ao último vídeo desse tipo. Vale também para o Short (versão curta da frase).
    - Voz: Edge TTS pt-BR-AntonioNeural rate +20% pitch +2Hz. Música só do `musicas/` com o crédito de 1 linha.
    - Script de montagem precisa chamar `build_*.py` (o `automacao/gerar.py` acha sozinho).
    - **Confira** a prévia (`py automacao/gerar.py <pasta> --previa`, com as fontes substitutas descritas na memória):

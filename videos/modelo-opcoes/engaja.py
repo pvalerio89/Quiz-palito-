@@ -3,7 +3,9 @@
 - `faixa_gancho`: a chamada aparece numa faixa vermelha POR CIMA da 1ª pergunta, já no primeiro segundo
   (não existe mais tela de abertura parada antes do primeiro desafio);
 - `pontos`: placar de bolinhas (quantas já foram / qual é a atual) + "CONTA SEUS PONTOS!";
-- `mais_um`: selo "+1 SE ACERTOU!" que pula na resposta, para a pessoa ir somando e comentar a nota no fim.
+- `mais_um`: selo "+1 SE ACERTOU!" que pula na resposta, para a pessoa ir somando e comentar a nota no fim;
+- `chamada_anotar`: fala do início dos vídeos de ANOTAR/ESCOLHER ("Monte o seu clube" etc.): curtir e ir anotando
+  nos comentários, para enviar no fim (Patrick, 2026-11-12). Varia a frase.
 Funciona em 16:9 e 9:16 (as posições vêm de quem chama).
 """
 import math, os, sys
@@ -14,6 +16,24 @@ sys.path.insert(0, os.path.join(_V, "01-paises-sem-vogais"))
 import build as b
 
 _cache = {}
+
+# Vídeos de anotar/escolher: chamada no começo (Patrick, 2026-11-12). Sempre com as 3 ideias:
+# clicar no coração/like, abrir os comentários e ir anotando, enviar quando o vídeo acabar.
+CHAMADAS_ANOTAR = [
+    "Antes de começar: clica no coração e abre os comentários pra ir anotando. Assim que terminar o vídeo, é só enviar!",
+    "Já deixa o like, abre os comentários e vai anotando cada escolha. Quando o vídeo acabar, é só enviar!",
+    "Dica: clica no coração e abre os comentários agora. Vai anotando aí e, no final, é só mandar!",
+    "Clica no coração, abre os comentários e vai escrevendo suas escolhas. Terminou o vídeo? É só enviar!",
+    "Primeiro, o like! Depois abre os comentários e vai anotando. No fim do vídeo, é só apertar enviar!",
+    "Abre os comentários e vai anotando junto comigo, e não esquece do coração! Acabou o vídeo, é só enviar!",
+]
+
+
+def chamada_anotar(usadas=(), seed=None):
+    """Uma frase de CHAMADAS_ANOTAR que não esteja em `usadas` (as dos últimos vídeos)."""
+    import random
+    livres = [c for c in CHAMADAS_ANOTAR if c not in usadas] or CHAMADAS_ANOTAR
+    return random.Random(seed).choice(livres)
 
 
 def pula(x):
