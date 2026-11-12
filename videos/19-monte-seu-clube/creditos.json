@@ -1,0 +1,835 @@
+{
+ "Pep Guardiola": {
+  "file": "Josep_Guardiola_2023-10-04_Fußball,_Männer,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2797_(cropped).jpg",
+  "arquivo": "pep-guardiola.png",
+  "autor": "Steffen Prößdorf",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Pep_Guardiola"
+ },
+ "Carlo Ancelotti": {
+  "file": "Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg",
+  "arquivo": "carlo-ancelotti.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Carlo_Ancelotti"
+ },
+ "Jürgen Klopp": {
+  "file": "2022-07-21_Fußball,_Männer,Freundschaftsspiel,_RB_Leipzig_-_FC_Liverpool_1DX_2243_by_Stepro_(cropped)_(cropped).jpg",
+  "arquivo": "jurgen-klopp.png",
+  "autor": "Derivative work: EndzoneEnthusiast",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Jürgen_Klopp"
+ },
+ "José Mourinho": {
+  "file": "José_Mourinho_20250206_(1).jpg",
+  "arquivo": "jose-mourinho.png",
+  "autor": "Zafer",
+  "lic": "CC BY 4.0",
+  "artigo": "José_Mourinho"
+ },
+ "Abel Ferreira": {
+  "file": "Audiência_com_Abel_Ferreira,_Técnico_do_Palmeiras_(cropped).jpg",
+  "arquivo": "abel-ferreira.png",
+  "autor": "Governo do Estado de São Paulo",
+  "lic": "CC BY 2.0",
+  "artigo": "Abel_Ferreira"
+ },
+ "Luis Enrique": {
+  "file": "Luis_Enrique_2014.jpg",
+  "arquivo": "luis-enrique.png",
+  "autor": "Lluís from Sabadell (Barcelona), España",
+  "lic": "CC BY 2.0",
+  "artigo": "Luis_Enrique"
+ },
+ "Alisson": {
+  "file": "Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_(cropped).jpg",
+  "arquivo": "alisson.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Alisson_Becker"
+ },
+ "Ederson": {
+  "file": "Ederson_Brazil_V_Morocco_13_June_2026-14_(cropped).jpg",
+  "arquivo": "ederson.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Ederson_(footballer,_born_1993)"
+ },
+ "Courtois": {
+  "file": "Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_(cropped).jpg",
+  "arquivo": "courtois.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Thibaut_Courtois"
+ },
+ "Neuer": {
+  "file": "Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg",
+  "arquivo": "neuer.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Manuel_Neuer"
+ },
+ "Donnarumma": {
+  "file": "Norway_Italy_-_June_2025_A_17_(Gianluigi_Donnarumma).jpg",
+  "arquivo": "donnarumma.png",
+  "autor": "MichaelEmilio",
+  "lic": "CC BY 4.0",
+  "artigo": "Gianluigi_Donnarumma"
+ },
+ "Dibu Martínez": {
+  "file": "Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg",
+  "arquivo": "dibu-martinez.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Emiliano_Martínez"
+ },
+ "Hakimi": {
+  "file": "Achraf_Hakimi_Morocco_v_Norway_7_June_2026-32.jpg",
+  "arquivo": "hakimi.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Achraf_Hakimi"
+ },
+ "Alexander-Arnold": {
+  "file": "Trent_Alexander-Arnold_2018_(cropped).jpg",
+  "arquivo": "alexander-arnold.png",
+  "autor": "Антон Зайцев",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Trent_Alexander-Arnold"
+ },
+ "Carvajal": {
+  "file": "UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_(cropped).jpg",
+  "arquivo": "carvajal.png",
+  "autor": "Rolandhino1",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Dani_Carvajal"
+ },
+ "Koundé": {
+  "file": "Jules_Kounde_France_v_Senegal_16_June_2026-449_(cropped).jpg",
+  "arquivo": "kounde.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Jules_Koundé"
+ },
+ "Danilo": {
+  "file": "WPanthroponymy.svg",
+  "arquivo": "danilo.png",
+  "autor": "penubag",
+  "lic": "Public domain",
+  "artigo": "Danilo_(footballer,_born_1991)"
+ },
+ "Kyle Walker": {
+  "file": "Kyle_Walker.jpg",
+  "arquivo": "kyle-walker.png",
+  "autor": "Кирилл Венедиктов",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Kyle_Walker"
+ },
+ "Van Dijk": {
+  "file": "20160604_AUT_NED_8876_(cropped).jpg",
+  "arquivo": "van-dijk.png",
+  "autor": "Ailura",
+  "lic": "CC BY-SA 3.0 at",
+  "artigo": "Virgil_van_Dijk"
+ },
+ "Marquinhos": {
+  "file": "Marquinhos_Brazil_V_Morocco_13_June_2026-153_(cropped).jpg",
+  "arquivo": "marquinhos.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Marquinhos"
+ },
+ "Rúben Dias": {
+  "file": "Ruben_Dias_Croatia_v_Portugal_2_July_2026-228_(cropped).jpg",
+  "arquivo": "ruben-dias.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Rúben_Dias"
+ },
+ "Rüdiger": {
+  "file": "Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-002.jpg",
+  "arquivo": "rudiger.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Antonio_Rüdiger"
+ },
+ "Saliba": {
+  "file": "William_Saliba_France_v_Paraguay_4_July_2026-183.jpg",
+  "arquivo": "saliba.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "William_Saliba"
+ },
+ "Militão": {
+  "file": "Eder_Militao_2021.jpg",
+  "arquivo": "militao.png",
+  "autor": "Real Madrid",
+  "lic": "CC BY 3.0",
+  "artigo": "Éder_Militão"
+ },
+ "Gabriel Magalhães": {
+  "file": "Gabriel_Magalhaes_Brazil_V_Morocco_13_June_2026-132_(cropped).jpg",
+  "arquivo": "gabriel-magalhaes.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Gabriel_Magalhães"
+ },
+ "Gvardiol": {
+  "file": "Josko_Gvardiol_Croatia_v_Portugal_2_July_2026-262.jpg",
+  "arquivo": "gvardiol.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Joško_Gvardiol"
+ },
+ "Ronald Araújo": {
+  "file": "FC_Red_Bull_Salzburg_gegen_CF_Barcelona_(Testspiel_4._August_2021)_45_(cropped).jpg",
+  "arquivo": "ronald-araujo.png",
+  "autor": "Werner100359",
+  "lic": "CC0",
+  "artigo": "Ronald_Araújo"
+ },
+ "Lisandro Martínez": {
+  "file": "Lisandro_Martinez_Argentina_v_Egypt_7_July_2026-343_(cropped).jpg",
+  "arquivo": "lisandro-martinez.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Lisandro_Martínez"
+ },
+ "Bastoni": {
+  "file": "Norway_Italy_-_June_2025_A_36_(cropped).jpg",
+  "arquivo": "bastoni.png",
+  "autor": "MichaelEmilio",
+  "lic": "CC BY 4.0",
+  "artigo": "Alessandro_Bastoni"
+ },
+ "Cubarsí": {
+  "file": "Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_(cropped).jpg",
+  "arquivo": "cubarsi.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Pau_Cubarsí"
+ },
+ "Alphonso Davies": {
+  "file": "Alphonso_Davies_Canada_v_Qatar_18_June_2026-007_(cropped).jpg",
+  "arquivo": "alphonso-davies.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Alphonso_Davies"
+ },
+ "Theo Hernández": {
+  "file": "Theo_Hernandez_France_v_Senegal_16_June_2026-222_(cropped).jpg",
+  "arquivo": "theo-hernandez.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Theo_Hernandez"
+ },
+ "Nuno Mendes": {
+  "file": "Nuno_Mendes_Croatia_v_Portugal_2_July_2026-135_(cropped).jpg",
+  "arquivo": "nuno-mendes.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Nuno_Mendes_(footballer,_born_2002)"
+ },
+ "Grimaldo": {
+  "file": "Alex_Grimaldo_Argentina_v_Spain_19_July_2026-314.jpg",
+  "arquivo": "grimaldo.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Alejandro_Grimaldo"
+ },
+ "Robertson": {
+  "file": "Andy_Robertson_Scotland_v_Bolivia_6_June_2026-43.jpg",
+  "arquivo": "robertson.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Andrew_Robertson"
+ },
+ "Ferland Mendy": {
+  "file": "Ofrenda_de_la_Liga_y_la_Champions-49-L.Millán_(52109311048)_(Ferland_Mendy).jpg",
+  "arquivo": "ferland-mendy.png",
+  "autor": "Fotografías Archimadrid.es",
+  "lic": "CC BY 2.0",
+  "artigo": "Ferland_Mendy"
+ },
+ "Rodri": {
+  "file": "Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg",
+  "arquivo": "rodri.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Rodri_(footballer,_born_1996)"
+ },
+ "Casemiro": {
+  "file": "Casemiro_Brazil_V_Morocco_13_June_2026-76_(cropped).jpg",
+  "arquivo": "casemiro.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Casemiro"
+ },
+ "Declan Rice": {
+  "file": "Declan_Rice_England_v_Ghana_23_June_2026-150.jpg",
+  "arquivo": "declan-rice.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Declan_Rice"
+ },
+ "Bruno Guimarães": {
+  "file": "Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_(cropped).jpg",
+  "arquivo": "bruno-guimaraes.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Bruno_Guimarães"
+ },
+ "Kimmich": {
+  "file": "Joshua_Kimmich_Ecuador_v_Germany_25_June_2026-149.jpg",
+  "arquivo": "kimmich.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Joshua_Kimmich"
+ },
+ "Tchouaméni": {
+  "file": "Aurelien_Tchouameni_France_v_Senegal_16_June_2026-447_(cropped).jpg",
+  "arquivo": "tchouameni.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Aurélien_Tchouaméni"
+ },
+ "De Bruyne": {
+  "file": "Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+  "arquivo": "de-bruyne.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Kevin_De_Bruyne"
+ },
+ "Modrić": {
+  "file": "Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg",
+  "arquivo": "modric.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Luka_Modrić"
+ },
+ "Pedri": {
+  "file": "Pedri_France_v_Spain_7.24.26-245.jpg",
+  "arquivo": "pedri.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Pedri"
+ },
+ "Bellingham": {
+  "file": "Jude_Bellingham_England_v_Ghana_23_June_2026-061_(cropped).jpg",
+  "arquivo": "bellingham.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Jude_Bellingham"
+ },
+ "Ødegaard": {
+  "file": "Martin_Odegaard_France_v_Norway_26_June_26-014.jpg",
+  "arquivo": "degaard.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Martin_Ødegaard"
+ },
+ "Valverde": {
+  "file": "Federico_Valverde_2021_(cropped).jpg",
+  "arquivo": "valverde.png",
+  "autor": "Real Madrid",
+  "lic": "CC BY 3.0",
+  "artigo": "Federico_Valverde"
+ },
+ "Messi": {
+  "file": "Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+  "arquivo": "messi.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Lionel_Messi"
+ },
+ "Bruno Fernandes": {
+  "file": "Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_(cropped).jpg",
+  "arquivo": "bruno-fernandes.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Bruno_Fernandes"
+ },
+ "Wirtz": {
+  "file": "Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_(cropped).jpg",
+  "arquivo": "wirtz.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Florian_Wirtz"
+ },
+ "Musiala": {
+  "file": "Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_(cropped).jpg",
+  "arquivo": "musiala.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Jamal_Musiala"
+ },
+ "Cole Palmer": {
+  "file": "Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg",
+  "arquivo": "cole-palmer.png",
+  "autor": "The White House",
+  "lic": "Public domain",
+  "artigo": "Cole_Palmer"
+ },
+ "Paquetá": {
+  "file": "Lucas_Paqueta_Brazil_V_Morocco_13_June_2026-134_(cropped).jpg",
+  "arquivo": "paqueta.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Lucas_Paquetá"
+ },
+ "Salah": {
+  "file": "Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_(cropped).jpg",
+  "arquivo": "salah.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Mohamed_Salah"
+ },
+ "Lamine Yamal": {
+  "file": "Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+  "arquivo": "lamine-yamal.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Lamine_Yamal"
+ },
+ "Saka": {
+  "file": "Bukayo_Saka_England_v_Ghana_23_June_2026-057_(cropped).jpg",
+  "arquivo": "saka.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Bukayo_Saka"
+ },
+ "Raphinha": {
+  "file": "Raphinha_Brazil_V_Morocco_13_June_2026-133_(cropped).jpg",
+  "arquivo": "raphinha.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Raphinha"
+ },
+ "Rodrygo": {
+  "file": "Rodrygo_2023_(cropped).jpg",
+  "arquivo": "rodrygo.png",
+  "autor": "Junta de Andalucía",
+  "lic": "CC BY-SA 2.0",
+  "artigo": "Rodrygo"
+ },
+ "Dembélé": {
+  "file": "Ousmane_Dembele_France_v_Senegal_16_June_2026-341_(cropped)_2.jpg",
+  "arquivo": "dembele.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Ousmane_Dembélé"
+ },
+ "Vinícius Jr.": {
+  "file": "Vinícius_Júnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg",
+  "arquivo": "vinicius-jr.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Vinícius_Júnior"
+ },
+ "Neymar": {
+  "file": "Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg",
+  "arquivo": "neymar.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Neymar"
+ },
+ "Kvaratskhelia": {
+  "file": "Kvaratskhelia_asse_psg_2425.png",
+  "arquivo": "kvaratskhelia.png",
+  "autor": "Paté kroute",
+  "lic": "CC0",
+  "artigo": "Khvicha_Kvaratskhelia"
+ },
+ "Rafael Leão": {
+  "file": "Rafael_Leao_Croatia_v_Portugal_2_July_2026-187_(cropped).jpg",
+  "arquivo": "rafael-leao.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Rafael_Leão"
+ },
+ "Luis Díaz": {
+  "file": "FC_RB_Salzburg_gegen_FC_Bayern_München_(2026-01-06_Testspiel)_40_(Luiz_Díaz).jpg",
+  "arquivo": "luis-diaz.png",
+  "autor": "Werner100359",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Luis_Díaz_(footballer,_born_1997)"
+ },
+ "Son": {
+  "file": "BFA_2023_-2_Heung-Min_Son_(cropped).jpg",
+  "arquivo": "son.png",
+  "autor": "Ujishadow",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Son_Heung-min"
+ },
+ "Haaland": {
+  "file": "Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+  "arquivo": "haaland.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Erling_Haaland"
+ },
+ "Harry Kane": {
+  "file": "Harry_Kane_England_v_Ghana_23_June_2026-024_(cropped).jpg",
+  "arquivo": "harry-kane.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Harry_Kane"
+ },
+ "Mbappé": {
+  "file": "Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg",
+  "arquivo": "mbappe.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Kylian_Mbappé"
+ },
+ "Cristiano Ronaldo": {
+  "file": "Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+  "arquivo": "cristiano-ronaldo.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Cristiano_Ronaldo"
+ },
+ "Lewandowski": {
+  "file": "Robert_Lewandowski_NYCFC_v_Chicago_25_July_2026-383.jpg",
+  "arquivo": "lewandowski.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Robert_Lewandowski"
+ },
+ "Lautaro": {
+  "file": "Lautaro_Martinez_Argentina_v_Spain_19_July_2026-049_(cropped).jpg",
+  "arquivo": "lautaro.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Lautaro_Martínez"
+ },
+ "Endrick": {
+  "file": "Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_(Endrick).jpg",
+  "arquivo": "endrick.png",
+  "autor": "YantsImages",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Endrick_(footballer,_born_2006)"
+ },
+ "Estêvão": {
+  "file": "Estevao-Palmeiras-Liverpool-abr24_(cropped).jpg",
+  "arquivo": "estevao.png",
+  "autor": "NullReason",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Estêvão_Willian"
+ },
+ "Martinelli": {
+  "file": "Gabriel_Martinelli_Brazil_V_Morocco_13_June_2026-144.jpg",
+  "arquivo": "martinelli.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Gabriel_Martinelli"
+ },
+ "João Pedro": {
+  "file": "João_Pedro,_2025_FIFA_Club_World_Cup_final_(54654843615).jpg",
+  "arquivo": "joao-pedro.png",
+  "autor": "DHSgov",
+  "lic": "Public domain",
+  "artigo": "João_Pedro_(footballer,_born_2001)"
+ },
+ "Savinho": {
+  "file": "Manchester_City_2025_06_26_Juventus_(cropped).jpg",
+  "arquivo": "savinho.png",
+  "autor": "Equipos de fútbol",
+  "lic": "CC BY 4.0",
+  "artigo": "Savinho"
+ },
+ "Vitor Roque": {
+  "file": "Vitor-roque-palmeiras-internacional-sep2025.jpg",
+  "arquivo": "vitor-roque.png",
+  "autor": "NullReason",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Vitor_Roque"
+ },
+ "Buffon": {
+  "file": "Norway_Italy_-_June_2025_A_44_(Gianluigi_Buffon).jpg",
+  "arquivo": "buffon.png",
+  "autor": "MichaelEmilio",
+  "lic": "CC BY 4.0",
+  "artigo": "Gianluigi_Buffon"
+ },
+ "Casillas": {
+  "file": "Iker-Casillas-SportsTrade-2021-cropped.jpg",
+  "arquivo": "casillas.png",
+  "autor": "Web Summit",
+  "lic": "CC BY 2.0",
+  "artigo": "Iker_Casillas"
+ },
+ "Taffarel": {
+  "file": "Taffarel_2018.png",
+  "arquivo": "taffarel.png",
+  "autor": "Кирилл Венедиктов",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Cláudio_Taffarel"
+ },
+ "Rogério Ceni": {
+  "file": "Rogerio-Ceni-Sao-Paulo-Juventude-jun-2022_(cropped).jpg",
+  "arquivo": "rogerio-ceni.png",
+  "autor": "SOCCER DIGITAL",
+  "lic": "Public domain",
+  "artigo": "Rogério_Ceni"
+ },
+ "Oliver Kahn": {
+  "file": "2022-07-30_Fußball,_Männer,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_München_1DX_3179_by_Stepro.jpg",
+  "arquivo": "oliver-kahn.png",
+  "autor": "Steffen Prößdorf",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Oliver_Kahn"
+ },
+ "Petr Čech": {
+  "file": "Arsenal_players_training_before_2019_UEFA_Europa_League_final_07_(cropped).jpg",
+  "arquivo": "petr-cech.png",
+  "autor": "Amir Hosseini",
+  "lic": "CC BY 4.0",
+  "artigo": "Petr_Čech"
+ },
+ "Cafu": {
+  "file": "Cafu_-_26.02.2026_-_Cerimônia_de_apresentação_das_taças_da_Copa_do_Mundo_de_2026.jpg",
+  "arquivo": "cafu.png",
+  "autor": "Lula Oficial",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Cafu"
+ },
+ "Roberto Carlos": {
+  "file": "LS3_1288_(53332367864)_(cropped).jpg",
+  "arquivo": "roberto-carlos.png",
+  "autor": "Web Summit",
+  "lic": "CC BY 2.0",
+  "artigo": "Roberto_Carlos"
+ },
+ "Marcelo": {
+  "file": "Marcelo_Vieira_in_2022.jpg",
+  "arquivo": "marcelo.png",
+  "autor": "Fotografías Archimadrid.es",
+  "lic": "CC BY 2.0",
+  "artigo": "Marcelo_(footballer,_born_1988)"
+ },
+ "Daniel Alves": {
+  "file": "07_07_2019_Final_da_Copa_América_2019_(48226649586)_(cropped).jpg",
+  "arquivo": "daniel-alves.png",
+  "autor": "Palácio do Planalto from Brasilia, Brasil",
+  "lic": "CC BY 2.0",
+  "artigo": "Dani_Alves"
+ },
+ "Lahm": {
+  "file": "Philipp_Lahm_auf_der_Berlinale_2024,_Ausschnitt.jpg",
+  "arquivo": "lahm.png",
+  "autor": "Elena Ternovaja&nbsp;&nbsp; &nbsp; Alternative names Lumelen",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Philipp_Lahm"
+ },
+ "Zanetti": {
+  "file": "Metalist-Inter_(2).jpg",
+  "arquivo": "zanetti.png",
+  "autor": "Илья Хохлов",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Javier_Zanetti"
+ },
+ "Maldini": {
+  "file": "Paolo_Maldini_AC_Milan_Technical_director_2018.jpg",
+  "arquivo": "maldini.png",
+  "autor": "GOAL TV",
+  "lic": "CC BY 3.0",
+  "artigo": "Paolo_Maldini"
+ },
+ "Puyol": {
+  "file": "Premios_Goya_2020_-_Carles_Pujol.jpg",
+  "arquivo": "puyol.png",
+  "autor": "Pedro J Pacheco",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Carles_Puyol"
+ },
+ "Lúcio": {
+  "file": "Lucio_2019_(cropped).jpg",
+  "arquivo": "lucio.png",
+  "autor": "Palácio do Planalto from Brasilia, Brasil",
+  "lic": "CC BY 2.0",
+  "artigo": "Lúcio"
+ },
+ "Cannavaro": {
+  "file": "Fabio_Cannavaro_2011.jpg",
+  "arquivo": "cannavaro.png",
+  "autor": "Doha Stadium Plus Qatar",
+  "lic": "CC BY 2.0",
+  "artigo": "Fabio_Cannavaro"
+ },
+ "Thiago Silva": {
+  "file": "20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Thiago_Silva_850_1582.jpg",
+  "arquivo": "thiago-silva.png",
+  "autor": "Granada",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Thiago_Silva"
+ },
+ "Beckenbauer": {
+  "file": "Franz_Beckenbauer_(1975).jpg",
+  "arquivo": "beckenbauer.png",
+  "autor": "Panini Group",
+  "lic": "Public domain",
+  "artigo": "Franz_Beckenbauer"
+ },
+ "Iniesta": {
+  "file": "Andrés_Iniesta_Argentina_v_Spain_19_July_2026-034_(cropped).jpg",
+  "arquivo": "iniesta.png",
+  "autor": "Bryan Berlin",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Andrés_Iniesta"
+ },
+ "Pirlo": {
+  "file": "20150616_-_Portugal_-_Italie_-_Genève_-_Andrea_Pirlo_(cropped).jpg",
+  "arquivo": "pirlo.png",
+  "autor": "Clément Bucco-Lechat",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Andrea_Pirlo"
+ },
+ "Gerrard": {
+  "file": "Steven_Gerrard_2018.jpg",
+  "arquivo": "gerrard.png",
+  "autor": "Эдгар Брещанов",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Steven_Gerrard"
+ },
+ "Lampard": {
+  "file": "Frank_Lampard_2019.jpg",
+  "arquivo": "lampard.png",
+  "autor": "Mehdi Bolourian",
+  "lic": "CC BY 4.0",
+  "artigo": "Frank_Lampard"
+ },
+ "Kaká": {
+  "file": "Kaká_visited_Stadium_St._Petersburg.jpg",
+  "arquivo": "kaka.png",
+  "autor": "Евгений Асмолов",
+  "lic": "CC BY-SA 3.0",
+  "artigo": "Kaká"
+ },
+ "Pelé": {
+  "file": "Pele_con_brasil_(cropped).jpg",
+  "arquivo": "pele.png",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain",
+  "artigo": "Pelé"
+ },
+ "Maradona": {
+  "file": "Argentina_celebrando_copa_(cropped).jpg",
+  "arquivo": "maradona.png",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain",
+  "artigo": "Diego_Maradona"
+ },
+ "Zidane": {
+  "file": "Zinedine_Zidane_by_Tasnim_03.jpg",
+  "arquivo": "zidane.png",
+  "autor": "Hadi Abyar",
+  "lic": "CC BY 4.0",
+  "artigo": "Zinedine_Zidane"
+ },
+ "Ronaldinho": {
+  "file": "Ronaldinho_in_2019.jpg",
+  "arquivo": "ronaldinho.png",
+  "autor": "Marcos Corrêa/PR",
+  "lic": "CC BY 2.0",
+  "artigo": "Ronaldinho"
+ },
+ "Cruyff": {
+  "file": "Johan_Cruijff_(1974).jpg",
+  "arquivo": "cruyff.png",
+  "autor": "Rob Mieremet / Anefo",
+  "lic": "CC0",
+  "artigo": "Johan_Cruyff"
+ },
+ "Ronaldo Fenômeno": {
+  "file": "12.12.2025_–_Cerimônia_de_lançamento_do_SBT_News_-_54980664160_(cropped2).jpg",
+  "arquivo": "ronaldo-fenomeno.png",
+  "autor": "Lula Oficial",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Ronaldo_(Brazilian_footballer)"
+ },
+ "Romário": {
+  "file": "Senadores_da_57ª_Legislatura_(52689451805)_(cropped_-_3x4).jpg",
+  "arquivo": "romario.png",
+  "autor": "Agência Senado from Brasilia, Brazil",
+  "lic": "CC BY 2.0",
+  "artigo": "Romário"
+ },
+ "Henry": {
+  "file": "Thierry_Henry_(51649035951)_(cropped).jpg",
+  "arquivo": "henry.png",
+  "autor": "Web Summit",
+  "lic": "CC BY 2.0",
+  "artigo": "Thierry_Henry"
+ },
+ "Ibrahimović": {
+  "file": "Zlatan_Ibrahimović_nyc.jpg",
+  "arquivo": "ibrahimovic.png",
+  "autor": "Colleen Sturtevant",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Zlatan_Ibrahimović"
+ },
+ "Eto'o": {
+  "file": "Sammuel_Eto'o_Fils_02.jpg",
+  "arquivo": "eto-o.png",
+  "autor": "BACHELOR45",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Samuel_Eto'o"
+ },
+ "Rooney": {
+  "file": "Wayne_Rooney_(50121495731)_(cropped).jpg",
+  "arquivo": "rooney.png",
+  "autor": "All-Pro Reels from District of Columbia, USA",
+  "lic": "CC BY-SA 2.0",
+  "artigo": "Wayne_Rooney"
+ },
+ "Maracanã": {
+  "file": "Logo_Maracanã_Rio_de_Janeiro.png",
+  "arquivo": "maracana.png",
+  "autor": "(https://estadiomaracana.com.br/)",
+  "lic": "Public domain",
+  "artigo": "Maracanã_Stadium"
+ },
+ "Camp Nou": {
+  "file": "Camp_Nou_aerial.jpg",
+  "arquivo": "camp-nou.png",
+  "autor": "Oh-Barcelona.com from Barcelona, Spain",
+  "lic": "CC BY 2.0",
+  "artigo": "Camp_Nou"
+ },
+ "Bernabéu": {
+  "file": "Estadio_Santiago_Bernabéu_—_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_(Intercontinental_Sub-20_2026)_—_Récord_de_asistencia_en_un_partido_de_juveniles.jpg",
+  "arquivo": "bernabeu.png",
+  "autor": "Badefa",
+  "lic": "CC0",
+  "artigo": "Santiago_Bernabéu_Stadium"
+ },
+ "Old Trafford": {
+  "file": "2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg",
+  "arquivo": "old-trafford.png",
+  "autor": "Arne Müseler from Salzburg, AT",
+  "lic": "CC BY-SA 2.0",
+  "artigo": "Old_Trafford"
+ },
+ "Allianz Arena": {
+  "file": "Allianz_Arena_logo.svg",
+  "arquivo": "allianz-arena.png",
+  "autor": "",
+  "lic": "Fair use",
+  "artigo": "Allianz_Arena"
+ },
+ "La Bombonera": {
+  "file": "Boca_Juniors_logo18.svg",
+  "arquivo": "la-bombonera.png",
+  "autor": "Estudio Shakespear",
+  "lic": "Public domain",
+  "artigo": "La_Bombonera"
+ },
+ "Urubu": {
+  "file": "Black_vulture_(Coragyps_atratus_brasiliensis)_Peten.jpg",
+  "arquivo": "urubu.png",
+  "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names ",
+  "lic": "CC BY-SA 4.0",
+  "artigo": "Black_vulture"
+ }
+}
