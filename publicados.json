@@ -487,6 +487,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/ingles-1": {
+      "titulo": "QUIZ DE INGLÊS RAPIDINHO! 🇺🇸 Será que você gabarita? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "CPSGdkqcVys",
+        "url": "https://youtu.be/CPSGdkqcVys",
+        "data": "2026-11-12",
+        "origem": "github-actions",
+        "sha256": "ec67909d8db5226704cee467883a4e1b2415821f48e8b966dbcc4f0fb741d0cc",
+        "no_ar_em": "2026-11-13T06:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
