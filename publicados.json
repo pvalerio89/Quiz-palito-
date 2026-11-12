@@ -444,6 +444,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/19-monte-seu-clube": {
+      "youtube": {
+        "status": "publicado",
+        "id": "rM5UmVdt4xs",
+        "url": "https://youtu.be/rM5UmVdt4xs",
+        "data": "2026-11-12",
+        "origem": "github-actions",
+        "sha256": "7ab32691a10f321acd48080fb2cad67ce42b64d25c976b8ddb0f4538129101d7",
+        "no_ar_em": "2026-11-12T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
