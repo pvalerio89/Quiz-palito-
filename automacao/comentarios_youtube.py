@@ -23,7 +23,8 @@ API = "https://www.googleapis.com/youtube/v3"
 PASTA = os.path.join(RAIZ, "comentarios")
 RESPONDIDOS = os.path.join(PASTA, "respondidos.json")
 EXTRAS = os.path.join(PASTA, "videos-extras.txt")
-ESCOPOS = "https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.force-ssl"
+ESCOPOS = ("https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.force-ssl"
+           " https://www.googleapis.com/auth/yt-analytics.readonly")
 REDIRECT = "http://127.0.0.1:8765"
 
 
