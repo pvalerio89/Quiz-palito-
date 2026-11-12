@@ -69,7 +69,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 633,
-   "views": 65,
+   "views": 66,
    "likes": 3,
    "comentarios": 0
   },
@@ -80,7 +80,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 79,
-   "views": 925,
+   "views": 928,
    "likes": 20,
    "comentarios": 0
   },
@@ -104,7 +104,10 @@
    "duracao": 83,
    "views": 865,
    "likes": 19,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 37,
+   "pct_media": 45.76,
+   "inscritos": 1
   },
   {
    "id": "EE9ShTGX9Sc",
@@ -115,7 +118,10 @@
    "duracao": 518,
    "views": 42,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 61,
+   "pct_media": 11.96,
+   "inscritos": 0
   },
   {
    "id": "jIr_cgaqj7g",
@@ -124,9 +130,12 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 74,
-   "views": 1309,
+   "views": 1311,
    "likes": 36,
-   "comentarios": 1
+   "comentarios": 1,
+   "dur_media": 37,
+   "pct_media": 51.28,
+   "inscritos": 8
   },
   {
    "id": "iotE51SoaZY",
@@ -135,9 +144,12 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 676,
-   "views": 86,
+   "views": 82,
    "likes": 2,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 231,
+   "pct_media": 34.24,
+   "inscritos": 0
   },
   {
    "id": "bmG1ZBSVdEw",
@@ -148,7 +160,10 @@
    "duracao": 75,
    "views": 927,
    "likes": 20,
-   "comentarios": 1
+   "comentarios": 1,
+   "dur_media": 40,
+   "pct_media": 53.56000000000001,
+   "inscritos": 3
   },
   {
    "id": "jInQIa_bmXc",
@@ -157,9 +172,12 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 523,
-   "views": 30,
+   "views": 29,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 89,
+   "pct_media": 17.2,
+   "inscritos": 0
   },
   {
    "id": "vFdT0O4_dUk",
@@ -170,7 +188,10 @@
    "duracao": 74,
    "views": 940,
    "likes": 25,
-   "comentarios": 1
+   "comentarios": 1,
+   "dur_media": 40,
+   "pct_media": 54.620000000000005,
+   "inscritos": 3
   },
   {
    "id": "uHskqFbgyNQ",
@@ -179,9 +200,12 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 231,
-   "views": 48,
+   "views": 46,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 73,
+   "pct_media": 32,
+   "inscritos": 1
   },
   {
    "id": "uNeMIzgXpqk",
@@ -192,7 +216,10 @@
    "duracao": 92,
    "views": 1035,
    "likes": 24,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 50,
+   "pct_media": 54.89999999999999,
+   "inscritos": 2
   },
   {
    "id": "keMRIYfyBrA",
@@ -201,9 +228,12 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1235,
-   "views": 385,
+   "views": 384,
    "likes": 3,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 242,
+   "pct_media": 19.62,
+   "inscritos": 0
   },
   {
    "id": "fXWaihJ3bkc",
@@ -214,7 +244,10 @@
    "duracao": 90,
    "views": 1014,
    "likes": 13,
-   "comentarios": 4
+   "comentarios": 4,
+   "dur_media": 38,
+   "pct_media": 43.04,
+   "inscritos": 2
   },
   {
    "id": "hEYGr_g9aLs",
@@ -223,9 +256,12 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1208,
-   "views": 48,
+   "views": 49,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 231,
+   "pct_media": 19.19,
+   "inscritos": 0
   },
   {
    "id": "_RpXAWiE3nA",
@@ -236,7 +272,10 @@
    "duracao": 100,
    "views": 1298,
    "likes": 20,
-   "comentarios": 6
+   "comentarios": 6,
+   "dur_media": 45,
+   "pct_media": 45.97,
+   "inscritos": 2
   },
   {
    "id": "Ce-N3icMHZk",
@@ -247,7 +286,10 @@
    "duracao": 691,
    "views": 105,
    "likes": 3,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 290,
+   "pct_media": 42.03,
+   "inscritos": 0
   },
   {
    "id": "pKpsE98dNyw",
@@ -258,7 +300,10 @@
    "duracao": 95,
    "views": 1233,
    "likes": 21,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 50,
+   "pct_media": 53.26,
+   "inscritos": 4
   },
   {
    "id": "EPc7AoX6Yw8",
@@ -269,7 +314,10 @@
    "duracao": 761,
    "views": 605,
    "likes": 10,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 314,
+   "pct_media": 41.33,
+   "inscritos": 3
   },
   {
    "id": "SZjsj-f28r0",
@@ -280,7 +328,10 @@
    "duracao": 107,
    "views": 1263,
    "likes": 37,
-   "comentarios": 24
+   "comentarios": 24,
+   "dur_media": 59,
+   "pct_media": 55.230000000000004,
+   "inscritos": 9
   },
   {
    "id": "ja33SUJEO9c",
@@ -291,7 +342,10 @@
    "duracao": 743,
    "views": 158,
    "likes": 2,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 215,
+   "pct_media": 29.04,
+   "inscritos": 0
   },
   {
    "id": "qrEwJDnbYZA",
@@ -302,7 +356,10 @@
    "duracao": 87,
    "views": 1311,
    "likes": 33,
-   "comentarios": 4
+   "comentarios": 4,
+   "dur_media": 56,
+   "pct_media": 65.46,
+   "inscritos": 6
   },
   {
    "id": "wxpJen34tis",
@@ -313,7 +370,10 @@
    "duracao": 91,
    "views": 1320,
    "likes": 28,
-   "comentarios": 1
+   "comentarios": 1,
+   "dur_media": 53,
+   "pct_media": 58.63,
+   "inscritos": 6
   },
   {
    "id": "y9B1OhTqz0w",
@@ -324,7 +384,10 @@
    "duracao": 581,
    "views": 133,
    "likes": 2,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 116,
+   "pct_media": 20.12,
+   "inscritos": 1
   },
   {
    "id": "lk_Mx26kdkg",
@@ -335,7 +398,10 @@
    "duracao": 53,
    "views": 1835,
    "likes": 32,
-   "comentarios": 12
+   "comentarios": 12,
+   "dur_media": 31,
+   "pct_media": 59.77,
+   "inscritos": 10
   },
   {
    "id": "Aw_7QnJjBy8",
@@ -344,9 +410,12 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1207,
-   "views": 203,
+   "views": 205,
    "likes": 2,
-   "comentarios": 2
+   "comentarios": 2,
+   "dur_media": 355,
+   "pct_media": 29.45,
+   "inscritos": 2
   },
   {
    "id": "M4DKSfvhr4o",
@@ -357,7 +426,10 @@
    "duracao": 561,
    "views": 21,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 153,
+   "pct_media": 27.310000000000002,
+   "inscritos": 0
   },
   {
    "id": "hO9dj79-Y60",
@@ -368,9 +440,195 @@
    "duracao": 895,
    "views": 132,
    "likes": 3,
-   "comentarios": 3
+   "comentarios": 3,
+   "dur_media": 408,
+   "pct_media": 45.6,
+   "inscritos": 1
   }
  ],
- "diario": [],
- "aviso": "Analytics indisponível (HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"YouTube Analytics API has not been used in project 20121051690). Falta autorizar yt-analytics.readonly."
+ "diario": [
+  [
+   "2026-10-15",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-16",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-17",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-18",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-19",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-20",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-21",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-22",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-23",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-24",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-25",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-26",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-27",
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "2026-10-28",
+   1126,
+   291,
+   7,
+   1
+  ],
+  [
+   "2026-10-29",
+   1584,
+   560,
+   9,
+   0
+  ],
+  [
+   "2026-10-30",
+   2212,
+   1147,
+   13,
+   0
+  ],
+  [
+   "2026-10-31",
+   571,
+   321,
+   6,
+   0
+  ],
+  [
+   "2026-11-01",
+   120,
+   94,
+   2,
+   2
+  ],
+  [
+   "2026-11-02",
+   1079,
+   575,
+   3,
+   1
+  ],
+  [
+   "2026-11-03",
+   360,
+   508,
+   1,
+   0
+  ],
+  [
+   "2026-11-04",
+   1201,
+   768,
+   3,
+   0
+  ],
+  [
+   "2026-11-05",
+   1077,
+   382,
+   5,
+   1
+  ],
+  [
+   "2026-11-06",
+   300,
+   543,
+   2,
+   0
+  ],
+  [
+   "2026-11-07",
+   1437,
+   1868,
+   4,
+   0
+  ],
+  [
+   "2026-11-08",
+   504,
+   828,
+   0,
+   0
+  ],
+  [
+   "2026-11-09",
+   3188,
+   2036,
+   19,
+   3
+  ]
+ ],
+ "aviso": null
 }
