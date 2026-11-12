@@ -784,11 +784,11 @@
   "artigo": "Wayne_Rooney"
  },
  "Maracanã": {
-  "file": "Logo_Maracanã_Rio_de_Janeiro.png",
-  "arquivo": "maracana.png",
-  "autor": "(https://estadiomaracana.com.br/)",
-  "lic": "Public domain",
-  "artigo": "Maracanã_Stadium"
+  "file": "Maracanã_Stadium_in_Rio_de_Janeiro.jpg",
+  "crop": null,
+  "arquivo": "maracana.jpg",
+  "autor": "Arthur Boppré",
+  "lic": "CC BY 2.0"
  },
  "Camp Nou": {
   "file": "Camp_Nou_aerial.jpg",
@@ -812,18 +812,18 @@
   "artigo": "Old_Trafford"
  },
  "Allianz Arena": {
-  "file": "Allianz_Arena_logo.svg",
-  "arquivo": "allianz-arena.png",
-  "autor": "",
-  "lic": "Fair use",
-  "artigo": "Allianz_Arena"
+  "file": "Allianz_Arena_2008-02-09.jpg",
+  "crop": null,
+  "arquivo": "allianz-arena.jpg",
+  "autor": "2015 Michael 2015",
+  "lic": "CC BY-SA 4.0"
  },
  "La Bombonera": {
-  "file": "Boca_Juniors_logo18.svg",
-  "arquivo": "la-bombonera.png",
-  "autor": "Estudio Shakespear",
-  "lic": "Public domain",
-  "artigo": "La_Bombonera"
+  "file": "La_Bombonera.jpg",
+  "crop": null,
+  "arquivo": "la-bombonera.jpg",
+  "autor": "Steven Newton",
+  "lic": "CC BY 2.0"
  },
  "Urubu": {
   "file": "Black_vulture_(Coragyps_atratus_brasiliensis)_Peten.jpg",
@@ -831,5 +831,38 @@
   "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names ",
   "lic": "CC BY-SA 4.0",
   "artigo": "Black_vulture"
+ },
+ "Zico": {
+  "file": "Zico_flamengo_elgrafico.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "arquivo": "zico.jpg",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain"
+ },
+ "Reece James": {
+  "file": "Reece_James.jpg",
+  "crop": [
+   0.5,
+   0.35,
+   1.0
+  ],
+  "arquivo": "reece-james.jpg",
+  "autor": "James Boyes from UK",
+  "lic": "CC BY 2.0"
+ },
+ "Xavi": {
+  "file": "2012_2013_-_06_Xavi_Hernández.jpg",
+  "crop": [
+   0.5,
+   0.35,
+   1.0
+  ],
+  "arquivo": "xavi.jpg",
+  "autor": "Castroquini",
+  "lic": "CC BY-SA 3.0"
  }
 }
