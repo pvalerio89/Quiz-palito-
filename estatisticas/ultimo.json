@@ -69,7 +69,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 633,
-   "views": 66,
+   "views": 65,
    "likes": 3,
    "comentarios": 0
   },
@@ -80,7 +80,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 79,
-   "views": 928,
+   "views": 925,
    "likes": 20,
    "comentarios": 0
   },
@@ -157,7 +157,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 523,
-   "views": 28,
+   "views": 30,
    "likes": 1,
    "comentarios": 0
   },
@@ -179,7 +179,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 231,
-   "views": 49,
+   "views": 48,
    "likes": 1,
    "comentarios": 0
   },
@@ -322,7 +322,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 581,
-   "views": 132,
+   "views": 133,
    "likes": 2,
    "comentarios": 0
   },
@@ -372,5 +372,5 @@
   }
  ],
  "diario": [],
- "aviso": "Analytics indisponível (HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\"). Falta autorizar yt-analytics.readonly."
+ "aviso": "Analytics indisponível (HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"YouTube Analytics API has not been used in project 20121051690). Falta autorizar yt-analytics.readonly."
 }
