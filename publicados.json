@@ -442,7 +442,10 @@
         "no_ar_em": "2026-11-12T06:00:00Z"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7707266160929654792",
+        "data": "2026-11-12",
+        "origem": "github-actions"
       }
     },
     "videos/19-monte-seu-clube": {
