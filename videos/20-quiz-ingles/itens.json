@@ -1,0 +1,912 @@
+[
+ {
+  "n": 1,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "cachorro.jpg",
+  "texto": null,
+  "opcoes": [
+   "Dog",
+   "Cat",
+   "Duck"
+  ],
+  "certa": 0,
+  "fala": "Dog! Cachorro!"
+ },
+ {
+  "n": 2,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "maca.jpg",
+  "texto": null,
+  "opcoes": [
+   "Pear",
+   "Apple",
+   "Lemon"
+  ],
+  "certa": 1,
+  "fala": "Apple! Maçã!"
+ },
+ {
+  "n": 3,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "elefante.jpg",
+  "texto": null,
+  "opcoes": [
+   "Giraffe",
+   "Elephant",
+   "Monkey"
+  ],
+  "certa": 1,
+  "fala": "Elephant!"
+ },
+ {
+  "n": 4,
+  "serie": 5,
+  "pergunta": "QUE COR É ESSA EM INGLÊS?",
+  "foto": "morango.jpg",
+  "texto": null,
+  "opcoes": [
+   "Blue",
+   "Red",
+   "Green"
+  ],
+  "certa": 1,
+  "fala": "Red! Vermelho!"
+ },
+ {
+  "n": 5,
+  "serie": 5,
+  "pergunta": "QUE NÚMERO É ESSE EM INGLÊS?",
+  "foto": "../cartoes/txt-5.png",
+  "texto": "15",
+  "opcoes": [
+   "Fifty",
+   "Fifteen",
+   "Five"
+  ],
+  "certa": 1,
+  "fala": "Fifteen! Quinze!"
+ },
+ {
+  "n": 6,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "cadeira.jpg",
+  "texto": null,
+  "opcoes": [
+   "Table",
+   "Chair",
+   "Bed"
+  ],
+  "certa": 1,
+  "fala": "Chair! Cadeira!"
+ },
+ {
+  "n": 7,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "vaca.jpg",
+  "texto": null,
+  "opcoes": [
+   "Cow",
+   "Horse",
+   "Pig"
+  ],
+  "certa": 0,
+  "fala": "Cow! Vaca!"
+ },
+ {
+  "n": 8,
+  "serie": 5,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-8.png",
+  "texto": "BOOK",
+  "opcoes": [
+   "Caderno",
+   "Livro",
+   "Lápis"
+  ],
+  "certa": 1,
+  "fala": "Book é livro!"
+ },
+ {
+  "n": 9,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "uva.jpg",
+  "texto": null,
+  "opcoes": [
+   "Grape",
+   "Orange",
+   "Cherry"
+  ],
+  "certa": 0,
+  "fala": "Grape! Uva!"
+ },
+ {
+  "n": 10,
+  "serie": 5,
+  "pergunta": "QUE COR É ESSA EM INGLÊS?",
+  "foto": "banana.jpg",
+  "texto": null,
+  "opcoes": [
+   "Purple",
+   "Yellow",
+   "Brown"
+  ],
+  "certa": 1,
+  "fala": "Yellow! Amarelo!"
+ },
+ {
+  "n": 11,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "gato.jpg",
+  "texto": null,
+  "opcoes": [
+   "Cat",
+   "Rabbit",
+   "Mouse"
+  ],
+  "certa": 0,
+  "fala": "Cat! Gato!"
+ },
+ {
+  "n": 12,
+  "serie": 5,
+  "pergunta": "QUE NÚMERO É ESSE EM INGLÊS?",
+  "foto": "../cartoes/txt-12.png",
+  "texto": "8",
+  "opcoes": [
+   "Eight",
+   "Six",
+   "Nine"
+  ],
+  "certa": 0,
+  "fala": "Eight! Oito!"
+ },
+ {
+  "n": 13,
+  "serie": 5,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "leao.jpg",
+  "texto": null,
+  "opcoes": [
+   "Tiger",
+   "Bear",
+   "Lion"
+  ],
+  "certa": 2,
+  "fala": "Lion! Leão!"
+ },
+ {
+  "n": 14,
+  "serie": 6,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-14.png",
+  "texto": "I ___ a student.",
+  "opcoes": [
+   "is",
+   "are",
+   "am"
+  ],
+  "certa": 2,
+  "fala": "I am a student!"
+ },
+ {
+  "n": 15,
+  "serie": 6,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-15.png",
+  "texto": "She ___ my friend.",
+  "opcoes": [
+   "is",
+   "are",
+   "am"
+  ],
+  "certa": 0,
+  "fala": "She is my friend!"
+ },
+ {
+  "n": 16,
+  "serie": 6,
+  "pergunta": "COMO SE DIZ SEGUNDA-FEIRA?",
+  "foto": "../cartoes/txt-16.png",
+  "texto": "SEGUNDA-FEIRA",
+  "opcoes": [
+   "Sunday",
+   "Monday",
+   "Tuesday"
+  ],
+  "certa": 1,
+  "fala": "Monday!"
+ },
+ {
+  "n": 17,
+  "serie": 6,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-17.png",
+  "texto": "SISTER",
+  "opcoes": [
+   "Tia",
+   "Irmã",
+   "Prima"
+  ],
+  "certa": 1,
+  "fala": "Sister é irmã!"
+ },
+ {
+  "n": 18,
+  "serie": 6,
+  "pergunta": "QUE NÚMERO É ESSE?",
+  "foto": "../cartoes/txt-18.png",
+  "texto": "TWENTY",
+  "opcoes": [
+   "12",
+   "2",
+   "20"
+  ],
+  "certa": 2,
+  "fala": "Twenty é vinte!"
+ },
+ {
+  "n": 19,
+  "serie": 6,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-19.png",
+  "texto": "They ___ happy.",
+  "opcoes": [
+   "are",
+   "is",
+   "am"
+  ],
+  "certa": 0,
+  "fala": "They are happy!"
+ },
+ {
+  "n": 20,
+  "serie": 6,
+  "pergunta": "COMO SE DIZ DEZEMBRO?",
+  "foto": "../cartoes/txt-20.png",
+  "texto": "DEZEMBRO",
+  "opcoes": [
+   "November",
+   "October",
+   "December"
+  ],
+  "certa": 2,
+  "fala": "December!"
+ },
+ {
+  "n": 21,
+  "serie": 6,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "onibus.jpg",
+  "texto": null,
+  "opcoes": [
+   "Car",
+   "Train",
+   "Bus"
+  ],
+  "certa": 2,
+  "fala": "Bus! Ônibus!"
+ },
+ {
+  "n": 22,
+  "serie": 6,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-22.png",
+  "texto": "KITCHEN",
+  "opcoes": [
+   "Quarto",
+   "Cozinha",
+   "Banheiro"
+  ],
+  "certa": 1,
+  "fala": "Kitchen é cozinha!"
+ },
+ {
+  "n": 23,
+  "serie": 6,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "abelha.jpg",
+  "texto": null,
+  "opcoes": [
+   "Fly",
+   "Ant",
+   "Bee"
+  ],
+  "certa": 2,
+  "fala": "Bee! Abelha!"
+ },
+ {
+  "n": 24,
+  "serie": 6,
+  "pergunta": "COMO SE DIZ PROFESSOR?",
+  "foto": "../cartoes/txt-24.png",
+  "texto": "PROFESSOR",
+  "opcoes": [
+   "Doctor",
+   "Teacher",
+   "Student"
+  ],
+  "certa": 1,
+  "fala": "Teacher!"
+ },
+ {
+  "n": 25,
+  "serie": 6,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "cavalo.jpg",
+  "texto": null,
+  "opcoes": [
+   "Donkey",
+   "Zebra",
+   "Horse"
+  ],
+  "certa": 2,
+  "fala": "Horse! Cavalo!"
+ },
+ {
+  "n": 26,
+  "serie": 6,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-26.png",
+  "texto": "HAND",
+  "opcoes": [
+   "Pé",
+   "Braço",
+   "Mão"
+  ],
+  "certa": 2,
+  "fala": "Hand é mão!"
+ },
+ {
+  "n": 27,
+  "serie": 7,
+  "pergunta": "QUAL É O PLURAL?",
+  "foto": "../cartoes/txt-27.png",
+  "texto": "CHILD",
+  "opcoes": [
+   "Childs",
+   "Childes",
+   "Children"
+  ],
+  "certa": 2,
+  "fala": "Children! Criança vira children!"
+ },
+ {
+  "n": 28,
+  "serie": 7,
+  "pergunta": "QUAL É O PLURAL?",
+  "foto": "../cartoes/txt-28.png",
+  "texto": "MOUSE",
+  "opcoes": [
+   "Mouses",
+   "Mice",
+   "Mices"
+  ],
+  "certa": 1,
+  "fala": "Mice!"
+ },
+ {
+  "n": 29,
+  "serie": 7,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-29.png",
+  "texto": "He ___ soccer every day.",
+  "opcoes": [
+   "play",
+   "playing",
+   "plays"
+  ],
+  "certa": 2,
+  "fala": "He plays soccer every day!"
+ },
+ {
+  "n": 30,
+  "serie": 7,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-30.png",
+  "texto": "She is ___ a book now.",
+  "opcoes": [
+   "read",
+   "reads",
+   "reading"
+  ],
+  "certa": 2,
+  "fala": "She is reading a book now!"
+ },
+ {
+  "n": 31,
+  "serie": 7,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-31.png",
+  "texto": "There ___ two cats.",
+  "opcoes": [
+   "is",
+   "are",
+   "be"
+  ],
+  "certa": 1,
+  "fala": "There are two cats!"
+ },
+ {
+  "n": 32,
+  "serie": 7,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "guarda-chuva.jpg",
+  "texto": null,
+  "opcoes": [
+   "Raincoat",
+   "Umbrella",
+   "Hat"
+  ],
+  "certa": 1,
+  "fala": "Umbrella! Guarda-chuva!"
+ },
+ {
+  "n": 33,
+  "serie": 7,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-33.png",
+  "texto": "This is ___ house.\n(minha)",
+  "opcoes": [
+   "me",
+   "I",
+   "my"
+  ],
+  "certa": 2,
+  "fala": "This is my house!"
+ },
+ {
+  "n": 34,
+  "serie": 7,
+  "pergunta": "QUAL É O PLURAL?",
+  "foto": "tomate.jpg",
+  "texto": null,
+  "opcoes": [
+   "Tomatos",
+   "Tomaties",
+   "Tomatoes"
+  ],
+  "certa": 2,
+  "fala": "Tomatoes!"
+ },
+ {
+  "n": 35,
+  "serie": 7,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-35.png",
+  "texto": "UNDER",
+  "opcoes": [
+   "Em cima",
+   "Dentro",
+   "Embaixo"
+  ],
+  "certa": 2,
+  "fala": "Under é embaixo!"
+ },
+ {
+  "n": 36,
+  "serie": 7,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "coruja.jpg",
+  "texto": null,
+  "opcoes": [
+   "Owl",
+   "Eagle",
+   "Parrot"
+  ],
+  "certa": 0,
+  "fala": "Owl! Coruja!"
+ },
+ {
+  "n": 37,
+  "serie": 7,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-37.png",
+  "texto": "Can you ___ me?",
+  "opcoes": [
+   "helps",
+   "helping",
+   "help"
+  ],
+  "certa": 2,
+  "fala": "Can you help me?"
+ },
+ {
+  "n": 38,
+  "serie": 7,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "bicicleta.jpg",
+  "texto": null,
+  "opcoes": [
+   "Motorcycle",
+   "Bicycle",
+   "Skateboard"
+  ],
+  "certa": 1,
+  "fala": "Bicycle! Bicicleta!"
+ },
+ {
+  "n": 39,
+  "serie": 7,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-39.png",
+  "texto": "I ___ like coffee.\n(não)",
+  "opcoes": [
+   "doesn't",
+   "not",
+   "don't"
+  ],
+  "certa": 2,
+  "fala": "I don't like coffee!"
+ },
+ {
+  "n": 40,
+  "serie": 8,
+  "pergunta": "QUAL É O PASSADO?",
+  "foto": "../cartoes/txt-40.png",
+  "texto": "GO",
+  "opcoes": [
+   "goed",
+   "gone",
+   "went"
+  ],
+  "certa": 2,
+  "fala": "Went!"
+ },
+ {
+  "n": 41,
+  "serie": 8,
+  "pergunta": "QUAL É O PASSADO?",
+  "foto": "../cartoes/txt-41.png",
+  "texto": "EAT",
+  "opcoes": [
+   "eated",
+   "eaten",
+   "ate"
+  ],
+  "certa": 2,
+  "fala": "Ate!"
+ },
+ {
+  "n": 42,
+  "serie": 8,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-42.png",
+  "texto": "Yesterday I ___ a movie.\n(see)",
+  "opcoes": [
+   "see",
+   "seen",
+   "saw"
+  ],
+  "certa": 2,
+  "fala": "Yesterday I saw a movie!"
+ },
+ {
+  "n": 43,
+  "serie": 8,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-43.png",
+  "texto": "An elephant is ___\nthan a mouse.",
+  "opcoes": [
+   "big",
+   "bigger",
+   "biggest"
+  ],
+  "certa": 1,
+  "fala": "Bigger! Maior!"
+ },
+ {
+  "n": 44,
+  "serie": 8,
+  "pergunta": "O QUE SIGNIFICA NA PORTA?",
+  "foto": "../cartoes/txt-44.png",
+  "texto": "PUSH",
+  "opcoes": [
+   "Puxar",
+   "Empurrar",
+   "Pular"
+  ],
+  "certa": 1,
+  "fala": "Push é empurrar! Puxar é pull!"
+ },
+ {
+  "n": 45,
+  "serie": 8,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-45.png",
+  "texto": "LIBRARY",
+  "opcoes": [
+   "Biblioteca",
+   "Livraria",
+   "Laboratório"
+  ],
+  "certa": 0,
+  "fala": "Library é biblioteca! Pegadinha!"
+ },
+ {
+  "n": 46,
+  "serie": 8,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-46.png",
+  "texto": "PARENTS",
+  "opcoes": [
+   "Parentes",
+   "Pais",
+   "Primos"
+  ],
+  "certa": 1,
+  "fala": "Parents são os pais!"
+ },
+ {
+  "n": 47,
+  "serie": 8,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-47.png",
+  "texto": "Did you ___ your homework?",
+  "opcoes": [
+   "did",
+   "done",
+   "do"
+  ],
+  "certa": 2,
+  "fala": "Did you do your homework?"
+ },
+ {
+  "n": 48,
+  "serie": 8,
+  "pergunta": "QUAL É O PASSADO?",
+  "foto": "../cartoes/txt-48.png",
+  "texto": "BUY",
+  "opcoes": [
+   "bought",
+   "buyed",
+   "brought"
+  ],
+  "certa": 0,
+  "fala": "Bought!"
+ },
+ {
+  "n": 49,
+  "serie": 8,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-49.png",
+  "texto": "PRETEND",
+  "opcoes": [
+   "Pretender",
+   "Fingir",
+   "Prender"
+  ],
+  "certa": 1,
+  "fala": "Pretend é fingir!"
+ },
+ {
+  "n": 50,
+  "serie": 8,
+  "pergunta": "QUAL É O PASSADO?",
+  "foto": "../cartoes/txt-50.png",
+  "texto": "WRITE",
+  "opcoes": [
+   "wrote",
+   "writed",
+   "written"
+  ],
+  "certa": 0,
+  "fala": "Wrote!"
+ },
+ {
+  "n": 51,
+  "serie": 8,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-51.png",
+  "texto": "COLLEGE",
+  "opcoes": [
+   "Faculdade",
+   "Colégio",
+   "Colega"
+  ],
+  "certa": 0,
+  "fala": "College é faculdade!"
+ },
+ {
+  "n": 52,
+  "serie": 8,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-52.png",
+  "texto": "She ___ to school yesterday.",
+  "opcoes": [
+   "walks",
+   "walking",
+   "walked"
+  ],
+  "certa": 2,
+  "fala": "She walked to school yesterday!"
+ },
+ {
+  "n": 53,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-53.png",
+  "texto": "I have ___ here since 2020.\n(live)",
+  "opcoes": [
+   "lived",
+   "living",
+   "live"
+  ],
+  "certa": 0,
+  "fala": "I have lived here since 2020!"
+ },
+ {
+  "n": 54,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-54.png",
+  "texto": "If it rains, I ___ stay home.",
+  "opcoes": [
+   "would",
+   "am",
+   "will"
+  ],
+  "certa": 2,
+  "fala": "If it rains, I will stay home!"
+ },
+ {
+  "n": 55,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-55.png",
+  "texto": "The blue whale is\nthe ___ animal.",
+  "opcoes": [
+   "bigger",
+   "biggest",
+   "most big"
+  ],
+  "certa": 1,
+  "fala": "The biggest! O maior!"
+ },
+ {
+  "n": 56,
+  "serie": 9,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-56.png",
+  "texto": "TURN OFF",
+  "opcoes": [
+   "Desligar",
+   "Ligar",
+   "Virar"
+  ],
+  "certa": 0,
+  "fala": "Turn off é desligar!"
+ },
+ {
+  "n": 57,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-57.png",
+  "texto": "You ___ smoke here.\nIt's forbidden!",
+  "opcoes": [
+   "mustn't",
+   "must",
+   "have to"
+  ],
+  "certa": 0,
+  "fala": "You mustn't smoke here!"
+ },
+ {
+  "n": 58,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-58.png",
+  "texto": "She has never ___ sushi.",
+  "opcoes": [
+   "ate",
+   "eat",
+   "eaten"
+  ],
+  "certa": 2,
+  "fala": "She has never eaten sushi!"
+ },
+ {
+  "n": 59,
+  "serie": 9,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-59.png",
+  "texto": "ALTHOUGH",
+  "opcoes": [
+   "Embora",
+   "Portanto",
+   "Porque"
+  ],
+  "certa": 0,
+  "fala": "Although é embora!"
+ },
+ {
+  "n": 60,
+  "serie": 9,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-60.png",
+  "texto": "FIND OUT",
+  "opcoes": [
+   "Descobrir",
+   "Perder",
+   "Esconder"
+  ],
+  "certa": 0,
+  "fala": "Find out é descobrir!"
+ },
+ {
+  "n": 61,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-61.png",
+  "texto": "The book ___ written\nin 1990.",
+  "opcoes": [
+   "were",
+   "was",
+   "is"
+  ],
+  "certa": 1,
+  "fala": "The book was written in 1990!"
+ },
+ {
+  "n": 62,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-62.png",
+  "texto": "How long ___ you\nstudied English?",
+  "opcoes": [
+   "did",
+   "are",
+   "have"
+  ],
+  "certa": 2,
+  "fala": "How long have you studied English?"
+ },
+ {
+  "n": 63,
+  "serie": 9,
+  "pergunta": "O QUE SIGNIFICA?",
+  "foto": "../cartoes/txt-63.png",
+  "texto": "GIVE UP",
+  "opcoes": [
+   "Desistir",
+   "Levantar",
+   "Presentear"
+  ],
+  "certa": 0,
+  "fala": "Give up é desistir!"
+ },
+ {
+  "n": 64,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-64.png",
+  "texto": "I'm looking forward\nto ___ you.",
+  "opcoes": [
+   "see",
+   "saw",
+   "seeing"
+  ],
+  "certa": 2,
+  "fala": "Looking forward to seeing you!"
+ },
+ {
+  "n": 65,
+  "serie": 9,
+  "pergunta": "COMPLETE A FRASE:",
+  "foto": "../cartoes/txt-65.png",
+  "texto": "I wish I ___ fly.",
+  "opcoes": [
+   "can",
+   "will",
+   "could"
+  ],
+  "certa": 2,
+  "fala": "I wish I could fly!"
+ }
+]
