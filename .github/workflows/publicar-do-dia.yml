@@ -98,6 +98,18 @@ jobs:
       agendar: ${{ needs.escolher.outputs.agendar }}
     secrets: inherit
 
+  # Short vai também para a caixa de entrada do TikTok (rascunho): o Patrick abre a notificação no
+  # celular, cola a legenda (notas da Release do Short) e publica. Roda depois do "fechar", que põe o
+  # link do vídeo longo no tiktok.txt. Se falhar, a execução fica vermelha, mas a fila não vira "erro".
+  enviar_tiktok:
+    needs: [escolher, enviar_short, fechar]
+    if: "!cancelled() && needs.enviar_short.result == 'success'"
+    uses: ./.github/workflows/enviar-tiktok.yml
+    with:
+      pasta: ${{ needs.escolher.outputs.short }}
+      modo: rascunho
+    secrets: inherit
+
   fechar:
     needs: [escolher, gerar_video, gerar_short, enviar_video, enviar_short]
     if: always() && needs.escolher.outputs.id != ''

@@ -37,7 +37,7 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
   **agendados** (o YouTube deixa públicos sozinho na hora; o Short leva o link do longo). Marca `publicado` com `no_ar_em`.
   Assim o atraso do cron do GitHub não muda a hora de ir ao ar. À mão com "Publicar JÁ" marcado, sobe público na hora.
   Se falhar, marca `erro` e a rotina conserta. Sem horário livre nas próximas 24 h ou sem item pronto, não faz nada.
-- **TikTok:** o mp4 do Short fica na Release `video-shorts-<nome>` com a legenda pronta nas notas (postar pelo celular).
+- **TikTok:** o **Publicar do dia** manda cada Short novo sozinho para a caixa de entrada do TikTok (rascunho), logo depois de subir no YouTube. No celular: abra a notificação do TikTok, cole a legenda (notas da Release `video-shorts-<nome>`) e publique.
 - **Parar tudo:** Actions > Publicar do dia > "Disable workflow" (e pausar a tarefa agendada no claude.ai).
 - Ver a fila: `py -3 automacao/fila.py status`.
 
