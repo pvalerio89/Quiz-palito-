@@ -1,0 +1,41 @@
+# Desempenho do canal: inscritos, views, melhores/piores vídeos e Shorts.
+# Grava estatisticas/AAAA-MM-DD.md (e mostra no resumo da execução).
+name: Estatísticas do YouTube
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["claude/**"]
+    paths: ["estatisticas/ler-agora.txt"]
+
+concurrency:
+  group: estatisticas
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  estatisticas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      YT_CLIENT_ID: ${{ vars.YT_CLIENT_ID || secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - name: Ler números do canal
+        run: python automacao/estatisticas_youtube.py
+      - name: Gravar no repositório
+        run: |
+          git add estatisticas/
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Estatísticas do YouTube: $(date +%F)"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
