@@ -1,0 +1,8 @@
+{
+ "Maracanã": {"file": "Maracanã_Stadium_in_Rio_de_Janeiro.jpg"},
+ "Allianz Arena": {"file": "Allianz_Arena_2008-02-09.jpg"},
+ "La Bombonera": {"file": "La_Bombonera.jpg"},
+ "Zico": {"file": "Zico_flamengo_elgrafico.jpg", "crop": [0.5, 0.4, 1.0]},
+ "Reece James": {"file": "Reece_James.jpg", "crop": [0.5, 0.35, 1.0]},
+ "Xavi": {"file": "2012_2013_-_06_Xavi_Hernández.jpg", "crop": [0.5, 0.35, 1.0]}
+}

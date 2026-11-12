@@ -1,0 +1,770 @@
+[
+ {
+  "chave": "cidade",
+  "titulo": "A CIDADE DO SEU CLUBE",
+  "sub": "ONDE ELE VAI NASCER?",
+  "fala": "Primeiro: em que cidade nasce o seu clube?",
+  "opcoes": [
+   {
+    "nome": "Rio de Janeiro",
+    "foto": "cidade-rio-de-janeiro.jpg"
+   },
+   {
+    "nome": "Londres",
+    "foto": "cidade-londres.jpg"
+   },
+   {
+    "nome": "Barcelona",
+    "foto": "cidade-barcelona.jpg"
+   },
+   {
+    "nome": "Paris",
+    "foto": "cidade-paris.jpg"
+   },
+   {
+    "nome": "Roma",
+    "foto": "cidade-roma.jpg"
+   },
+   {
+    "nome": "Nova York",
+    "foto": "cidade-nova-york.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "camisa",
+  "titulo": "A COR DA CAMISA",
+  "sub": "QUAL VAI SER O UNIFORME?",
+  "fala": "Agora a cor da camisa!",
+  "opcoes": [
+   {
+    "nome": "Amarela",
+    "foto": "camisa-amarela.jpg"
+   },
+   {
+    "nome": "Celeste e branca",
+    "foto": "camisa-celeste-e-branca.jpg"
+   },
+   {
+    "nome": "Laranja",
+    "foto": "camisa-laranja.jpg"
+   },
+   {
+    "nome": "Azul",
+    "foto": "camisa-azul.jpg"
+   },
+   {
+    "nome": "Vermelha",
+    "foto": "camisa-vermelha.jpg"
+   },
+   {
+    "nome": "Branca",
+    "foto": "camisa-branca.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "escudo",
+  "titulo": "O ESTILO DO ESCUDO",
+  "sub": "SE INSPIRA EM QUAL?",
+  "fala": "O escudo! Vai se inspirar em qual?",
+  "opcoes": [
+   {
+    "nome": "Tipo Flamengo",
+    "foto": "escudo-tipo-flamengo.jpg"
+   },
+   {
+    "nome": "Tipo Corinthians",
+    "foto": "escudo-tipo-corinthians.jpg"
+   },
+   {
+    "nome": "Tipo Palmeiras",
+    "foto": "escudo-tipo-palmeiras.jpg"
+   },
+   {
+    "nome": "Tipo Real Madrid",
+    "foto": "escudo-tipo-real-madrid.jpg"
+   },
+   {
+    "nome": "Tipo Barcelona",
+    "foto": "escudo-tipo-barcelona.jpg"
+   },
+   {
+    "nome": "Tipo Juventus",
+    "foto": "escudo-tipo-juventus.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "estadio",
+  "titulo": "O ESTÁDIO",
+  "sub": "ONDE O SEU TIME JOGA?",
+  "fala": "Onde o seu time vai jogar?",
+  "opcoes": [
+   {
+    "nome": "Maracanã",
+    "foto": "estadio-maracana.jpg"
+   },
+   {
+    "nome": "Camp Nou",
+    "foto": "estadio-camp-nou.jpg"
+   },
+   {
+    "nome": "Bernabéu",
+    "foto": "estadio-bernabeu.jpg"
+   },
+   {
+    "nome": "Old Trafford",
+    "foto": "estadio-old-trafford.jpg"
+   },
+   {
+    "nome": "Allianz Arena",
+    "foto": "estadio-allianz-arena.jpg"
+   },
+   {
+    "nome": "La Bombonera",
+    "foto": "estadio-la-bombonera.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "mascote",
+  "titulo": "O MASCOTE",
+  "sub": "QUAL BICHO REPRESENTA?",
+  "fala": "E o mascote do clube?",
+  "opcoes": [
+   {
+    "nome": "Urubu",
+    "foto": "mascote-urubu.jpg"
+   },
+   {
+    "nome": "Porco",
+    "foto": "mascote-porco.jpg"
+   },
+   {
+    "nome": "Raposa",
+    "foto": "mascote-raposa.jpg"
+   },
+   {
+    "nome": "Leão",
+    "foto": "mascote-leao.jpg"
+   },
+   {
+    "nome": "Águia",
+    "foto": "mascote-aguia.jpg"
+   },
+   {
+    "nome": "Tigre",
+    "foto": "mascote-tigre.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "tecnico",
+  "titulo": "O TÉCNICO",
+  "sub": "QUEM COMANDA O TIME?",
+  "fala": "Quem vai ser o técnico?",
+  "opcoes": [
+   {
+    "nome": "Pep Guardiola",
+    "foto": "tecnico-pep-guardiola.jpg"
+   },
+   {
+    "nome": "Carlo Ancelotti",
+    "foto": "tecnico-carlo-ancelotti.jpg"
+   },
+   {
+    "nome": "Jürgen Klopp",
+    "foto": "tecnico-jurgen-klopp.jpg"
+   },
+   {
+    "nome": "José Mourinho",
+    "foto": "tecnico-jose-mourinho.jpg"
+   },
+   {
+    "nome": "Abel Ferreira",
+    "foto": "tecnico-abel-ferreira.jpg"
+   },
+   {
+    "nome": "Luis Enrique",
+    "foto": "tecnico-luis-enrique.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "gol",
+  "titulo": "O GOLEIRO",
+  "sub": "QUEM FECHA O GOL?",
+  "fala": "Agora o time titular! O goleiro!",
+  "opcoes": [
+   {
+    "nome": "Alisson",
+    "foto": "gol-alisson.jpg"
+   },
+   {
+    "nome": "Ederson",
+    "foto": "gol-ederson.jpg"
+   },
+   {
+    "nome": "Courtois",
+    "foto": "gol-courtois.jpg"
+   },
+   {
+    "nome": "Neuer",
+    "foto": "gol-neuer.jpg"
+   },
+   {
+    "nome": "Donnarumma",
+    "foto": "gol-donnarumma.jpg"
+   },
+   {
+    "nome": "Dibu Martínez",
+    "foto": "gol-dibu-martinez.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "ld",
+  "titulo": "O LATERAL DIREITO",
+  "sub": "QUEM CORRE PELA DIREITA?",
+  "fala": "Lateral direito!",
+  "opcoes": [
+   {
+    "nome": "Hakimi",
+    "foto": "ld-hakimi.jpg"
+   },
+   {
+    "nome": "Alexander-Arnold",
+    "foto": "ld-alexander-arnold.jpg"
+   },
+   {
+    "nome": "Carvajal",
+    "foto": "ld-carvajal.jpg"
+   },
+   {
+    "nome": "Koundé",
+    "foto": "ld-kounde.jpg"
+   },
+   {
+    "nome": "Reece James",
+    "foto": "ld-reece-james.jpg"
+   },
+   {
+    "nome": "Kyle Walker",
+    "foto": "ld-kyle-walker.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "zag1",
+  "titulo": "O 1º ZAGUEIRO",
+  "sub": "O XERIFE DA DEFESA!",
+  "fala": "O primeiro zagueiro, o xerife!",
+  "opcoes": [
+   {
+    "nome": "Van Dijk",
+    "foto": "zag1-van-dijk.jpg"
+   },
+   {
+    "nome": "Marquinhos",
+    "foto": "zag1-marquinhos.jpg"
+   },
+   {
+    "nome": "Rúben Dias",
+    "foto": "zag1-ruben-dias.jpg"
+   },
+   {
+    "nome": "Rüdiger",
+    "foto": "zag1-rudiger.jpg"
+   },
+   {
+    "nome": "Saliba",
+    "foto": "zag1-saliba.jpg"
+   },
+   {
+    "nome": "Militão",
+    "foto": "zag1-militao.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "zag2",
+  "titulo": "O 2º ZAGUEIRO",
+  "sub": "QUEM FAZ DUPLA COM ELE?",
+  "fala": "Agora a dupla de zaga!",
+  "opcoes": [
+   {
+    "nome": "Gabriel Magalhães",
+    "foto": "zag2-gabriel-magalhaes.jpg"
+   },
+   {
+    "nome": "Gvardiol",
+    "foto": "zag2-gvardiol.jpg"
+   },
+   {
+    "nome": "Ronald Araújo",
+    "foto": "zag2-ronald-araujo.jpg"
+   },
+   {
+    "nome": "Lisandro Martínez",
+    "foto": "zag2-lisandro-martinez.jpg"
+   },
+   {
+    "nome": "Bastoni",
+    "foto": "zag2-bastoni.jpg"
+   },
+   {
+    "nome": "Cubarsí",
+    "foto": "zag2-cubarsi.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "le",
+  "titulo": "O LATERAL ESQUERDO",
+  "sub": "QUEM CORRE PELA ESQUERDA?",
+  "fala": "Lateral esquerdo!",
+  "opcoes": [
+   {
+    "nome": "Alphonso Davies",
+    "foto": "le-alphonso-davies.jpg"
+   },
+   {
+    "nome": "Theo Hernández",
+    "foto": "le-theo-hernandez.jpg"
+   },
+   {
+    "nome": "Nuno Mendes",
+    "foto": "le-nuno-mendes.jpg"
+   },
+   {
+    "nome": "Grimaldo",
+    "foto": "le-grimaldo.jpg"
+   },
+   {
+    "nome": "Robertson",
+    "foto": "le-robertson.jpg"
+   },
+   {
+    "nome": "Ferland Mendy",
+    "foto": "le-ferland-mendy.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "vol",
+  "titulo": "O VOLANTE",
+  "sub": "QUEM PROTEGE A DEFESA?",
+  "fala": "O volante!",
+  "opcoes": [
+   {
+    "nome": "Rodri",
+    "foto": "vol-rodri.jpg"
+   },
+   {
+    "nome": "Casemiro",
+    "foto": "vol-casemiro.jpg"
+   },
+   {
+    "nome": "Declan Rice",
+    "foto": "vol-declan-rice.jpg"
+   },
+   {
+    "nome": "Bruno Guimarães",
+    "foto": "vol-bruno-guimaraes.jpg"
+   },
+   {
+    "nome": "Kimmich",
+    "foto": "vol-kimmich.jpg"
+   },
+   {
+    "nome": "Tchouaméni",
+    "foto": "vol-tchouameni.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "mei",
+  "titulo": "O MEIA",
+  "sub": "QUEM ARMA AS JOGADAS?",
+  "fala": "O meia que arma o jogo!",
+  "opcoes": [
+   {
+    "nome": "De Bruyne",
+    "foto": "mei-de-bruyne.jpg"
+   },
+   {
+    "nome": "Modrić",
+    "foto": "mei-modric.jpg"
+   },
+   {
+    "nome": "Pedri",
+    "foto": "mei-pedri.jpg"
+   },
+   {
+    "nome": "Bellingham",
+    "foto": "mei-bellingham.jpg"
+   },
+   {
+    "nome": "Ødegaard",
+    "foto": "mei-degaard.jpg"
+   },
+   {
+    "nome": "Valverde",
+    "foto": "mei-valverde.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "dez",
+  "titulo": "O CAMISA 10",
+  "sub": "O CRAQUE DO TIME!",
+  "fala": "O camisa dez, o craque!",
+  "opcoes": [
+   {
+    "nome": "Messi",
+    "foto": "dez-messi.jpg"
+   },
+   {
+    "nome": "Bruno Fernandes",
+    "foto": "dez-bruno-fernandes.jpg"
+   },
+   {
+    "nome": "Wirtz",
+    "foto": "dez-wirtz.jpg"
+   },
+   {
+    "nome": "Musiala",
+    "foto": "dez-musiala.jpg"
+   },
+   {
+    "nome": "Cole Palmer",
+    "foto": "dez-cole-palmer.jpg"
+   },
+   {
+    "nome": "Paquetá",
+    "foto": "dez-paqueta.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "pd",
+  "titulo": "O PONTA DIREITA",
+  "sub": "DRIBLE PELA DIREITA!",
+  "fala": "Ponta direita!",
+  "opcoes": [
+   {
+    "nome": "Salah",
+    "foto": "pd-salah.jpg"
+   },
+   {
+    "nome": "Lamine Yamal",
+    "foto": "pd-lamine-yamal.jpg"
+   },
+   {
+    "nome": "Saka",
+    "foto": "pd-saka.jpg"
+   },
+   {
+    "nome": "Raphinha",
+    "foto": "pd-raphinha.jpg"
+   },
+   {
+    "nome": "Rodrygo",
+    "foto": "pd-rodrygo.jpg"
+   },
+   {
+    "nome": "Dembélé",
+    "foto": "pd-dembele.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "pe",
+  "titulo": "O PONTA ESQUERDA",
+  "sub": "DRIBLE PELA ESQUERDA!",
+  "fala": "Ponta esquerda!",
+  "opcoes": [
+   {
+    "nome": "Vinícius Jr.",
+    "foto": "pe-vinicius-jr.jpg"
+   },
+   {
+    "nome": "Neymar",
+    "foto": "pe-neymar.jpg"
+   },
+   {
+    "nome": "Kvaratskhelia",
+    "foto": "pe-kvaratskhelia.jpg"
+   },
+   {
+    "nome": "Rafael Leão",
+    "foto": "pe-rafael-leao.jpg"
+   },
+   {
+    "nome": "Luis Díaz",
+    "foto": "pe-luis-diaz.jpg"
+   },
+   {
+    "nome": "Son",
+    "foto": "pe-son.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "ca",
+  "titulo": "O CENTROAVANTE",
+  "sub": "QUEM FAZ OS GOLS?",
+  "fala": "E o centroavante, o homem gol!",
+  "opcoes": [
+   {
+    "nome": "Haaland",
+    "foto": "ca-haaland.jpg"
+   },
+   {
+    "nome": "Harry Kane",
+    "foto": "ca-harry-kane.jpg"
+   },
+   {
+    "nome": "Mbappé",
+    "foto": "ca-mbappe.jpg"
+   },
+   {
+    "nome": "Cristiano Ronaldo",
+    "foto": "ca-cristiano-ronaldo.jpg"
+   },
+   {
+    "nome": "Lewandowski",
+    "foto": "ca-lewandowski.jpg"
+   },
+   {
+    "nome": "Lautaro",
+    "foto": "ca-lautaro.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "joia",
+  "titulo": "A JOIA DA BASE",
+  "sub": "UM BRASILEIRO PROMESSA!",
+  "fala": "Agora o banco! Primeiro, uma joia brasileira!",
+  "opcoes": [
+   {
+    "nome": "Endrick",
+    "foto": "joia-endrick.jpg"
+   },
+   {
+    "nome": "Estêvão",
+    "foto": "joia-estevao.jpg"
+   },
+   {
+    "nome": "Martinelli",
+    "foto": "joia-martinelli.jpg"
+   },
+   {
+    "nome": "João Pedro",
+    "foto": "joia-joao-pedro.jpg"
+   },
+   {
+    "nome": "Savinho",
+    "foto": "joia-savinho.jpg"
+   },
+   {
+    "nome": "Vitor Roque",
+    "foto": "joia-vitor-roque.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "lgol",
+  "titulo": "GOLEIRO LENDA",
+  "sub": "PARA O BANCO DE LENDAS!",
+  "fala": "Um goleiro lenda!",
+  "opcoes": [
+   {
+    "nome": "Buffon",
+    "foto": "lgol-buffon.jpg"
+   },
+   {
+    "nome": "Casillas",
+    "foto": "lgol-casillas.jpg"
+   },
+   {
+    "nome": "Taffarel",
+    "foto": "lgol-taffarel.jpg"
+   },
+   {
+    "nome": "Rogério Ceni",
+    "foto": "lgol-rogerio-ceni.jpg"
+   },
+   {
+    "nome": "Oliver Kahn",
+    "foto": "lgol-oliver-kahn.jpg"
+   },
+   {
+    "nome": "Petr Čech",
+    "foto": "lgol-petr-cech.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "llat",
+  "titulo": "LATERAL LENDA",
+  "sub": "PARA O BANCO DE LENDAS!",
+  "fala": "Um lateral lenda!",
+  "opcoes": [
+   {
+    "nome": "Cafu",
+    "foto": "llat-cafu.jpg"
+   },
+   {
+    "nome": "Roberto Carlos",
+    "foto": "llat-roberto-carlos.jpg"
+   },
+   {
+    "nome": "Marcelo",
+    "foto": "llat-marcelo.jpg"
+   },
+   {
+    "nome": "Daniel Alves",
+    "foto": "llat-daniel-alves.jpg"
+   },
+   {
+    "nome": "Lahm",
+    "foto": "llat-lahm.jpg"
+   },
+   {
+    "nome": "Zanetti",
+    "foto": "llat-zanetti.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "lzag",
+  "titulo": "ZAGUEIRO LENDA",
+  "sub": "PARA O BANCO DE LENDAS!",
+  "fala": "Um zagueiro lenda!",
+  "opcoes": [
+   {
+    "nome": "Maldini",
+    "foto": "lzag-maldini.jpg"
+   },
+   {
+    "nome": "Puyol",
+    "foto": "lzag-puyol.jpg"
+   },
+   {
+    "nome": "Lúcio",
+    "foto": "lzag-lucio.jpg"
+   },
+   {
+    "nome": "Cannavaro",
+    "foto": "lzag-cannavaro.jpg"
+   },
+   {
+    "nome": "Thiago Silva",
+    "foto": "lzag-thiago-silva.jpg"
+   },
+   {
+    "nome": "Beckenbauer",
+    "foto": "lzag-beckenbauer.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "lmei",
+  "titulo": "MEIO-CAMPO LENDA",
+  "sub": "PARA O BANCO DE LENDAS!",
+  "fala": "Um meio-campo lenda!",
+  "opcoes": [
+   {
+    "nome": "Xavi",
+    "foto": "lmei-xavi.jpg"
+   },
+   {
+    "nome": "Iniesta",
+    "foto": "lmei-iniesta.jpg"
+   },
+   {
+    "nome": "Pirlo",
+    "foto": "lmei-pirlo.jpg"
+   },
+   {
+    "nome": "Gerrard",
+    "foto": "lmei-gerrard.jpg"
+   },
+   {
+    "nome": "Lampard",
+    "foto": "lmei-lampard.jpg"
+   },
+   {
+    "nome": "Kaká",
+    "foto": "lmei-kaka.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "ldez",
+  "titulo": "CAMISA 10 LENDA",
+  "sub": "PARA O BANCO DE LENDAS!",
+  "fala": "Um camisa dez lendário!",
+  "opcoes": [
+   {
+    "nome": "Pelé",
+    "foto": "ldez-pele.jpg"
+   },
+   {
+    "nome": "Maradona",
+    "foto": "ldez-maradona.jpg"
+   },
+   {
+    "nome": "Zico",
+    "foto": "ldez-zico.jpg"
+   },
+   {
+    "nome": "Zidane",
+    "foto": "ldez-zidane.jpg"
+   },
+   {
+    "nome": "Ronaldinho",
+    "foto": "ldez-ronaldinho.jpg"
+   },
+   {
+    "nome": "Cruyff",
+    "foto": "ldez-cruyff.jpg"
+   }
+  ]
+ },
+ {
+  "chave": "lca",
+  "titulo": "ATACANTE LENDA",
+  "sub": "O ÚLTIMO DO BANCO!",
+  "fala": "E o último: um atacante lenda!",
+  "opcoes": [
+   {
+    "nome": "Ronaldo Fenômeno",
+    "foto": "lca-ronaldo-fenomeno.jpg"
+   },
+   {
+    "nome": "Romário",
+    "foto": "lca-romario.jpg"
+   },
+   {
+    "nome": "Henry",
+    "foto": "lca-henry.jpg"
+   },
+   {
+    "nome": "Ibrahimović",
+    "foto": "lca-ibrahimovic.jpg"
+   },
+   {
+    "nome": "Eto'o",
+    "foto": "lca-eto-o.jpg"
+   },
+   {
+    "nome": "Rooney",
+    "foto": "lca-rooney.jpg"
+   }
+  ]
+ }
+]
