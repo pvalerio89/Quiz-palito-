@@ -471,7 +471,10 @@
         "no_ar_em": "2026-11-12T21:00:00Z"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7707264483760883730",
+        "data": "2026-11-12",
+        "origem": "github-actions"
       }
     },
     "videos/20-quiz-ingles": {
