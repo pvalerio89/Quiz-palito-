@@ -43,9 +43,18 @@ def cartoes():
         linhas = r["texto"].split("\n")
         dica = linhas.pop() if len(linhas) > 1 and linhas[-1].startswith("(") else None
         curto = len(linhas) == 1 and len(linhas[0]) <= 14
-        size = 200 if curto and len(linhas[0]) <= 6 else (130 if curto else 78)
+        size = 200 if curto and len(linhas[0]) <= 6 else (130 if curto else 88)
         fo = b.font(b.F_BLACK, size)
-        while max(d.textlength(l, font=fo) for l in linhas) > L - 70 and fo.size > 40:
+        if not curto:   # frase: quebra em linhas para a letra ficar grande
+            palavras, linhas, cur = " ".join(linhas).split(), [], ""
+            for p in palavras:
+                if cur and d.textlength(cur + " " + p.replace("___", "____"), font=fo) > L - 90:
+                    linhas.append(cur)
+                    cur = p
+                else:
+                    cur = (cur + " " + p).strip()
+            linhas.append(cur)
+        while max(d.textlength(l.replace("___", "____"), font=fo) for l in linhas) > L - 70 and fo.size > 40:
             fo = b.font(b.F_BLACK, fo.size - 4)
         alt = fo.size * 1.25
         y = L / 2 - alt * (len(linhas) - 1) / 2 - (30 if dica else 0)
@@ -161,7 +170,7 @@ INTRO_FOTOS = ["big-ben.jpg", "estatua-da-liberdade.jpg", "ponte-golden-gate.jpg
 
 
 def intro_frames(d):
-    return op.intro_rapida("QUIZ DE INGLÊS", "DO 5º AO 9º ANO!", d, fotos=INTRO_FOTOS)
+    return op.intro_rapida("QUIZ DE INGLÊS", "5º AO 9º ANO!", d, fotos=INTRO_FOTOS)
 
 
 def previa():
