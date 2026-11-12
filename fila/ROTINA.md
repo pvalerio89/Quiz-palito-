@@ -40,9 +40,28 @@ São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** 
      longo; `CHAMADA` + "VALENDO!" no Short). Exemplos: `videos/16-alfabeto-times`, `shorts/times-1`.
      Placar na tela: bolinhas "CONTA SEUS PONTOS!"/"PONTOS:" + selo "+1 SE ACERTOU!" em cada resposta;
      no fim, "__ / N" e "PAUSA E COMENTA SUA NOTA!". Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
+   - **O QUE SEGURA O PÚBLICO (Analytics do canal, 2026-11-12 — vale mais que o resto desta lista; detalhes em
+     `estatisticas/analise-2026-11-12.md`):**
+     - **Longo: ritmo de ~18 a 25 s por pergunta, com a PERGUNTA FALADA.** Os 3 melhores (Países sem vogais 46%,
+       Estados 42%, Quiz do Brasil 41% assistido) falam a pergunta (no Brasil também as alternativas), dão 6 a 10 s
+       de contagem e a resposta vem com uma reação curta ("É o Japão! Começou bem?"). Os "metralhadora" de 3 a 4 s
+       com 60 a 100 itens (Tudo amarelo 12%, Fruta pela foto 17%, Logo 19%, Bandeiras 195 29%) perdem o público.
+       No `opcoes.py`: gere `q{n}` falado em TODA pergunta ("Pergunta cinco! Qual é a capital da Bahia?"; as
+       alternativas faladas quando forem curtas), `COUNT` = 7 s e a fala da resposta com reação/curiosidade de
+       1 frase (sem "explicação/fonte" longa).
+     - **Longo: 10 a 13 minutos**, uns **30 a 40 perguntas** (não "o máximo que couber"). Os de 20 min caíram para
+       10–19% no fim. Continua valendo: nunca abaixo de 8:10.
+     - **Temas que seguram:** geografia, Brasil, matéria de escola (português, matemática, inglês), bandeiras,
+       futebol com alternativas. Evitar tema "solto" (tudo de uma cor, logos, frutas em 3 s, conhecimentos gerais
+       muito longos).
+     - **Primeiro minuto:** todo longo perde 25–50% nos primeiros 5%. A 1ª pergunta tem que ser fácil e
+       aparecer já (intro rapidinha), e a fala do gancho diz quantas perguntas são e que fica difícil no fim.
+     - **Short: 45 a 60 s, 5 ou 6 perguntas**, contagem 3 a 5 s, pergunta falada (já é assim). O mais curto
+       (Bandeiras, 53 s) segurou mais. **Fala final de no máximo ~2 s** ("Comenta sua nota!"): hoje quase todos
+       perdem 30–40 pontos no último quarto e terminam com 4–15%, por causa da tela final longa.
+       1ª pergunta fácil (Estados, Logos e Times perderam ~25% logo nos primeiros 10%).
    - **Vídeo longo com MAIS DE 8 MINUTOS** (regra do Patrick, 2026-11-09: a partir de 8 min o YouTube deixa pôr
-     anúncios no meio). Mire em **8:30 a 10 min** e coloque **o máximo de perguntas que couber** (não enrole com
-     telas paradas). Depois de montar, confira a duração (`tempos.json` → `final` + fim ≥ 500 s, ou `ffprobe`); se
+     anúncios no meio). Mire em **10 a 13 min** com **30 a 40 perguntas** no ritmo acima (não enrole com telas paradas). Depois de montar, confira a duração (`tempos.json` → `final` + fim ≥ 500 s, ou `ffprobe`); se
      ficar abaixo de 8:10, acrescente perguntas e monte de novo. Placar a cada 10 perguntas.
    - **Imagens reais quando o tema for de coisas reais** (frutas, legumes, animais, comidas, lugares, objetos,
      monumentos...): fotos de verdade, nunca emoji. Use `automacao/fotos_wiki.py` (Wikimedia Commons pelo artigo
@@ -51,6 +70,11 @@ São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** 
      prancha de candidatas e escolha foto nítida, com o item inteiro e fácil de reconhecer. Créditos (autor +
      licença) só numa **tela curta no fim do vídeo** (modelo: `videos/12-fruta-fotos-reais`), nunca na descrição nem em comentário. Emoji/ícone só para
      temas abstratos (palavras, cores, sentimentos) ou bandeiras/logos (bandeiras SVG, simple-icons CC0).
+   - Item sem `referencia` (tema próprio): produza direto pelo `tema`/`obs`, seguindo "O QUE SEGURA O PÚBLICO".
+   - **Miniatura pelo Google Flow (Patrick, 2026-11-12):** além da miniatura por código (reserva), grave em
+     `youtube/prompt-flow.txt` um prompt pronto para o Google Flow (Palito, boneco de palito, enorme em pânico;
+     título grande; elementos do tema gigantes; fundo colorido com raios; faixa "VOCÊ CONSEGUE?") e mande esse
+     prompt na mensagem final para o Patrick gerar e devolver a imagem.
    - Vídeo longo com kit completo em `youtube/`: título, descrição, tags e **miniatura** (título emocional grande,
      elementos recortados gigantes, **fundo colorido com raios**, Palito enorme em pânico, faixa "VOCÊ CONSEGUE?").
    - Short 9:16 com movimento: **copie o modelo `shorts/modelo/`** (sem abertura, placar, 3 opções), 6 perguntas do mesmo tema. Use as mesmas fotos reais do vídeo longo

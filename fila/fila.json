@@ -201,6 +201,41 @@
         "video": "https://youtu.be/-_mZQhLOJAI",
         "short": "https://youtu.be/CPSGdkqcVys"
       }
+    },
+    {
+      "id": "2026-11-12-capitais-brasil",
+      "referencia": "",
+      "tema": "Capitais do Brasil e do mundo (pergunta escrita + foto real da cidade, 3 alternativas; diferente do vídeo 07, que é pelo mapa)",
+      "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md.",
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-12-pais-pelo-mapa",
+      "referencia": "",
+      "tema": "Adivinhe o PAÍS pelo contorno do mapa (fácil→difícil)",
+      "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md.",
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-12-bandeiras-estados",
+      "referencia": "",
+      "tema": "Bandeiras dos 27 estados do Brasil (3 alternativas)",
+      "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md.",
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-12-matematica-escola",
+      "referencia": "",
+      "tema": "Quiz de matemática do 6º ao 9º ano (contas, frações, geometria)",
+      "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md.",
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-12-monumentos-mundo",
+      "referencia": "",
+      "tema": "Adivinhe o país pelo monumento (fotos reais)",
+      "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md.",
+      "status": "aguardando"
     }
   ]
 }
