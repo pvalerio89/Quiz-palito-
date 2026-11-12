@@ -354,7 +354,10 @@
         "sha256": "574d93ba2a205c78be240ec24846a5f8cbaae3500ed89ae67eb0da37b62ab3e8"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7707266605863946260",
+        "data": "2026-11-12",
+        "origem": "github-actions"
       }
     },
     "videos/16-alfabeto-times": {
