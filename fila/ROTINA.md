@@ -73,8 +73,8 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
    - Item sem `referencia` (tema próprio): produza direto pelo `tema`/`obs`, seguindo "O QUE SEGURA O PÚBLICO".
    - **Miniatura pelo Google Flow (Patrick, 2026-11-12):** além da miniatura por código (reserva), grave em
      `youtube/prompt-flow.txt` um prompt pronto para o Google Flow (Palito, boneco de palito, enorme em pânico;
-     título grande; elementos do tema gigantes; fundo colorido com raios; faixa "VOCÊ CONSEGUE?") e mande esse
-     prompt na mensagem final para o Patrick gerar e devolver a imagem.
+     título grande; elementos do tema gigantes; fundo colorido com raios; faixa "VOCÊ CONSEGUE?"). Não precisa
+     mandar ao Patrick: a rotina de hora em hora (`fila/MINIATURAS-FLOW.md`) gera no Flow assim que o PC ligar e troca.
    - Vídeo longo com kit completo em `youtube/`: título, descrição, tags e **miniatura** (título emocional grande,
      elementos recortados gigantes, **fundo colorido com raios**, Palito enorme em pânico, faixa "VOCÊ CONSEGUE?").
    - Short 9:16 com movimento: **copie o modelo `shorts/modelo/`** (sem abertura, placar, 3 opções), 6 perguntas do mesmo tema. Use as mesmas fotos reais do vídeo longo
