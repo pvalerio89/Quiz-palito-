@@ -234,10 +234,17 @@
       "referencia": "",
       "tema": "Adivinhe o PAÍS pelo contorno do mapa (fácil→difícil)",
       "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md. | FEITO (2026-11-13): 36 perguntas, contorno do país (Natural Earth, domínio público), estilo mais humano (dica, pegadinha, suspense, você sabia?, curtida, última pergunta), ~12,5 min. Short mapa-1: 6 perguntas.",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/23-pais-pelo-mapa",
       "short": "shorts/mapa-1",
-      "titulo": "ADIVINHE O PAÍS PELO MAPA 🗺️ 36 Países do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito"
+      "titulo": "ADIVINHE O PAÍS PELO MAPA 🗺️ 36 Países do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito",
+      "publicado_em": "2026-11-13",
+      "no_ar_em": "2026-11-14T20:30:00Z",
+      "no_ar_brasilia": "14/11 17h30",
+      "links": {
+        "video": "https://youtu.be/elyYbkuLwlg",
+        "short": "https://youtu.be/OaceklMaaA4"
+      }
     },
     {
       "id": "2026-11-12-bandeiras-estados",
