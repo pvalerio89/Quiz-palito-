@@ -528,6 +528,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/jogador-1": {
+      "titulo": "ADIVINHE O JOGADOR PELA FOTO! ⚽ Valendo! Quantas você acerta? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "jBv0WL4e1NU",
+        "url": "https://youtu.be/jBv0WL4e1NU",
+        "data": "2026-11-13",
+        "origem": "github-actions",
+        "sha256": "4d0f7e5f2da3135b1ea6d7dad543514dc7ad876607278c56269e892e1ef7dde1",
+        "no_ar_em": "2026-11-13T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
