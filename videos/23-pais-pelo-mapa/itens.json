@@ -1,0 +1,533 @@
+[
+ {
+  "n": 1,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "brasil.jpg",
+  "opcoes": [
+   "Brasil",
+   "Argentina",
+   "Colômbia"
+  ],
+  "certa": 0,
+  "fala_q": "Pra aquecer, essa é de graça! Que país é esse? Brasil, Argentina ou Colômbia?",
+  "fala_r": "Brasil! Esse você conhece de olho fechado!",
+  "count": 4.0,
+  "sabia": "O Brasil é o 5º maior país do mundo."
+ },
+ {
+  "n": 2,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "italia.jpg",
+  "opcoes": [
+   "Itália",
+   "Grécia",
+   "Croácia"
+  ],
+  "certa": 0,
+  "fala_q": "Agora olha essa bota! Que país é esse? Itália, Grécia ou Croácia?",
+  "fala_r": "Itália! A famosa bota da Europa!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "australia.jpg",
+  "opcoes": [
+   "Austrália",
+   "Nova Zelândia",
+   "Madagascar"
+  ],
+  "certa": 0,
+  "fala_q": "Esse aqui é um país inteiro e também um continente! Austrália, Nova Zelândia ou Madagascar?",
+  "fala_r": "Austrália! Terra dos cangurus!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "chile.jpg",
+  "opcoes": [
+   "Peru",
+   "Equador",
+   "Chile"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra América do Sul. Esse fininho aqui, qual é? Peru, Equador ou Chile?",
+  "fala_r": "Chile! O país mais comprido e fininho do mundo!",
+  "count": 7.0,
+  "sabia": "O Chile tem mais de 4 mil km de norte a sul."
+ },
+ {
+  "n": 5,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "estados-unidos.jpg",
+  "opcoes": [
+   "Canadá",
+   "Estados Unidos",
+   "México"
+  ],
+  "certa": 1,
+  "fala_q": "Esse aparece em todo filme. Que país é esse? Canadá, Estados Unidos ou México?",
+  "fala_r": "Estados Unidos! Sem o Alasca e o Havaí, pra ficar justo!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "argentina.jpg",
+  "opcoes": [
+   "Argentina",
+   "Chile",
+   "Paraguai"
+  ],
+  "certa": 0,
+  "fala_q": "Vizinho nosso, hein! Qual é esse? Argentina, Chile ou Paraguai?",
+  "fala_r": "Argentina! O rival do futebol!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "japao.jpg",
+  "opcoes": [
+   "Coreia do Sul",
+   "Japão",
+   "Filipinas"
+  ],
+  "certa": 1,
+  "fala_q": "Agora uma da Ásia. Um monte de ilhas em fila... que país é esse? Coreia do Sul, Japão ou Filipinas?",
+  "fala_r": "Japão! A terra do sol nascente!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "india.jpg",
+  "opcoes": [
+   "Paquistão",
+   "Bangladesh",
+   "Índia"
+  ],
+  "certa": 2,
+  "fala_q": "Esse tem formato de triângulo pra baixo. Qual país é esse? Paquistão, Bangladesh ou Índia?",
+  "fala_r": "Índia! O país com mais gente no mundo!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "mexico.jpg",
+  "opcoes": [
+   "Guatemala",
+   "México",
+   "Colômbia"
+  ],
+  "certa": 1,
+  "fala_q": "Olha esse rabinho lá embaixo! Que país é esse? Guatemala, México ou Colômbia?",
+  "fala_r": "México! Tacos e mariachis!",
+  "count": 7.0,
+  "fala_d": "Dica: fica colado nos Estados Unidos!",
+  "dica_txt": "FICA COLADO NOS ESTADOS UNIDOS"
+ },
+ {
+  "n": 10,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "reino-unido.jpg",
+  "opcoes": [
+   "Irlanda",
+   "Reino Unido",
+   "Islândia"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa tem pegadinha! Que país é esse? Irlanda, Reino Unido ou Islândia?",
+  "fala_r": "Reino Unido! A ilha do lado, que fica de fora, é a Irlanda!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 11,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "franca.jpg",
+  "opcoes": [
+   "Bélgica",
+   "Alemanha",
+   "França"
+  ],
+  "certa": 2,
+  "fala_q": "Esse aqui parece um hexágono. Qual país é? Bélgica, Alemanha ou França?",
+  "fala_r": "França! Os franceses chamam o país de hexágono mesmo!",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "espanha.jpg",
+  "opcoes": [
+   "Portugal",
+   "Espanha",
+   "França"
+  ],
+  "certa": 1,
+  "fala_q": "Agora o vizinho de Portugal. Que país é esse? Portugal, Espanha ou França?",
+  "fala_r": "Espanha! Ele fica com quase toda a península!",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "china.jpg",
+  "opcoes": [
+   "China",
+   "Mongólia",
+   "Rússia"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é gigante e parece uma galinha! Que país é esse? China, Mongólia ou Rússia?",
+  "fala_r": "China! Repara que parece mesmo uma galinha!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "africa-do-sul.jpg",
+  "opcoes": [
+   "Namíbia",
+   "Moçambique",
+   "África do Sul"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra África. Esse fica lá na pontinha. Qual é? Namíbia, Moçambique ou África do Sul?",
+  "fala_r": "África do Sul! Lá teve a Copa de 2010!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "canada.jpg",
+  "opcoes": [
+   "Rússia",
+   "Canadá",
+   "Estados Unidos"
+  ],
+  "certa": 1,
+  "fala_q": "Esse é o segundo maior país do mundo. Qual é? Rússia, Canadá ou Estados Unidos?",
+  "fala_r": "Canadá! Cheio de ilhas lá no norte gelado!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "portugal.jpg",
+  "opcoes": [
+   "Portugal",
+   "Espanha",
+   "Uruguai"
+  ],
+  "certa": 0,
+  "fala_q": "Esse aqui é um retangulozinho na beira do mar. Que país é esse? Portugal, Espanha ou Uruguai?",
+  "fala_r": "Portugal! De onde veio a nossa língua!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "egito.jpg",
+  "opcoes": [
+   "Líbia",
+   "Sudão",
+   "Egito"
+  ],
+  "certa": 2,
+  "fala_q": "Esse aqui é quase um quadrado. Que país é esse? Líbia, Sudão ou Egito?",
+  "fala_r": "Egito! A terra das pirâmides!",
+  "count": 7.0,
+  "fala_d": "Dica: lá tem as pirâmides!",
+  "dica_txt": "LÁ TEM AS PIRÂMIDES"
+ },
+ {
+  "n": 18,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "russia.jpg",
+  "opcoes": [
+   "Rússia",
+   "Canadá",
+   "Cazaquistão"
+  ],
+  "certa": 0,
+  "fala_q": "Esse aqui é o maior de todos. Qual é? Rússia, Canadá ou Cazaquistão?",
+  "fala_r": "Rússia! O maior país do planeta!",
+  "count": 7.0,
+  "sabia": "A Rússia tem 11 fusos horários diferentes."
+ },
+ {
+  "n": 19,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "madagascar.jpg",
+  "opcoes": [
+   "Sri Lanka",
+   "Madagascar",
+   "Cuba"
+  ],
+  "certa": 1,
+  "fala_q": "Uma ilha enorme perto da África. Que país é esse? Sri Lanka, Madagascar ou Cuba?",
+  "fala_r": "Madagascar! Igual o filme!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "uruguai.jpg",
+  "opcoes": [
+   "Paraguai",
+   "Bolívia",
+   "Uruguai"
+  ],
+  "certa": 2,
+  "fala_q": "Essa aqui derruba muita gente! Vizinho do Rio Grande do Sul. Paraguai, Bolívia ou Uruguai?",
+  "fala_r": "Uruguai! Quem chutou Paraguai caiu!",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 21,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "grecia.jpg",
+  "opcoes": [
+   "Turquia",
+   "Croácia",
+   "Grécia"
+  ],
+  "certa": 2,
+  "fala_q": "Esse tem um montão de ilhas. Que país é esse? Turquia, Croácia ou Grécia?",
+  "fala_r": "Grécia! São mais de seis mil ilhas!",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "cuba.jpg",
+  "opcoes": [
+   "Jamaica",
+   "Cuba",
+   "República Dominicana"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pro Caribe. Que ilha é essa? Jamaica, Cuba ou República Dominicana?",
+  "fala_r": "Cuba! A maior ilha do Caribe!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Havana!",
+  "dica_txt": "A CAPITAL É HAVANA"
+ },
+ {
+  "n": 23,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "nova-zelandia.jpg",
+  "opcoes": [
+   "Nova Zelândia",
+   "Filipinas",
+   "Islândia"
+  ],
+  "certa": 0,
+  "fala_q": "Duas ilhas compridas lá no fim do mundo. Qual é? Nova Zelândia, Filipinas ou Islândia?",
+  "fala_r": "Nova Zelândia! Vizinha da Austrália!",
+  "count": 7.0,
+  "sabia": "Na Nova Zelândia tem mais ovelhas do que gente."
+ },
+ {
+  "n": 24,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "alemanha.jpg",
+  "opcoes": [
+   "Polônia",
+   "Áustria",
+   "Alemanha"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma do coração da Europa. Que país é esse? Polônia, Áustria ou Alemanha?",
+  "fala_r": "Alemanha! A do sete a um, né...",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "peru.jpg",
+  "opcoes": [
+   "Bolívia",
+   "Equador",
+   "Peru"
+  ],
+  "certa": 2,
+  "fala_q": "Vizinho do Brasil, lá do lado do Pacífico. Qual é? Bolívia, Equador ou Peru?",
+  "fala_r": "Peru! A terra de Machu Picchu!",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "turquia.jpg",
+  "opcoes": [
+   "Turquia",
+   "Irã",
+   "Grécia"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é comprido, meio na Europa e meio na Ásia. Que país é? Turquia, Irã ou Grécia?",
+  "fala_r": "Turquia! Um pedacinho dela fica na Europa!",
+  "count": 7.0,
+  "aviso": "PENSA BEM!"
+ },
+ {
+  "n": 27,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "noruega.jpg",
+  "opcoes": [
+   "Suécia",
+   "Finlândia",
+   "Noruega"
+  ],
+  "certa": 2,
+  "fala_q": "Olha esse litoral todo picotado! Que país é esse? Suécia, Finlândia ou Noruega?",
+  "fala_r": "Noruega! Esse picotado são os fiordes!",
+  "count": 7.0,
+  "fala_d": "Dica: é a terra dos fiordes!",
+  "dica_txt": "É A TERRA DOS FIORDES"
+ },
+ {
+  "n": 28,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "colombia.jpg",
+  "opcoes": [
+   "Venezuela",
+   "Colômbia",
+   "Equador"
+  ],
+  "certa": 1,
+  "fala_q": "Esse tem mar dos dois lados. Que país é esse? Venezuela, Colômbia ou Equador?",
+  "fala_r": "Colômbia! É o único da América do Sul com Pacífico e Caribe!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "islandia.jpg",
+  "opcoes": [
+   "Irlanda",
+   "Nova Zelândia",
+   "Islândia"
+  ],
+  "certa": 2,
+  "fala_q": "Uma ilha gelada perto do Polo Norte. Qual é? Irlanda, Nova Zelândia ou Islândia?",
+  "fala_r": "Islândia! Terra de vulcões e geleiras!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 30,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "arabia-saudita.jpg",
+  "opcoes": [
+   "Irã",
+   "Arábia Saudita",
+   "Iraque"
+  ],
+  "certa": 1,
+  "fala_q": "Agora uma do Oriente Médio. Que país é esse? Irã, Arábia Saudita ou Iraque?",
+  "fala_r": "Arábia Saudita! Quase tudo deserto!",
+  "count": 7.0,
+  "sabia": "A Arábia Saudita não tem nenhum rio permanente."
+ },
+ {
+  "n": 31,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "paraguai.jpg",
+  "opcoes": [
+   "Paraguai",
+   "Uruguai",
+   "Bolívia"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é vizinho do Paraná. Que país é esse? Paraguai, Uruguai ou Bolívia?",
+  "fala_r": "Paraguai! Um dos dois países da América do Sul sem mar!",
+  "count": 7.0,
+  "fala_d": "Dica: não tem mar!",
+  "dica_txt": "NÃO TEM MAR"
+ },
+ {
+  "n": 32,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "vietna.jpg",
+  "opcoes": [
+   "Vietnã",
+   "Laos",
+   "Tailândia"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é comprido e curvado, lá na Ásia. Qual é? Vietnã, Laos ou Tailândia?",
+  "fala_r": "Vietnã! Parece um S, né?",
+  "count": 7.0
+ },
+ {
+  "n": 33,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "bolivia.jpg",
+  "opcoes": [
+   "Paraguai",
+   "Bolívia",
+   "Peru"
+  ],
+  "certa": 1,
+  "fala_q": "Tem pegadinha de novo! Vizinho do Brasil, sem mar. Qual é? Paraguai, Bolívia ou Peru?",
+  "fala_r": "Bolívia! O outro país sem mar da América do Sul!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 34,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "polonia.jpg",
+  "opcoes": [
+   "Ucrânia",
+   "Polônia",
+   "Alemanha"
+  ],
+  "certa": 1,
+  "fala_q": "Agora ficou difícil! Que país europeu é esse? Ucrânia, Polônia ou Alemanha?",
+  "fala_r": "Polônia! Se acertou essa, você manda bem!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Varsóvia!",
+  "dica_txt": "A CAPITAL É VARSÓVIA"
+ },
+ {
+  "n": 35,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "mongolia.jpg",
+  "opcoes": [
+   "Cazaquistão",
+   "China",
+   "Mongólia"
+  ],
+  "certa": 2,
+  "fala_q": "Esse fica entre a China e a Rússia. Qual é? Cazaquistão, China ou Mongólia?",
+  "fala_r": "Mongólia! Terra de Gengis Khan!",
+  "count": 7.0,
+  "sabia": "A Mongólia é o país com menos gente por quilômetro do mundo."
+ },
+ {
+  "n": 36,
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "croacia.jpg",
+  "opcoes": [
+   "Croácia",
+   "Eslovênia",
+   "Sérvia"
+  ],
+  "certa": 0,
+  "fala_q": "Que país é esse, em forma de bumerangue? Croácia, Eslovênia ou Sérvia?",
+  "fala_r": "Croácia! Se você acertou essa, você é fera de verdade!",
+  "count": 9.0,
+  "final": true,
+  "fala_s": "Valendo o título de fera... a resposta é..."
+ }
+]
