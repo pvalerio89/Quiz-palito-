@@ -1,1 +1,1 @@
-baixar videos/19-monte-seu-clube/escolhas.json videos/19-monte-seu-clube/
+buscar videos/22-capitais/candidatas/lista.tsv videos/22-capitais/candidatas
