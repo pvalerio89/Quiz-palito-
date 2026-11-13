@@ -182,11 +182,18 @@
       "id": "2026-11-11-jogador-pela-foto",
       "referencia": "https://youtube.com/shorts/ITcIPFmx-a4",
       "tema": "Adivinhe o Jogador pela Foto de Criança (Futebol Day, Short)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Fotos de jogadores quando crianças não têm licença livre. Fazer a versão: adivinhe o JOGADOR pela FOTO (fotos reais livres do Wikimedia, com zoom/desfoque que vai abrindo), 3 alternativas. Não repetir jogadores do vídeo 02. | FEITO (2026-11-13): 38 perguntas (33 jogadores + 5 técnicos, nenhum do vídeo 02), foto real que começa com zoom e desfoque e vai abrindo na contagem de 7 s, pergunta falada com as alternativas, ~11 min. Short jogador-1: 6 perguntas.",
       "video": "videos/21-jogador-pela-foto",
       "short": "shorts/jogador-1",
-      "titulo": "ADIVINHE O JOGADOR PELA FOTO ⚽ 38 Craques do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito"
+      "titulo": "ADIVINHE O JOGADOR PELA FOTO ⚽ 38 Craques do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito",
+      "publicado_em": "2026-11-13",
+      "no_ar_em": "2026-11-13T21:00:00Z",
+      "no_ar_brasilia": "13/11 18h00",
+      "links": {
+        "video": "https://youtu.be/1bNvLqwGcIc",
+        "short": "https://youtu.be/jBv0WL4e1NU"
+      }
     },
     {
       "id": "2026-11-11-quiz-ingles",
