@@ -514,6 +514,20 @@
         "data": "2026-11-12",
         "origem": "github-actions"
       }
+    },
+    "videos/21-jogador-pela-foto": {
+      "youtube": {
+        "status": "publicado",
+        "id": "1bNvLqwGcIc",
+        "url": "https://youtu.be/1bNvLqwGcIc",
+        "data": "2026-11-13",
+        "origem": "github-actions",
+        "sha256": "2144d88b903e64e705248671b04913edcf6710cc4970de174f028f7ff34069e1",
+        "no_ar_em": "2026-11-13T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
