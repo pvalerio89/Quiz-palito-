@@ -33,20 +33,39 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
      preferência) e baixe com `automacao/fotos_wiki.py clipes` pelo workflow "Fotos Wikimedia" (crédito vai na tela final).
      Alternativas erradas plausíveis e do mesmo tipo; a certa em posição variada. Exemplo completo: `previa.py` (`video()`).
      Só se o tema não couber em alternativas, use o modelo mais recente de `videos/`.
+   - **ESTILO MAIS HUMANO (Patrick, 2026-11-13; vale para todo vídeo longo novo): `videos/modelo-opcoes/humano.py`**
+     (amostra aprovada: `videos/amostra-humano/build_amostra.py`). Monte cada pergunta com `hu.pergunta(...)` em vez
+     de chamar `pergunta_frames`/`resposta_frames` direto. Ele achou o formato antigo "muito robótico". Regras:
+     - **Falas variadas:** nada de "Pergunta cinco!" em toda pergunta. Varie a entrada ("Agora uma do Nordeste...",
+       "Bora pra Europa...", "Cuidado, que essa tem pegadinha!", "Essa aqui derruba muita gente.") e reaja de verdade
+       na resposta ("Caiu na pegadinha, hein?", "Se acertou essa, você é fera!").
+     - **Ritmo variado:** as 2 ou 3 primeiras fáceis e rápidas (contagem 4 a 5 s); depois 7 s.
+     - Em umas **1 a cada 6** perguntas: **DICA** no meio da contagem (`q["dica"] = (voz, TEXTO, 2.5)`);
+       **AVISO** na faixa do topo (`q["aviso"] = "TEM PEGADINHA!"`) quando a pergunta for pegadinha/difícil;
+       **SUSPENSE** antes de revelar (`q["suspense"] = voz "A resposta é..."`) nas mais difíceis;
+       **"VOCÊ SABIA?"** de 1 frase curta (`q["sabia"]`, a fala da resposta conta a mesma curiosidade).
+     - **PEDIDO DE CURTIDA** uma vez, depois da 2ª ou 3ª resposta: `hu.curtir(tl, sfx, voz_pede, voz_espero)`.
+       O narrador pede o coraçãozinho/curtida, tem uma pausa curta e fala "Eu espero!" (variar as duas frases, ex.:
+       "Ei, antes da próxima... deixa o coraçãozinho e curte o vídeo aí!" / "Eu espero!" ou "Tô esperando, hein!").
+     - **ÚLTIMA PERGUNTA:** antes dela, `hu.ultima(tl, sfx, voz)` (tela vermelha + coração) com a fala
+       "Atenção... essa é a última pergunta! E é a mais difícil!" (variar); a pergunta tem `q["final"] = True`.
+     - **FIM só com "se inscreva no canal":** `hu.inscreva(tl, sfx, voz)` com fala curta ("Gostou do quiz? Então se
+       inscreve no canal!"), **sem** tela de nota/níveis. Depois só a tela de créditos das fotos, se houver.
+     - **O Palito NÃO fala** (sem voz e sem balão de fala): o Patrick não gostou.
    - **Abertura RAPIDINHA (Patrick, 2026-11-10), no longo e no Short:** intro de 2 a 3 s (selo, nome do tema,
      3 a 5 imagens do tema que NÃO estão nas perguntas, Palito acenando) com só a saudação curta + o tema falados
      (`op.intro_rapida(...)` no longo, `s.intro_rapida(...)` no Short; fala "intro" de no máximo ~3 s, variar a
      saudação). Depois transição e a 1ª pergunta, com a chamada numa faixa vermelha por cima (`gancho=...` no
      longo; `CHAMADA` + "VALENDO!" no Short). Exemplos: `videos/16-alfabeto-times`, `shorts/times-1`.
      Placar na tela: bolinhas "CONTA SEUS PONTOS!"/"PONTOS:" + selo "+1 SE ACERTOU!" em cada resposta;
-     no fim, "__ / N" e "PAUSA E COMENTA SUA NOTA!". Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
+     no fim do longo só "INSCREVA-SE" (ver ESTILO MAIS HUMANO). Pasta nova `videos/NN-tema` (próximo número) e `shorts/tema-1`.
    - **O QUE SEGURA O PÚBLICO (Analytics do canal, 2026-11-12 — vale mais que o resto desta lista; detalhes em
      `estatisticas/analise-2026-11-12.md`):**
      - **Longo: ritmo de ~18 a 25 s por pergunta, com a PERGUNTA FALADA.** Os 3 melhores (Países sem vogais 46%,
        Estados 42%, Quiz do Brasil 41% assistido) falam a pergunta (no Brasil também as alternativas), dão 6 a 10 s
        de contagem e a resposta vem com uma reação curta ("É o Japão! Começou bem?"). Os "metralhadora" de 3 a 4 s
        com 60 a 100 itens (Tudo amarelo 12%, Fruta pela foto 17%, Logo 19%, Bandeiras 195 29%) perdem o público.
-       No `opcoes.py`: gere `q{n}` falado em TODA pergunta ("Pergunta cinco! Qual é a capital da Bahia?"; as
+       No `opcoes.py`: gere `q{n}` falado em TODA pergunta (com entrada variada, ver ESTILO MAIS HUMANO; as
        alternativas faladas quando forem curtas), `COUNT` = 7 s e a fala da resposta com reação/curiosidade de
        1 frase (sem "explicação/fonte" longa).
      - **Longo: 10 a 13 minutos**, uns **30 a 40 perguntas** (não "o máximo que couber"). Os de 20 min caíram para
