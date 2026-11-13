@@ -217,10 +217,17 @@
       "referencia": "",
       "tema": "Capitais do Brasil e do mundo (pergunta escrita + foto real da cidade, 3 alternativas; diferente do vídeo 07, que é pelo mapa)",
       "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md. | FEITO (2026-11-13): 36 perguntas alternando estado e país, foto real de lugar famoso da capital (Wikimedia), pergunta falada, 7 s, ~11 min. Short capitais-1: 6 perguntas.",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/22-capitais",
       "short": "shorts/capitais-1",
-      "titulo": "CAPITAIS DO BRASIL E DO MUNDO 🌎 36 Perguntas do Fácil ao Impossível! Quantas Você Acerta? | Quiz Palito"
+      "titulo": "CAPITAIS DO BRASIL E DO MUNDO 🌎 36 Perguntas do Fácil ao Impossível! Quantas Você Acerta? | Quiz Palito",
+      "publicado_em": "2026-11-13",
+      "no_ar_em": "2026-11-14T06:00:00Z",
+      "no_ar_brasilia": "14/11 03h00",
+      "links": {
+        "video": "https://youtu.be/jIJR6RKwvTc",
+        "short": "https://youtu.be/3r2_m3LNvuA"
+      }
     },
     {
       "id": "2026-11-12-pais-pelo-mapa",
