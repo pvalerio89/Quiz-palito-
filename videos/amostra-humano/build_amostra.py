@@ -190,16 +190,16 @@ def desafio_frames(d):
         img = nd.burst((200, 20, 30), (90, 0, 10), t * 10).convert("RGBA")
         dd = ImageDraw.Draw(img)
         s = max(0.1, min(1.0, t / 0.35)) * (1 + 0.06 * bate)
-        b.text_outline(dd, (800, 330), "DESAFIO", b.font(b.F_BLACK, int(190 * s)), b.YELLOW, w=16)
-        b.text_outline(dd, (800, 540), "FINAL", b.font(b.F_BLACK, int(230 * s)), b.WHITE, w=18)
-        b.text_outline(dd, (800, 740), "SÓ OS MESTRES ACERTAM!", b.font(b.F_BLACK, 70), b.WHITE, w=8)
+        b.text_outline(dd, (800, 330), "ÚLTIMA", b.font(b.F_BLACK, int(190 * s)), b.YELLOW, w=16)
+        b.text_outline(dd, (800, 540), "PERGUNTA", b.font(b.F_BLACK, int(200 * s)), b.WHITE, w=18)
+        b.text_outline(dd, (800, 740), "A MAIS DIFÍCIL!", b.font(b.F_BLACK, 80), b.WHITE, w=8)
         b.selo(img, 800, 920, 1.0)
         b.put_palito(img, "assustado", 620, 1620, 1060 + int((1 - min(1, t / 0.4)) * 600), int(6 * math.sin(t * 30)))
         yield img.convert("RGB")
 
 
 def intro_frames(d, t_pal):
-    base = list(op.intro_rapida("QUIZ DE CAPITAIS", "VOCÊ x PALITO!", d,
+    base = list(op.intro_rapida("QUIZ DE CAPITAIS", "VOCÊ CONSEGUE?", d,
                                 fotos=["paris.jpg", "roma.jpg", "londres.jpg", "toquio.jpg", "lisboa.jpg"]))
     for i, f in enumerate(base):
         t = i / FPS
@@ -235,6 +235,26 @@ def niveis_frames(d, t_pal):
         b.put_palito(img, pose, 560, 1680, 1060, int(6 * math.sin(t * 6)))
         if t >= t_pal:
             balao(img, "Ei! Revanche!", t - t_pal, cx=1560, cy=330)
+        yield img.convert("RGB")
+
+
+def inscreva_frames(d):
+    """Fim curto: só 'se inscreva no canal' (Patrick, 2026-11-13)."""
+    for i in range(int(d * FPS)):
+        t = i / FPS
+        img = op.fundo(3, t).copy()
+        dd = ImageDraw.Draw(img)
+        s = max(0.1, eg.pula(t / 0.4))
+        b.text_outline(dd, (800, 260), "GOSTOU?", b.font(b.F_BLACK, int(150 * s)), b.YELLOW, w=14)
+        bate = 1 + 0.05 * math.sin(t * 6)
+        w2, h2 = int(900 * s * bate), int(170 * s * bate)
+        dd.rounded_rectangle([800 - w2 // 2, 520 - h2 // 2, 800 + w2 // 2, 520 + h2 // 2], 60, fill=b.RED,
+                             outline=b.WHITE, width=9)
+        dd.text((800, 522), "INSCREVA-SE", font=b.font(b.F_BLACK, max(8, int(100 * s * bate))), fill=b.WHITE,
+                anchor="mm", stroke_width=4, stroke_fill=b.NAVY)
+        b.text_outline(dd, (800, 720), "NO CANAL", b.font(b.F_BLACK, 80), b.WHITE, w=8)
+        b.selo(img, 800, 880, 1.4)
+        b.put_palito(img, "acenando", 600, 1640, 1060, int(6 * math.sin(t * 6)))
         yield img.convert("RGB")
 
 
@@ -308,7 +328,7 @@ def montar(tl, sfx, so_previa=False):
     tl.sound(sfx["whoosh"])
     tf = dur("n_fim") + 0.5
     tl.sound(A("n_fim"), at=tl.t + 0.3)
-    for f in niveis_frames(tf + 1.2, 99):
+    for f in inscreva_frames(tf + 1.5):
         yield "fim", f
 
 
