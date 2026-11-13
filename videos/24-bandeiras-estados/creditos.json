@@ -1,0 +1,169 @@
+{
+ "br": {
+  "file": "Flag of Brazil.svg",
+  "autor": "Raimundo Teixeira Mendes",
+  "lic": "Public domain"
+ },
+ "ac": {
+  "file": "Bandeira do Acre.svg",
+  "autor": "Wikimedia Commons",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Acre.svg"
+ },
+ "al": {
+  "file": "Bandeira de Alagoas.svg",
+  "autor": "Giro720",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoas.svg"
+ },
+ "am": {
+  "file": "Bandeira do Amazonas.svg",
+  "autor": "Wikimedia Commons",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Amazonas.svg"
+ },
+ "ap": {
+  "file": "Bandeira do Amapá.svg",
+  "autor": "E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Amap%C3%A1.svg"
+ },
+ "ba": {
+  "file": "Bandeira da Bahia.svg",
+  "autor": "Diocleciano Ramos",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_da_Bahia.svg"
+ },
+ "ce": {
+  "file": "Bandeira do Ceará.svg",
+  "autor": "Srfortes",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Cear%C3%A1.svg"
+ },
+ "df": {
+  "file": "Bandeira do Distrito Federal (Brasil).svg",
+  "autor": "Wikimedia Commons",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Distrito_Federal_(Brasil).svg"
+ },
+ "es": {
+  "file": "Bandeira do Espírito Santo.svg",
+  "autor": "SVG implementation by E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Esp%C3%ADrito_Santo.svg"
+ },
+ "go": {
+  "file": "Flag of Goiás.svg",
+  "autor": "E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Goi%C3%A1s.svg"
+ },
+ "ma": {
+  "file": "Bandeira do Maranhão.svg",
+  "autor": "Wikimedia Commons",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Maranh%C3%A3o.svg"
+ },
+ "mg": {
+  "file": "Bandeira de Minas Gerais.svg",
+  "autor": "Plovisanta",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Minas_Gerais.svg"
+ },
+ "ms": {
+  "file": "Bandeira de Mato Grosso do Sul.svg",
+  "autor": "E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mato_Grosso_do_Sul.svg"
+ },
+ "mt": {
+  "file": "Bandeira de Mato Grosso.svg",
+  "autor": "SVG implementation by E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mato_Grosso.svg"
+ },
+ "pa": {
+  "file": "Bandeira do Pará.svg",
+  "autor": "E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Par%C3%A1.svg"
+ },
+ "pb": {
+  "file": "Bandeira da Paraíba.svg",
+  "autor": "SVG implementation by E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_da_Para%C3%ADba.svg"
+ },
+ "pe": {
+  "file": "Bandeira de Pernambuco.svg",
+  "autor": "Wikimedia Commons",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Pernambuco.svg"
+ },
+ "pi": {
+  "file": "Bandeira do Piauí.svg",
+  "autor": "E2m, Giro720",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Piau%C3%AD.svg"
+ },
+ "pr": {
+  "file": "Bandeira do Paraná.svg",
+  "autor": "FXXX",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Paran%C3%A1.svg"
+ },
+ "rj": {
+  "file": "Bandeira do estado do Rio de Janeiro.svg",
+  "autor": "FORTES",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_do_Rio_de_Janeiro.svg"
+ },
+ "rn": {
+  "file": "Bandeira do Rio Grande do Norte.svg",
+  "autor": "Giro720",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Rio_Grande_do_Norte.svg"
+ },
+ "ro": {
+  "file": "Bandeira de Rondônia.svg",
+  "autor": "E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Rond%C3%B4nia.svg"
+ },
+ "rr": {
+  "file": "Bandeira de Roraima.svg",
+  "autor": "E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Roraima.svg"
+ },
+ "rs": {
+  "file": "Bandeira do Rio Grande do Sul.svg",
+  "autor": "Srfortes",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Rio_Grande_do_Sul.svg"
+ },
+ "sc": {
+  "file": "Bandeira de Santa Catarina.svg",
+  "autor": "Wikimedia Commons",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Catarina.svg"
+ },
+ "se": {
+  "file": "Bandeira de Sergipe.svg",
+  "autor": "E2m",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Sergipe.svg"
+ },
+ "sp": {
+  "file": "Bandeira do estado de São Paulo.svg",
+  "autor": "Felipe Micaroni Lalli, Giro720",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_de_S%C3%A3o_Paulo.svg"
+ },
+ "to": {
+  "file": "Bandeira do Tocantins.svg",
+  "autor": "Own work",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Tocantins.svg"
+ }
+}

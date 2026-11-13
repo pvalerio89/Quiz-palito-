@@ -1,0 +1,419 @@
+[
+ {
+  "n": 1,
+  "pergunta": "DE QUE PAÍS É ESSA BANDEIRA?",
+  "foto": "br.jpg",
+  "opcoes": [
+   "Brasil",
+   "Portugal",
+   "Bolívia"
+  ],
+  "certa": 0,
+  "fala_q": "Pra aquecer, essa é de graça! De que país é essa bandeira? Brasil, Portugal ou Bolívia?",
+  "fala_r": "Brasil! Essa é a nossa!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "mg.jpg",
+  "opcoes": [
+   "Minas Gerais",
+   "Goiás",
+   "Bahia"
+  ],
+  "certa": 0,
+  "fala_q": "Agora valendo, só estados! De qual estado é essa bandeira? Minas Gerais, Goiás ou Bahia?",
+  "fala_r": "Minas Gerais, uai! Com o triângulo dos inconfidentes!",
+  "count": 5.0,
+  "sabia": "O lema em latim quer dizer: liberdade ainda que tardia."
+ },
+ {
+  "n": 3,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "sp.jpg",
+  "opcoes": [
+   "Paraná",
+   "São Paulo",
+   "Rio de Janeiro"
+  ],
+  "certa": 1,
+  "fala_q": "Olha essas listras pretas e brancas! Qual estado? Paraná, São Paulo ou Rio de Janeiro?",
+  "fala_r": "São Paulo! Tem até o mapa do Brasil no cantinho!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "rs.jpg",
+  "opcoes": [
+   "Santa Catarina",
+   "Paraná",
+   "Rio Grande do Sul"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pro Sul. Verde, vermelho e amarelo... qual é? Santa Catarina, Paraná ou Rio Grande do Sul?",
+  "fala_r": "Rio Grande do Sul, bah!",
+  "count": 7.0,
+  "sabia": "A bandeira gaúcha vem da Revolução Farroupilha."
+ },
+ {
+  "n": 5,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "ba.jpg",
+  "opcoes": [
+   "Bahia",
+   "Sergipe",
+   "Pernambuco"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma do Nordeste. De qual estado é essa? Bahia, Sergipe ou Pernambuco?",
+  "fala_r": "Bahia! Com o triângulo branco no canto!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "pe.jpg",
+  "opcoes": [
+   "Pernambuco",
+   "Paraíba",
+   "Alagoas"
+  ],
+  "certa": 0,
+  "fala_q": "Olha esse arco-íris! Qual estado é esse? Pernambuco, Paraíba ou Alagoas?",
+  "fala_r": "Pernambuco! O arco-íris, o sol e a cruz!",
+  "count": 7.0,
+  "sabia": "A bandeira de Pernambuco nasceu na revolução de 1817."
+ },
+ {
+  "n": 7,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "pr.jpg",
+  "opcoes": [
+   "Paraná",
+   "Santa Catarina",
+   "São Paulo"
+  ],
+  "certa": 0,
+  "fala_q": "Olha bem, que essa tem uma pista escondida! Qual é? Paraná, Santa Catarina ou São Paulo?",
+  "fala_r": "Paraná! Tava escrito no meio da bola azul!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "rj.jpg",
+  "opcoes": [
+   "Espírito Santo",
+   "Rio de Janeiro",
+   "Minas Gerais"
+  ],
+  "certa": 1,
+  "fala_q": "Azul e branco, com um brasão no meio. Qual estado? Espírito Santo, Rio de Janeiro ou Minas Gerais?",
+  "fala_r": "Rio de Janeiro! A Cidade Maravilhosa é a capital!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "am.jpg",
+  "opcoes": [
+   "Pará",
+   "Acre",
+   "Amazonas"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra floresta. Muitas estrelinhas... qual estado é esse? Pará, Acre ou Amazonas?",
+  "fala_r": "Amazonas! O maior estado do Brasil!",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "df.jpg",
+  "opcoes": [
+   "Goiás",
+   "Tocantins",
+   "Distrito Federal"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é a da capital do país! Qual é? Goiás, Tocantins ou Distrito Federal?",
+  "fala_r": "Distrito Federal! Onde fica Brasília!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "ce.jpg",
+  "opcoes": [
+   "Piauí",
+   "Maranhão",
+   "Ceará"
+  ],
+  "certa": 2,
+  "fala_q": "Essa lembra a bandeira do Brasil, hein! De qual estado é? Piauí, Maranhão ou Ceará?",
+  "fala_r": "Ceará! Muita gente confunde com a do Brasil!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Fortaleza!",
+  "dica_txt": "A CAPITAL É FORTALEZA"
+ },
+ {
+  "n": 12,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "go.jpg",
+  "opcoes": [
+   "Piauí",
+   "Goiás",
+   "Sergipe"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa tem pegadinha! Listras verdes e amarelas... Piauí, Goiás ou Sergipe?",
+  "fala_r": "Goiás! Repara nas cinco estrelas do Cruzeiro do Sul!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 13,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "sc.jpg",
+  "opcoes": [
+   "Rio Grande do Sul",
+   "Santa Catarina",
+   "Paraná"
+  ],
+  "certa": 1,
+  "fala_q": "Vermelho, branco e um losango verde. Qual estado? Rio Grande do Sul, Santa Catarina ou Paraná?",
+  "fala_r": "Santa Catarina! Terra de Florianópolis!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "es.jpg",
+  "opcoes": [
+   "Rio de Janeiro",
+   "Alagoas",
+   "Espírito Santo"
+  ],
+  "certa": 2,
+  "fala_q": "Azul, branco e rosa! De qual estado é essa? Rio de Janeiro, Alagoas ou Espírito Santo?",
+  "fala_r": "Espírito Santo! A única com rosa!",
+  "count": 7.0,
+  "sabia": "O lema TRABALHA E CONFIA está escrito na bandeira."
+ },
+ {
+  "n": 15,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "pa.jpg",
+  "opcoes": [
+   "Amapá",
+   "Pará",
+   "Maranhão"
+  ],
+  "certa": 1,
+  "fala_q": "Agora o Norte. Vermelho, branco e uma estrela azul. Qual é? Amapá, Pará ou Maranhão?",
+  "fala_r": "Pará! Terra do açaí!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "ma.jpg",
+  "opcoes": [
+   "Piauí",
+   "Maranhão",
+   "Pará"
+  ],
+  "certa": 1,
+  "fala_q": "Listras vermelhas, brancas e pretas. Qual estado é esse? Piauí, Maranhão ou Pará?",
+  "fala_r": "Maranhão!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é São Luís!",
+  "dica_txt": "A CAPITAL É SÃO LUÍS"
+ },
+ {
+  "n": 17,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "pb.jpg",
+  "opcoes": [
+   "Pernambuco",
+   "Rio Grande do Norte",
+   "Paraíba"
+  ],
+  "certa": 2,
+  "fala_q": "Essa tem uma palavra escrita: nego! Qual estado é? Pernambuco, Rio Grande do Norte ou Paraíba?",
+  "fala_r": "Paraíba!",
+  "count": 7.0,
+  "sabia": "O NEGO lembra o 'não' que a Paraíba disse em 1930."
+ },
+ {
+  "n": 18,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "mt.jpg",
+  "opcoes": [
+   "Mato Grosso",
+   "Mato Grosso do Sul",
+   "Goiás"
+  ],
+  "certa": 0,
+  "fala_q": "Azul, branco e uma estrela amarela no meio. Qual é? Mato Grosso, Mato Grosso do Sul ou Goiás?",
+  "fala_r": "Mato Grosso! O do Pantanal!",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "al.jpg",
+  "opcoes": [
+   "Alagoas",
+   "Sergipe",
+   "Pernambuco"
+  ],
+  "certa": 0,
+  "fala_q": "Vermelho, branco e azul, com brasão. De qual estado é? Alagoas, Sergipe ou Pernambuco?",
+  "fala_r": "Alagoas! Terra de praias lindas!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "pi.jpg",
+  "opcoes": [
+   "Goiás",
+   "Piauí",
+   "Maranhão"
+  ],
+  "certa": 1,
+  "fala_q": "Pegadinha de novo! Listras verdes e amarelas, uma estrela só... Goiás, Piauí ou Maranhão?",
+  "fala_r": "Piauí! Não confunde com Goiás, hein!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "A data na bandeira lembra a Batalha do Jenipapo, de 1823.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 21,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "ac.jpg",
+  "opcoes": [
+   "Rondônia",
+   "Amazonas",
+   "Acre"
+  ],
+  "certa": 2,
+  "fala_q": "Amarelo, verde e uma estrela vermelha. Qual estado? Rondônia, Amazonas ou Acre?",
+  "fala_r": "Acre! Ele existe, sim!",
+  "count": 7.0,
+  "fala_d": "Dica: fica lá no extremo oeste!",
+  "dica_txt": "FICA NO EXTREMO OESTE"
+ },
+ {
+  "n": 22,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "to.jpg",
+  "opcoes": [
+   "Roraima",
+   "Mato Grosso",
+   "Tocantins"
+  ],
+  "certa": 2,
+  "fala_q": "Olha esse sol no meio! De qual estado é? Roraima, Mato Grosso ou Tocantins?",
+  "fala_r": "Tocantins! O estado mais novo do Brasil!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "se.jpg",
+  "opcoes": [
+   "Sergipe",
+   "Alagoas",
+   "Goiás"
+  ],
+  "certa": 0,
+  "fala_q": "Essa aqui derruba muita gente! Qual estado é esse? Sergipe, Alagoas ou Goiás?",
+  "fala_r": "Sergipe! O menor estado do Brasil!",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 24,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "ms.jpg",
+  "opcoes": [
+   "Mato Grosso",
+   "Mato Grosso do Sul",
+   "Tocantins"
+  ],
+  "certa": 1,
+  "fala_q": "Verde, branco, azul e uma estrela. Qual é? Mato Grosso, Mato Grosso do Sul ou Tocantins?",
+  "fala_r": "Mato Grosso do Sul!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Campo Grande!",
+  "dica_txt": "A CAPITAL É CAMPO GRANDE"
+ },
+ {
+  "n": 25,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "rn.jpg",
+  "opcoes": [
+   "Rio Grande do Norte",
+   "Paraíba",
+   "Ceará"
+  ],
+  "certa": 0,
+  "fala_q": "Verde, branco e um escudo amarelo. Qual estado é? Rio Grande do Norte, Paraíba ou Ceará?",
+  "fala_r": "Rio Grande do Norte! Terra de Natal!",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "ro.jpg",
+  "opcoes": [
+   "Roraima",
+   "Acre",
+   "Rondônia"
+  ],
+  "certa": 2,
+  "fala_q": "Agora ficou difícil! Azul, amarelo, verde e uma estrela branca... Roraima, Acre ou Rondônia?",
+  "fala_r": "Rondônia! Se acertou essa, você manda bem!",
+  "count": 7.0,
+  "aviso": "PENSA BEM!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 27,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "ap.jpg",
+  "opcoes": [
+   "Amapá",
+   "Roraima",
+   "Pará"
+  ],
+  "certa": 0,
+  "fala_q": "Essa tem um símbolo estranho no meio. Qual estado? Amapá, Roraima ou Pará?",
+  "fala_r": "Amapá!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Macapá!",
+  "dica_txt": "A CAPITAL É MACAPÁ"
+ },
+ {
+  "n": 28,
+  "pergunta": "DE QUAL ESTADO É ESSA?",
+  "foto": "rr.jpg",
+  "opcoes": [
+   "Rondônia",
+   "Amapá",
+   "Roraima"
+  ],
+  "certa": 2,
+  "fala_q": "De qual estado é essa bandeira, com a estrela amarela gigante? Rondônia, Amapá ou Roraima?",
+  "fala_r": "Roraima! Se você acertou essa, você é fera de verdade!",
+  "count": 9.0,
+  "final": true,
+  "fala_s": "Valendo o título de fera... a resposta é..."
+ }
+]
