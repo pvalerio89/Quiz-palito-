@@ -1,10 +1,10 @@
 # Rotina diária do Claude: produzir o próximo vídeo da fila
 
-Roda sozinha 2 vezes por dia (4h43 e 13h43) (tarefa agendada no claude.ai). O Patrick **não aprova nada**: ele autorizou
+Roda sozinha 3 vezes por dia (4h43, 9h43 e 18h43) (tarefa agendada no claude.ai). O Patrick **não aprova nada**: ele autorizou
 (2026-11-06) publicar direto como público e apaga do YouTube se algo sair errado. Não pergunte, não espere.
 Responda tudo em português do Brasil. Siga o `CLAUDE.md` e a memória do projeto.
 
-São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** agenda o 1º item `pronto` no próximo horário livre (12h09 ou 19h14 de Brasília). Esta rotina só deixa itens prontos.
+São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **Publicar do dia** agenda o 1º item `pronto` no próximo horário livre (12h09, 17h30 ou 20h30 de Brasília). Esta rotina só deixa itens prontos.
 
 ## Passos
 
@@ -15,13 +15,13 @@ São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** 
 3. **Erros:** se algum item está `erro`, abra o último "Publicar do dia" (GitHub Actions) e conserte a causa.
    Se consertou, volte o item para `pronto` (o envio pula o que já foi publicado). Se não der, deixe `erro`
    com a explicação em `obs` e siga para o próximo.
-4. **Estoque:** se já há 4 ou mais itens `pronto` (2 dias), pare aqui (só grave os passos 2 e 3).
+4. **Estoque:** se já há 6 ou mais itens `pronto` (2 dias), pare aqui (só grave os passos 2 e 3).
 5. **Repetido ou parecido:** antes de produzir, compare o item com tudo que já existe (`publicados.json`,
    pastas em `videos/` e `shorts/`, e os outros itens da fila). Se o tema/formato for **igual ou parecido**
    (ex.: outro "adivinhe a bandeira", mesmo assunto com outro nome), **não produza**: marque `status` = `parecido`,
    escreva em `obs` com qual vídeo ele se parece, avise o Patrick (ver "Avisos") e siga para o próximo item.
    Se já produziu e só percebeu depois, avise do mesmo jeito.
-6. **Produzir** o 1º item `aguardando` (um por rodada; se o estoque estiver em 0 ou 1, faça mais um):
+6. **Produzir** o 1º item `aguardando` (um por rodada; se o estoque estiver em 0, 1 ou 2, faça mais um):
    - Veja a referência leve: título pelo oembed, storyboard/miniaturas com `yt-dlp` (`-f sb0`), sem baixar o vídeo.
    - Faça a **versão Quiz Palito**: mesmo formato e ritmo, **perguntas próprias**, sem copiar arte, marca ou texto
      do outro canal, **sem parte de explicação/fonte**. Temas escolares/educativos para adolescentes quando der.
@@ -105,7 +105,7 @@ São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** 
 
 Estes avisos valem **mesmo quando o pedido diz para terminar em silêncio**. Escreva-os no começo da mensagem final:
 
-- **Faltando links:** como saem 2 vídeos por dia, se depois do seu trabalho sobrar **2 ou menos** itens `aguardando`
+- **Faltando links:** como saem 3 vídeos por dia, se depois do seu trabalho sobrar **3 ou menos** itens `aguardando`
   na fila, escreva: "⚠️ Só faltam N criações na fila: mande mais links de referência." (diga quantos `pronto` há.)
 - **Repetido/parecido:** para cada item marcado `parecido`, escreva qual link e com qual vídeo do canal ele se parece.
 

@@ -19,7 +19,7 @@ MARCA = "LINK_DO_VIDEO_LONGO"
 
 # Horários em que os vídeos entram no ar (Brasília, UTC-3, sem horário de verão).
 # O workflow sobe o vídeo antes e o YouTube solta na hora certa (publishAt), então o atraso do GitHub não importa.
-HORARIOS = ((12, 9), (19, 14))        # meio-dia e noite (Patrick, 2026-11-13)
+HORARIOS = ((12, 9), (17, 30), (20, 30))  # 3 por dia (Patrick, 2026-11-13)
 BRASILIA = datetime.timezone(datetime.timedelta(hours=-3))
 MARGEM = datetime.timedelta(hours=2)  # tempo para gerar e subir antes do horário
 JANELA = datetime.timedelta(hours=24)  # só agenda horários das próximas 24 h
