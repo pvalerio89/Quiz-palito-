@@ -1,7 +1,6 @@
 """AMOSTRA "estilo mais humano" (Patrick, 2026-11-13: "esse formato está muito robótico").
 
 Mesmo layout aprovado (`modelo-opcoes/opcoes.py`), 6 perguntas de capitais (fotos do vídeo 22), com:
-  - CONVERSA: narrador + Palito com voz própria e balão de fala (ele chuta, erra, reclama);
   - frases variadas (sem "Pergunta cinco!" toda vez) e reação de verdade a cada resposta;
   - ritmo variado: a 1ª bem rápida, DICA no meio da contagem, SUSPENSE ("a resposta é...") antes de revelar;
   - "VOCÊ SABIA?" em algumas respostas (1 frase);
@@ -30,16 +29,15 @@ TOTAL = 6
 # resposta do Palito e "você sabia?".
 Q = [
     dict(n=1, pergunta="CAPITAL DO BRASIL?", foto="brasilia.jpg", opcoes=["Brasília", "Rio de Janeiro", "São Paulo"],
-         certa=0, count=4.0, chute=("pal_q1", "Fácil! RIO DE JANEIRO!", 0.6), errou=True,
-         resp_pal=("pal_r1", "Ops..."), sabia="O Rio foi capital até 1960, quando Brasília foi inaugurada."),
+         certa=0, count=4.0, sabia="O Rio foi capital até 1960, quando Brasília foi inaugurada."),
     dict(n=2, pergunta="CAPITAL DA BAHIA?", foto="salvador.jpg", opcoes=["Ilhéus", "Feira de Santana", "Salvador"],
-         certa=2, count=6.0, resp_pal=("pal_r2", "Essa eu acertei!"),
+         certa=2, count=6.0,
          sabia="Salvador foi a primeira capital do Brasil, de 1549 a 1763."),
     dict(n=3, pergunta="CAPITAL DA GRÉCIA?", foto="atenas.jpg", opcoes=["Esparta", "Atenas", "Olímpia"],
          certa=1, count=7.0, dica=("n_d3", "O NOME LEMBRA UMA DEUSA GREGA", 2.5)),
     dict(n=4, pergunta="CAPITAL DOS EUA?", foto="washington.jpg", opcoes=["Nova York", "Washington", "Los Angeles"],
-         certa=1, count=7.0, chute=("pal_q4", "NOVA YORK, certeza absoluta!", 1.2), errou=True,
-         suspense="n_s4", resp_pal=("pal_r4", "Ninguém me avisou!"), aviso="TEM PEGADINHA!"),
+         certa=1, count=7.0,
+         suspense="n_s4", aviso="TEM PEGADINHA!"),
     dict(n=5, pergunta="CAPITAL DA AUSTRÁLIA?", foto="camberra.jpg", opcoes=["Sydney", "Melbourne", "Camberra"],
          certa=2, count=7.0, aviso="DERRUBA MUITA GENTE!"),
     dict(n=6, pergunta="CAPITAL DE RONDÔNIA?", foto="porto-velho.jpg", opcoes=["Ji-Paraná", "Ariquemes", "Porto Velho"],
@@ -197,8 +195,6 @@ def desafio_frames(d):
         b.text_outline(dd, (800, 740), "SÓ OS MESTRES ACERTAM!", b.font(b.F_BLACK, 70), b.WHITE, w=8)
         b.selo(img, 800, 920, 1.0)
         b.put_palito(img, "assustado", 620, 1620, 1060 + int((1 - min(1, t / 0.4)) * 600), int(6 * math.sin(t * 30)))
-        if t > 3.6:
-            balao(img, "Socorro!", t - 3.6, cx=1460, cy=330)
         yield img.convert("RGB")
 
 
@@ -216,7 +212,7 @@ def intro_frames(d, t_pal):
 
 def niveis_frames(d, t_pal):
     niveis = [("6", "MESTRE DAS CAPITAIS", (60, 200, 90)), ("4-5", "MANDOU MUITO BEM", (255, 170, 0)),
-              ("0-3", "TIME DO PALITO", (235, 50, 50))]
+              ("0-3", "BORA TREINAR!", (235, 50, 50))]
     for i in range(int(d * FPS)):
         t = i / FPS
         img = op.fundo(3, t).copy()
@@ -248,11 +244,10 @@ def montar(tl, sfx, so_previa=False):
     """Agenda falas e sons e devolve os quadros (gerador). Na prévia só usa os tempos."""
     marcas = []
     # INTRO: narrador -> Palito -> narrador
-    t1 = dur("n_intro") + 0.15
-    t2 = t1 + dur("pal_intro") + 0.1
+    t1 = 99
+    t2 = dur("n_intro") + 0.25
     di = t2 + dur("n_intro2") + 0.3
     tl.sound(A("n_intro"), at=tl.t + 0.15)
-    tl.sound(A("pal_intro"), at=tl.t + t1)
     tl.sound(A("n_intro2"), at=tl.t + t2)
     ultimo = None
     for f in intro_frames(di, t1):
@@ -261,10 +256,9 @@ def montar(tl, sfx, so_previa=False):
     for q in Q:
         n = q["n"]
         if q.get("final"):
-            dd = dur("n_desafio") + dur("pal_desafio") + 0.6
+            dd = dur("n_desafio") + 0.8
             tl.sound(sfx["whoosh"])
             tl.sound(A("n_desafio"), at=tl.t + 0.2)
-            tl.sound(A("pal_desafio"), at=tl.t + 3.6)
             for k in range(int(dd / 0.8) + 1):
                 tl.sound(sfx["coracao"], at=tl.t + k * 0.8, vol=0.9)
             for f in desafio_frames(dd):
@@ -314,8 +308,7 @@ def montar(tl, sfx, so_previa=False):
     tl.sound(sfx["whoosh"])
     tf = dur("n_fim") + 0.5
     tl.sound(A("n_fim"), at=tl.t + 0.3)
-    tl.sound(A("pal_fim"), at=tl.t + tf)
-    for f in niveis_frames(tf + dur("pal_fim") + 1.2, tf):
+    for f in niveis_frames(tf + 1.2, 99):
         yield "fim", f
 
 
