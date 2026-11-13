@@ -1,0 +1,262 @@
+{
+ "Brasília": {
+  "file": "Congresso_Nacional_visto_da_Alameda_(cropped).jpg",
+  "crop": null,
+  "arquivo": "brasilia.jpg",
+  "autor": "Filipo Tardim",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Paris": {
+  "file": "Arc_de_Triomphe_HDR_2007.jpg",
+  "crop": null,
+  "arquivo": "paris.jpg",
+  "autor": "Kainet",
+  "lic": "CC BY 2.0"
+ },
+ "Salvador": {
+  "file": "Salvador_BA_(cropped)_2.jpg",
+  "crop": null,
+  "arquivo": "salvador.jpg",
+  "autor": "Fotos Gov/Ba",
+  "lic": "CC BY 2.0"
+ },
+ "Roma": {
+  "file": "Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
+  "crop": null,
+  "arquivo": "roma.jpg",
+  "autor": "Diliff",
+  "lic": "CC BY 3.0"
+ },
+ "Manaus": {
+  "file": "Amazon_Theatre_(Manaus,_Brazil)_(edited).jpg",
+  "crop": null,
+  "arquivo": "manaus.jpg",
+  "autor": "Ivo Brasil",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Atenas": {
+  "file": "The_Parthenon_in_Athens.jpg",
+  "crop": null,
+  "arquivo": "atenas.jpg",
+  "autor": "Steve Swayne",
+  "lic": "CC BY 2.0"
+ },
+ "Belo Horizonte": {
+  "file": "PracaEstacaoMonumentoBH_(cropped).jpg",
+  "crop": null,
+  "arquivo": "belo-horizonte.jpg",
+  "autor": "Bernardo Gouvêa",
+  "lic": "CC BY 3.0"
+ },
+ "Londres": {
+  "file": "Houses_of_Parliament_in_2022_(cropped).jpg",
+  "crop": [
+   0.8,
+   0.5,
+   1.0
+  ],
+  "arquivo": "londres.jpg",
+  "autor": "Terry Ott from Washington, DC Metro Area, United States of A",
+  "lic": "CC BY 2.0"
+ },
+ "Recife": {
+  "file": "Rua_da_Aurora_(2).jpg",
+  "crop": null,
+  "arquivo": "recife.jpg",
+  "autor": "guilherme jofili",
+  "lic": "CC BY 2.0"
+ },
+ "Tóquio": {
+  "file": "TaroTokyo20110213-TokyoTower-01min.jpg",
+  "crop": null,
+  "arquivo": "toquio.jpg",
+  "autor": "東京太郎",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Porto Alegre": {
+  "file": "Laçador_(2189247301)_(cropped).jpg",
+  "crop": null,
+  "arquivo": "porto-alegre.jpg",
+  "autor": "marcusrg - Hello, nice to meet you!",
+  "lic": "CC BY 2.0"
+ },
+ "Lisboa": {
+  "file": "Belem_Tower_(33641421694)_(cropped).jpg",
+  "crop": null,
+  "arquivo": "lisboa.jpg",
+  "autor": "Shadowgate from Novara, ITALY",
+  "lic": "CC BY 2.0"
+ },
+ "Fortaleza": {
+  "file": "Ponte_dos_Ingleses_-_Ponte_Metálica.png",
+  "crop": null,
+  "arquivo": "fortaleza.jpg",
+  "autor": "ME/Portal da Copa/Embratur",
+  "lic": "CC BY 3.0 br"
+ },
+ "Madri": {
+  "file": "Plaza_Mayor_De_Madrid_(215862629)_edited.jpeg",
+  "crop": null,
+  "arquivo": "madri.jpg",
+  "autor": "Francisco Anzola",
+  "lic": "CC BY 3.0"
+ },
+ "Curitiba": {
+  "file": "Estufa_principal_do_Jardim_Botânico_de_Curitiba_02_(cropped).jpg",
+  "crop": null,
+  "arquivo": "curitiba.jpg",
+  "autor": "Rodrigo.Argenton",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Berlim": {
+  "file": "Brandenburger_Tor_morgens.jpg",
+  "crop": null,
+  "arquivo": "berlim.jpg",
+  "autor": "Thomas Wolf, www.foto-tw.de",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Belém": {
+  "file": "Ver-oPeso-Belem.jpg",
+  "crop": null,
+  "arquivo": "belem.jpg",
+  "autor": "Mauricio Mercer [2]",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Cairo": {
+  "file": "Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_قلعة_صلاح_الدين_الأيوبي_ومسجد_محمد_علي_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg",
+  "crop": null,
+  "arquivo": "cairo.jpg",
+  "autor": "Ahmed Al.Badawy from Cairo, Egypt",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Florianópolis": {
+  "file": "Florianopolis_market_central_area.jpg",
+  "crop": null,
+  "arquivo": "florianopolis.jpg",
+  "autor": "Fernando Dall'Acqua",
+  "lic": "CC BY 2.0"
+ },
+ "Washington": {
+  "file": "12-07-13-washington-by-RalfR-08.jpg",
+  "crop": null,
+  "arquivo": "washington.jpg",
+  "autor": "Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmon",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Goiânia": {
+  "file": "Praça_do_Ratinho.jpg",
+  "crop": null,
+  "arquivo": "goiania.jpg",
+  "autor": "Mayra F.",
+  "lic": "CC BY 2.0"
+ },
+ "Moscou": {
+  "file": "Saint_Basil's_Cathedral_and_the_Red_Square.jpg",
+  "crop": [
+   0.75,
+   0.5,
+   1.0
+  ],
+  "arquivo": "moscou.jpg",
+  "autor": "U.S. Department of State",
+  "lic": "Public domain"
+ },
+ "São Luís": {
+  "file": "Centro_histórico_São_Luís.jpg",
+  "crop": null,
+  "arquivo": "sao-luis.jpg",
+  "autor": "Alan Rodrigues",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Pequim": {
+  "file": "Temple_of_Heaven_-_Hall_of_Prayer_for_Good_Harvests_01_(cropped).jpg",
+  "crop": null,
+  "arquivo": "pequim.jpg",
+  "autor": "xiquinhosilva",
+  "lic": "CC BY 2.0"
+ },
+ "Vitória": {
+  "file": "-2016-11-05_ao_13-_Vitória_94_Romerito_Pontes_(30875449812)_(cropped).jpg",
+  "crop": null,
+  "arquivo": "vitoria.jpg",
+  "autor": "Romerito Pontes from São Carlos",
+  "lic": "CC BY 2.0"
+ },
+ "Lima": {
+  "file": "Basílica_Catedral_Metropolitana_de_Lima_(cropped).jpg",
+  "crop": null,
+  "arquivo": "lima.jpg",
+  "autor": "David Felipe Ruiz Hoyos",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Campo Grande": {
+  "file": "Memorial_da_Cultura_Indígena_-_panoramio.jpg",
+  "crop": null,
+  "arquivo": "campo-grande.jpg",
+  "autor": "Rodrigo_Santos",
+  "lic": "CC BY 3.0"
+ },
+ "Ottawa": {
+  "file": "Parliament-Ottawa.jpg",
+  "crop": null,
+  "arquivo": "ottawa.jpg",
+  "autor": "Arctic.gnome assumed (based on copyright cl",
+  "lic": "CC BY-SA 3.0"
+ },
+ "João Pessoa": {
+  "file": "Catedral_Basílica_Nossa_Senhora_das_Neves,_João_Pessoa_(PB).jpg",
+  "crop": null,
+  "arquivo": "joao-pessoa.jpg",
+  "autor": "Marquinhos",
+  "lic": "CC0"
+ },
+ "Ancara": {
+  "file": "Ankara_asv2021-10_img71_Republic_Museum.jpg",
+  "crop": null,
+  "arquivo": "ancara.jpg",
+  "autor": "A.Savin",
+  "lic": "FAL"
+ },
+ "Cuiabá": {
+  "file": "Ponte_Sérgio_Motta_em_26_de_fevereiro_de_2018.jpg",
+  "crop": null,
+  "arquivo": "cuiaba.jpg",
+  "autor": "Flavio Andre/MTur",
+  "lic": "Attribution"
+ },
+ "Camberra": {
+  "file": "Old_and_new_Parliament_Houses;_Canberra_Australia.jpg",
+  "crop": null,
+  "arquivo": "camberra.jpg",
+  "autor": "Thennicke",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Palmas": {
+  "file": "Palmas-TO.jpg",
+  "crop": null,
+  "arquivo": "palmas.jpg",
+  "autor": "Compiled by Heitor Carvalho Jorge",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Nova Délhi": {
+  "file": "Delhi,_India,_India_Gate.jpg",
+  "crop": null,
+  "arquivo": "nova-delhi.jpg",
+  "autor": "Vyacheslav Argenberg",
+  "lic": "CC BY 4.0"
+ },
+ "Boa Vista": {
+  "file": "Boa_Vista_Roraima_Brazil.jpg",
+  "crop": null,
+  "arquivo": "boa-vista.jpg",
+  "autor": "Ederson Brito - MTUR",
+  "lic": "CC0"
+ },
+ "Porto Velho": {
+  "file": "Porto_Velho_RO.jpg",
+  "crop": null,
+  "arquivo": "porto-velho.jpg",
+  "autor": "Heitor Carvalho Jorge",
+  "lic": "CC BY 3.0"
+ }
+}
