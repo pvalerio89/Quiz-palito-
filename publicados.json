@@ -546,6 +546,20 @@
         "data": "2026-11-13",
         "origem": "github-actions"
       }
+    },
+    "videos/22-capitais": {
+      "youtube": {
+        "status": "publicado",
+        "id": "jIJR6RKwvTc",
+        "url": "https://youtu.be/jIJR6RKwvTc",
+        "data": "2026-11-13",
+        "origem": "github-actions",
+        "sha256": "bf9c59c72e25c2a23a8af4f205a9e10cf8695986f9c4f512debbc9f4e8448df7",
+        "no_ar_em": "2026-11-14T06:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
