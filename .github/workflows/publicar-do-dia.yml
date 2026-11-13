@@ -1,4 +1,4 @@
-# 2 vídeos por dia: 3h e 18h de Brasília (HORARIOS em automacao/fila.py).
+# 2 vídeos por dia: 12h09 e 19h14 de Brasília (HORARIOS em automacao/fila.py).
 # Cada rodada pega o 1º item "pronto" de fila/fila.json e o próximo horário livre (com 2 h de folga),
 # gera o vídeo longo e o Short e sobe os dois AGENDADOS no YouTube (publishAt): o YouTube deixa públicos
 # na hora certa, então o atraso do cron do GitHub não atrapalha. Roda a cada 4 h; sem horário livre, não faz nada.
@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
     inputs:
       agora:
-        description: "Publicar JÁ (sem esperar o horário das 3h/18h)"
+        description: "Publicar JÁ (sem esperar o horário das 12h09/19h14)"
         required: false
         default: false
         type: boolean

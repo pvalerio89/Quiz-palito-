@@ -20,7 +20,7 @@ on:
         required: false
         type: string
       agendar:
-        description: "Opcional: hora UTC em que o YouTube solta o vídeo (ex.: 2026-11-11T06:00:00Z = 3h de Brasília)"
+        description: "Opcional: hora UTC em que o YouTube solta o vídeo (ex.: 2026-11-11T15:09:00Z = 12h09 de Brasília)"
         required: false
         type: string
   workflow_call:   # usado pelo "Publicar do dia"

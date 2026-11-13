@@ -1,0 +1,45 @@
+# Muda a hora em que vídeos já agendados no YouTube entram no ar (ex.: depois de trocar HORARIOS).
+name: Reagendar
+
+on:
+  workflow_dispatch:
+    inputs:
+      trocas:
+        description: "DE=PARA em UTC, separados por espaço (ex.: 2026-11-13T21:00:00Z=2026-11-13T22:14:00Z)"
+        required: true
+        type: string
+
+concurrency:
+  group: publicar-do-dia   # não roda junto com o Publicar do dia
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reagendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - name: Reagendar no YouTube
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          TROCAS: ${{ inputs.trocas }}
+        run: python automacao/reagendar.py $TROCAS
+      - name: Gravar fila e publicados.json
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add fila/fila.json publicados.json
+          git commit -m "Reagendado: $TROCAS" -m "[skip ci]"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
+        env:
+          TROCAS: ${{ inputs.trocas }}
