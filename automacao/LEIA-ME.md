@@ -26,17 +26,19 @@ O render na nuvem usa os mesmos scripts do PC. Nenhum script de vídeo foi troca
 4. Sem auditoria: rode **Enviar ao TikTok** no modo `rascunho`; o vídeo chega na caixa de entrada do TikTok e você publica pelo celular (legenda no resumo da execução).
    Com a auditoria aprovada, o modo `direto` publica sozinho.
 
-## 2 vídeos por dia, sozinho (fila): 3h e 18h
+## 2 vídeos por dia, sozinho (fila): 12h09 e 19h14
 
 - **Lista do Patrick:** links de referência em `fila/novos.txt` (um por linha) ou mandados no chat do projeto.
 - **Rotina do Claude** (tarefa agendada no claude.ai, 2 vezes por dia: 4h43 e 13h43): segue `fila/ROTINA.md`. Passa os links para
   `fila/fila.json`, produz o próximo vídeo longo + Short (perguntas próprias, prévia conferida), marca `pronto`
   e faz o merge em `main` sozinha. Mantém até 4 itens prontos de estoque (2 dias).
 - **Publicar do dia** (workflow: a cada 4 h, logo que a fila muda na main, e de novo sozinho enquanto houver pronto + horário livre; ou à mão em Actions): pega o 1º `pronto` e o próximo horário livre
-  (3h ou 18h de Brasília, com 2 h de folga; `HORARIOS` em `automacao/fila.py`), gera os dois e sobe o longo e o Short
+  (12h09 ou 19h14 de Brasília, com 2 h de folga; `HORARIOS` em `automacao/fila.py`), gera os dois e sobe o longo e o Short
   **agendados** (o YouTube deixa públicos sozinho na hora; o Short leva o link do longo). Marca `publicado` com `no_ar_em`.
   Assim o atraso do cron do GitHub não muda a hora de ir ao ar. À mão com "Publicar JÁ" marcado, sobe público na hora.
   Se falhar, marca `erro` e a rotina conserta. Sem horário livre nas próximas 24 h ou sem item pronto, não faz nada.
+- **Reagendar** (workflow à mão): muda a hora de vídeos já agendados no YouTube. Input `DE=PARA` em UTC
+  (ex.: `2026-11-13T21:00:00Z=2026-11-13T22:14:00Z`); troca o longo e o Short e grava na fila e no `publicados.json`.
 - **TikTok:** o **Publicar do dia** manda cada Short novo sozinho para a caixa de entrada do TikTok (rascunho), logo depois de subir no YouTube. No celular: abra a notificação do TikTok, cole a legenda (notas da Release `video-shorts-<nome>`) e publique.
 - **Parar tudo:** Actions > Publicar do dia > "Disable workflow" (e pausar a tarefa agendada no claude.ai).
 - Ver a fila: `py -3 automacao/fila.py status`.

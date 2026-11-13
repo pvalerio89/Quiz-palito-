@@ -4,7 +4,7 @@ Roda sozinha 2 vezes por dia (4h43 e 13h43) (tarefa agendada no claude.ai). O Pa
 (2026-11-06) publicar direto como público e apaga do YouTube se algo sair errado. Não pergunte, não espere.
 Responda tudo em português do Brasil. Siga o `CLAUDE.md` e a memória do projeto.
 
-São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** agenda o 1º item `pronto` no próximo horário livre (3h ou 18h de Brasília). Esta rotina só deixa itens prontos.
+São **2 vídeos por dia** (longo + Short cada): o workflow **Publicar do dia** agenda o 1º item `pronto` no próximo horário livre (12h09 ou 19h14 de Brasília). Esta rotina só deixa itens prontos.
 
 ## Passos
 
