@@ -182,8 +182,11 @@
       "id": "2026-11-11-jogador-pela-foto",
       "referencia": "https://youtube.com/shorts/ITcIPFmx-a4",
       "tema": "Adivinhe o Jogador pela Foto de Criança (Futebol Day, Short)",
-      "status": "aguardando",
-      "obs": "Fotos de jogadores quando crianças não têm licença livre. Fazer a versão: adivinhe o JOGADOR pela FOTO (fotos reais livres do Wikimedia, com zoom/desfoque que vai abrindo), 3 alternativas. Não repetir jogadores do vídeo 02."
+      "status": "pronto",
+      "obs": "Fotos de jogadores quando crianças não têm licença livre. Fazer a versão: adivinhe o JOGADOR pela FOTO (fotos reais livres do Wikimedia, com zoom/desfoque que vai abrindo), 3 alternativas. Não repetir jogadores do vídeo 02. | FEITO (2026-11-13): 38 perguntas (33 jogadores + 5 técnicos, nenhum do vídeo 02), foto real que começa com zoom e desfoque e vai abrindo na contagem de 7 s, pergunta falada com as alternativas, ~11 min. Short jogador-1: 6 perguntas.",
+      "video": "videos/21-jogador-pela-foto",
+      "short": "shorts/jogador-1",
+      "titulo": "ADIVINHE O JOGADOR PELA FOTO ⚽ 38 Craques do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito"
     },
     {
       "id": "2026-11-11-quiz-ingles",
@@ -206,8 +209,11 @@
       "id": "2026-11-12-capitais-brasil",
       "referencia": "",
       "tema": "Capitais do Brasil e do mundo (pergunta escrita + foto real da cidade, 3 alternativas; diferente do vídeo 07, que é pelo mapa)",
-      "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md.",
-      "status": "aguardando"
+      "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md. | FEITO (2026-11-13): 36 perguntas alternando estado e país, foto real de lugar famoso da capital (Wikimedia), pergunta falada, 7 s, ~11 min. Short capitais-1: 6 perguntas.",
+      "status": "pronto",
+      "video": "videos/22-capitais",
+      "short": "shorts/capitais-1",
+      "titulo": "CAPITAIS DO BRASIL E DO MUNDO 🌎 36 Perguntas do Fácil ao Impossível! Quantas Você Acerta? | Quiz Palito"
     },
     {
       "id": "2026-11-12-pais-pelo-mapa",

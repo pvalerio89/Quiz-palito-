@@ -1,0 +1,3433 @@
+{
+ "Belo Horizonte": {
+  "tipo": "cidade",
+  "art": "Belo_Horizonte",
+  "cand": [
+   {
+    "file": "Praca_do_Papa,_Belo_Horizonte_(cropped)2.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Marina Campos Vinhal"
+   },
+   {
+    "file": "Pirulito_da_Praça_Sete_e_prédios_ao_redor_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Adilmargs"
+   },
+   {
+    "file": "Igrejinha_de_São_Francisco_de_Assis_6.jpeg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Prandrade"
+   },
+   {
+    "file": "Belo_Horizonte_-_Avenida_Afonso_Pena.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Prefeitura de Belo Horizonte"
+   },
+   {
+    "file": "PracaEstacaoMonumentoBH_(cropped).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Bernardo Gouvêa"
+   },
+   {
+    "file": "Belo_Horizonte,_Brasil.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Portal da Copa/ME"
+   },
+   {
+    "file": "Panorama_Mineirão_Pampulha_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Rodrigo Lima/Portal da Copa"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Planta_BH.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Comissão Construtora de Belo Horizonte"
+   }
+  ]
+ },
+ "Salvador": {
+  "tipo": "cidade",
+  "art": "Salvador,_Bahia",
+  "cand": [
+   {
+    "file": "Salvador_BA_(cropped)_2.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Fotos Gov/Ba"
+   },
+   {
+    "file": "Farol_da_barra.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Valdiney Pimenta"
+   },
+   {
+    "file": "Pelourinho_-_Igreja_Rosario_dos_Pretos.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ciroamado"
+   },
+   {
+    "file": "Museu_de_Arte_da_Bahia_Salvador_2018-0828.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley"
+   },
+   {
+    "file": "Centro_Histórico_Salvador_Vista_Aérea_2021-0933.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley"
+   },
+   {
+    "file": "Entardecer_elevedor_lacerda.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ciroamado"
+   },
+   {
+    "file": "Salvador_Brazil_skyline_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Avinash Achar"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Tomé_de_sousa.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "Recife": {
+  "tipo": "cidade",
+  "art": "Recife",
+  "cand": [
+   {
+    "file": "Antonio_Vaz_island_-_Recife,_Pernambuco,_Brazil_(cropped).jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Portal da Copa/ME"
+   },
+   {
+    "file": "Torre_de_Cristal_-_Recife-PE(2)_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "LuÃ­s Guilherme"
+   },
+   {
+    "file": "Basílica_do_Carmo_-_Recife_(PE).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Marcelo Rabelo"
+   },
+   {
+    "file": "Castelo_de_Brennand.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Thaysa Meirelles from Recife - PE, Brasil"
+   },
+   {
+    "file": "Ground_Zero_-_Recife_-_Pernambuco_-_Brazil.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Portal da Copa/ME"
+   },
+   {
+    "file": "Rua_da_Aurora_(2).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "guilherme jofili"
+   },
+   {
+    "file": "Praia_do_Pina_-_Recife,_Pernambuco,_Brasil_(cropped).jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Portal da Copa/ME"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "AMH-6921-KB_Map_of_Recife_and_Mauritsstad.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Anna Goelet&nbsp;(1634–)&nbsp;&nbsp; &nbsp; Description engraver, printer and pu"
+   }
+  ]
+ },
+ "Fortaleza": {
+  "tipo": "cidade",
+  "art": "Fortaleza",
+  "cand": [
+   {
+    "file": "Fortaleza,_Brazil_(4)_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "ME/Portal da Copa"
+   },
+   {
+    "file": "Centro_Dragão_do_Mar_(2).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Nakinn"
+   },
+   {
+    "file": "Entrada_do_Teatro.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "KarlaFPaiva"
+   },
+   {
+    "file": "Ponte_dos_Ingleses_-_Ponte_Metálica.png",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "ME/Portal da Copa/Embratur"
+   },
+   {
+    "file": "Igreja_Matriz_-_Fortaleza-CE_(8433951864).jpg",
+    "lic": [
+     "CC BY 2.0",
+     "CC BY 2.0"
+    ],
+    "autor": "Joao Carlos Medau from Campinas, Brazil"
+   },
+   {
+    "file": "Fortaleza_aerea_arenacastelao.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Governo do Brasil"
+   },
+   {
+    "file": "Iracema_Guardiã.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "ME/Portal da Copa"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Fort_schoonenborch.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "Manaus": {
+  "tipo": "cidade",
+  "art": "Manaus",
+  "cand": [
+   {
+    "file": "Manaus_amazonas.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "©&nbsp;Arne Müseler Arne Müseler&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Amazon_Theatre_(Manaus,_Brazil)_(edited).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ivo Brasil"
+   },
+   {
+    "file": "Manaus_aerea_arenaamazonia.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Governo do Brasil"
+   },
+   {
+    "file": "Igreja_de_São_Sebastião,_Manaus,_AM_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jardelsliumba"
+   },
+   {
+    "file": "Ponte-Rio-Negro-Manaus2.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Portal da Copa"
+   },
+   {
+    "file": "Monumento_à_Abertura_dos_Portos.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Pedro Angelini"
+   },
+   {
+    "file": "Mercado_da_Carne_Adolpho_Lisboa.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Daniel Corttez"
+   },
+   {
+    "file": "Ponta-Negra-Manaus3.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Portal da Copa/ME"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Francisco_de_Orellana1.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Ximénex"
+   }
+  ]
+ },
+ "Curitiba": {
+  "tipo": "cidade",
+  "art": "Curitiba",
+  "cand": [
+   {
+    "file": "Vista_da_Torre_das_Mercês_em_Curitiba.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil"
+   },
+   {
+    "file": "Tanguá_Curitiba.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Vitor Hirota"
+   },
+   {
+    "file": "Climate_in_Southern_Brazil.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mauricio Mercer from Curitiba, Brasil"
+   },
+   {
+    "file": "Estufa_principal_do_Jardim_Botânico_de_Curitiba_02_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rodrigo.Argenton"
+   },
+   {
+    "file": "Rua24HorasCuritiba.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "SamirNosteb"
+   },
+   {
+    "file": "Paço_da_Liberdade_-_Curitiba.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hicham El Banine"
+   },
+   {
+    "file": "Palacio_Avenida_HSBC_2_curitiba_brasil.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Morio"
+   },
+   {
+    "file": "Olho_Neimeyer_03_2007_CWB_9073.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mariordo (Mario Roberto Durán Ortiz)"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   }
+  ]
+ },
+ "Porto Alegre": {
+  "tipo": "cidade",
+  "art": "Porto_Alegre",
+  "cand": [
+   {
+    "file": "IBPA_17398_-_Vista_aérea_da_Orla_Moacyr_Scliar,_na_capital._O_-_2018-10-02_-_Luciano_Lanes-PMPA_(cropped).jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Luciano Lanes/PMPA"
+   },
+   {
+    "file": "A_colorida_Casa_de_Cultura.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "LopesRobson"
+   },
+   {
+    "file": "Laçador_(2189247301)_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "marcusrg - Hello, nice to meet you!"
+   },
+   {
+    "file": "Gasometro_Guaiba.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Lechatjaune"
+   },
+   {
+    "file": "Monumento_aos_expedicionários_-_Parque_Farroupilha_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hedestad"
+   },
+   {
+    "file": "Porto_Alegre_2012_Nokia_N8_-_panoramio.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Marcelino Souza"
+   },
+   {
+    "file": "Porto_Alegre_por_Cristine_Huff_12.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Cristine Denardi Huff"
+   },
+   {
+    "file": "Igreja_Nossa_Senhora_das_Dores_-_Porto_Alegre_-_RS_-_Brasil_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jorge Juno Goi Bengochea"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   }
+  ]
+ },
+ "Belém": {
+  "tipo": "cidade",
+  "art": "Belém",
+  "cand": [
+   {
+    "file": "L1010748-L1010765_copie_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Burn86"
+   },
+   {
+    "file": "Igreja_da_Sé_-_Belém-PA_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ricardo Paranhos"
+   },
+   {
+    "file": "Belém_Praça_do_Relógio_Clock_Place_01_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Cayambe"
+   },
+   {
+    "file": "Pórtico_do_Forte_do_Castelo.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "JLPizzol"
+   },
+   {
+    "file": "Ver-oPeso-Belem.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Mauricio Mercer [2]"
+   },
+   {
+    "file": "Teatro_da_Paz_3.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "João paulo da costa guimarães"
+   },
+   {
+    "file": "Umarizal,_inner_city_neighborhood_of_Belém,_Brazil,_2015.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alanlemos"
+   },
+   {
+    "file": "Brasão_de_Belém_do_Pará.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Bento Maciel Parente, Pedro Teixeira Ayres Chicorro e Baião de Abreu."
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Parreiras-conquista.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Antônio Parreiras&nbsp;(1860–1937)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "Goiânia": {
+  "tipo": "cidade",
+  "art": "Goiânia",
+  "cand": [
+   {
+    "file": "Panomara_Goiânia_2022.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Boaventuravinicius"
+   },
+   {
+    "file": "Praça_Cívica_(Goiânia).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Eugenio Hansen, OFS"
+   },
+   {
+    "file": "Antiga_Estação_Ferroviária_(Goiânia,_Brasil)_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Eugenio Hansen, OFS"
+   },
+   {
+    "file": "Praça_do_Ratinho.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mayra F."
+   },
+   {
+    "file": "Goiania_by-night.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Myosotismail"
+   },
+   {
+    "file": "Parque_Vaca_Brava.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Boaventuravinicius"
+   },
+   {
+    "file": "Ccongyn.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Adelano Lázaro"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Goianiadozoo.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Dasneviano at English Wikipedia"
+   },
+   {
+    "file": "Goiânia2006.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Guilherme Morais from Goiania, Brazil"
+   }
+  ]
+ },
+ "Florianópolis": {
+  "tipo": "cidade",
+  "art": "Florianópolis",
+  "cand": [
+   {
+    "file": "Morro_da_Cruz,_Florianópolis_-_SC,_Brazil_-_panoramio_(cropped).jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "oscar fava"
+   },
+   {
+    "file": "Ponte_Hercílio_Luz_a_noite,_Floripa_-_SC._-_panoramio.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Ricardo Gomes Faraco"
+   },
+   {
+    "file": "Catedral_de_florianopolis.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Luís Flávio Loureiro dos Santos"
+   },
+   {
+    "file": "Avenida_Beira_Mar_Norte_Florianopolis.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Rodrigo Soldon"
+   },
+   {
+    "file": "Florianopolis_market_central_area.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Fernando Dall'Acqua"
+   },
+   {
+    "file": "Praia_da_Joaquina.IMG.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Camilla Costa Gonçalves"
+   },
+   {
+    "file": "Fortaleza_São_José_Ponta_Grossa_3.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "GLandovsky"
+   },
+   {
+    "file": "Brasão_de_Florianópolis.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Oswaldo Rodrigues Cabral, Vitor A. Peluso Jr. e Carlos Humberto P. Corrêa"
+   },
+   {
+    "file": "Aereal_view_of_Florianopolis_SC_69_03_2006.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Mariordo Mario Roberto Duran Ortiz"
+   },
+   {
+    "file": "Parque_Natural_Municipal_do_Morro_da_Cruz_(01).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "DouglasSchifter"
+   }
+  ]
+ },
+ "Vitória": {
+  "tipo": "cidade",
+  "art": "Vitória,_Espírito_Santo",
+  "cand": [
+   {
+    "file": "-2016-11-05_ao_13-_Vitória_94_Romerito_Pontes_(30875449812)_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Romerito Pontes from São Carlos"
+   },
+   {
+    "file": "Catedral_Metropolitana_de_Vitória_Espírito_Santo_2019-3891.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley&nbsp;(1970–)&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Birth nam"
+   },
+   {
+    "file": "Palácio_Anchieta_Escadaria_Bárbara_Monteiro_Lindenberg_Vitória_Espírito_Santo_2019-4670.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley&nbsp;(1970–)&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Birth nam"
+   },
+   {
+    "file": "Estátua_de_Iemanjá_em_Vitória,_ES.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "El aristoteles"
+   },
+   {
+    "file": "Parque_estadual_Pedra_da_Cebola.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ana Paula Jejesky de Oliveira"
+   },
+   {
+    "file": "Avenida_Saturnino_de_Brito_.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Getuliorpj"
+   },
+   {
+    "file": "Teatro_Carlos_Gomes_Vitória_Espírito_Santo_2019-4241.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley&nbsp;(1970–)&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Birth nam"
+   },
+   {
+    "file": "MarceloMoryan_ParqueDaFonteGrande_Vitoria_ES_(39183016360).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   }
+  ]
+ },
+ "São Luís": {
+  "tipo": "cidade",
+  "art": "São_Luís,_Maranhão",
+  "cand": [
+   {
+    "file": "São_Luís_Aérea.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Lechenet.com"
+   },
+   {
+    "file": "SaoLuis-PalacioLeoes1.jpg",
+    "lic": [
+     "CC BY 2.0",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Léo Brégula from Campinas, Brasil"
+   },
+   {
+    "file": "São_Luis_46.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "JLPizzol"
+   },
+   {
+    "file": "Centro_histórico_São_Luís.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alan Rodrigues"
+   },
+   {
+    "file": "Ponta_do_Farol_Noturna.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Miguel Oliverr"
+   },
+   {
+    "file": "SaoLuis-Fountain.jpg",
+    "lic": [
+     "CC BY 2.0",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Marcus Guimarães from Nova Friburgo, Brazil"
+   },
+   {
+    "file": "Wv_Sao_Luis_banner.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Artur Oliveira Silva"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "AMH-6765-NA_View_of_Sao_Luis_de_Maranhao.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Johannes Vingboons&nbsp;(1616–1670)&nbsp;&nbsp; &nbsp; Alternative names Jan Vin"
+   },
+   {
+    "file": "Aerial_view_of_Maranhao.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Amelia Earhart"
+   }
+  ]
+ },
+ "Campo Grande": {
+  "tipo": "cidade",
+  "art": "Campo_Grande",
+  "cand": [
+   {
+    "file": "VA_Pq_das_Nações_Indígenas_(cropped).jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Flavio Andre/MTur Destinos"
+   },
+   {
+    "file": "Catedral_de_Campo_Grande-5.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alexanderps"
+   },
+   {
+    "file": "CampoGrande3_(cropped).png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Allexanndr3"
+   },
+   {
+    "file": "Bioparque_Pantanal_36_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ajmcbarreto"
+   },
+   {
+    "file": "MARCO_Parque_das_Nações_Indígenas.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Flavio Andre/MTur Destinos"
+   },
+   {
+    "file": "Memorial_da_Cultura_Indígena_-_panoramio.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Rodrigo_Santos"
+   },
+   {
+    "file": "Palácio_das_Comunicações,_Campo_Grande_-_Julho_2006.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5",
+     "Public domain"
+    ],
+    "autor": "Jerônimo Freitas Rodrigues de Carvalho"
+   },
+   {
+    "file": "Último_suspiro_do_sol.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Roberto Pavezi Netto"
+   },
+   {
+    "file": "VA_Belmar_Campo_Grande.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Flavio Andre/MTur Destinos"
+   },
+   {
+    "file": "Horto_Florestal.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5",
+     "Public domain"
+    ],
+    "autor": "Jerônimo Freitas Rodrigues de Carvalho"
+   }
+  ]
+ },
+ "João Pessoa": {
+  "tipo": "cidade",
+  "art": "João_Pessoa,_Paraíba",
+  "cand": [
+   {
+    "file": "Parque_da_Lagoa_Sólon_de_Lucena,_João_Pessoa_(PB).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Rosanetur"
+   },
+   {
+    "file": "Centro_Histórico_de_João_Pessoa.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rogerio121402"
+   },
+   {
+    "file": "Catedral_Basílica_Nossa_Senhora_das_Neves,_João_Pessoa_(PB).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Marquinhos"
+   },
+   {
+    "file": "Ponta_do_Seixas,_João_Pessoa_(PB).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Attribution"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Falésia_do_Cabo_Branco,_João_Pessoa_(PB).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Attribution"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "João_Pessoa,_capital_da_Paraíba,_Brasil.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Marcos Elias de Oliveira Júnior"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Convento_e_Igreja_de_Santo_Antônio_e_Casa_de_Oração_e_claustro_da_Ordem_Terceira_de_São_Francisco.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fabio88jp"
+   },
+   {
+    "file": "Igreja_da_Ordem_Terceira_do_Carmo_(2RC_3250).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ruy Carvalho"
+   },
+   {
+    "file": "Ponte_Rio_Paraíba_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Zelma Brito"
+   }
+  ]
+ },
+ "Natal": {
+  "tipo": "cidade",
+  "art": "Natal,_Rio_Grande_do_Norte",
+  "cand": [
+   {
+    "file": "Natal_aerial_view_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "©&nbsp;Arne Müseler Arne Müseler&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Alex_Regis_Morro_do_Careca_Ponta_Negra_Natal_RN_(40261556354).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Igreja_Matriz_de_Nossa_Senhora_da_Apresentação,_Natal_(RN).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Marcos Elias de Oliveira Júnior"
+   },
+   {
+    "file": "RuaChileNatalRN.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Fábio Pinheiro"
+   },
+   {
+    "file": "Forte-reis-magos.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Onesimo.santos"
+   },
+   {
+    "file": "Ponte_Newton_Navarro_de_manhã,_Natal_(RN).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Marcos Elias de Oliveira Júnior"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Gillis_Peeters_-_O_Forte_dos_Reis_Magos.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Gillis Peeters&nbsp;(1612–1653)&nbsp;&nbsp; &nbsp; Alternative names Gillis Peet"
+   },
+   {
+    "file": "Praça_André_de_Albuquerque,_Natal_(RN).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Marcos Elias de Oliveira Júnior"
+   }
+  ]
+ },
+ "Cuiabá": {
+  "tipo": "cidade",
+  "art": "Cuiabá",
+  "cand": [
+   {
+    "file": "Cuiabá_center.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "©&nbsp;Arne Müseler Arne Müseler&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Catedral_Metropolitana_de_Cuiabá_Mato_Grosso_2024-9354.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Prburley"
+   },
+   {
+    "file": "Obelisco_do_Centro_Geodésico_da_América_do_Sul.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fabio Gomes"
+   },
+   {
+    "file": "Chafariz_do_Mundéu_-_Cuiabá_-_20240930134803.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ileticiachaves"
+   },
+   {
+    "file": "Rua_Candido_Mariano.jpg",
+    "lic": [
+     "CC BY-SA 2.5 br"
+    ],
+    "autor": "Mateus Hidalgo"
+   },
+   {
+    "file": "Museu_do_Rio_Cuiaba.jpg",
+    "lic": [
+     "CC BY-SA 2.5 br"
+    ],
+    "autor": "Mateus Hidalgo"
+   },
+   {
+    "file": "Ponte_Sérgio_Motta_em_26_de_fevereiro_de_2018.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Flavio Andre/MTur"
+   },
+   {
+    "file": "Arena_Pantanal.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "©&nbsp;Arne Müseler Arne Müseler&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Cuiabá_-_State_of_Mato_Grosso,_Brazil_-_panoramio.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Henrique de Abreu Pi…"
+   }
+  ]
+ },
+ "Teresina": {
+  "tipo": "cidade",
+  "art": "Teresina",
+  "cand": [
+   {
+    "file": "Montagem_Teresina.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "See above. Compilation by Heitor Carvalho Jorge"
+   },
+   {
+    "file": "ISS_Teresina,_Brazil.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "NASA/Chris Hadfield"
+   },
+   {
+    "file": "Vista_do_mirante_da_ponte_estaiada_de_Teresina.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Porto Neto"
+   },
+   {
+    "file": "Embraer_E195-E2_PR-PJN_Azul_no_Aeroporto_de_Teresina_-_Senador_Petrônio_Portella_.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alexandro Dias"
+   },
+   {
+    "file": "Estação_Metro_de_Teresina.JPG",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Claudio Martins"
+   },
+   {
+    "file": "Interno_do_estádio_Albertão_Teresina.JPG",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Academia de letras de CM"
+   }
+  ]
+ },
+ "Aracaju": {
+  "tipo": "cidade",
+  "art": "Aracaju",
+  "cand": [
+   {
+    "file": "Ponte_do_Imperador_Aracaju.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "E-Sergipe"
+   },
+   {
+    "file": "Brazilian_Navy_Lighthouse_-_Aracaju.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rodrigogomesonetwo"
+   },
+   {
+    "file": "Orla_de_Atalaia_-_Aracaju.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Codevasf"
+   },
+   {
+    "file": "Catedral_Metropolitana_de_Aracaju_frente.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hanielbs"
+   },
+   {
+    "file": "Ponte_Aracaju-Barra.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Tito Garcez"
+   },
+   {
+    "file": "Skyline_de_Aracaju_com_o_Rio_Sergipe.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Tito Garcez"
+   },
+   {
+    "file": "Aeroporto,_Aracaju_-_SE,_Brazil_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Paulo JC Nogueira"
+   },
+   {
+    "file": "Praça_General_Valadão_Aracaju.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "E-Sergipe"
+   }
+  ]
+ },
+ "Maceió": {
+  "tipo": "cidade",
+  "art": "Maceió",
+  "cand": [
+   {
+    "file": "Praia_de_Ipioca_-_Maceió_-_Alagoas_(11394603505).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Cícero R. C. Omena"
+   },
+   {
+    "file": "Cidade_de_Maceió-ALAGOAS.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Edu from Santiago de Chile, Chile"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Praia_de_Ipioca_-_Maceió_-_Alagoas_(11394615784).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Cícero R. C. Omena"
+   },
+   {
+    "file": "Avenida_Entrecoqueiros.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "André Lage Freitas"
+   },
+   {
+    "file": "TUDH_Bom_Sinal_Maceio-AL_27.06.2012_-_ELIAS_VIEIRA.png",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "Elias Vieira"
+   },
+   {
+    "file": "Aeroporto_Internacional_Zumbi_dos_Palmares_-_03.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ajmcbarreto"
+   },
+   {
+    "file": "Porto_de_Maceió_no_Jaraguá,_Alagoas.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Silvio E Bergamini F"
+   }
+  ]
+ },
+ "Palmas": {
+  "tipo": "cidade",
+  "art": "Palmas,_Tocantins",
+  "cand": [
+   {
+    "file": "Palmas-TO.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Compiled by Heitor Carvalho Jorge"
+   },
+   {
+    "file": "Brasao_palmas_tocantins.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Prefeitura Municipal de Palmas"
+   },
+   {
+    "file": "Palmas_TO_-_27234519688.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Attribution"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Palmas_shopping_entrada_principal.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Felipebjj21"
+   },
+   {
+    "file": "Cascata_Pca_Girassois_Palmas_TO.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Attribution"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Vista_de_Palmas,_Tocantins.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Attribution"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Flavioandre_Palacio_Governo_Palmas_TO.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Flávio André/MTur Destinos"
+   },
+   {
+    "file": "Hospital_Universitário_de_Doenças_Tropicais_de_Araguaína.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hallel"
+   },
+   {
+    "file": "Prédio_principal_do_CeMAF_(Centro_de_Monitoramento_Ambiental_e_Manejo_do_Fogo)_-_UFT.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "CeMAF"
+   },
+   {
+    "file": "Aeroporto_de_Palmas_a_noite.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Apcs78"
+   }
+  ]
+ },
+ "Macapá": {
+  "tipo": "cidade",
+  "art": "Macapá",
+  "cand": [
+   {
+    "file": "Macapá_Montage_(2021).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Allice Hunter"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Vista_do_centro_de_Macapá.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sadami Yoshida"
+   },
+   {
+    "file": "Fortaleza_São_José_de_Macapá.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "[2]"
+   },
+   {
+    "file": "Linha_do_Equador_Macapá_AP,Brasil_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "jose donizetti dias"
+   },
+   {
+    "file": "Saint_Joseph_Church,_Macapá_city,_Brazil.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Jorge Andrade from Rio de Janeiro, Brazil"
+   },
+   {
+    "file": "Pôr_do_Sol_no_Bailique.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rui Brandão Photo"
+   }
+  ]
+ },
+ "Porto Velho": {
+  "tipo": "cidade",
+  "art": "Porto_Velho",
+  "cand": [
+   {
+    "file": "Porto_Velho_RO.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Heitor Carvalho Jorge"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Barbadian_workers.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "dogfacebob"
+   },
+   {
+    "file": "Por_do_sol_no_rio_Madeira.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Filipux at Portuguese Wikipedia"
+   },
+   {
+    "file": "Megapanoramica_PVH.jpg",
+    "lic": [
+     "CC BY 3.0",
+     "GFDL"
+    ],
+    "autor": "Braulio Gerhardt"
+   },
+   {
+    "file": "Aeroporto_de_Porto_Velho2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "BR-364_Duplicada.jpg",
+    "lic": [
+     "CC BY 3.0",
+     "GFDL"
+    ],
+    "autor": "Braulio Gerhardt"
+   },
+   {
+    "file": "UNIR.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Filipux"
+   },
+   {
+    "file": "Casa_da_Cultura_de_Porto_Velho.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Filipe Mesquita de Oliveira"
+   },
+   {
+    "file": "Prefeitura_e_Biblioteca_Municipal_de_Porto_Velho.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. Filipux assumed (based on copyright claims)"
+   }
+  ]
+ },
+ "Rio Branco": {
+  "tipo": "cidade",
+  "art": "Rio_Branco,_Acre",
+  "cand": [
+   {
+    "file": "RioBrancoAcreBRA.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Iorran93pontobeerre"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Rio_Branco_frio.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "No machine-readable author provided. Tojolo~commonswiki assumed (based on copyri"
+   },
+   {
+    "file": "RainyRioBrancoAC.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Iorran93pontobeerre"
+   },
+   {
+    "file": "RioBranco(RBR).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Iorran93pontobeerre"
+   },
+   {
+    "file": "Acre_rio_Branco_(137).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Rio_Branco(RBR)2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Iorran93pontobeerre"
+   },
+   {
+    "file": "Rodeio_Expoacre1.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Agência de Notícias do Acre"
+   },
+   {
+    "file": "Acre_rio_Branco_(133).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Arena_da_floresta.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "No machine-readable author provided. Tojolo~commonswiki assumed (based on copyri"
+   }
+  ]
+ },
+ "Boa Vista": {
+  "tipo": "cidade",
+  "art": "Boa_Vista,_Roraima",
+  "cand": [
+   {
+    "file": "Montagem_Boa_Vista,_Roraima.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Allice Hunter (compilation)"
+   },
+   {
+    "file": "Brasão_Municipal_de_Boa_Vista_Roraima.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rogerio R M Azevedo"
+   },
+   {
+    "file": "Boa_Vista_Roraima_Brazil.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Ederson Brito - MTUR"
+   },
+   {
+    "file": "Bloco_I_UFRR.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Eu"
+   },
+   {
+    "file": "Orla_3.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Wallaceferrao at English Wikipedia"
+   },
+   {
+    "file": "Velia_Coutinho_2.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Wallaceferrao at English Wikipedia"
+   },
+   {
+    "file": "Arraial_de_Boa_Vista_2007_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rogério Regis"
+   },
+   {
+    "file": "Orla_de_Boa_Vista_5.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "SallesNeto BR at Portuguese Wikipedia"
+   },
+   {
+    "file": "Garimpeiro.JPG",
+    "lic": [
+     "PD"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Rodoviária_Internacional_de_Boa_Vista.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Eu"
+   }
+  ]
+ },
+ "Brasília": {
+  "tipo": "cidade",
+  "art": "Brasília",
+  "cand": [
+   {
+    "file": "Planalto_Central_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Arturdiasr"
+   },
+   {
+    "file": "Reflexos_do_Planalto.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jonas Richter"
+   },
+   {
+    "file": "Congresso_Nacional_visto_da_Alameda_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Filipo Tardim"
+   },
+   {
+    "file": "A_Justiça_escultura_BSB_08_2005_25.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mariordo (Mario Roberto Durán Ortiz)"
+   },
+   {
+    "file": "Memorial_JK_(1).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jorge Luiz Castro"
+   },
+   {
+    "file": "Catedral_Metropolitana_de_Brasília_-_visão_noturna_01_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Filipo Tardim"
+   },
+   {
+    "file": "BSB_Ponte_JK_08_2005_45_8x6_(cropped).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mario Roberto Duran Ortiz"
+   },
+   {
+    "file": "BSB_02_2013_Eixo_Monumental_5884.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Mariordo (Mario Roberto Duran Ortiz)"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   }
+  ]
+ },
+ "Paris": {
+  "tipo": "cidade",
+  "art": "Paris",
+  "cand": [
+   {
+    "file": "La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_août_2014_(2).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Yann Caradec from Paris, France"
+   },
+   {
+    "file": "Notre-Dame_de_Paris_2013-07-24.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "P e z i"
+   },
+   {
+    "file": "Basilique_du_Sacré-Cœur_de_Montmartre,_Paris_18e_140223_2.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "DXR"
+   },
+   {
+    "file": "Panthéon_-_Paris_V_(FR75)_-_2025-03-29_-_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Chabe01"
+   },
+   {
+    "file": "Arc_de_Triomphe_HDR_2007.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Kainet"
+   },
+   {
+    "file": "Palais_Garnier_-_Paris_IX_(FR75)_-_2022-01-22_-_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Chabe01"
+   },
+   {
+    "file": "Louvre_Courtyard,_Looking_West.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Benh LIEU SONG (Flickr)"
+   },
+   {
+    "file": "France_relief_location_map.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Eric Gaba (Sting - fr:Sting)"
+   },
+   {
+    "file": "Ile-de-France_region_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Eric Gaba (Sting - fr:Sting)"
+   },
+   {
+    "file": "ParisiiCoins.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. World Imaging assumed (based on copyright c"
+   }
+  ]
+ },
+ "Roma": {
+  "tipo": "cidade",
+  "art": "Rome",
+  "cand": [
+   {
+    "file": "Rome_skyline_panorama.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Nicholas Hartmann"
+   },
+   {
+    "file": "Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Diliff"
+   },
+   {
+    "file": "Colosseo_2020.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "FeaturedPics"
+   },
+   {
+    "file": "Barcaccia_e_scalinata.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "WikiRomaWiki"
+   },
+   {
+    "file": "Petersdom_von_Engelsburg_gesehen_crop.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Engelsburg_und_Engelsbrücke_abends_(Zuschnitt).jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "Thomas Wolf, www.foto-tw.de"
+   },
+   {
+    "file": "Pantheon_Rom_1_cropped.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rabax63"
+   },
+   {
+    "file": "Piazza_Venezia_-_Il_Vittoriano_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Paolo Costa Baldi"
+   },
+   {
+    "file": "Italy_relief_location_map.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Eric Gaba (Sting - fr:Sting) and NordNordWest"
+   }
+  ]
+ },
+ "Tóquio": {
+  "tipo": "cidade",
+  "art": "Tokyo",
+  "cand": [
+   {
+    "file": "Skyscrapers_of_Shinjuku_2009_January.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Morio"
+   },
+   {
+    "file": "Tokyo_Skytree_at_night_(Iki)_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kakidai"
+   },
+   {
+    "file": "2019-09-05_Rainbow_bridge,_view_from_Daibo_park,_Tokyo.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Sergey Galyonkin"
+   },
+   {
+    "file": "TaroTokyo20110213-TokyoTower-01min.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "東京太郎"
+   },
+   {
+    "file": "Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Benh LIEU SONG (Flickr)"
+   },
+   {
+    "file": "National_Diet_Building_02.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Kakidai"
+   },
+   {
+    "file": "024_Seimon_Ishibashi_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Kakidai"
+   },
+   {
+    "file": "Tokyo-STA_Marunouchi-Entrance_2023.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "MaedaAkihiko"
+   },
+   {
+    "file": "Hiroshige,_Sugura_street.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Utagawa Hiroshige&nbsp;(1797–1858)&nbsp;&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "Londres": {
+  "tipo": "cidade",
+  "art": "London",
+  "cand": [
+   {
+    "file": "London_Skyline_(125508655).jpeg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ilya Grigorik"
+   },
+   {
+    "file": "London_Eye_at_sunset_2013-07-19.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bob Collowan"
+   },
+   {
+    "file": "Westminster_Abbey_St_Peter.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Σπάρτακος (changes by Rabanus Flavus)"
+   },
+   {
+    "file": "St_Paul's_Cathedral_Dome_from_One_New_Change_-_Vertical_Crop.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Colin"
+   },
+   {
+    "file": "Canary_Wharf.Reza_04.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "M R Karim Reza"
+   },
+   {
+    "file": "Houses_of_Parliament_in_2022_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Terry Ott from Washington, DC Metro Area, United States of America"
+   },
+   {
+    "file": "England_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Nilfanion"
+   },
+   {
+    "file": "United_Kingdom_relief_location_map.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexrk2"
+   },
+   {
+    "file": "Europe_relief_laea_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexrk2"
+   }
+  ]
+ },
+ "Madri": {
+  "tipo": "cidade",
+  "art": "Madrid",
+  "cand": [
+   {
+    "file": "Madrid_-_Sky_Bar_360º_(Hotel_Riu_Plaza_España),_vistas_19.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Zarateman"
+   },
+   {
+    "file": "Puerta_de_Alcalá,_Madrid,_España,_2017-05-18,_DD_14.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Diego Delso&nbsp;(1974–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Plaza_Mayor_De_Madrid_(215862629)_edited.jpeg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Francisco Anzola"
+   },
+   {
+    "file": "Gran_Vía_(Madrid)_1.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Español: Felipe Gabaldón"
+   },
+   {
+    "file": "Fountain_of_Cybele_at_Plaza_de_Cibeles,_Madrid,_Spain_(Ank_Kumar,_Infosys_Limited_)_04.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ank Kumar"
+   },
+   {
+    "file": "Palaciorealycatedraldelaalmudena_retouched.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "jsogo"
+   },
+   {
+    "file": "Europe_relief_laea_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexrk2"
+   },
+   {
+    "file": "Dibujo_madrid_1562.JPG",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Anton van den Wyngaerde&nbsp;(1525–1571)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Baños_en_el_Manzanares_en_el_paraje_de_Molino_Quemado._Museo_de_Historia_de_Madrid_(detalle).JPG",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "CC0"
+    ],
+    "autor": "Felix Castello&nbsp;(1595–1651)&nbsp;&nbsp; &nbsp; Alternative names Félix Caste"
+   },
+   {
+    "file": "Madrid_-_Calle_de_Alcalá_in_18th-century_by_Antonio_Joli.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Antonio Joli&nbsp;(1700–1777)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "Lisboa": {
+  "tipo": "cidade",
+  "art": "Lisbon",
+  "cand": [
+   {
+    "file": "Lisboa_-_Portugal_(52597836992).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Vitor Oliveira from Torres Vedras, PORTUGAL"
+   },
+   {
+    "file": "Belem_Tower_(33641421694)_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Shadowgate from Novara, ITALY"
+   },
+   {
+    "file": "Arco_Triunfal_da_Rua_Augusta_from_Praça_do_Comércio_41.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Kent Wang"
+   },
+   {
+    "file": "West_facade_of_Lisbon_Cathedral_(retouched).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Diego Delso&nbsp;(1974–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Praça_Luís_de_Camões_DSC_0191_(52637381613).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Michael Gaylard from Horsham, UK"
+   },
+   {
+    "file": "Campo_Pequeno_Lisboa.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Husond"
+   },
+   {
+    "file": "Parque_das_Nações_31_(cropped2).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Lacobrigo"
+   },
+   {
+    "file": "Reliefkarte_Portugal.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Tschubby"
+   },
+   {
+    "file": "Europe_relief_laea_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexrk2"
+   },
+   {
+    "file": "Escavações_no_Claustro_da_Sé_de_Lisboa.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alegna13"
+   }
+  ]
+ },
+ "Berlim": {
+  "tipo": "cidade",
+  "art": "Berlin",
+  "cand": [
+   {
+    "file": "Museumsinsel_Berlin_Juli_2021_1_(cropped)_b.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "File:Museumsinsel Berlin Juli 2021 1 (cropped).jpg: Kasa Fue derivative work: Ge"
+   },
+   {
+    "file": "Berlin_-_Siegessäule1.jpg",
+    "lic": [
+     "FAL"
+    ],
+    "autor": "Taxiarchos228"
+   },
+   {
+    "file": "Berlin-Mitte,_het_Berliner_Schloss_Dm_IMG_5754_2024-09-07_12.46.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Michielverbeek"
+   },
+   {
+    "file": "Brandenburger_Tor_morgens.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Thomas Wolf, www.foto-tw.de"
+   },
+   {
+    "file": "Facade_of_the_Berlin_Cathedral.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Gerbin Ley Pic"
+   },
+   {
+    "file": "West_facade_of_the_Reichstag_building,_Berlin.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Christian David"
+   },
+   {
+    "file": "150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg",
+    "lic": [
+     "CC BY 3.0 de"
+    ],
+    "autor": "Ansgar Koreng"
+   },
+   {
+    "file": "Europe_relief_laea_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexrk2"
+   },
+   {
+    "file": "Seal_Berlin_1253.png",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "scan Jwnabd"
+   }
+  ]
+ },
+ "Cairo": {
+  "tipo": "cidade",
+  "art": "Cairo",
+  "cand": [
+   {
+    "file": "Cairo_From_Tower_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Wael El Sisi"
+   },
+   {
+    "file": "Mosque_of_Ibn_Tulun_and_spiral_minaret_of_Mamluk_Sultan_Lajin,_1296,_Cairo.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Richard Mortel"
+   },
+   {
+    "file": "DSC_0003~2~2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Tarek Ramadan"
+   },
+   {
+    "file": "Complex_of_Al_Sultan_Al_Zahir_Barquq_009.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Heba otefy"
+   },
+   {
+    "file": "Kairo_Midan_Talaat_Harb_BW_2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Berthold Werner"
+   },
+   {
+    "file": "Baron_Palace.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hoba offendum"
+   },
+   {
+    "file": "Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_قلعة_صلاح_الدين_الأيوبي_ومسجد_محمد_علي_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Ahmed Al.Badawy from Cairo, Egypt"
+   },
+   {
+    "file": "Cairo_Opera_House_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "AwOiSoAk KaOsIoWa"
+   },
+   {
+    "file": "Egypt_relief_location_map.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Eric Gaba (Sting - fr:Sting) and NordNordWest"
+   },
+   {
+    "file": "Africa_relief_location_map.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Eric Gaba (Sting - fr:Sting)"
+   }
+  ]
+ },
+ "Washington": {
+  "tipo": "cidade",
+  "art": "Washington,_D.C.",
+  "cand": [
+   {
+    "file": "12-07-13-washington-by-RalfR-08.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmonteur.de Wikis in der"
+   },
+   {
+    "file": "National_Mall,_Lincoln_Memorial_04448v.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Carol M. Highsmith&nbsp;(1946–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "WashingtonNationalCathedralHighsmith15393v.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Carol M. Highsmith&nbsp;(1946–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Wharf_Marina_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sdkb"
+   },
+   {
+    "file": "Adams_Morgan_Day_2014_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Ted Eytan&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "White_House_lawn_(long_tightly_cropped).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Daniel Schwen"
+   },
+   {
+    "file": "DC_neighborhoods_map_high_res.png",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Peterfitzgerald"
+   },
+   {
+    "file": "Usa_edcp_relief_location_map.png",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "North_America_laea_relief_location_map_with_borders.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "USCapitol1800.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "William Russell Birch&nbsp;(1755–1834)&nbsp;&nbsp; &nbsp; Alternative names Will"
+   }
+  ]
+ },
+ "Moscou": {
+  "tipo": "cidade",
+  "art": "Moscow",
+  "cand": [
+   {
+    "file": "Saint_Basil's_Cathedral_and_the_Red_Square.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "U.S. Department of State"
+   },
+   {
+    "file": "Cathedral_of_Christ_the_Saviour-1.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Aleks G"
+   },
+   {
+    "file": "Moscow-City_2025.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Igor3188"
+   },
+   {
+    "file": "Moscow_Gorky_Park_main_portal_08-2016_img1.jpg",
+    "lic": [
+     "FAL"
+    ],
+    "autor": "A.Savin"
+   },
+   {
+    "file": "Moscow-Bolshoi-Theare-1.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "DmitriyGuryanov"
+   },
+   {
+    "file": "Moscow_International_Business_Center7.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "mos.ru"
+   },
+   {
+    "file": "Russia_rel_location_map.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Europe_relief_laea_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexrk2"
+   },
+   {
+    "file": "Facial_Chronicle_-_b.10,_p.049_-_Tokhtamysh_at_Moscow.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Вид_на_Спасскую_башню_от_Исторического_музея.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Valeriy1960"
+   }
+  ]
+ },
+ "Camberra": {
+  "tipo": "cidade",
+  "art": "Canberra",
+  "cand": [
+   {
+    "file": "Canberra_panorama_from_Mount_Ainslie.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "The 3B's"
+   },
+   {
+    "file": "National_Carillon,_Canberra_ACT_(2).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Thennicke"
+   },
+   {
+    "file": "Australian_War_Memorial_Canberra,_ACT_(2).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Goran Has"
+   },
+   {
+    "file": "Torre_Telstra,_Canberra_-_panoramio_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nelson Pérez"
+   },
+   {
+    "file": "Parliament_House,_National_Library_of_Australia,_Canberra,_2023_(2).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Chris Olszewski"
+   },
+   {
+    "file": "National_Gallery_from_SW,_Canberra_Australia.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Thennicke"
+   },
+   {
+    "file": "Old_and_new_Parliament_Houses;_Canberra_Australia.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Thennicke"
+   },
+   {
+    "file": "Australia_relief_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Виктор В"
+   },
+   {
+    "file": "Oceania_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "St_johns_church_in_reid_canberra.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Cfitzart"
+   }
+  ]
+ },
+ "Ottawa": {
+  "tipo": "cidade",
+  "art": "Ottawa",
+  "cand": [
+   {
+    "file": "Parliament-Ottawa.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "No machine-readable author provided. Arctic.gnome assumed (based on copyright cl"
+   },
+   {
+    "file": "Rideau_Canal_at_downtown_Ottawa.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Suwannee.payne"
+   },
+   {
+    "file": "10_Rideau_Hall_P1350151.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Paul Tavares"
+   },
+   {
+    "file": "View_of_west_elevation_of_Château_Laurier_Hotel,_Ottawa;.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "John A. Brebner"
+   },
+   {
+    "file": "Major's_Hill_Park(3).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Canada_Ontario_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Carport"
+   },
+   {
+    "file": "North_America_laea_relief_location_map_with_borders.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Champlain_Sea_1.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Orbitale"
+   },
+   {
+    "file": "First_camp_by_By.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "John By"
+   },
+   {
+    "file": "Lebreton_Flats_after_1900_fire.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "Pequim": {
+  "tipo": "cidade",
+  "art": "Beijing",
+  "cand": [
+   {
+    "file": "Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955)_(1).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "N509FZ"
+   },
+   {
+    "file": "景山公园_(20315852831)-_cropped.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Han Zheng"
+   },
+   {
+    "file": "Temple_of_Heaven_-_Hall_of_Prayer_for_Good_Harvests_01_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "xiquinhosilva"
+   },
+   {
+    "file": "Peking_Grosse_Mauer-20071019-RM-114506.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Reinhold Möller Ermell"
+   },
+   {
+    "file": "Longevity_Hill_of_the_Summer_Palace.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "xiquinhosilva"
+   },
+   {
+    "file": "天安门夜景.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Charlie fong冯成"
+   },
+   {
+    "file": "China_edcp_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Asia_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "潭拓寺大雄宝殿.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "爱上甜食的猫"
+   },
+   {
+    "file": "Pagoda_of_Tianning_Temple_from_Tianning_No._1_(20230904171639).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "N509FZ"
+   }
+  ]
+ },
+ "Ancara": {
+  "tipo": "cidade",
+  "art": "Ankara",
+  "cand": [
+   {
+    "file": "Ankara_from_bus_station.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Boubacar Amadou Cisse"
+   },
+   {
+    "file": "Ankara_asv2021-10_img15_Atakule.jpg",
+    "lic": [
+     "FAL"
+    ],
+    "autor": "A.Savin"
+   },
+   {
+    "file": "ANKARA_KOCATEPE_CAMİİ.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Uğurgüler06"
+   },
+   {
+    "file": "Ankara_asv2021-10_img71_Republic_Museum.jpg",
+    "lic": [
+     "FAL"
+    ],
+    "autor": "A.Savin"
+   },
+   {
+    "file": "Ankara_asv2021-10_img04_Anıtkabir.jpg",
+    "lic": [
+     "FAL"
+    ],
+    "autor": "A.Savin"
+   },
+   {
+    "file": "Millet_Kütüphanesi.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Dominator1071"
+   },
+   {
+    "file": "Turkey_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Turkey_location_map.svg: NordNordWest derivative work: Uwe Dedering (talk)"
+   },
+   {
+    "file": "Asia_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "AlacaStandarte.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Klaus-Peter Simon"
+   }
+  ]
+ },
+ "Lima": {
+  "tipo": "cidade",
+  "art": "Lima",
+  "cand": [
+   {
+    "file": "Ciudad_De_Lima.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Vengador1"
+   },
+   {
+    "file": "Basílica_Catedral_Metropolitana_de_Lima_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "David Felipe Ruiz Hoyos"
+   },
+   {
+    "file": "Urban_View_of_Lima,_Peru_09_(Night_City).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Zeromilas123"
+   },
+   {
+    "file": "Parque_de_La_Reserva,_Lima_-_Peru_-_panoramio_(7).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Paulo JC Nogueira"
+   },
+   {
+    "file": "San_Francisco_Lima.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Herwig Reidlinger"
+   },
+   {
+    "file": "Faro_La_Marina,_Miraflores_(6905145089).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Alex Proimos from Sydney, Australia"
+   },
+   {
+    "file": "Centro_financiero_en_el_Perú_30.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ciudades"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Pachacamac_Mamacona2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "No machine-readable author provided. Xauxa assumed (based on copyright claims)."
+   },
+   {
+    "file": "Fundación_de_Lima_Effio.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "José Effio&nbsp;(1856–1914)&nbsp;&nbsp; &nbsp; Description Peruvian painter"
+   }
+  ]
+ },
+ "Santiago": {
+  "tipo": "cidade",
+  "art": "Santiago",
+  "cand": [
+   {
+    "file": "Santiago_de_Chile,_Desde_Cerro_San_Cristóbal_(cropped_panorama).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Omnespsx (D•ES)"
+   },
+   {
+    "file": "Palacio_de_La_Moneda_-_miguelreflex.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Miguel hernandez"
+   },
+   {
+    "file": "Biblioteca_Nacional_de_Chile,_2012-09-08.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Pollolavin"
+   },
+   {
+    "file": "Chile_-_Santiago_24_-_Virgin_Mary_statue_on_Cerro_San_Cristóbal_(6977789601).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "McKay Savage from London, UK"
+   },
+   {
+    "file": "Torre_Entel,_Santiago_20230312.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Carlos Figueroa"
+   },
+   {
+    "file": "Fuente_Neptuno_en_la_Terraza_del_Cerro_Santa_Lucía_II.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rjcastillo"
+   },
+   {
+    "file": "Metropolitan_Cathedral_of_Santiago.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bernard Gagnon"
+   },
+   {
+    "file": "Chilean_National_Museum_of_Fine_Arts_2023.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Iswzo"
+   },
+   {
+    "file": "Relief_Map_of_Chile.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Chile_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   }
+  ]
+ },
+ "Cidade do México": {
+  "tipo": "cidade",
+  "art": "Mexico_City",
+  "cand": [
+   {
+    "file": "Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Gobierno CDMX"
+   },
+   {
+    "file": "Angel-de-la-Independencia--Mexico-D.F.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Intersofia"
+   },
+   {
+    "file": "Ext_06Museo_Soumaya_FREE_Fernando_Romero_EnterprisE_photo_by_Adam_Wiseman_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Adam Wiseman"
+   },
+   {
+    "file": "Monumento_a_la_Revolución_2_(cropped).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Haakon S. Krohn"
+   },
+   {
+    "file": "CDMX_-_Paseo_de_la_Reforma.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "México en Fotos, A.C."
+   },
+   {
+    "file": "MX_MM_PANORÁMICAS_DESFILE_ZÓCALO.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Secretaría de Cultura Ciudad de México"
+   },
+   {
+    "file": "Bellas_Artes_01.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Xavier Quetzalcoatl Contreras Castillo"
+   },
+   {
+    "file": "Trajinera_en_canal_Nativitas.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "ProtoplasmaKid"
+   },
+   {
+    "file": "North_America_laea_relief_location_map_with_borders.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Vista_completa_de_Tenochtitlán.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "thomas kole"
+   }
+  ]
+ },
+ "Nova Délhi": {
+  "tipo": "cidade",
+  "art": "New_Delhi",
+  "cand": [
+   {
+    "file": "Forecourt,_Rashtrapati_Bhavan_-_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ronakshah1990"
+   },
+   {
+    "file": "Glimpse_of_the_new_Parliament_Building,_in_New_Delhi.jpg",
+    "lic": [
+     "GODL-India"
+    ],
+    "autor": "Ministry of Parliamentary Affairs &nbsp;&nbsp; Parent institution"
+   },
+   {
+    "file": "Bharat_Mandapam_Morning_View.jpg",
+    "lic": [
+     "GODL-India"
+    ],
+    "autor": "Ministry of Culture &nbsp;&nbsp; Parent institution"
+   },
+   {
+    "file": "Supreme_Court_of_India_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Subhashish Panigrahi&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Skyline_of_Cannaught_Place,_New_Delhi.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Whoeverblocksmeisamotherfu*ker"
+   },
+   {
+    "file": "Kartavya_Path_in_the_evening_in_New_Delhi_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Pinakpani"
+   },
+   {
+    "file": "Delhi,_India,_India_Gate.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Vyacheslav Argenberg"
+   },
+   {
+    "file": "Amar_Chakra,_National_War_Memorial,_New_Delhi_(cropped).jpg",
+    "lic": [
+     "GODL-India"
+    ],
+    "autor": "Ministry of Defence &nbsp;&nbsp; Parent institution"
+   },
+   {
+    "file": "India_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "South_Asia_non_political,_with_rivers.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "DEMIS Mapserver, पाटलिपुत्र (talk)"
+   }
+  ]
+ },
+ "Atenas": {
+  "tipo": "cidade",
+  "art": "Athens",
+  "cand": [
+   {
+    "file": "Athens_Acropolis_at_Daybreak.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Andrew Parlette"
+   },
+   {
+    "file": "Zappeion_Megaron_on_February_3,_2021.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "George E. Koronaios"
+   },
+   {
+    "file": "Πλατεία_Μοναστηρακίου_3645.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "C messier"
+   },
+   {
+    "file": "The_Metropolitan_Cathedral_of_Athens_(Metropolis_of_Athens)_in_April_2019.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "George E. Koronaios"
+   },
+   {
+    "file": "Griechisches_Parlament_nachts_(Zuschnitt).jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "Thomas Wolf, www.foto-tw.de"
+   },
+   {
+    "file": "Stavros_Niarchos_Foundation_Cultural_Center_-_52036972429.jpg",
+    "lic": [
+     "CC-BY-SA-2.0"
+    ],
+    "autor": "01:31, 18 December 2023"
+   },
+   {
+    "file": "Akademie_von_Athen.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "Thomas Wolf, www.foto-tw.de"
+   },
+   {
+    "file": "Greece_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Greece_location_map.svg: Lencer / derivative work: Uwe Dedering (talk)"
+   },
+   {
+    "file": "Europe_relief_laea_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexrk2"
+   },
+   {
+    "file": "The_Parthenon_in_Athens.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Steve Swayne"
+   }
+  ]
+ },
+ "Seul": {
+  "tipo": "cidade",
+  "art": "Seoul",
+  "cand": [
+   {
+    "file": "Seoul_(175734251)_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Joon Kyu Park"
+   },
+   {
+    "file": "중화전의_낮.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Eunmi Park"
+   },
+   {
+    "file": "Republic_of_Korea_capitol.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Cjb8293"
+   },
+   {
+    "file": "Lotte_World_day_view_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "kallerna"
+   },
+   {
+    "file": "Gwanghwamun_20240413.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "*Youngjin"
+   },
+   {
+    "file": "Seoul_at_night_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "travel oriented"
+   },
+   {
+    "file": "Asia_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Amsadong_IMG_2081.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "G41rn8"
+   },
+   {
+    "file": "한양도성낙산구간.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "KO BYUNGSUK"
+   },
+   {
+    "file": "Gyeongjoobudo.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "KOGL Type 1"
+    ],
+    "autor": "Kim Jeong-ho&nbsp;(1804–1866)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ }
+}
