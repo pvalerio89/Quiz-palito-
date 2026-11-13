@@ -592,6 +592,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/mapa-1": {
+      "titulo": "ADIVINHE O PAÍS PELO MAPA! 🗺️ Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "OaceklMaaA4",
+        "url": "https://youtu.be/OaceklMaaA4",
+        "data": "2026-11-13",
+        "origem": "github-actions",
+        "sha256": "a671dc410c18e9fcd3fee8f17383fcb6a24f030f39b963c3358d1778ff2de5e9",
+        "no_ar_em": "2026-11-14T20:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
