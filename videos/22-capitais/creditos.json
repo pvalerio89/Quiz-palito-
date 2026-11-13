@@ -56,7 +56,7 @@
    1.0
   ],
   "arquivo": "londres.jpg",
-  "autor": "Terry Ott from Washington, DC Metro Area, United States of A",
+  "autor": "Terry Ott",
   "lic": "CC BY 2.0"
  },
  "Recife": {
@@ -70,7 +70,7 @@
   "file": "TaroTokyo20110213-TokyoTower-01min.jpg",
   "crop": null,
   "arquivo": "toquio.jpg",
-  "autor": "東京太郎",
+  "autor": "TaroTokyo",
   "lic": "CC BY-SA 3.0"
  },
  "Porto Alegre": {
@@ -140,7 +140,7 @@
   "file": "12-07-13-washington-by-RalfR-08.jpg",
   "crop": null,
   "arquivo": "washington.jpg",
-  "autor": "Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmon",
+  "autor": "Ralf Roletschek",
   "lic": "CC BY-SA 3.0"
  },
  "Goiânia": {
@@ -200,7 +200,7 @@
   "file": "Parliament-Ottawa.jpg",
   "crop": null,
   "arquivo": "ottawa.jpg",
-  "autor": "Arctic.gnome assumed (based on copyright cl",
+  "autor": "Arctic.gnome",
   "lic": "CC BY-SA 3.0"
  },
  "João Pessoa": {
@@ -258,5 +258,49 @@
   "arquivo": "porto-velho.jpg",
   "autor": "Heitor Carvalho Jorge",
   "lic": "CC BY 3.0"
+ },
+ "Cristo Redentor": {
+  "file": "Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "arquivo": "cristo-redentor.jpg",
+  "autor": "Arne Müseler",
+  "lic": "CC BY-SA 3.0 de"
+ },
+ "Estátua da Liberdade": {
+  "file": "Front_view_of_Statue_of_Liberty_(cropped).jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "arquivo": "estatua-da-liberdade.jpg",
+  "autor": "AskALotl",
+  "lic": "CC0"
+ },
+ "Ópera de Sydney": {
+  "file": "Sydney_Opera_House_2026.jpg",
+  "crop": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "arquivo": "opera-de-sydney.jpg",
+  "autor": "BAVhah",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Machu Picchu": {
+  "file": "Machu_Picchu,_2023_(012).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "machu-picchu.jpg",
+  "autor": "Draceane",
+  "lic": "CC BY-SA 4.0"
  }
 }

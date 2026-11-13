@@ -1,0 +1,506 @@
+[
+ {
+  "n": 1,
+  "lugar": "BRASIL",
+  "de": "do Brasil",
+  "pergunta": "QUAL É A CAPITAL DO BRASIL?",
+  "foto": "brasilia.jpg",
+  "opcoes": [
+   "Brasília",
+   "Rio de Janeiro",
+   "São Paulo"
+  ],
+  "certa": 0,
+  "fala": "Brasília! Essa foi pra aquecer!"
+ },
+ {
+  "n": 2,
+  "lugar": "FRANÇA",
+  "de": "da França",
+  "pergunta": "QUAL É A CAPITAL DA FRANÇA?",
+  "foto": "paris.jpg",
+  "opcoes": [
+   "Lyon",
+   "Paris",
+   "Marselha"
+  ],
+  "certa": 1,
+  "fala": "Paris, a cidade da Torre Eiffel!"
+ },
+ {
+  "n": 3,
+  "lugar": "BAHIA",
+  "de": "da Bahia",
+  "pergunta": "QUAL É A CAPITAL DA BAHIA?",
+  "foto": "salvador.jpg",
+  "opcoes": [
+   "Ilhéus",
+   "Feira de Santana",
+   "Salvador"
+  ],
+  "certa": 2,
+  "fala": "Salvador! A primeira capital do Brasil!"
+ },
+ {
+  "n": 4,
+  "lugar": "ITÁLIA",
+  "de": "da Itália",
+  "pergunta": "QUAL É A CAPITAL DA ITÁLIA?",
+  "foto": "roma.jpg",
+  "opcoes": [
+   "Roma",
+   "Milão",
+   "Veneza"
+  ],
+  "certa": 0,
+  "fala": "Roma! Essa é a Fontana di Trevi!"
+ },
+ {
+  "n": 5,
+  "lugar": "AMAZONAS",
+  "de": "do Amazonas",
+  "pergunta": "QUAL É A CAPITAL DO AMAZONAS?",
+  "foto": "manaus.jpg",
+  "opcoes": [
+   "Manaus",
+   "Parintins",
+   "Belém"
+  ],
+  "certa": 0,
+  "fala": "Manaus, com o Teatro Amazonas!"
+ },
+ {
+  "n": 6,
+  "lugar": "GRÉCIA",
+  "de": "da Grécia",
+  "pergunta": "QUAL É A CAPITAL DA GRÉCIA?",
+  "foto": "atenas.jpg",
+  "opcoes": [
+   "Esparta",
+   "Atenas",
+   "Olímpia"
+  ],
+  "certa": 1,
+  "fala": "Atenas, com o Partenon lá no alto!"
+ },
+ {
+  "n": 7,
+  "lugar": "MINAS GERAIS",
+  "de": "de Minas Gerais",
+  "pergunta": "QUAL É A CAPITAL DE MINAS GERAIS?",
+  "foto": "belo-horizonte.jpg",
+  "opcoes": [
+   "Belo Horizonte",
+   "Uberlândia",
+   "Juiz de Fora"
+  ],
+  "certa": 0,
+  "fala": "Belo Horizonte, uai!"
+ },
+ {
+  "n": 8,
+  "lugar": "INGLATERRA",
+  "de": "da Inglaterra",
+  "pergunta": "QUAL É A CAPITAL DA INGLATERRA?",
+  "foto": "londres.jpg",
+  "opcoes": [
+   "Londres",
+   "Manchester",
+   "Liverpool"
+  ],
+  "certa": 0,
+  "fala": "Londres, com o Big Ben!"
+ },
+ {
+  "n": 9,
+  "lugar": "PERNAMBUCO",
+  "de": "de Pernambuco",
+  "pergunta": "QUAL É A CAPITAL DE PERNAMBUCO?",
+  "foto": "recife.jpg",
+  "opcoes": [
+   "Olinda",
+   "Caruaru",
+   "Recife"
+  ],
+  "certa": 2,
+  "fala": "Recife! Olinda é vizinha, mas não é a capital!"
+ },
+ {
+  "n": 10,
+  "lugar": "JAPÃO",
+  "de": "do Japão",
+  "pergunta": "QUAL É A CAPITAL DO JAPÃO?",
+  "foto": "toquio.jpg",
+  "opcoes": [
+   "Tóquio",
+   "Osaka",
+   "Quioto"
+  ],
+  "certa": 0,
+  "fala": "Tóquio! Quioto já foi capital, mas hoje é Tóquio!"
+ },
+ {
+  "n": 11,
+  "lugar": "RIO GRANDE DO SUL",
+  "de": "do Rio Grande do Sul",
+  "pergunta": "QUAL É A CAPITAL DO RIO GRANDE DO SUL?",
+  "foto": "porto-alegre.jpg",
+  "opcoes": [
+   "Pelotas",
+   "Caxias do Sul",
+   "Porto Alegre"
+  ],
+  "certa": 2,
+  "fala": "Porto Alegre, bah!"
+ },
+ {
+  "n": 12,
+  "lugar": "PORTUGAL",
+  "de": "de Portugal",
+  "pergunta": "QUAL É A CAPITAL DE PORTUGAL?",
+  "foto": "lisboa.jpg",
+  "opcoes": [
+   "Porto",
+   "Lisboa",
+   "Coimbra"
+  ],
+  "certa": 1,
+  "fala": "Lisboa, com a Torre de Belém!"
+ },
+ {
+  "n": 13,
+  "lugar": "CEARÁ",
+  "de": "do Ceará",
+  "pergunta": "QUAL É A CAPITAL DO CEARÁ?",
+  "foto": "fortaleza.jpg",
+  "opcoes": [
+   "Sobral",
+   "Juazeiro do Norte",
+   "Fortaleza"
+  ],
+  "certa": 2,
+  "fala": "Fortaleza, terra do humor!"
+ },
+ {
+  "n": 14,
+  "lugar": "ESPANHA",
+  "de": "da Espanha",
+  "pergunta": "QUAL É A CAPITAL DA ESPANHA?",
+  "foto": "madri.jpg",
+  "opcoes": [
+   "Madri",
+   "Barcelona",
+   "Sevilha"
+  ],
+  "certa": 0,
+  "fala": "Madri! Barcelona é famosa, mas a capital é Madri!"
+ },
+ {
+  "n": 15,
+  "lugar": "PARANÁ",
+  "de": "do Paraná",
+  "pergunta": "QUAL É A CAPITAL DO PARANÁ?",
+  "foto": "curitiba.jpg",
+  "opcoes": [
+   "Curitiba",
+   "Londrina",
+   "Maringá"
+  ],
+  "certa": 0,
+  "fala": "Curitiba, com o Jardim Botânico!"
+ },
+ {
+  "n": 16,
+  "lugar": "ALEMANHA",
+  "de": "da Alemanha",
+  "pergunta": "QUAL É A CAPITAL DA ALEMANHA?",
+  "foto": "berlim.jpg",
+  "opcoes": [
+   "Berlim",
+   "Munique",
+   "Frankfurt"
+  ],
+  "certa": 0,
+  "fala": "Berlim, com o Portão de Brandemburgo!"
+ },
+ {
+  "n": 17,
+  "lugar": "PARÁ",
+  "de": "do Pará",
+  "pergunta": "QUAL É A CAPITAL DO PARÁ?",
+  "foto": "belem.jpg",
+  "opcoes": [
+   "Santarém",
+   "Belém",
+   "Marabá"
+  ],
+  "certa": 1,
+  "fala": "Belém, com o mercado Ver-o-Peso!"
+ },
+ {
+  "n": 18,
+  "lugar": "EGITO",
+  "de": "do Egito",
+  "pergunta": "QUAL É A CAPITAL DO EGITO?",
+  "foto": "cairo.jpg",
+  "opcoes": [
+   "Alexandria",
+   "Luxor",
+   "Cairo"
+  ],
+  "certa": 2,
+  "fala": "O Cairo!"
+ },
+ {
+  "n": 19,
+  "lugar": "SANTA CATARINA",
+  "de": "de Santa Catarina",
+  "pergunta": "QUAL É A CAPITAL DE SANTA CATARINA?",
+  "foto": "florianopolis.jpg",
+  "opcoes": [
+   "Joinville",
+   "Blumenau",
+   "Florianópolis"
+  ],
+  "certa": 2,
+  "fala": "Florianópolis! Joinville é a maior cidade, mas não é a capital!"
+ },
+ {
+  "n": 20,
+  "lugar": "ESTADOS UNIDOS",
+  "de": "dos Estados Unidos",
+  "pergunta": "QUAL É A CAPITAL DOS ESTADOS UNIDOS?",
+  "foto": "washington.jpg",
+  "opcoes": [
+   "Nova York",
+   "Washington",
+   "Los Angeles"
+  ],
+  "certa": 1,
+  "fala": "Washington! Pegadinha: não é Nova York!"
+ },
+ {
+  "n": 21,
+  "lugar": "GOIÁS",
+  "de": "de Goiás",
+  "pergunta": "QUAL É A CAPITAL DE GOIÁS?",
+  "foto": "goiania.jpg",
+  "opcoes": [
+   "Anápolis",
+   "Goiânia",
+   "Rio Verde"
+  ],
+  "certa": 1,
+  "fala": "Goiânia!"
+ },
+ {
+  "n": 22,
+  "lugar": "RÚSSIA",
+  "de": "da Rússia",
+  "pergunta": "QUAL É A CAPITAL DA RÚSSIA?",
+  "foto": "moscou.jpg",
+  "opcoes": [
+   "Moscou",
+   "São Petersburgo",
+   "Kazan"
+  ],
+  "certa": 0,
+  "fala": "Moscou, com a Praça Vermelha!"
+ },
+ {
+  "n": 23,
+  "lugar": "MARANHÃO",
+  "de": "do Maranhão",
+  "pergunta": "QUAL É A CAPITAL DO MARANHÃO?",
+  "foto": "sao-luis.jpg",
+  "opcoes": [
+   "Imperatriz",
+   "Caxias",
+   "São Luís"
+  ],
+  "certa": 2,
+  "fala": "São Luís, a ilha do amor!"
+ },
+ {
+  "n": 24,
+  "lugar": "CHINA",
+  "de": "da China",
+  "pergunta": "QUAL É A CAPITAL DA CHINA?",
+  "foto": "pequim.jpg",
+  "opcoes": [
+   "Xangai",
+   "Pequim",
+   "Hong Kong"
+  ],
+  "certa": 1,
+  "fala": "Pequim!"
+ },
+ {
+  "n": 25,
+  "lugar": "ESPÍRITO SANTO",
+  "de": "do Espírito Santo",
+  "pergunta": "QUAL É A CAPITAL DO ESPÍRITO SANTO?",
+  "foto": "vitoria.jpg",
+  "opcoes": [
+   "Vila Velha",
+   "Serra",
+   "Vitória"
+  ],
+  "certa": 2,
+  "fala": "Vitória, que fica numa ilha!"
+ },
+ {
+  "n": 26,
+  "lugar": "PERU",
+  "de": "do Peru",
+  "pergunta": "QUAL É A CAPITAL DO PERU?",
+  "foto": "lima.jpg",
+  "opcoes": [
+   "Cusco",
+   "Lima",
+   "Arequipa"
+  ],
+  "certa": 1,
+  "fala": "Lima! Cusco já foi a capital dos incas!"
+ },
+ {
+  "n": 27,
+  "lugar": "MATO GROSSO DO SUL",
+  "de": "do Mato Grosso do Sul",
+  "pergunta": "QUAL É A CAPITAL DO MATO GROSSO DO SUL?",
+  "foto": "campo-grande.jpg",
+  "opcoes": [
+   "Dourados",
+   "Campo Grande",
+   "Corumbá"
+  ],
+  "certa": 1,
+  "fala": "Campo Grande!"
+ },
+ {
+  "n": 28,
+  "lugar": "CANADÁ",
+  "de": "do Canadá",
+  "pergunta": "QUAL É A CAPITAL DO CANADÁ?",
+  "foto": "ottawa.jpg",
+  "opcoes": [
+   "Toronto",
+   "Vancouver",
+   "Ottawa"
+  ],
+  "certa": 2,
+  "fala": "Ottawa! Toronto é maior, mas a capital é Ottawa!"
+ },
+ {
+  "n": 29,
+  "lugar": "PARAÍBA",
+  "de": "da Paraíba",
+  "pergunta": "QUAL É A CAPITAL DA PARAÍBA?",
+  "foto": "joao-pessoa.jpg",
+  "opcoes": [
+   "Campina Grande",
+   "Patos",
+   "João Pessoa"
+  ],
+  "certa": 2,
+  "fala": "João Pessoa!"
+ },
+ {
+  "n": 30,
+  "lugar": "TURQUIA",
+  "de": "da Turquia",
+  "pergunta": "QUAL É A CAPITAL DA TURQUIA?",
+  "foto": "ancara.jpg",
+  "opcoes": [
+   "Ancara",
+   "Istambul",
+   "Antália"
+  ],
+  "certa": 0,
+  "fala": "Ancara! Quase todo mundo chuta Istambul!"
+ },
+ {
+  "n": 31,
+  "lugar": "MATO GROSSO",
+  "de": "do Mato Grosso",
+  "pergunta": "QUAL É A CAPITAL DO MATO GROSSO?",
+  "foto": "cuiaba.jpg",
+  "opcoes": [
+   "Rondonópolis",
+   "Cuiabá",
+   "Sinop"
+  ],
+  "certa": 1,
+  "fala": "Cuiabá!"
+ },
+ {
+  "n": 32,
+  "lugar": "AUSTRÁLIA",
+  "de": "da Austrália",
+  "pergunta": "QUAL É A CAPITAL DA AUSTRÁLIA?",
+  "foto": "camberra.jpg",
+  "opcoes": [
+   "Sydney",
+   "Melbourne",
+   "Camberra"
+  ],
+  "certa": 2,
+  "fala": "Camberra! Não é Sydney, hein!"
+ },
+ {
+  "n": 33,
+  "lugar": "TOCANTINS",
+  "de": "do Tocantins",
+  "pergunta": "QUAL É A CAPITAL DO TOCANTINS?",
+  "foto": "palmas.jpg",
+  "opcoes": [
+   "Araguaína",
+   "Palmas",
+   "Gurupi"
+  ],
+  "certa": 1,
+  "fala": "Palmas, a capital mais nova do Brasil!"
+ },
+ {
+  "n": 34,
+  "lugar": "ÍNDIA",
+  "de": "da Índia",
+  "pergunta": "QUAL É A CAPITAL DA ÍNDIA?",
+  "foto": "nova-delhi.jpg",
+  "opcoes": [
+   "Mumbai",
+   "Nova Délhi",
+   "Calcutá"
+  ],
+  "certa": 1,
+  "fala": "Nova Délhi, com o Portão da Índia!"
+ },
+ {
+  "n": 35,
+  "lugar": "RORAIMA",
+  "de": "de Roraima",
+  "pergunta": "QUAL É A CAPITAL DE RORAIMA?",
+  "foto": "boa-vista.jpg",
+  "opcoes": [
+   "Boa Vista",
+   "Caracaraí",
+   "Pacaraima"
+  ],
+  "certa": 0,
+  "fala": "Boa Vista!"
+ },
+ {
+  "n": 36,
+  "lugar": "RONDÔNIA",
+  "de": "de Rondônia",
+  "pergunta": "QUAL É A CAPITAL DE RONDÔNIA?",
+  "foto": "porto-velho.jpg",
+  "opcoes": [
+   "Ji-Paraná",
+   "Ariquemes",
+   "Porto Velho"
+  ],
+  "certa": 2,
+  "fala": "Porto Velho! Se acertou essa, você é fera!"
+ }
+]

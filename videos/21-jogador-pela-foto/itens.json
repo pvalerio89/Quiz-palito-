@@ -1,0 +1,496 @@
+[
+ {
+  "n": 1,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Ronaldo Fenômeno",
+  "foto": "lca-ronaldo-fenomeno.jpg",
+  "opcoes": [
+   "Ronaldo",
+   "Romário",
+   "Adriano"
+  ],
+  "certa": 0,
+  "fala": "É o Fenômeno! Começou fácil, né?"
+ },
+ {
+  "n": 2,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Roberto Carlos",
+  "foto": "llat-roberto-carlos.jpg",
+  "opcoes": [
+   "Cafu",
+   "Roque Júnior",
+   "Roberto Carlos"
+  ],
+  "certa": 2,
+  "fala": "Roberto Carlos, o rei da bomba!"
+ },
+ {
+  "n": 3,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Raphinha",
+  "foto": "pd-raphinha.jpg",
+  "opcoes": [
+   "Raphinha",
+   "Antony",
+   "Richarlison"
+  ],
+  "certa": 0,
+  "fala": "É o Raphinha!"
+ },
+ {
+  "n": 4,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Marcelo",
+  "foto": "llat-marcelo.jpg",
+  "opcoes": [
+   "Filipe Luís",
+   "Alex Sandro",
+   "Marcelo"
+  ],
+  "certa": 2,
+  "fala": "Marcelo! Esse cabelo não engana!"
+ },
+ {
+  "n": 5,
+  "pergunta": "QUEM É ESSE TÉCNICO?",
+  "nome": "Carlo Ancelotti",
+  "foto": "tecnico-carlo-ancelotti.jpg",
+  "opcoes": [
+   "Ancelotti",
+   "Tite",
+   "Felipão"
+  ],
+  "certa": 0,
+  "fala": "Ancelotti, o técnico da Seleção!"
+ },
+ {
+  "n": 6,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Marquinhos",
+  "foto": "zag1-marquinhos.jpg",
+  "opcoes": [
+   "Militão",
+   "Gabriel",
+   "Marquinhos"
+  ],
+  "certa": 2,
+  "fala": "É o Marquinhos!"
+ },
+ {
+  "n": 7,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Rodrygo",
+  "foto": "pd-rodrygo.jpg",
+  "opcoes": [
+   "Rodrygo",
+   "Vinícius Jr.",
+   "Endrick"
+  ],
+  "certa": 0,
+  "fala": "Rodrygo, do Real Madrid!"
+ },
+ {
+  "n": 8,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Buffon",
+  "foto": "lgol-buffon.jpg",
+  "opcoes": [
+   "Buffon",
+   "Pirlo",
+   "Totti"
+  ],
+  "certa": 0,
+  "fala": "Buffon, lenda do gol da Itália!"
+ },
+ {
+  "n": 9,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Daniel Alves",
+  "foto": "llat-daniel-alves.jpg",
+  "opcoes": [
+   "Maicon",
+   "Cafu",
+   "Daniel Alves"
+  ],
+  "certa": 2,
+  "fala": "É o Daniel Alves!"
+ },
+ {
+  "n": 10,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Son",
+  "foto": "pe-son.jpg",
+  "opcoes": [
+   "Son",
+   "Kagawa",
+   "Mitoma"
+  ],
+  "certa": 0,
+  "fala": "É o Son, da Coreia do Sul!"
+ },
+ {
+  "n": 11,
+  "pergunta": "QUEM É ESSE TÉCNICO?",
+  "nome": "Pep Guardiola",
+  "foto": "tecnico-pep-guardiola.jpg",
+  "opcoes": [
+   "Luis Enrique",
+   "Xabi Alonso",
+   "Guardiola"
+  ],
+  "certa": 2,
+  "fala": "Pep Guardiola!"
+ },
+ {
+  "n": 12,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Rogério Ceni",
+  "foto": "lgol-rogerio-ceni.jpg",
+  "opcoes": [
+   "Marcos",
+   "Dida",
+   "Rogério Ceni"
+  ],
+  "certa": 2,
+  "fala": "Rogério Ceni, o goleiro artilheiro!"
+ },
+ {
+  "n": 13,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "De Bruyne",
+  "foto": "mei-de-bruyne.jpg",
+  "opcoes": [
+   "De Bruyne",
+   "Hazard",
+   "Haaland"
+  ],
+  "certa": 0,
+  "fala": "Kevin De Bruyne!"
+ },
+ {
+  "n": 14,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Courtois",
+  "foto": "gol-courtois.jpg",
+  "opcoes": [
+   "De Gea",
+   "Oblak",
+   "Courtois"
+  ],
+  "certa": 2,
+  "fala": "Courtois, o paredão da Bélgica!"
+ },
+ {
+  "n": 15,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Paquetá",
+  "foto": "dez-paqueta.jpg",
+  "opcoes": [
+   "Paquetá",
+   "Coutinho",
+   "Gerson"
+  ],
+  "certa": 0,
+  "fala": "Lucas Paquetá!"
+ },
+ {
+  "n": 16,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Neuer",
+  "foto": "gol-neuer.jpg",
+  "opcoes": [
+   "Ter Stegen",
+   "Oliver Kahn",
+   "Neuer"
+  ],
+  "certa": 2,
+  "fala": "Manuel Neuer!"
+ },
+ {
+  "n": 17,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Bruno Guimarães",
+  "foto": "vol-bruno-guimaraes.jpg",
+  "opcoes": [
+   "Casemiro",
+   "Bruno Guimarães",
+   "Fabinho"
+  ],
+  "certa": 1,
+  "fala": "Bruno Guimarães!"
+ },
+ {
+  "n": 18,
+  "pergunta": "QUEM É ESSE TÉCNICO?",
+  "nome": "Jürgen Klopp",
+  "foto": "tecnico-jurgen-klopp.jpg",
+  "opcoes": [
+   "Tuchel",
+   "Klopp",
+   "Simeone"
+  ],
+  "certa": 1,
+  "fala": "Jürgen Klopp, com o boné de sempre!"
+ },
+ {
+  "n": 19,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Lautaro",
+  "foto": "ca-lautaro.jpg",
+  "opcoes": [
+   "Julián Álvarez",
+   "Lautaro",
+   "Di María"
+  ],
+  "certa": 1,
+  "fala": "Lautaro Martínez!"
+ },
+ {
+  "n": 20,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Rooney",
+  "foto": "lca-rooney.jpg",
+  "opcoes": [
+   "Beckham",
+   "Rooney",
+   "Gerrard"
+  ],
+  "certa": 1,
+  "fala": "Wayne Rooney!"
+ },
+ {
+  "n": 21,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Ederson",
+  "foto": "gol-ederson.jpg",
+  "opcoes": [
+   "Alisson",
+   "Ederson",
+   "Weverton"
+  ],
+  "certa": 1,
+  "fala": "É o Ederson!"
+ },
+ {
+  "n": 22,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Casillas",
+  "foto": "lgol-casillas.jpg",
+  "opcoes": [
+   "Víctor Valdés",
+   "Pepe Reina",
+   "Casillas"
+  ],
+  "certa": 2,
+  "fala": "Iker Casillas!"
+ },
+ {
+  "n": 23,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Hakimi",
+  "foto": "ld-hakimi.jpg",
+  "opcoes": [
+   "Hakimi",
+   "Mazraoui",
+   "Ziyech"
+  ],
+  "certa": 0,
+  "fala": "Hakimi, do Marrocos!"
+ },
+ {
+  "n": 24,
+  "pergunta": "QUEM É ESSE TÉCNICO?",
+  "nome": "José Mourinho",
+  "foto": "tecnico-jose-mourinho.jpg",
+  "opcoes": [
+   "Jorge Jesus",
+   "Conte",
+   "Mourinho"
+  ],
+  "certa": 2,
+  "fala": "José Mourinho, o Special One!"
+ },
+ {
+  "n": 25,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Rafael Leão",
+  "foto": "pe-rafael-leao.jpg",
+  "opcoes": [
+   "João Félix",
+   "Rafael Leão",
+   "Nuno Mendes"
+  ],
+  "certa": 1,
+  "fala": "Rafael Leão!"
+ },
+ {
+  "n": 26,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Maldini",
+  "foto": "lzag-maldini.jpg",
+  "opcoes": [
+   "Maldini",
+   "Nesta",
+   "Cannavaro"
+  ],
+  "certa": 0,
+  "fala": "Paolo Maldini, lenda do Milan!"
+ },
+ {
+  "n": 27,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Kimmich",
+  "foto": "vol-kimmich.jpg",
+  "opcoes": [
+   "Kimmich",
+   "Müller",
+   "Goretzka"
+  ],
+  "certa": 0,
+  "fala": "Joshua Kimmich!"
+ },
+ {
+  "n": 28,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Puyol",
+  "foto": "lzag-puyol.jpg",
+  "opcoes": [
+   "Sergio Ramos",
+   "Puyol",
+   "Piqué"
+  ],
+  "certa": 1,
+  "fala": "Puyol! Esse cabelo é inconfundível!"
+ },
+ {
+  "n": 29,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Saka",
+  "foto": "pd-saka.jpg",
+  "opcoes": [
+   "Rashford",
+   "Saka",
+   "Sterling"
+  ],
+  "certa": 1,
+  "fala": "Bukayo Saka!"
+ },
+ {
+  "n": 30,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Estêvão",
+  "foto": "joia-estevao.jpg",
+  "opcoes": [
+   "Savinho",
+   "Luiz Henrique",
+   "Estêvão"
+  ],
+  "certa": 2,
+  "fala": "Estêvão, o Messinho!"
+ },
+ {
+  "n": 31,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Rodri",
+  "foto": "vol-rodri.jpg",
+  "opcoes": [
+   "Busquets",
+   "Rodri",
+   "Koke"
+  ],
+  "certa": 1,
+  "fala": "Rodri, melhor do mundo em 2024!"
+ },
+ {
+  "n": 32,
+  "pergunta": "QUEM É ESSE TÉCNICO?",
+  "nome": "Abel Ferreira",
+  "foto": "tecnico-abel-ferreira.jpg",
+  "opcoes": [
+   "Jorge Jesus",
+   "Renato Gaúcho",
+   "Abel Ferreira"
+  ],
+  "certa": 2,
+  "fala": "Abel Ferreira, do Palmeiras!"
+ },
+ {
+  "n": 33,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Ødegaard",
+  "foto": "mei-degaard.jpg",
+  "opcoes": [
+   "Eriksen",
+   "Ødegaard",
+   "Haaland"
+  ],
+  "certa": 1,
+  "fala": "Martin Ødegaard!"
+ },
+ {
+  "n": 34,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Cole Palmer",
+  "foto": "dez-cole-palmer.jpg",
+  "opcoes": [
+   "Phil Foden",
+   "Cole Palmer",
+   "Mason Mount"
+  ],
+  "certa": 1,
+  "fala": "Cole Palmer!"
+ },
+ {
+  "n": 35,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Musiala",
+  "foto": "dez-musiala.jpg",
+  "opcoes": [
+   "Musiala",
+   "Sané",
+   "Gnabry"
+  ],
+  "certa": 0,
+  "fala": "Jamal Musiala!"
+ },
+ {
+  "n": 36,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Kvaratskhelia",
+  "foto": "pe-kvaratskhelia.jpg",
+  "opcoes": [
+   "Kvaratskhelia",
+   "Dzeko",
+   "Vlahović"
+  ],
+  "certa": 0,
+  "fala": "Kvaratskhelia! Esse nome é difícil até de falar!"
+ },
+ {
+  "n": 37,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Lahm",
+  "foto": "llat-lahm.jpg",
+  "opcoes": [
+   "Schweinsteiger",
+   "Philipp Lahm",
+   "Özil"
+  ],
+  "certa": 1,
+  "fala": "Philipp Lahm, campeão do mundo em 2014!"
+ },
+ {
+  "n": 38,
+  "pergunta": "QUEM É ESSE JOGADOR?",
+  "nome": "Cruyff",
+  "foto": "ldez-cruyff.jpg",
+  "opcoes": [
+   "Beckenbauer",
+   "Van Basten",
+   "Cruyff"
+  ],
+  "certa": 2,
+  "fala": "Johan Cruyff, a lenda da Holanda!"
+ }
+]
