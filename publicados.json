@@ -560,6 +560,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/capitais-1": {
+      "titulo": "CAPITAIS DO BRASIL E DO MUNDO! 🌎 Acertou todas? Comenta! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "3r2_m3LNvuA",
+        "url": "https://youtu.be/3r2_m3LNvuA",
+        "data": "2026-11-13",
+        "origem": "github-actions",
+        "sha256": "8174f49828d18c2865f548d96d72e118e3223a84df3ed966b8b2d5f19aeb7b70",
+        "no_ar_em": "2026-11-14T06:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
