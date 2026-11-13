@@ -578,6 +578,20 @@
         "data": "2026-11-13",
         "origem": "github-actions"
       }
+    },
+    "videos/23-pais-pelo-mapa": {
+      "youtube": {
+        "status": "publicado",
+        "id": "elyYbkuLwlg",
+        "url": "https://youtu.be/elyYbkuLwlg",
+        "data": "2026-11-13",
+        "origem": "github-actions",
+        "sha256": "370fffef414f2f4dfff01199ac0339daf60d8862f45e1d4abcada229bac97077",
+        "no_ar_em": "2026-11-14T20:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
