@@ -23,6 +23,10 @@ FALAS = {
     "n_q2": "Agora uma do Nordeste. Qual é a capital da Bahia? Ilhéus, Feira de Santana... ou Salvador?",
     "n_r2": "Salvador! E sabia que ela foi a primeira capital do Brasil?",
 
+    # pedido de curtida (Patrick, 2026-11-13): pede, pausa curta, "eu espero!" (variar a frase)
+    "n_curtir": "Ei, antes da próxima... deixa o coraçãozinho e curte o vídeo aí!",
+    "n_espero": "Eu espero!",
+
     "n_q3": "Bora pra Europa. Olha esse templo lá no alto... Qual é a capital da Grécia?",
     "n_d3": "Dica: o nome lembra uma deusa grega!",
     "n_r3": "Atenas! Esparta era a cidade dos guerreiros, mas a capital é Atenas.",

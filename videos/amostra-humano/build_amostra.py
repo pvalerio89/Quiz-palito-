@@ -238,6 +238,33 @@ def niveis_frames(d, t_pal):
         yield img.convert("RGB")
 
 
+def curtir_frames(d, t_clique):
+    """Pedido de curtida: joinha e coração gigantes, o Palito aponta; em t_clique os dois 'apertam' e
+    pulam corações (a pausa do 'eu espero!')."""
+    joia = nd.emoji("\U0001F44D", 300)
+    cor = nd.emoji("\u2764\ufe0f", 300)
+    for i in range(int(d * FPS)):
+        t = i / FPS
+        img = nd.burst((255, 90, 120), (200, 30, 80), t * 8).convert("RGBA")
+        dd = ImageDraw.Draw(img)
+        s = max(0.1, eg.pula(t / 0.4))
+        b.text_outline(dd, (760, 150), "CURTE AÍ!", b.font(b.F_BLACK, int(150 * s)), b.WHITE, w=14)
+        aperta = t >= t_clique
+        k = 1.0 + (0.25 * math.sin(min(1, (t - t_clique) / 0.35) * math.pi) if aperta else 0.04 * math.sin(t * 6))
+        for j, sp in enumerate((joia, cor)):
+            ent = eg.pula((t - 0.2 - 0.2 * j) / 0.4)
+            op.colar(img, sp, 520 + j * 480, 520, ent * k)
+        if aperta:   # coraçõezinhos subindo
+            for c in range(8):
+                tc = t - t_clique - c * 0.12
+                if 0 < tc < 1.6:
+                    x = 1000 + 180 * math.sin(c * 2.1) + 30 * math.sin(tc * 6 + c)
+                    op.colar(img, nd.emoji("\u2764\ufe0f", 70), x, 420 - tc * 260, 1 - tc / 2)
+            b.text_outline(dd, (760, 860), "EU ESPERO!", b.font(b.F_BLACK, 90), b.YELLOW, w=10)
+        b.put_palito(img, "apontando", 600, 1640, 1060, int(6 * math.sin(t * 6)))
+        yield img.convert("RGB")
+
+
 def inscreva_frames(d):
     """Fim curto: só 'se inscreva no canal' (Patrick, 2026-11-13)."""
     for i in range(int(d * FPS)):
@@ -324,6 +351,17 @@ def montar(tl, sfx, so_previa=False):
         for f in resposta_frames(q, dr, falas):
             ultimo = f
             yield f"r{n}", f
+        if n == 2:   # pedido de curtida depois da 2ª resposta
+            c1 = dur("n_curtir") + 0.3
+            pausa = 1.6                      # o "tempinho"
+            tl.sound(sfx["whoosh"])
+            tl.sound(A("n_curtir"), at=tl.t + 0.2)
+            tl.sound(sfx["pop"], at=tl.t + c1 + pausa * 0.4, vol=0.9)
+            tl.sound(sfx["acerto"], at=tl.t + c1 + pausa * 0.4 + 0.1, vol=0.5)
+            tl.sound(A("n_espero"), at=tl.t + c1 + pausa)
+            for f in curtir_frames(c1 + pausa + dur("n_espero") + 0.6, c1 + pausa * 0.4):
+                ultimo = f
+                yield "curtir", f
     # FIM: níveis
     tl.sound(sfx["whoosh"])
     tf = dur("n_fim") + 0.5
