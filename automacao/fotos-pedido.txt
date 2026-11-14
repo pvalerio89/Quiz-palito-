@@ -1,1 +1,1 @@
-baixar videos/22-capitais/escolhas.json videos/22-capitais 
+buscar videos/26-pais-pelo-monumento/candidatas/lista.tsv videos/26-pais-pelo-monumento/candidatas
