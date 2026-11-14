@@ -1,0 +1,125 @@
+{
+ "Feijoada": {
+  "file": "Feijoada_à_brasileira_-02.jpg"
+ },
+ "Tacos": {
+  "file": "01_Tacos_al_Pastor.jpg"
+ },
+ "Sushi": {
+  "file": "Sushi_platter.jpg"
+ },
+ "Pizza": {
+  "file": "Pizza-3007395.jpg"
+ },
+ "Hambúrguer": {
+  "file": "NYC-Diner-Bacon-Cheeseburger.jpg",
+  "crop": "fit"
+ },
+ "Pastel de nata": {
+  "file": "Tart_telur_Portugis_(Pastéis_de_nata)_20230409_194702.jpg"
+ },
+ "Paella": {
+  "file": "01_Paella_Valenciana_original.jpg"
+ },
+ "Croissant": {
+  "file": "Croissant-Petr_Kratochvil.jpg",
+  "crop": "fit"
+ },
+ "Pad thai": {
+  "file": "Phat_Thai_kung_Chang_Khien_street_stall.jpg"
+ },
+ "Biryani": {
+  "file": "Hyderabadi_egg_biryani.jpg"
+ },
+ "Fish and chips": {
+  "file": "Fish_and_chips_blackpool.jpg"
+ },
+ "Ceviche": {
+  "file": "Cebiche_de_corvina.JPG"
+ },
+ "Kimchi": {
+  "file": "Various_kimchi.jpg"
+ },
+ "Pho": {
+  "file": "Pho-Beef-Noodles-2008.jpg"
+ },
+ "Asado": {
+  "file": "Preparing_the_Asado.jpg"
+ },
+ "Poutine": {
+  "file": "Food_at_WIkimanian_2017_02.jpg"
+ },
+ "Moussaka": {
+  "file": "Moussaka_and_Greek_Salad_at_a_taverna_in_Greece.jpg"
+ },
+ "Pierogi": {
+  "file": "Pierogi_z_masłem_-_2023.03.31.jpg"
+ },
+ "Goulash": {
+  "file": "Goulash_in_a_cauldron.jpg"
+ },
+ "Döner kebab": {
+  "file": "Döner_kebab_slicing.jpg"
+ },
+ "Fondue": {
+  "file": "Fondue_dish.jpg"
+ },
+ "Strudel": {
+  "file": "2015_0731_Apfelstrudel_Vanillesoße_Edelweisshütte_Sölden.jpg"
+ },
+ "Cuscuz marroquino": {
+  "file": "Moroccan_cuscus,_from_Casablanca,_September_2018.jpg"
+ },
+ "Chivito": {
+  "file": "Chivito_sandwich.jpg"
+ },
+ "Bobotie": {
+  "file": "Bobotie,_South_African_dish.jpg"
+ },
+ "Pato de Pequim": {
+  "file": "Peking_Duck,_2014_(02).jpg"
+ },
+ "Lamington": {
+  "file": "NZ_Lamington.jpg"
+ },
+ "Bratwurst": {
+  "file": "2010.08.22.143425_Nürnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg"
+ },
+ "Smørrebrød": {
+  "file": "Smørrebrød._Rejemad_på_franskbrød_fra_Hallernes_Smørrebrød._Torvehallerne_i_København._Foto_Hans_Christian_Hansen.jpg"
+ },
+ "Waffle belga": {
+  "file": "Waffle_with_strawberries_and_confectioner's_sugar.jpg"
+ },
+ "Stroopwafel": {
+  "file": "Stroopwafels_01.jpg"
+ },
+ "Pelmeni": {
+  "file": "Пельмени_жареные.jpg"
+ },
+ "Ackee and saltfish": {
+  "file": "Ackee_and_Saltfish.jpg"
+ },
+ "Nasi goreng": {
+  "file": "Nasi_Goreng_Kampung_(11967588375).jpg"
+ },
+ "Injera": {
+  "file": "Injera_with_eight_kinds_of_stew.jpg"
+ },
+ "Mansaf": {
+  "file": "Mansaf,_the_traditional_dish_of_Jordan.jpg"
+ },
+ "Churros": {
+  "file": "Churros_el_hatillo.JPG"
+ },
+ "Ramen": {
+  "file": "The_Japanese-style_Chinese_noodle_RAMEN_of_the_restaurant_RAIRAIKEN_at_Yutenji_Tokyo.jpg"
+ },
+ "Cachorro-quente": {
+  "file": "Hot_dog_with_mustard.png",
+  "crop": "fit"
+ },
+ "Macaron": {
+  "file": "Macarons,_French_made_mini_cakes.JPG"
+ }
+}

@@ -1,0 +1,453 @@
+[
+ {
+  "n": 1,
+  "emoji": "🎤",
+  "frase": "cantei no chuveiro",
+  "pct": 90,
+  "fala_q": "Eu já... cantei no chuveiro?",
+  "fala_r": "90% já! Quase todo mundo é cantor de chuveiro!",
+  "count": 3.0
+ },
+ {
+  "n": 2,
+  "emoji": "🦶",
+  "frase": "bati o dedinho do pé na quina",
+  "pct": 95,
+  "fala_q": "Eu já... bati o dedinho do pé na quina?",
+  "fala_r": "95% já! Essa dói só de lembrar!",
+  "count": 3.0
+ },
+ {
+  "n": 3,
+  "emoji": "📱",
+  "frase": "deixei o celular cair na cara deitado",
+  "pct": 78,
+  "fala_q": "Eu já... deixei o celular cair na cara deitado?",
+  "fala_r": "78% já! A maioria já!",
+  "count": 3.0
+ },
+ {
+  "n": 4,
+  "emoji": "😴",
+  "frase": "cochilei na sala de aula",
+  "pct": 48,
+  "fala_q": "Agora uma de escola... Eu já... cochilei na sala de aula?",
+  "fala_r": "48% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 5,
+  "emoji": "🍕",
+  "frase": "comi pizza no café da manhã",
+  "pct": 55,
+  "fala_q": "Eu já... comi pizza no café da manhã?",
+  "fala_r": "55% já! Pizza fria de manhã é outro nível!",
+  "count": 4.0
+ },
+ {
+  "n": 6,
+  "emoji": "🧠",
+  "frase": "esqueci o que ia falar no meio da frase",
+  "pct": 92,
+  "fala_q": "Eu já... esqueci o que ia falar no meio da frase?",
+  "fala_r": "92% já! Quase todo mundo já!",
+  "count": 4.0
+ },
+ {
+  "n": 7,
+  "emoji": "🚌",
+  "frase": "perdi o ônibus por um segundo",
+  "pct": 70,
+  "fala_q": "Eu já... perdi o ônibus por um segundo?",
+  "fala_r": "70% já! Mais da metade já, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 8,
+  "emoji": "🍫",
+  "frase": "comi chocolate escondido",
+  "pct": 74,
+  "fala_q": "Eu já... comi chocolate escondido?",
+  "fala_r": "74% já! A maioria já!",
+  "count": 4.0
+ },
+ {
+  "n": 9,
+  "emoji": "😂",
+  "frase": "ri numa hora que não podia rir",
+  "pct": 87,
+  "fala_q": "Eu já... ri numa hora que não podia rir?",
+  "fala_r": "87% já! Impossível nunca ter feito essa!",
+  "count": 4.0
+ },
+ {
+  "n": 10,
+  "emoji": "🐶",
+  "frase": "conversei com um bicho como se fosse gente",
+  "pct": 83,
+  "fala_q": "Eu já... conversei com um bicho como se fosse gente?",
+  "fala_r": "83% já! E ele entendeu tudo, né?",
+  "count": 4.0
+ },
+ {
+  "n": 11,
+  "emoji": "📺",
+  "frase": "assisti uma série inteira em um dia",
+  "pct": 52,
+  "fala_q": "E essa aqui? Eu já... assisti uma série inteira em um dia?",
+  "fala_r": "52% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 12,
+  "emoji": "🤳",
+  "frase": "tirei mais de vinte fotos pra postar uma só",
+  "pct": 46,
+  "fala_q": "Eu já... tirei mais de vinte fotos pra postar uma só?",
+  "fala_r": "46% já! Quase meio a meio!",
+  "count": 4.0
+ },
+ {
+  "n": 13,
+  "emoji": "🎮",
+  "frase": "joguei videogame até de madrugada",
+  "pct": 61,
+  "fala_q": "Eu já... joguei videogame até de madrugada?",
+  "fala_r": "61% já! Mais da metade já, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 14,
+  "emoji": "🔑",
+  "frase": "fiquei trancado do lado de fora de casa",
+  "pct": 44,
+  "fala_q": "Eu já... fiquei trancado do lado de fora de casa?",
+  "fala_r": "44% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 15,
+  "emoji": "🧦",
+  "frase": "saí de casa com uma meia de cada cor",
+  "pct": 57,
+  "fala_q": "Eu já... saí de casa com uma meia de cada cor?",
+  "fala_r": "57% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 16,
+  "emoji": "📞",
+  "frase": "liguei pra alguém sem querer",
+  "pct": 81,
+  "fala_q": "Eu já... liguei pra alguém sem querer?",
+  "fala_r": "81% já! Quase todo mundo já!",
+  "count": 4.0
+ },
+ {
+  "n": 17,
+  "emoji": "🙈",
+  "frase": "mandei mensagem pra pessoa errada",
+  "pct": 66,
+  "fala_q": "Eu já... mandei mensagem pra pessoa errada?",
+  "fala_r": "66% já! Que vergonha!",
+  "count": 4.0
+ },
+ {
+  "n": 18,
+  "emoji": "🍝",
+  "frase": "sujei a roupa de molho de macarrão",
+  "pct": 79,
+  "fala_q": "Eu já... sujei a roupa de molho de macarrão?",
+  "fala_r": "79% já! Mais da metade já, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 19,
+  "emoji": "🌊",
+  "frase": "vi o mar de pertinho",
+  "pct": 72,
+  "fala_q": "Eu já... vi o mar de pertinho?",
+  "fala_r": "72% já! A maioria já!",
+  "count": 4.0
+ },
+ {
+  "n": 20,
+  "emoji": "🍳",
+  "frase": "fiz uma refeição inteira sozinho",
+  "pct": 58,
+  "fala_q": "Bora pra próxima! Eu já... fiz uma refeição inteira sozinho?",
+  "fala_r": "58% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 21,
+  "emoji": "🤧",
+  "frase": "espirrei bem na hora da foto",
+  "pct": 39,
+  "fala_q": "Eu já... espirrei bem na hora da foto?",
+  "fala_r": "39% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 22,
+  "emoji": "🎢",
+  "frase": "andei de montanha-russa",
+  "pct": 54,
+  "fala_q": "Eu já... andei de montanha-russa?",
+  "fala_r": "54% já! Quase meio a meio!",
+  "count": 4.0
+ },
+ {
+  "n": 23,
+  "emoji": "👻",
+  "frase": "fiquei com medo do escuro depois de um filme de terror",
+  "pct": 69,
+  "fala_q": "Eu já... fiquei com medo do escuro depois de um filme de terror?",
+  "fala_r": "69% já! A maioria já!",
+  "count": 4.0
+ },
+ {
+  "n": 24,
+  "emoji": "🎂",
+  "frase": "esqueci o aniversário de um amigo",
+  "pct": 51,
+  "fala_q": "Eu já... esqueci o aniversário de um amigo?",
+  "fala_r": "51% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 25,
+  "emoji": "🌙",
+  "frase": "virei a noite acordado",
+  "pct": 56,
+  "fala_q": "Eu já... virei a noite acordado?",
+  "fala_r": "56% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 26,
+  "emoji": "🎬",
+  "frase": "chorei vendo desenho animado",
+  "pct": 63,
+  "fala_q": "Eu já... chorei vendo desenho animado?",
+  "fala_r": "63% já! Não precisa ter vergonha!",
+  "count": 4.0
+ },
+ {
+  "n": 27,
+  "emoji": "🍋",
+  "frase": "chupei limão puro",
+  "pct": 64,
+  "fala_q": "Eu já... chupei limão puro?",
+  "fala_r": "64% já! Mais da metade já, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 28,
+  "emoji": "🏃",
+  "frase": "corri pra pegar o elevador",
+  "pct": 68,
+  "fala_q": "Eu já... corri pra pegar o elevador?",
+  "fala_r": "68% já! A maioria já!",
+  "count": 4.0
+ },
+ {
+  "n": 29,
+  "emoji": "🌶️",
+  "frase": "comi pimenta e chorei",
+  "pct": 59,
+  "fala_q": "Eu já... comi pimenta e chorei?",
+  "fala_r": "59% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 30,
+  "emoji": "🪞",
+  "frase": "falei sozinho na frente do espelho",
+  "pct": 71,
+  "fala_q": "Eu já... falei sozinho na frente do espelho?",
+  "fala_r": "71% já! Muita gente já fez isso!",
+  "count": 4.0
+ },
+ {
+  "n": 31,
+  "emoji": "✈️",
+  "frase": "andei de avião",
+  "pct": 49,
+  "fala_q": "Essa é de viagem... Eu já... andei de avião?",
+  "fala_r": "49% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 32,
+  "emoji": "🏆",
+  "frase": "ganhei uma medalha",
+  "pct": 45,
+  "fala_q": "Eu já... ganhei uma medalha?",
+  "fala_r": "45% já! Quase meio a meio!",
+  "count": 4.0
+ },
+ {
+  "n": 33,
+  "emoji": "🐟",
+  "frase": "cuidei de um peixinho",
+  "pct": 47,
+  "fala_q": "Eu já... cuidei de um peixinho?",
+  "fala_r": "47% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 34,
+  "emoji": "🎁",
+  "frase": "abri um presente antes da hora",
+  "pct": 38,
+  "fala_q": "Eu já... abri um presente antes da hora?",
+  "fala_r": "38% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 35,
+  "emoji": "🛹",
+  "frase": "andei de skate",
+  "pct": 36,
+  "fala_q": "Eu já... andei de skate?",
+  "fala_r": "36% já! Pouca gente já fez essa!",
+  "count": 4.0
+ },
+ {
+  "n": 36,
+  "emoji": "🥶",
+  "frase": "tomei banho gelado no inverno",
+  "pct": 37,
+  "fala_q": "Eu já... tomei banho gelado no inverno?",
+  "fala_r": "37% já! Corajoso, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 37,
+  "emoji": "🚲",
+  "frase": "andei de bicicleta sem as mãos",
+  "pct": 34,
+  "fala_q": "Pensa bem nessa... Eu já... andei de bicicleta sem as mãos?",
+  "fala_r": "34% já! A maioria nunca!",
+  "count": 4.0
+ },
+ {
+  "n": 38,
+  "emoji": "🎸",
+  "frase": "aprendi a tocar um instrumento",
+  "pct": 33,
+  "fala_q": "Eu já... aprendi a tocar um instrumento?",
+  "fala_r": "33% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 39,
+  "emoji": "🏕️",
+  "frase": "dormi numa barraca de acampamento",
+  "pct": 31,
+  "fala_q": "Eu já... dormi numa barraca de acampamento?",
+  "fala_r": "31% já! Pouca gente já fez essa!",
+  "count": 4.0
+ },
+ {
+  "n": 40,
+  "emoji": "📚",
+  "frase": "li um livro inteiro em um dia",
+  "pct": 29,
+  "fala_q": "Eu já... li um livro inteiro em um dia?",
+  "fala_r": "29% já! A maioria nunca!",
+  "count": 4.0
+ },
+ {
+  "n": 41,
+  "emoji": "🐎",
+  "frase": "andei a cavalo",
+  "pct": 41,
+  "fala_q": "Eu já... andei a cavalo?",
+  "fala_r": "41% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 42,
+  "emoji": "🤒",
+  "frase": "fingi que estava doente pra não ir na aula",
+  "pct": 42,
+  "fala_q": "Eu já... fingi que estava doente pra não ir na aula?",
+  "fala_r": "42% já! Eu sabia!",
+  "count": 4.0
+ },
+ {
+  "n": 43,
+  "emoji": "🤿",
+  "frase": "mergulhei com snorkel no mar",
+  "pct": 22,
+  "fala_q": "Agora só as raras! Eu já... mergulhei com snorkel no mar?",
+  "fala_r": "22% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 44,
+  "emoji": "🐍",
+  "frase": "segurei uma cobra",
+  "pct": 18,
+  "fala_q": "Eu já... segurei uma cobra?",
+  "fala_r": "18% já! Se você já, você é raro!",
+  "count": 4.0
+ },
+ {
+  "n": 45,
+  "emoji": "❄️",
+  "frase": "vi neve de verdade",
+  "pct": 12,
+  "fala_q": "Eu já... vi neve de verdade?",
+  "fala_r": "12% já! No Brasil é raro mesmo!",
+  "count": 4.0
+ },
+ {
+  "n": 46,
+  "emoji": "🦈",
+  "frase": "vi um tubarão de perto",
+  "pct": 11,
+  "fala_q": "Eu já... vi um tubarão de perto?",
+  "fala_r": "11% já! Essa é raríssima!",
+  "count": 4.0
+ },
+ {
+  "n": 47,
+  "emoji": "📸",
+  "frase": "apareci na televisão",
+  "pct": 9,
+  "fala_q": "E essa? Eu já... apareci na televisão?",
+  "fala_r": "9% já! Quase ninguém já!",
+  "count": 4.0
+ },
+ {
+  "n": 48,
+  "emoji": "🚁",
+  "frase": "andei de helicóptero",
+  "pct": 6,
+  "fala_q": "Eu já... andei de helicóptero?",
+  "fala_r": "6% já! Essa é raríssima!",
+  "count": 4.0
+ },
+ {
+  "n": 49,
+  "emoji": "🐘",
+  "frase": "fiz carinho num elefante",
+  "pct": 5,
+  "fala_q": "Eu já... fiz carinho num elefante?",
+  "fala_r": "5% já! Se você já, você é raro!",
+  "count": 4.0
+ },
+ {
+  "n": 50,
+  "emoji": "🌋",
+  "frase": "vi um vulcão de verdade",
+  "pct": 4,
+  "fala_q": "Eu já... vi um vulcão de verdade?",
+  "fala_r": "4% já! Se você já viu, conta nos comentários!",
+  "count": 5.0,
+  "final": true
+ }
+]

@@ -1,0 +1,282 @@
+{
+ "Feijoada": {
+  "file": "Feijoada_à_brasileira_-02.jpg",
+  "crop": null,
+  "arquivo": "feijoada.jpg",
+  "autor": "Bradleyzm",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Tacos": {
+  "file": "01_Tacos_al_Pastor.jpg",
+  "crop": null,
+  "arquivo": "tacos.jpg",
+  "autor": "William Neuheisel",
+  "lic": "CC BY 2.0"
+ },
+ "Sushi": {
+  "file": "Sushi_platter.jpg",
+  "crop": null,
+  "arquivo": "sushi.jpg",
+  "autor": "chidorian from Japan",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Pizza": {
+  "file": "Pizza-3007395.jpg",
+  "crop": null,
+  "arquivo": "pizza.jpg",
+  "autor": "igorovsyannykov",
+  "lic": "CC0"
+ },
+ "Hambúrguer": {
+  "file": "NYC-Diner-Bacon-Cheeseburger.jpg",
+  "crop": "fit",
+  "arquivo": "hamburguer.jpg",
+  "autor": "Evan-Amos",
+  "lic": "Public domain"
+ },
+ "Pastel de nata": {
+  "file": "Tart_telur_Portugis_(Pastéis_de_nata)_20230409_194702.jpg",
+  "crop": null,
+  "arquivo": "pastel-de-nata.jpg",
+  "autor": "Wiki Farazi",
+  "lic": "CC0"
+ },
+ "Paella": {
+  "file": "01_Paella_Valenciana_original.jpg",
+  "crop": null,
+  "arquivo": "paella.jpg",
+  "autor": "Jan Harenburg",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Croissant": {
+  "file": "Croissant-Petr_Kratochvil.jpg",
+  "crop": "fit",
+  "arquivo": "croissant.jpg",
+  "autor": "Petr Kratochvil",
+  "lic": "CC0"
+ },
+ "Pad thai": {
+  "file": "Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+  "crop": null,
+  "arquivo": "pad-thai.jpg",
+  "autor": "Takeaway",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Biryani": {
+  "file": "Hyderabadi_egg_biryani.jpg",
+  "crop": null,
+  "arquivo": "biryani.jpg",
+  "autor": "Ravi Dwivedi",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Fish and chips": {
+  "file": "Fish_and_chips_blackpool.jpg",
+  "crop": null,
+  "arquivo": "fish-and-chips.jpg",
+  "autor": "Matthias Meckel",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Ceviche": {
+  "file": "Cebiche_de_corvina.JPG",
+  "crop": null,
+  "arquivo": "ceviche.jpg",
+  "autor": "Picanteria karol",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Kimchi": {
+  "file": "Various_kimchi.jpg",
+  "crop": null,
+  "arquivo": "kimchi.jpg",
+  "autor": "국립국어원",
+  "lic": "CC BY-SA 2.0 kr"
+ },
+ "Pho": {
+  "file": "Pho-Beef-Noodles-2008.jpg",
+  "crop": null,
+  "arquivo": "pho.jpg",
+  "autor": "Kham Tran - www.khamtran.com",
+  "lic": "CC BY 3.0"
+ },
+ "Asado": {
+  "file": "Preparing_the_Asado.jpg",
+  "crop": null,
+  "arquivo": "asado.jpg",
+  "autor": "Luis Argerich",
+  "lic": "CC BY 2.0"
+ },
+ "Poutine": {
+  "file": "Food_at_WIkimanian_2017_02.jpg",
+  "crop": null,
+  "arquivo": "poutine.jpg",
+  "autor": "Camelia.boban",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Moussaka": {
+  "file": "Moussaka_and_Greek_Salad_at_a_taverna_in_Greece.jpg",
+  "crop": null,
+  "arquivo": "moussaka.jpg",
+  "autor": "Vouliagmeni",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Pierogi": {
+  "file": "Pierogi_z_masłem_-_2023.03.31.jpg",
+  "crop": null,
+  "arquivo": "pierogi.jpg",
+  "autor": "Aw58",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Goulash": {
+  "file": "Goulash_in_a_cauldron.jpg",
+  "crop": null,
+  "arquivo": "goulash.jpg",
+  "autor": "Top Budapest",
+  "lic": "CC BY 2.0"
+ },
+ "Döner kebab": {
+  "file": "Döner_kebab_slicing.jpg",
+  "crop": null,
+  "arquivo": "doner-kebab.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Fondue": {
+  "file": "Fondue_dish.jpg",
+  "crop": null,
+  "arquivo": "fondue.jpg",
+  "autor": "Juliano Mendes",
+  "lic": "CC BY 2.0"
+ },
+ "Strudel": {
+  "file": "2015_0731_Apfelstrudel_Vanillesoße_Edelweisshütte_Sölden.jpg",
+  "crop": null,
+  "arquivo": "strudel.jpg",
+  "autor": "Takeaway",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Cuscuz marroquino": {
+  "file": "Moroccan_cuscus,_from_Casablanca,_September_2018.jpg",
+  "crop": null,
+  "arquivo": "cuscuz-marroquino.jpg",
+  "autor": "Lmmima",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Chivito": {
+  "file": "Chivito_sandwich.jpg",
+  "crop": null,
+  "arquivo": "chivito.jpg",
+  "autor": "Ed Kohler from Minneapolis, USA",
+  "lic": "CC BY 2.0"
+ },
+ "Bobotie": {
+  "file": "Bobotie,_South_African_dish.jpg",
+  "crop": null,
+  "arquivo": "bobotie.jpg",
+  "autor": "Olga Ernst",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Pato de Pequim": {
+  "file": "Peking_Duck,_2014_(02).jpg",
+  "crop": null,
+  "arquivo": "pato-de-pequim.jpg",
+  "autor": "City Foodsters",
+  "lic": "CC BY 2.0"
+ },
+ "Lamington": {
+  "file": "NZ_Lamington.jpg",
+  "crop": null,
+  "arquivo": "lamington.jpg",
+  "autor": "Spacekadet at English Wikipedia",
+  "lic": "Public domain"
+ },
+ "Bratwurst": {
+  "file": "2010.08.22.143425_Nürnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg",
+  "crop": null,
+  "arquivo": "bratwurst.jpg",
+  "autor": "Hermann Luyken",
+  "lic": "Public domain"
+ },
+ "Smørrebrød": {
+  "file": "Smørrebrød._Rejemad_på_franskbrød_fra_Hallernes_Smørrebrød._Torvehallerne_i_København._Foto_Hans_Christian_Hansen.jpg",
+  "crop": null,
+  "arquivo": "smrrebrd.jpg",
+  "autor": "XYZA-2400",
+  "lic": "CC0"
+ },
+ "Waffle belga": {
+  "file": "Waffle_with_strawberries_and_confectioner's_sugar.jpg",
+  "crop": null,
+  "arquivo": "waffle-belga.jpg",
+  "autor": "Ralph Daily",
+  "lic": "CC BY 2.0"
+ },
+ "Stroopwafel": {
+  "file": "Stroopwafels_01.jpg",
+  "crop": null,
+  "arquivo": "stroopwafel.jpg",
+  "autor": "Takeaway",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Pelmeni": {
+  "file": "Пельмени_жареные.jpg",
+  "crop": null,
+  "arquivo": "pelmeni.jpg",
+  "autor": "Pannet",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Ackee and saltfish": {
+  "file": "Ackee_and_Saltfish.jpg",
+  "crop": null,
+  "arquivo": "ackee-and-saltfish.jpg",
+  "autor": "gailf548 from New York State, USA",
+  "lic": "CC BY 2.0"
+ },
+ "Nasi goreng": {
+  "file": "Nasi_Goreng_Kampung_(11967588375).jpg",
+  "crop": null,
+  "arquivo": "nasi-goreng.jpg",
+  "autor": "shankar s. from Dubai, united arab emirates",
+  "lic": "CC BY 2.0"
+ },
+ "Injera": {
+  "file": "Injera_with_eight_kinds_of_stew.jpg",
+  "crop": null,
+  "arquivo": "injera.jpg",
+  "autor": "Artem.G",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Mansaf": {
+  "file": "Mansaf,_the_traditional_dish_of_Jordan.jpg",
+  "crop": null,
+  "arquivo": "mansaf.jpg",
+  "autor": "Jktab",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Churros": {
+  "file": "Churros_el_hatillo.JPG",
+  "crop": null,
+  "arquivo": "churros.jpg",
+  "autor": "Enano275 at English Wikipedia",
+  "lic": "Public domain"
+ },
+ "Ramen": {
+  "file": "The_Japanese-style_Chinese_noodle_RAMEN_of_the_restaurant_RAIRAIKEN_at_Yutenji_Tokyo.jpg",
+  "crop": null,
+  "arquivo": "ramen.jpg",
+  "autor": "ウィキ太郎 (Wiki Taro)",
+  "lic": "Public domain"
+ },
+ "Cachorro-quente": {
+  "file": "Hot_dog_with_mustard.png",
+  "crop": "fit",
+  "arquivo": "cachorro-quente.jpg",
+  "autor": "Czar, original photographed by Renee Comet",
+  "lic": "Public domain"
+ },
+ "Macaron": {
+  "file": "Macarons,_French_made_mini_cakes.JPG",
+  "crop": null,
+  "arquivo": "macaron.jpg",
+  "autor": "Nicolas Halftermeyer",
+  "lic": "CC BY-SA 3.0"
+ }
+}

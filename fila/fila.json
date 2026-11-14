@@ -295,15 +295,21 @@
       "id": "2026-11-14-paises-pelas-comidas",
       "referencia": "https://youtu.be/Lv8VmYRdCXc",
       "tema": "Adivinhe os PAÍSES pelas COMIDAS - comidas mais populares do mundo (Universo Quiz)",
-      "status": "aguardando",
-      "obs": "Longo + Short. Foto real do prato (Wikimedia) e 3 países como alternativas. 30-40 pratos, fácil→difícil. Estilo humano."
+      "status": "pronto",
+      "obs": "Longo + Short. Foto real do prato (Wikimedia) e 3 países como alternativas. 30-40 pratos, fácil→difícil. Estilo humano. | FEITO (2026-11-14): 36 pratos (fotos Wikimedia, créditos na tela final), 3 países por pergunta, estilo humano, ~12 min. Short comidas-1: 6 pratos.",
+      "video": "videos/27-paises-pelas-comidas",
+      "short": "shorts/comidas-1",
+      "titulo": "ADIVINHE O PAÍS PELA COMIDA 🍕 36 Pratos Famosos do Mundo, do Fácil ao Impossível! | Quiz Palito"
     },
     {
       "id": "2026-11-14-eu-ja-eu-nunca",
       "referencia": "https://youtu.be/YN4WdAfl2Ks",
       "tema": "EU JÁ ou EU NUNCA? Escolha um botão - 50 perguntas, se mentir perde (MacaQuiz)",
-      "status": "aguardando",
-      "obs": "Longo + Short. Formato de ESCOLHA (sem resposta certa): frase 'Eu já...' e dois botões EU JÁ ✅ / EU NUNCA ❌, contagem curta, depois mostra a % (inventada, plausível) de quem escolheu cada um. Chamada de anotar nos comentários. Frases leves para adolescentes (nada de perigoso/adulto). Mirar 10-13 min (~40-50 frases). Ver formato-referencia: se o storyboard mostrar outro formato, seguir a referência."
+      "status": "pronto",
+      "obs": "Longo + Short. Formato de ESCOLHA (sem resposta certa): frase 'Eu já...' e dois botões EU JÁ ✅ / EU NUNCA ❌, contagem curta, depois mostra a % (inventada, plausível) de quem escolheu cada um. Chamada de anotar nos comentários. Frases leves para adolescentes (nada de perigoso/adulto). Mirar 10-13 min (~40-50 frases). Ver formato-referencia: se o storyboard mostrar outro formato, seguir a referência. | FEITO (2026-11-14): referência não abre na nuvem; feito no formato do obs: 50 frases próprias com emoji, botões EU JÁ/EU NUNCA, contagem de 3-4 s e % inventada de quem já fez; chamada de anotar nos comentários; ~11:50. Short euja-1: 6 frases.",
+      "video": "videos/28-eu-ja-eu-nunca",
+      "short": "shorts/euja-1",
+      "titulo": "EU JÁ ou EU NUNCA? ✅❌ 50 Perguntas: Escolha um Botão e NÃO VALE MENTIR! | Quiz Palito"
     },
     {
       "id": "2026-11-14-quiz-espanhol",
