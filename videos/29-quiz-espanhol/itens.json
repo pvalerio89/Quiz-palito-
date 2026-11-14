@@ -1,0 +1,683 @@
+[
+ {
+  "n": 1,
+  "nivel": 1,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "HOLA"
+  ],
+  "foto": "e1.png",
+  "opcoes": [
+   "Tchau",
+   "Olá",
+   "Obrigado"
+  ],
+  "certa": 1,
+  "fala_q": "Pra começar fácil: o que significa hola? Tchau, Olá ou Obrigado?",
+  "fala_r": "Olá! Começou bem?",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "nivel": 1,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "GRACIAS"
+  ],
+  "foto": "e2.png",
+  "opcoes": [
+   "Obrigado",
+   "Por favor",
+   "Desculpa"
+  ],
+  "certa": 0,
+  "fala_q": "E gracias, o que quer dizer? Obrigado, Por favor ou Desculpa?",
+  "fala_r": "Obrigado! Essa foi rapidinha!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "nivel": 1,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "PERRO"
+  ],
+  "foto": "e3.png",
+  "opcoes": [
+   "Cachorro",
+   "Gato",
+   "Pássaro"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um bicho. O que é um perro? Cachorro, Gato ou Pássaro?",
+  "fala_r": "Cachorro! Au au!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "nivel": 1,
+  "pergunta": "QUE NÚMERO É ESSE?",
+  "cartao": [
+   "DIEZ"
+  ],
+  "foto": "e4.png",
+  "opcoes": [
+   "10",
+   "12",
+   "2"
+  ],
+  "certa": 0,
+  "fala_q": "Que número é diez? dez, doze ou dois?",
+  "fala_r": "Dez!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "nivel": 1,
+  "pergunta": "QUE COR É ESSA?",
+  "cartao": [
+   "ROJO"
+  ],
+  "foto": "e5.png",
+  "opcoes": [
+   "Roxo",
+   "Vermelho",
+   "Rosa"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa tem pegadinha! Que cor é rojo? Roxo, Vermelho ou Rosa?",
+  "fala_r": "Vermelho! Rojo parece roxo, mas é vermelho. Caiu na pegadinha?",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 6,
+  "nivel": 1,
+  "pergunta": "QUE DIA É ESSE?",
+  "cartao": [
+   "LUNES"
+  ],
+  "foto": "e6.png",
+  "opcoes": [
+   "Segunda-feira",
+   "Terça-feira",
+   "Domingo"
+  ],
+  "certa": 0,
+  "fala_q": "Que dia da semana é lunes? Segunda-feira, Terça-feira ou Domingo?",
+  "fala_r": "Segunda-feira! Vem de luna, a lua.",
+  "count": 7.0,
+  "sabia": "Os dias em espanhol vêm dos astros: lunes é o dia da Lua."
+ },
+ {
+  "n": 7,
+  "nivel": 1,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "MANZANA"
+  ],
+  "foto": "e7.png",
+  "opcoes": [
+   "Laranja",
+   "Maçã",
+   "Banana"
+  ],
+  "certa": 1,
+  "fala_q": "Hora do lanche! O que é uma manzana? Laranja, Maçã ou Banana?",
+  "fala_r": "Maçã!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "nivel": 1,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "LECHE"
+  ],
+  "foto": "e8.png",
+  "opcoes": [
+   "Suco",
+   "Café",
+   "Leite"
+  ],
+  "certa": 2,
+  "fala_q": "E leche, o que é? Suco, Café ou Leite?",
+  "fala_r": "Leite! Leche con chocolate, que delícia.",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "nivel": 1,
+  "pergunta": "QUE NÚMERO É ESSE?",
+  "cartao": [
+   "CINCUENTA"
+  ],
+  "foto": "e9.png",
+  "opcoes": [
+   "50",
+   "15",
+   "500"
+  ],
+  "certa": 0,
+  "fala_q": "Que número é cincuenta? cinquenta, quinze ou quinhentos?",
+  "fala_r": "Cinquenta! Quase igual ao português.",
+  "count": 7.0,
+  "fala_d": "Dica: parece muito com o português!",
+  "dica_txt": "PARECE O PORTUGUÊS"
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "HERMANO"
+  ],
+  "foto": "e10.png",
+  "opcoes": [
+   "Irmão",
+   "Primo",
+   "Tio"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pro nível médio! Família: quem é o seu hermano? Irmão, Primo ou Tio?",
+  "fala_r": "Seu irmão!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "COMPLETE A FRASE:",
+  "cartao": [
+   "Me ___ Pedro.",
+   "(meu nome é)"
+  ],
+  "foto": "e11.png",
+  "opcoes": [
+   "llamas",
+   "llama",
+   "llamo"
+  ],
+  "certa": 2,
+  "fala_q": "Pra se apresentar: me, o quê, Pedro? llamas, llama ou llamo?",
+  "fala_r": "Me llamo Pedro! Meu nome é Pedro.",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "QUE DIA É ESSE?",
+  "cartao": [
+   "MIÉRCOLES"
+  ],
+  "foto": "e12.png",
+  "opcoes": [
+   "Quarta-feira",
+   "Terça-feira",
+   "Sexta-feira"
+  ],
+  "certa": 0,
+  "fala_q": "Essa aqui derruba muita gente! Que dia é miércoles? Quarta-feira, Terça-feira ou Sexta-feira?",
+  "fala_r": "Quarta-feira! E terça é martes.",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM ESPANHOL?",
+  "cartao": [
+   "AMARELO"
+  ],
+  "foto": "e13.png",
+  "opcoes": [
+   "Morado",
+   "Marrón",
+   "Amarillo"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz amarelo em espanhol? Morado, Marrón ou Amarillo?",
+  "fala_r": "Amarillo! E morado é roxo.",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "CUMPLEAÑOS"
+  ],
+  "foto": "e14.png",
+  "opcoes": [
+   "Casamento",
+   "Aniversário",
+   "Feriado"
+  ],
+  "certa": 1,
+  "fala_q": "O que é um cumpleaños? Casamento, Aniversário ou Feriado?",
+  "fala_r": "Aniversário! Feliz cumpleaños é o parabéns de lá.",
+  "count": 7.0,
+  "sabia": "Cumpleaños quer dizer, ao pé da letra, \"cumpre anos\"."
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "QUE HORAS SÃO?",
+  "cartao": [
+   "Son las tres",
+   "y media."
+  ],
+  "foto": "e15.png",
+  "opcoes": [
+   "3:15",
+   "2:30",
+   "3:30"
+  ],
+  "certa": 2,
+  "fala_q": "Que horas são, se alguém diz son las tres y media? três e quinze, duas e meia ou três e meia?",
+  "fala_r": "Três e meia!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "CALCETÍN"
+  ],
+  "foto": "e16.png",
+  "opcoes": [
+   "Sapato",
+   "Calça",
+   "Meia"
+  ],
+  "certa": 2,
+  "fala_q": "Agora roupa. O que é um calcetín? Sapato, Calça ou Meia?",
+  "fala_r": "Meia! Aquela do pé.",
+  "count": 7.0,
+  "fala_d": "Dica: vai no pé, antes do tênis!",
+  "dica_txt": "VAI NO PÉ"
+ },
+ {
+  "n": 17,
+  "nivel": 2,
+  "pergunta": "COMPLETE A FRASE:",
+  "cartao": [
+   "Yo ___ brasileño."
+  ],
+  "foto": "e17.png",
+  "opcoes": [
+   "estoy",
+   "soy",
+   "eres"
+  ],
+  "certa": 1,
+  "fala_q": "Complete: eu, o quê, brasileiro? estoy, soy ou eres?",
+  "fala_r": "Yo soy brasileño! Nacionalidade é com o verbo ser.",
+  "count": 7.0,
+  "aviso": "SER OU ESTAR?",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 18,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "VENTANA"
+  ],
+  "foto": "e18.png",
+  "opcoes": [
+   "Janela",
+   "Porta",
+   "Parede"
+  ],
+  "certa": 0,
+  "fala_q": "O que é uma ventana? Janela, Porta ou Parede?",
+  "fala_r": "Janela! Por onde entra o vento.",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "EXQUISITO"
+  ],
+  "foto": "e19.png",
+  "opcoes": [
+   "Esquisito",
+   "Caro",
+   "Delicioso"
+  ],
+  "certa": 2,
+  "fala_q": "Agora as palavras traiçoeiras! Se um espanhol diz que a comida está exquisita, quer dizer que ela está... Esquisito, Caro ou Delicioso?",
+  "fala_r": "Deliciosa! Exquisito é elogio. Quem disse esquisito caiu direitinho!",
+  "count": 7.0,
+  "aviso": "PALAVRA TRAIÇOEIRA!"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "OFICINA"
+  ],
+  "foto": "e20.png",
+  "opcoes": [
+   "Garagem",
+   "Escritório",
+   "Fábrica"
+  ],
+  "certa": 1,
+  "fala_q": "O que é uma oficina, em espanhol? Garagem, Escritório ou Fábrica?",
+  "fala_r": "Escritório! O lugar onde se trabalha na mesa.",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "POLVO"
+  ],
+  "foto": "e21.png",
+  "opcoes": [
+   "Peixe",
+   "Poeira",
+   "Pulga"
+  ],
+  "certa": 1,
+  "fala_q": "Essa é clássica! O que significa polvo, em espanhol? Peixe, Poeira ou Pulga?",
+  "fala_r": "Poeira! E o polvo, o bicho, lá se chama pulpo.",
+  "count": 7.0,
+  "aviso": "PALAVRA TRAIÇOEIRA!",
+  "sabia": "O bicho polvo, em espanhol, é pulpo."
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "APELLIDO"
+  ],
+  "foto": "e22.png",
+  "opcoes": [
+   "Apelido",
+   "Nome do meio",
+   "Sobrenome"
+  ],
+  "certa": 2,
+  "fala_q": "Quando pedem o seu apellido, querem saber o quê? Apelido, Nome do meio ou Sobrenome?",
+  "fala_r": "O sobrenome! Apellido não é apelido.",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "CENA"
+  ],
+  "foto": "e23.png",
+  "opcoes": [
+   "Almoço",
+   "Café da manhã",
+   "Jantar"
+  ],
+  "certa": 2,
+  "fala_q": "O que é a cena, pra um espanhol? Almoço, Café da manhã ou Jantar?",
+  "fala_r": "Jantar! E o almoço é almuerzo.",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "PELADO"
+  ],
+  "foto": "e24.png",
+  "opcoes": [
+   "Careca",
+   "Cabeludo",
+   "Barbudo"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado! O que quer dizer pelado, em espanhol? Careca, Cabeludo ou Barbudo?",
+  "fala_r": "Careca! Sem pelo na cabeça.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "ZURDO"
+  ],
+  "foto": "e25.png",
+  "opcoes": [
+   "Surdo",
+   "Canhoto",
+   "Cego"
+  ],
+  "certa": 1,
+  "fala_q": "O que significa zurdo? Surdo, Canhoto ou Cego?",
+  "fala_r": "Canhoto! Quem escreve com a mão esquerda.",
+  "count": 7.0,
+  "fala_d": "Dica: tem a ver com a mão!",
+  "dica_txt": "TEM A VER COM A MÃO"
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "TODAVÍA"
+  ],
+  "foto": "e26.png",
+  "opcoes": [
+   "Ainda",
+   "Sempre",
+   "Nunca"
+  ],
+  "certa": 0,
+  "fala_q": "E todavia, o que é em espanhol? Ainda, Sempre ou Nunca?",
+  "fala_r": "Ainda! Todavía no, quer dizer ainda não.",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "BORRACHA"
+  ],
+  "foto": "e27.png",
+  "opcoes": [
+   "Cansada",
+   "Bêbada",
+   "Brava"
+  ],
+  "certa": 1,
+  "fala_q": "Essa aqui derruba muita gente! O que significa borracha? Cansada, Bêbada ou Brava?",
+  "fala_r": "Bêbada! A borracha de apagar, lá, é goma.",
+  "count": 7.0,
+  "aviso": "PALAVRA TRAIÇOEIRA!",
+  "sabia": "A borracha de apagar, em espanhol, é goma.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 28,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "SALSA"
+  ],
+  "foto": "e28.png",
+  "opcoes": [
+   "Molho",
+   "Salsinha",
+   "Sal"
+  ],
+  "certa": 0,
+  "fala_q": "Agora o nível mais difícil! O que é salsa, na comida? Molho, Salsinha ou Sal?",
+  "fala_r": "Molho! E a salsinha é perejil.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 29,
+  "nivel": 4,
+  "pergunta": "COMPLETE A FRASE:",
+  "cartao": [
+   "Ayer yo ___",
+   "al cine."
+  ],
+  "foto": "e29.png",
+  "opcoes": [
+   "voy",
+   "iré",
+   "fui"
+  ],
+  "certa": 2,
+  "fala_q": "Ontem eu fui ao cinema. Como fica a frase? voy, iré ou fui?",
+  "fala_r": "Ayer yo fui al cine! Ayer é ontem, então é passado.",
+  "count": 7.0,
+  "fala_d": "Dica: ayer quer dizer ontem!",
+  "dica_txt": "AYER = ONTEM"
+ },
+ {
+  "n": 30,
+  "nivel": 4,
+  "pergunta": "QUE NÚMERO É ESSE?",
+  "cartao": [
+   "QUINIENTOS"
+  ],
+  "foto": "e30.png",
+  "opcoes": [
+   "5.000",
+   "50",
+   "500"
+  ],
+  "certa": 2,
+  "fala_q": "Que número é quinientos? cinco mil, cinquenta ou quinhentos?",
+  "fala_r": "Quinhentos! Igualzinho, só muda o jeito de falar.",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "EMBARAZADA"
+  ],
+  "foto": "e31.png",
+  "opcoes": [
+   "Envergonhada",
+   "Grávida",
+   "Atrasada"
+  ],
+  "certa": 1,
+  "fala_q": "Essa é famosa! O que significa embarazada? Envergonhada, Grávida ou Atrasada?",
+  "fala_r": "Grávida! Quem acha que é envergonhada passa um vexame!",
+  "count": 7.0,
+  "aviso": "PALAVRA TRAIÇOEIRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "UN RATO"
+  ],
+  "foto": "e32.png",
+  "opcoes": [
+   "Um rato",
+   "Um ladrão",
+   "Um tempinho"
+  ],
+  "certa": 2,
+  "fala_q": "Espera un rato, quer dizer espera o quê? Um rato, Um ladrão ou Um tempinho?",
+  "fala_r": "Um tempinho! E o rato, o bicho, é ratón.",
+  "count": 7.0,
+  "sabia": "O bicho rato, em espanhol, é ratón."
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "COMPLETE A FRASE:",
+  "cartao": [
+   "Mañana ___",
+   "a llover."
+  ],
+  "foto": "e33.png",
+  "opcoes": [
+   "va",
+   "voy",
+   "van"
+  ],
+  "certa": 0,
+  "fala_q": "Amanhã vai chover. Complete a frase! va, voy ou van?",
+  "fala_r": "Mañana va a llover!",
+  "count": 7.0
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "SOBREMESA"
+  ],
+  "foto": "e34.png",
+  "opcoes": [
+   "Doce",
+   "Papo à mesa",
+   "Toalha"
+  ],
+  "certa": 1,
+  "fala_q": "Pegadinha! O que é a sobremesa, pra um espanhol? Doce, Papo à mesa ou Toalha?",
+  "fala_r": "É aquele papo na mesa depois de comer! O doce, lá, é postre.",
+  "count": 7.0,
+  "aviso": "PALAVRA TRAIÇOEIRA!"
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "LARGO"
+  ],
+  "foto": "e35.png",
+  "opcoes": [
+   "Grosso",
+   "Comprido",
+   "Curto"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado com essa! O que significa largo, em espanhol? Grosso, Comprido ou Curto?",
+  "fala_r": "Comprido! Uma estrada larga, pra eles, é uma estrada comprida.",
+  "count": 7.0
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "ESCOBA"
+  ],
+  "foto": "e36.png",
+  "opcoes": [
+   "Escova",
+   "Pente",
+   "Vassoura"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo tudo! O que é uma escoba? Escova, Pente ou Vassoura?",
+  "fala_r": "Vassoura! Se você acertou essa, você já fala espanhol!",
+  "count": 9.0,
+  "final": true,
+  "fala_s": "Valendo o diploma de espanhol... a resposta é..."
+ }
+]
