@@ -37,7 +37,7 @@ P = [
      "Coreia do Sul! O kimchi!", {"dica": ("Dica: é o país do kpop!", "É O PAÍS DO K-POP")}),
     ("Pad thai", "Tailândia", ["Vietnã", "Indonésia"], "Macarrão de arroz frito com amendoim. De que país?",
      "Tailândia! O pad thai!", {}),
-    ("Asado", "Argentina", ["Uruguai", "Chile"], "Esse churrasco é a paixão de qual vizinho nosso?",
+    ("Asado", "Argentina", ["Chile", "Peru"], "Esse churrasco é a paixão de qual vizinho nosso?",
      "Argentina! O asado!", {}),
     ("Ceviche", "Peru", ["México", "Colômbia"], "Peixe cru temperado com limão. De que país é esse prato?",
      "Peru! O ceviche!", {"sabia": "No ceviche, o limão é que \"cozinha\" o peixe."}),

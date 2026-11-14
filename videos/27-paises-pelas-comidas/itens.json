@@ -191,12 +191,12 @@
   "prato": "Asado",
   "foto": "asado.jpg",
   "opcoes": [
-   "Uruguai",
+   "Chile",
    "Argentina",
-   "Chile"
+   "Peru"
   ],
   "certa": 1,
-  "fala_q": "Esse churrasco é a paixão de qual vizinho nosso? Uruguai, Argentina ou Chile?",
+  "fala_q": "Esse churrasco é a paixão de qual vizinho nosso? Chile, Argentina ou Peru?",
   "fala_r": "Argentina! O asado!",
   "count": 7.0
  },
