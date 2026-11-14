@@ -102,9 +102,13 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
      quando ele tiver fotos. **Frase de chamada variada:** não use sempre "Só 1% acerta". Escolha uma frase de
      `CHAMADAS` em `shorts/short_base.py` (função `chamada()`) diferente das usadas nos últimos 3 Shorts
      (veja os títulos em `publicados.json`); "Só 1% acerta" pode aparecer de vez em quando, nunca em 2 seguidos.
-     A mesma frase vai na tela de abertura, no título e no `tiktok.txt`. Na descrição e no `tiktok.txt`:
+     A mesma frase vai na tela de abertura, no título e no `tiktok.txt`. Na descrição (YouTube):
      link do canal (https://www.youtube.com/channel/UCerGMTooT9vl4yVgW7Ggd3A) e o texto `LINK_DO_VIDEO_LONGO` no lugar do link do vídeo
      longo (o workflow troca pelo link certo na hora de publicar).
+     **`tiktok.txt` (Patrick, 2026-11-14): NUNCA link nem menção ao YouTube** (o TikTok entrega menos).
+     Formato: gancho (frase de chamada) / pedir para comentar a nota + marcar um amigo /
+     "Segue o @quizpalitos pra quiz novo todo dia!" / hashtags `#quiz #quiztime #fyp #paravoce` + 2 do tema.
+     Exemplo: `shorts/bandeiras-estados-1/youtube/tiktok.txt`.
    - **Abertura falada variada** (pedido do Patrick, 2026-11-09): não comece todo vídeo com "Fala, pessoal! Bem-vindos
      a mais um Quiz Palito!". Veja o `INTRO` dos últimos vídeos (`videos/*/gerar_vozes.py`) e use outra frase de entrada,
      ligada ao tema (ex.: "Ei, você aí! Será que conhece mesmo os bichos?", "Atenção, que hoje o desafio é diferente:",

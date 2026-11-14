@@ -85,7 +85,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           [ -f "$LEGENDA" ] || exit 0
-          { echo "Legenda do TikTok (copie e cole no app):"; echo; cat "$LEGENDA"; } > notas.md
+          { echo "Legenda do TikTok (copie e cole no app):"; echo; grep -viE "youtu|LINK_DO_VIDEO_LONGO|Canal:" "$LEGENDA"; } > notas.md
           gh release edit "video-$SLUG" --notes-file notas.md || true
 
       # Roda mesmo se algo falhar depois do envio, para o ID nunca se perder.

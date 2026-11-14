@@ -6,7 +6,8 @@ Uso:
                                                 (no GitHub vai para GITHUB_OUTPUT)
   py -3 automacao/fila.py fechar <id> <ok|erro> [motivo]
                                              -> marca o item como publicado ou erro e põe o link
-                                                do vídeo longo na descrição/legenda do Short
+                                                do vídeo longo na descrição do Short no YouTube
+                                                (a legenda do TikTok não leva link do YouTube)
   py -3 automacao/fila.py status             -> mostra a fila
 """
 import datetime, json, os, sys
@@ -97,7 +98,7 @@ def proximo():
 def trocar_link(pasta_short, url):
     trocados = []
     yt = os.path.join(RAIZ, pasta_short, "youtube")
-    for nome in ("descricao.txt", "tiktok.txt"):
+    for nome in ("descricao.txt",):  # tiktok.txt: sem link do YouTube (Patrick, 2026-11-14)
         p = os.path.join(yt, nome)
         if os.path.exists(p):
             t = open(p, encoding="utf-8").read()
