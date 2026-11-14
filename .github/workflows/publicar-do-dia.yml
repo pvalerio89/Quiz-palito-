@@ -137,13 +137,13 @@ jobs:
         run: |
           if [ "$OK" = "true" ]; then python automacao/fila.py fechar "$ID" ok
           else python automacao/fila.py fechar "$ID" erro "$RESULTADOS"; fi
-      - name: Legenda do TikTok com o link (notas da Release do Short)
+      - name: Legenda do TikTok (notas da Release do Short, sem nada do YouTube)
         if: env.SHORT != ''
         run: |
           slug=$(echo "$SHORT" | sed 's#/#-#g')
           f="$SHORT/youtube/tiktok.txt"
           if [ -f "$f" ] && gh release view "video-$slug" >/dev/null 2>&1; then
-            { echo "Legenda do TikTok (copie e cole no app):"; echo; cat "$f"; } > notas.md
+            { echo "Legenda do TikTok (copie e cole no app):"; echo; grep -viE "youtu|LINK_DO_VIDEO_LONGO|Canal:" "$f"; } > notas.md
             gh release edit "video-$slug" --notes-file notas.md
           fi
       - name: Gravar
