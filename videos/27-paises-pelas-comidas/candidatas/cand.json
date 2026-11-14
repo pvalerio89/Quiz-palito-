@@ -1,0 +1,2321 @@
+{
+ "Feijoada": {
+  "tipo": "comida",
+  "art": "Feijoada",
+  "cand": [
+   {
+    "file": "Feijoada_à_transmontada.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Adrião"
+   },
+   {
+    "file": "Feijoada_de_marisco.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "total 13"
+   },
+   {
+    "file": "Feijoada_à_brasileira_-02.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bradleyzm"
+   },
+   {
+    "file": "Feijoada_à_timorense.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Diamantino Soares"
+   },
+   {
+    "file": "Feijoada_à_brasileira_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Melsj"
+   }
+  ]
+ },
+ "Tacos": {
+  "tipo": "comida",
+  "art": "Taco",
+  "cand": [
+   {
+    "file": "001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Larry Miller"
+   },
+   {
+    "file": "01_Tacos_al_Pastor.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "William Neuheisel"
+   },
+   {
+    "file": "Tacos_de_Pescado.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "RightCowLeftCoast"
+   },
+   {
+    "file": "White_Duck_Taco.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "wilgeo5"
+   },
+   {
+    "file": "Carnitas.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mike McCune"
+   },
+   {
+    "file": "Tacos.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "PDphoto.org"
+   },
+   {
+    "file": "Tacos_de_suadero.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Pedro Sanchez"
+   },
+   {
+    "file": "Barbacoa_taco.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Paul Goyette from Chicago, Illinois"
+   },
+   {
+    "file": "Taco_al_pastor-1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Leo Chiou"
+   },
+   {
+    "file": "A_variety_of_tacos_from_Chilangos_Mexican_Grill_in_Plantation,_Florida.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Gatorfan252525"
+   }
+  ]
+ },
+ "Sushi": {
+  "tipo": "comida",
+  "art": "Sushi",
+  "cand": [
+   {
+    "file": "Sushi_platter.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "chidorian from Japan"
+   },
+   {
+    "file": "Barack_Obama_and_Shinzo_Abe_at_Sukyabashi_Jiro_April_2014.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "The White House from Washington, DC"
+   },
+   {
+    "file": "Hiroshige_Bowl_of_Sushi.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Utagawa Hiroshige&nbsp;(1797–1858)&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "US_Navy_090813-N-0413R-250_Sailors_and_their_families_enjoy_sushi_while_visiting_the_historic_city_of_Kamakura,_Japan_during_orientation.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "U.S. Navy photo by Mass Communication Specialist 2nd Class Shannon Renfroe"
+   },
+   {
+    "file": "Typical_japanese_sushi_set.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Laitr Keiows"
+   },
+   {
+    "file": "Chirashi-zushi.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Arashiyama"
+   },
+   {
+    "file": "Kantofu_Inarizushi.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ocdp"
+   },
+   {
+    "file": "Makizushi.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Till Krech"
+   },
+   {
+    "file": "Roll_maki.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Home Cooking Diary - Salmon Skin Maki Rolls"
+   },
+   {
+    "file": "Futomaki_zushi_in_201902.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mc681"
+   }
+  ]
+ },
+ "Pizza": {
+  "tipo": "comida",
+  "art": "Pizza",
+  "cand": [
+   {
+    "file": "Pizza-3007395.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "igorovsyannykov"
+   },
+   {
+    "file": "Pizza_slice.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ljanosek"
+   },
+   {
+    "file": "Pizzaiolo-1830.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Civica Raccolta delle Stampe «&nbsp;Achille Bertarelli&nbsp;» 1830"
+   },
+   {
+    "file": "Pizza_1_bg.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Pizza_being_tossed.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Joe Parks from Berkeley, CA"
+   },
+   {
+    "file": "Neapolitan_pizza.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Stevemconst61"
+   },
+   {
+    "file": "Frozen_pizza.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Amin"
+   },
+   {
+    "file": "Pizza_im_Pizzaofen_von_Maurizio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Claus Ableiter"
+   },
+   {
+    "file": "Pizza_baking_in_Wood-fired_oven.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Jared Tarbell from Awesometown, United States of America"
+   },
+   {
+    "file": "Pizza_Margherita_stu_spivack.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "stu_spivack"
+   }
+  ]
+ },
+ "Hambúrguer": {
+  "tipo": "comida",
+  "art": "Hamburger",
+  "cand": [
+   {
+    "file": "RedDot_Burger.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Hongreddotbrewhouse"
+   },
+   {
+    "file": "Hamburg_steak.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Hajime Nakano from Tokyo, Japan"
+   },
+   {
+    "file": "Oberhafenkantine_(Hamburger_Rundstück).jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "© 1971markus (☠): ⇒ Laberkasten ..."
+   },
+   {
+    "file": "Cheeseburger_at_Louis'_Lunch,_New_Haven.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Zheng Zhou"
+   },
+   {
+    "file": "NYC-Diner-Bacon-Cheeseburger.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Evan-Amos"
+   },
+   {
+    "file": "McD_Big_Mac.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Christopher Rath"
+   },
+   {
+    "file": "McD-McChicken_(transparent).png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Evan-Amos"
+   },
+   {
+    "file": "Impossible_Burger_-_Gott's_Roadside-_2018_-_Stierch.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Missvain"
+   },
+   {
+    "file": "Hamburger_in_New_Zealand.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Tomwsulcer"
+   },
+   {
+    "file": "Roujiamo,_La_Taverne_de_Zhao,_Paris_17_September_2016.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Guilhem Vellut from Paris, France"
+   }
+  ]
+ },
+ "Pastel de nata": {
+  "tipo": "comida",
+  "art": "Pastel_de_nata",
+  "cand": [
+   {
+    "file": "Pasteis_de_Belem.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mon Œil"
+   },
+   {
+    "file": "Tart_telur_Portugis_(Pastéis_de_nata)_20230409_194702.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wiki Farazi"
+   },
+   {
+    "file": "Jajan_Pasar_in_Jakarta_edit.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gunawan Kartapranata"
+   }
+  ]
+ },
+ "Paella": {
+  "tipo": "comida",
+  "art": "Paella",
+  "cand": [
+   {
+    "file": "01_Paella_Valenciana_original.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jan Harenburg"
+   },
+   {
+    "file": "Bomba-Rice.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "J.P.Lon"
+   },
+   {
+    "file": "Paellera.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "©&nbsp;Ralf Roletschek Ralf Roletschek&nbsp;(1963–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Arroz_con_bogavante_2024.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Elvalencia23"
+   },
+   {
+    "file": "Paella_hirviendo.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Jan Harenburg"
+   },
+   {
+    "file": "Un_granito_por_Haiti.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "chatani from Tokyo, Japan"
+   },
+   {
+    "file": "14-08-04-barcelona-RalfR-41.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "©&nbsp;Ralf Roletschek Ralf Roletschek&nbsp;(1963–)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "Croissant": {
+  "tipo": "comida",
+  "art": "Croissant",
+  "cand": [
+   {
+    "file": "Croissant-Petr_Kratochvil.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Petr Kratochvil"
+   },
+   {
+    "file": "Boulangerie_Viennoise_formerly_Zang's_-_1909.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "anonymous (Paris)"
+   },
+   {
+    "file": "Kifli.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hu Totya"
+   },
+   {
+    "file": "APileOfCroissants.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Raysonho @ Open Grid Scheduler / Grid Engine"
+   },
+   {
+    "file": "Rogale_świętomarcińskie_RB1.JPG",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Radomil"
+   },
+   {
+    "file": "Croissant_rising.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Eedo Bee at en.wikipedia"
+   },
+   {
+    "file": "Croissant,_cross_section.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "SKopp"
+   },
+   {
+    "file": "La_parisienne_unbaked_croissant.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Daniel.pichler"
+   }
+  ]
+ },
+ "Pad thai": {
+  "tipo": "comida",
+  "art": "Pad_thai",
+  "cand": [
+   {
+    "file": "Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Takeaway"
+   },
+   {
+    "file": "Ingredients_for_pad_thai.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Joy"
+   },
+   {
+    "file": "La_Ranchera_Serving_Side.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bigtay"
+   }
+  ]
+ },
+ "Biryani": {
+  "tipo": "comida",
+  "art": "Biryani",
+  "cand": [
+   {
+    "file": "Havij_polo.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Topsy turvy"
+   },
+   {
+    "file": "Mirchi_ka_salan_and_Dahi_chutney.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Randhirreddy at English Wikipedia"
+   },
+   {
+    "file": "Lucknowi_Mutton_Matka_Dum_Biriyani.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Kalesh"
+   },
+   {
+    "file": "Indian_Cuisine_-_Biryani_on_2017_stamp_of_India.jpg",
+    "lic": [
+     "GODL-India"
+    ],
+    "autor": "India Post, Government of India"
+   },
+   {
+    "file": "Hyderabadi_egg_biryani.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ravi Dwivedi"
+   },
+   {
+    "file": "Kyet_Shar_Soon_biryani.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "onourownpath.com"
+   },
+   {
+    "file": "Chicken_Tikka.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Umair Mohsin from Karachi, Pakistan"
+   },
+   {
+    "file": "La_Ranchera_Serving_Side.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bigtay"
+   }
+  ]
+ },
+ "Fish and chips": {
+  "tipo": "comida",
+  "art": "Fish_and_chips",
+  "cand": [
+   {
+    "file": "Fish_and_chips_blackpool.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Matthias Meckel"
+   },
+   {
+    "file": "BCLM_fish+chips.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Andy Mabbett"
+   },
+   {
+    "file": "Harry_Ramsden's,_Marine_Parade,_Brighton_(July_2020).JPG",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Hassocks5489"
+   },
+   {
+    "file": "Fish_and_chips.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Andrew Dunn"
+   },
+   {
+    "file": "Australian_Hotel,_St_George,_Queensland,_2021,_03.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Chris Olszewski"
+   },
+   {
+    "file": "Fish-and-chips-horseshoe-bay.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "RobinMiller"
+   },
+   {
+    "file": "Frying_range.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rathfelder at English Wikipedia"
+   },
+   {
+    "file": "Fish_and_Chips_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "The Pancake of Heaven!"
+   },
+   {
+    "file": "Mobile_Fish_and_Chips.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Stefan Schäfer, Lich"
+   }
+  ]
+ },
+ "Ceviche": {
+  "tipo": "comida",
+  "art": "Ceviche",
+  "cand": [
+   {
+    "file": "Cebiche_de_corvina.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Picanteria karol"
+   },
+   {
+    "file": "Cebiche-don-lucho.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Ledelboy Luis Delboy (Don Lucho)"
+   },
+   {
+    "file": "Ceviche_de_camarón_(gastronomía_Ecuatoriana).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Kevinmero"
+   },
+   {
+    "file": "Lobster_and_shrimp_ceviche.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "karol m from arizona, USA"
+   },
+   {
+    "file": "Ceviche_CR.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "BrenDJ at English Wikipedia"
+   },
+   {
+    "file": "Alaskan_ceviche.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Beeblebrox"
+   }
+  ]
+ },
+ "Kimchi": {
+  "tipo": "comida",
+  "art": "Kimchi",
+  "cand": [
+   {
+    "file": "Various_kimchi.jpg",
+    "lic": [
+     "CC BY-SA 2.0 kr"
+    ],
+    "autor": "국립국어원"
+   },
+   {
+    "file": "Kimchi_Day_Proclamation_Maryland_(2022-11-21).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Office of the Governor of Maryland"
+   },
+   {
+    "file": "Making_kimchi.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "English: Korea.net / Korean Culture and Information Service한국어: 코리아넷 / 해외문화홍보원"
+   },
+   {
+    "file": "Korean_cuisine-Salted_baechu-01.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "by Joseph Steinberg (Baltimoron in Korea) at Flickr"
+   },
+   {
+    "file": "Korean.Folk.Village-Minsokchon-02.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "The Chosun Bimbo"
+   },
+   {
+    "file": "Korean.cuisine-Banchan-02.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "by flowerguy"
+   },
+   {
+    "file": "Kimchi_jar.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "OlkhichaAppa"
+   },
+   {
+    "file": "Korean.food-kimchi-02.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "by elle_rigby"
+   },
+   {
+    "file": "Korean-Dongchimi-01.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "by karendotcom127"
+   },
+   {
+    "file": "Yeolmukimchi_3.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "JeongGuHyeok"
+   }
+  ]
+ },
+ "Pho": {
+  "tipo": "comida",
+  "art": "Pho",
+  "cand": [
+   {
+    "file": "Bowl_of_Meatball_pho.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "SerraKnightz"
+   },
+   {
+    "file": "Món_ăn_Đông_Hà,_Tết_2022_(phở_Lý_Quốc_sư_ở_công_viên_Cọ_Dầu)_(2).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Phương Huy"
+   },
+   {
+    "file": "Thành_phố_Nam_Định_xưa_-_Nhìn_từ_trên_cao.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Không biết (Unknown)"
+   },
+   {
+    "file": "Pho_in_Saigon.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "androog"
+   },
+   {
+    "file": "Pho_Banh_Cuon_-_Restaurant_vietnamien.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "besopha"
+   },
+   {
+    "file": "Gói_bánh_phở_tươi_ở_siêu_thị.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Minh Nguyen"
+   },
+   {
+    "file": "Pho-Beef-Noodles-2008.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Kham Tran - www.khamtran.com"
+   },
+   {
+    "file": "Pho_packet.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Modemac"
+   },
+   {
+    "file": "Phingredients_in_Ho_Chi_Min_City.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Jael from Ho Chi Minh City"
+   },
+   {
+    "file": "Street_vendor_pho_ga_Hanoi.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Original uploaded by Schellack (Transfered by Alison)"
+   }
+  ]
+ },
+ "Asado": {
+  "tipo": "comida",
+  "art": "Asado",
+  "cand": [
+   {
+    "file": "Asado_2005.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Preparing_the_Asado.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Luis Argerich"
+   },
+   {
+    "file": "Two_pieces_of_grilled_short_ribs_served_on_a_plate,_2007.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Marcelo Teson from Los Angeles, CA, USA"
+   },
+   {
+    "file": "Plato_de_lechazo,_Valladolid.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Xavier Béjar"
+   },
+   {
+    "file": "Small_Family_Asado.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rldca"
+   },
+   {
+    "file": "Ensalada_rusa_argentina.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Carlosdisogra"
+   },
+   {
+    "file": "Argentinean_asado.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Grilling_sauages_in_Montevideo.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bearian"
+   },
+   {
+    "file": "Asado_a_la_estaca_en_General_Pico,_Argentina_2007.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Mauryfrapi"
+   },
+   {
+    "file": "Chulengo.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Desert69"
+   }
+  ]
+ },
+ "Poutine": {
+  "tipo": "comida",
+  "art": "Poutine",
+  "cand": [
+   {
+    "file": "Food_at_WIkimanian_2017_02.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Camelia.boban"
+   },
+   {
+    "file": "Poutine-Restaurant.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Holger B"
+   },
+   {
+    "file": "LaBanquise.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Andy Liang"
+   },
+   {
+    "file": "Poutine.JPG",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Jonathunder"
+   },
+   {
+    "file": "Pierogi_Poutine.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Alan Levine"
+   },
+   {
+    "file": "Lobster_poutine.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Magnolia677"
+   },
+   {
+    "file": "Canada_Day_Trafalgar_Square_poutine.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Adam Bishop"
+   },
+   {
+    "file": "JoeyChestnutPoutine.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "AtomicRED"
+   },
+   {
+    "file": "Wikimania_2017_Vladimir_Poutine_restaurant.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jwslubbock"
+   },
+   {
+    "file": "La_Ranchera_Serving_Side.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bigtay"
+   }
+  ]
+ },
+ "Moussaka": {
+  "tipo": "comida",
+  "art": "Moussaka",
+  "cand": [
+   {
+    "file": "MussakasMeMelitsanesKePatates01.JPG",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Robert Kindermann aka RobertK"
+   },
+   {
+    "file": "Moussaka_and_Greek_Salad_at_a_taverna_in_Greece.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Vouliagmeni"
+   },
+   {
+    "file": "Мусака_од_компири_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Cuklev (original image)&nbsp;; cropped by Off-shell"
+   },
+   {
+    "file": "Moussaka_in_Jerusalem,_Israel.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "PeleYoetz"
+   },
+   {
+    "file": "Musakka_and_pilav.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "E4024"
+   },
+   {
+    "file": "Bonjon_or_Bonjorn.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Executioner"
+   }
+  ]
+ },
+ "Pierogi": {
+  "tipo": "comida",
+  "art": "Pierogi",
+  "cand": [
+   {
+    "file": "Pierogi_z_masłem_-_2023.03.31.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Aw58"
+   },
+   {
+    "file": "04565_Christmas_dumplings_with_dried_plums.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Silar"
+   },
+   {
+    "file": "Pierogi_preparation_07.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kpalion"
+   },
+   {
+    "file": "Pierogi_preparation_09.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kpalion"
+   },
+   {
+    "file": "Pierogi_preparation_10.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kpalion"
+   },
+   {
+    "file": "Pierogi_preparation_11.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kpalion"
+   },
+   {
+    "file": "Pierogi_6.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Varenyky_Ukrainian.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Pavlo Boyko @ Flickr"
+   },
+   {
+    "file": "Schlutzkrapfen_South_Tyrol_(3).JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Benreis"
+   },
+   {
+    "file": "Singer_Café_-_Pierogi_IMG_3425.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Deror_avi"
+   }
+  ]
+ },
+ "Goulash": {
+  "tipo": "comida",
+  "art": "Goulash",
+  "cand": [
+   {
+    "file": "Gulyas080.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Lily15"
+   },
+   {
+    "file": "2009-09-gulasch-pörkölt-paprikas-2.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "©&nbsp;Ralf Roletschek Ralf Roletschek&nbsp;(1963–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Goulash_in_a_cauldron.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Top Budapest"
+   },
+   {
+    "file": "Fiakergulasch.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Szeged_goulash_from_pork.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rkolarsky"
+   },
+   {
+    "file": "Goulash_i_brød_i_Prag.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "John Cambrick"
+   },
+   {
+    "file": "Venison_goulash_with_Bavarian_flour_dumpling.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rkolarsky"
+   },
+   {
+    "file": "Deer_goulash,_dumpling,_leeks,_2008.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Kent Wang"
+   },
+   {
+    "file": "Berlin_goulash.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Noahidsmith"
+   },
+   {
+    "file": "Placki_ziemniaczane_polish_potato_pancake_and_goulash_dish_2010.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Jason Quinn and Anna Iwanicka"
+   }
+  ]
+ },
+ "Döner kebab": {
+  "tipo": "comida",
+  "art": "Doner_kebab",
+  "cand": [
+   {
+    "file": "Döner_kebab_slicing.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Dönerci,_1855.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "James Robertson&nbsp;(1813–1888)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Bursa8.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Eaeeae"
+   },
+   {
+    "file": "İskender_Kebap.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Garrett Ziegler"
+   },
+   {
+    "file": "Döner_Kebab,_Berlin,_2010_(01).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "AleGranholm"
+   },
+   {
+    "file": "Wien_Bellaria_Kebab_Pizza_Dez2006.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Manfred Werner - User:Tsui"
+   },
+   {
+    "file": "Döner_kebab_in_Helsinki.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "JIP / Talk / JIP at English Wikipedia"
+   },
+   {
+    "file": "King_of_Donairs.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "SimonP at en.wikipedia"
+   },
+   {
+    "file": "Halal_Snack_Packs.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Photo by Kenneth Miller"
+   }
+  ]
+ },
+ "Fondue": {
+  "tipo": "comida",
+  "art": "Cheese_fondue",
+  "cand": [
+   {
+    "file": "Fondue_dish.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Juliano Mendes"
+   },
+   {
+    "file": "Fonduerezept_1699.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Anna Margaretha Gessner-Kitt"
+   },
+   {
+    "file": "Full_cheese_fondue_set_-_in_Switzerland.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "EquatorialSky at English Wikipedia"
+   },
+   {
+    "file": "Swiss_Cheese.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Photography: Smabs Sputzer (1956-2017) Derivative work: Zacharie Grossen"
+   }
+  ]
+ },
+ "Strudel": {
+  "tipo": "comida",
+  "art": "Apple_strudel",
+  "cand": [
+   {
+    "file": "Strudel.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "che"
+   },
+   {
+    "file": "Retes.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Taz"
+   },
+   {
+    "file": "2015_0731_Apfelstrudel_Vanillesoße_Edelweisshütte_Sölden.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Takeaway"
+   }
+  ]
+ },
+ "Cuscuz marroquino": {
+  "tipo": "comida",
+  "art": "Couscous",
+  "cand": [
+   {
+    "file": "Moroccan_cuscus,_from_Casablanca,_September_2018.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Lmmima"
+   },
+   {
+    "file": "Algerian_couscous_from_Kabylia.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Slothtysloth"
+   },
+   {
+    "file": "Femme_semoule_couscous.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "D@LY3D"
+   },
+   {
+    "file": "Couscoussier.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Catskingloves"
+   },
+   {
+    "file": "CouscousDromadaire_(2).JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Ji-Elle"
+   },
+   {
+    "file": "Couscous_Tfaya_3.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Arastalya"
+   },
+   {
+    "file": "MoroccanCouscous.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Khonsali"
+   },
+   {
+    "file": "Fish_couscous_from_Kerkenah,_Tunisia,_August_16th,_2007.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "No machine-readable author provided. Elcèd77 assumed (based on copyright claims)"
+   },
+   {
+    "file": "Thiere_Senegalese_couscous_with_lamb.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Marshiayers"
+   }
+  ]
+ },
+ "Chivito": {
+  "tipo": "comida",
+  "art": "Chivito_(sandwich)",
+  "cand": [
+   {
+    "file": "Chivito1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Carlinosin at English Wikipedia"
+   },
+   {
+    "file": "Chivito_sandwich.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ed Kohler from Minneapolis, USA"
+   },
+   {
+    "file": "Chivito_al_pan_uruguayo.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "https://www.flickr.com/photos/mattrubens/"
+   }
+  ]
+ },
+ "Bobotie": {
+  "tipo": "comida",
+  "art": "Bobotie",
+  "cand": [
+   {
+    "file": "Bobotie,_South_African_dish.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Olga Ernst"
+   },
+   {
+    "file": "Bobootie_2.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bli"
+   },
+   {
+    "file": "Bobotie_South_Africa.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Olivier Lemoine Photographe professionnel vigne / vin, Beaune, Bourgogne, (https"
+   }
+  ]
+ },
+ "Pato de Pequim": {
+  "tipo": "comida",
+  "art": "Peking_duck",
+  "cand": [
+   {
+    "file": "Peking_Duck,_2014_(02).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "City Foodsters"
+   },
+   {
+    "file": "Quanjude_Oven.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "w:Helen Morrison (photographer)"
+   },
+   {
+    "file": "Quanjude_roastduck.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Peking_Duck_1.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "FotoosVanRobin"
+   },
+   {
+    "file": "全聚德烤房.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gisling"
+   },
+   {
+    "file": "Carving_up_our_duck.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "einalem"
+   },
+   {
+    "file": "Gastronomia_china-Pato_a_la_pekinesa5251.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Diego Delso&nbsp;(1974–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Peking_Duck_4.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "(nutmeg)"
+   },
+   {
+    "file": "Peking_Duck.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Danrah"
+   }
+  ]
+ },
+ "Lamington": {
+  "tipo": "comida",
+  "art": "Lamington",
+  "cand": [
+   {
+    "file": "Mocha_Flake_amingtons.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Zeitgeistlondon"
+   },
+   {
+    "file": "NZ_Lamington.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Spacekadet at English Wikipedia"
+   }
+  ]
+ },
+ "Bratwurst": {
+  "tipo": "comida",
+  "art": "Bratwurst",
+  "cand": [
+   {
+    "file": "German_Bratwürste.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Gerbis"
+   },
+   {
+    "file": "Bratwurst_and_bread_roll_in_Hohenems.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "GFDL"
+    ],
+    "autor": "JIP"
+   },
+   {
+    "file": "德國油煎香腸Bratwurst.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rockhsp"
+   },
+   {
+    "file": "2010.08.22.143425_Nürnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Hermann Luyken"
+   },
+   {
+    "file": "Bratwurst_Glöckl.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "JIP / Talk / JIP at English Wikipedia"
+   },
+   {
+    "file": "Nürnberger_Rostbratwürste.JPG",
+    "lic": [
+     "CC BY 4.0",
+     "GFDL 1.2",
+     "CC BY 3.0"
+    ],
+    "autor": "Schlurcher&nbsp;"
+   },
+   {
+    "file": "Drei_im_Weggla.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "User:Jarlhelm"
+   },
+   {
+    "file": "Blaue_Zipfel.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gruenes Wuersterl"
+   },
+   {
+    "file": "Frankfurt_am_Main,_Dippemess_(Herbst_2026),_Schwenker.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Dr. Thomas Liptak"
+   },
+   {
+    "file": "Rostbratwurstbrot.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "barfisch"
+   }
+  ]
+ },
+ "Smørrebrød": {
+  "tipo": "comida",
+  "art": "Smørrebrød",
+  "cand": [
+   {
+    "file": "Ida_Davidsen_udsnit_af_glasmontren.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "User:Nillerdk"
+   },
+   {
+    "file": "Smørrebrød_at_Kastrup_IMG_8275_C.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Anneli Salo"
+   },
+   {
+    "file": "Smørrebrød_4.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Nillerdk"
+   },
+   {
+    "file": "Smørrebrød._Rejemad_på_franskbrød_fra_Hallernes_Smørrebrød._Torvehallerne_i_København._Foto_Hans_Christian_Hansen.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "XYZA-2400"
+   }
+  ]
+ },
+ "Waffle belga": {
+  "tipo": "comida",
+  "art": "Belgian_waffle",
+  "cand": [
+   {
+    "file": "Waffle_with_strawberries_and_confectioner's_sugar.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ralph Daily"
+   },
+   {
+    "file": "Worlds_Fair_-_Belgian_Village_(4626896426).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Roger Wollstadt from Sarasota, Florida"
+   },
+   {
+    "file": "La_Ranchera_Serving_Side.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bigtay"
+   }
+  ]
+ },
+ "Stroopwafel": {
+  "tipo": "comida",
+  "art": "Stroopwafel",
+  "cand": [
+   {
+    "file": "Stroopwafels_01.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Takeaway"
+   },
+   {
+    "file": "Stroopwafelijzer.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Philip Bosma at Dutch Wikipedia"
+   },
+   {
+    "file": "Sr_meetup-dec_06-00004.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "User:BraneJ"
+   },
+   {
+    "file": "How_to_eat_a_stroopwafel_(8557345379).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Saaleha Bamjee from Johannesburg, South africa"
+   },
+   {
+    "file": "Jajan_Pasar_in_Jakarta_edit.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gunawan Kartapranata"
+   }
+  ]
+ },
+ "Pelmeni": {
+  "tipo": "comida",
+  "art": "Pelmeni",
+  "cand": [
+   {
+    "file": "Pelmeni_Russian.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Eugene Kim @ Flickr"
+   },
+   {
+    "file": "Modeling_pelmeni._Buryatia,_Russia.jpg",
+    "lic": [
+     "CC0",
+     "Public domain"
+    ],
+    "autor": "Newspaper \"Number One\" (photographer Виктория Лачугина)"
+   },
+   {
+    "file": "PELMENY.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Rubashkyn"
+   },
+   {
+    "file": "Uszka-aasica.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "http://en.wikipedia.org/wiki/User:Vegalabs"
+   },
+   {
+    "file": "Пельмени_жареные.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Pannet"
+   }
+  ]
+ },
+ "Ackee and saltfish": {
+  "tipo": "comida",
+  "art": "Ackee_and_saltfish",
+  "cand": [
+   {
+    "file": "Ackee_and_Saltfish.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "gailf548 from New York State, USA"
+   },
+   {
+    "file": "Atlantic_cod.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "Nasi goreng": {
+  "tipo": "comida",
+  "art": "Nasi_goreng",
+  "cand": [
+   {
+    "file": "Nasi_Goreng_Kampung_(11967588375).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "shankar s. from Dubai, united arab emirates"
+   },
+   {
+    "file": "Khao_phat_kaeng_khiao_wan.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Takeaway"
+   },
+   {
+    "file": "Sinangag.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Strawberrysweet07"
+   },
+   {
+    "file": "Cơm_Chiên,_Da_Nang,_Vietnam.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Christopher Crouzet"
+   },
+   {
+    "file": "ထမင်းကြော်.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "SarKaLay စာကလေး"
+   },
+   {
+    "file": "COLLECTIE_TROPENMUSEUM_De_Chinese_zeilschepen_Yonken_Sin_Tong_Heng_(links)_en_Tek_Hwa_Seng_bij_Poeloe_Samboe_TMnr_10010680.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Nasi_Goreng_Kambing_Kebon_Sirih_Jakarta_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Gunawan Kartapranata"
+   },
+   {
+    "file": "126v.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "BUMBU_NASI_GORENG_JAWA_(tanpa_tulisan).png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Windi Utari"
+   },
+   {
+    "file": "Nasi_Goreng_Breakfast_Set_in_Solo.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gunawan Kartapranata"
+   }
+  ]
+ },
+ "Injera": {
+  "tipo": "comida",
+  "art": "Injera",
+  "cand": [
+   {
+    "file": "Injera_with_eight_kinds_of_stew.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Artem.G"
+   },
+   {
+    "file": "How_to_make_injera_in_d.markos,Ethiopia.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ethio"
+   },
+   {
+    "file": "Injera_stove_.._and_fresh_Injera_being_cooked.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "PhoTom - ፎቶም Photography"
+   },
+   {
+    "file": "Ethiopia_Gheralta_WomanCookingInjera.JPG",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Charliefleurene"
+   },
+   {
+    "file": "Ethiopian_vegetarian_food_plate_at_a_restaurant,_Paris,_December_2024.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Suyash Dwivedi"
+   },
+   {
+    "file": "Injera_Texture.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Lukasz Nowak"
+   },
+   {
+    "file": "Injera,_Ethiopian_bread_made_from_teff_a_cereal_native_to_Ethiopia.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Visio"
+   },
+   {
+    "file": "Fresh_Injera.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Natnael Tadele"
+   },
+   {
+    "file": "Bob's_Red_Mill_Whole_Grain_Teff_Flour.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Beefyt"
+   },
+   {
+    "file": "Afghan_bread.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "User Paulscf on en.wikipedia"
+   }
+  ]
+ },
+ "Mansaf": {
+  "tipo": "comida",
+  "art": "Mansaf",
+  "cand": [
+   {
+    "file": "Mansaf,_the_traditional_dish_of_Jordan.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jktab"
+   },
+   {
+    "file": "Jameed.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Syrinje"
+   },
+   {
+    "file": "Préparation_du_mansaf-Jordanie_(6).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ji-Elle"
+   },
+   {
+    "file": "Préparation_du_mansaf-Jordanie_(8).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ji-Elle"
+   },
+   {
+    "file": "Family_mansaf.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Goingtosafar"
+   }
+  ]
+ },
+ "Churros": {
+  "tipo": "comida",
+  "art": "Churro",
+  "cand": [
+   {
+    "file": "Chocolate_con_churros_(27343655726).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Joy"
+   },
+   {
+    "file": "StrasbourgChurros.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "GFDL"
+    ],
+    "autor": "Etan J. Tal"
+   },
+   {
+    "file": "Churros_el_hatillo.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Enano275 at English Wikipedia"
+   },
+   {
+    "file": "Calentitos.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "The original uploader was Asterion at English Wikipedia."
+   },
+   {
+    "file": "2023-02-13_03_Masked_Churro_Man_at_Circus_Park_–_Puerto_Morelos,_Mexico.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Gordon Leggett"
+   },
+   {
+    "file": "Churros_Guatemala.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Marina Kuperman Villatoro"
+   },
+   {
+    "file": "Churros_in_the_Philippines_01.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Obsidian Soul"
+   },
+   {
+    "file": "Glazed-Donut.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Evan-Amos"
+   }
+  ]
+ },
+ "Ramen": {
+  "tipo": "comida",
+  "art": "Ramen",
+  "cand": [
+   {
+    "file": "Shoyu_Ramen（Tokyo_Ramen）_-_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Quercus acuta"
+   },
+   {
+    "file": "Ramen_1928.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "吉田誠一 (Seiichi Yoshida)"
+   },
+   {
+    "file": "Rairaiken.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "新横浜ラーメン博物館"
+   },
+   {
+    "file": "The_Japanese-style_Chinese_noodle_RAMEN_of_the_restaurant_RAIRAIKEN_at_Yutenji_Tokyo.jpg",
+    "lic": [
+     "Public domain",
+     "CC0"
+    ],
+    "autor": "ウィキ太郎 (Wiki Taro)"
+   },
+   {
+    "file": "Shina_soba_yatai.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "塚崎進 (Susumu Tzukazaki)"
+   },
+   {
+    "file": "Shinjuku_(6969833313).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Max Talbot-Minkin from New York, USA"
+   },
+   {
+    "file": "Fresh_ramen_noodle_001.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.1 jp"
+    ],
+    "autor": "Kropsoq"
+   },
+   {
+    "file": "Ichiran_ramen_by_SkyChen_in_Shibuya,_Tokyo.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "SkyChen from Hakata ramen shop Ichiran in Jinnan, Shibuya, Tokyo"
+   },
+   {
+    "file": "Santoka_ramen.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Totti"
+   },
+   {
+    "file": "Gyoza_no_Ousho_20191210_125203.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bject"
+   }
+  ]
+ },
+ "Cachorro-quente": {
+  "tipo": "comida",
+  "art": "Hot_dog",
+  "cand": [
+   {
+    "file": "Hot_dog_with_mustard.png",
+    "lic": [
+     "Public domain",
+     "CC0"
+    ],
+    "autor": "Czar, original photographed by Renee Comet"
+   },
+   {
+    "file": "Frankfurter_stand_LOC_det.4a13502.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Detroit Publishing Company"
+   },
+   {
+    "file": "Indoor_Sports_-_Listening_to_Two_Gay_Dogs_Kid_One_Another_about_Their_First_Frankfurter_at_the_Six_Day_Race.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Tad Dorgan&nbsp;(1877–1929)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Hotdogs.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "No machine-readable author provided. Jersyko assumed (based on copyright claims)"
+   },
+   {
+    "file": "Spiral_hot_dogs.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Valereee"
+   },
+   {
+    "file": "Hotdog_(4739769948).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "cyclonebill from Copenhagen, Denmark"
+   },
+   {
+    "file": "Allina_Volunteer_at_National_Night_Out_(229022095).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tony Webster from Portland, Oregon, United States"
+   },
+   {
+    "file": "Hot_Dog_Toaster.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. Diderot~commonswiki assumed (based on copyr"
+   },
+   {
+    "file": "Hotdog_three.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Sunbeam60 at English Wikipedia"
+   },
+   {
+    "file": "Sigh_and_Elaine_Bell_Catering_Pop-Up,_Sonoma,_California_07.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Missvain"
+   }
+  ]
+ },
+ "Macaron": {
+  "tipo": "comida",
+  "art": "Macaron",
+  "cand": [
+   {
+    "file": "VanillaMacaron.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Michelle Naherny"
+   },
+   {
+    "file": "Macaron_de_Nancy_-_IMG_2841.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Shallowell"
+   },
+   {
+    "file": "Macaron.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Preparing_macarons_for_Valentine's_Day,_filling,_February_2011.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Michelle Suzanne"
+   },
+   {
+    "file": "Macarons,_French_made_mini_cakes.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nicolas Halftermeyer"
+   },
+   {
+    "file": "Macarons_Marcolini_02.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "M0tty"
+   },
+   {
+    "file": "IFC_LCB_Macaron,_March_2009.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "挪威 企鵝"
+   }
+  ]
+ }
+}
