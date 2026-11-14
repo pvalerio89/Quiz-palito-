@@ -718,6 +718,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/comidas-1": {
+      "titulo": "ADIVINHE O PAÍS PELA COMIDA! 🍕 Será que você gabarita? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "Ywul1HDF6dQ",
+        "url": "https://youtu.be/Ywul1HDF6dQ",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "178c22719c051f156eb39d0d7a854f015d445b160b2425be66d12e928a74ca0a",
+        "no_ar_em": "2026-11-15T20:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
