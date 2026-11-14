@@ -307,11 +307,18 @@
       "id": "2026-11-14-paises-pelas-comidas",
       "referencia": "https://youtu.be/Lv8VmYRdCXc",
       "tema": "Adivinhe os PAÍSES pelas COMIDAS - comidas mais populares do mundo (Universo Quiz)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Foto real do prato (Wikimedia) e 3 países como alternativas. 30-40 pratos, fácil→difícil. Estilo humano. | FEITO (2026-11-14): 36 pratos (fotos Wikimedia, créditos na tela final), 3 países por pergunta, estilo humano, ~12 min. Short comidas-1: 6 pratos.",
       "video": "videos/27-paises-pelas-comidas",
       "short": "shorts/comidas-1",
-      "titulo": "ADIVINHE O PAÍS PELA COMIDA 🍕 36 Pratos Famosos do Mundo, do Fácil ao Impossível! | Quiz Palito"
+      "titulo": "ADIVINHE O PAÍS PELA COMIDA 🍕 36 Pratos Famosos do Mundo, do Fácil ao Impossível! | Quiz Palito",
+      "publicado_em": "2026-11-14",
+      "no_ar_em": "2026-11-15T20:30:00Z",
+      "no_ar_brasilia": "15/11 17h30",
+      "links": {
+        "video": "https://youtu.be/BFnHzEz5fX0",
+        "short": "https://youtu.be/Ywul1HDF6dQ"
+      }
     },
     {
       "id": "2026-11-14-eu-ja-eu-nunca",
