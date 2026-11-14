@@ -276,10 +276,15 @@
       "referencia": "",
       "tema": "Quiz de matemática do 6º ao 9º ano (contas, frações, geometria)",
       "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md. | FEITO (2026-11-14): 36 perguntas próprias (6º, 7º, 8º e 9º ano, 9 de cada), cartões de caderno com a conta/figura, estilo mais humano, ~12:50. Short matematica-1: 6 contas.",
-      "status": "pronto",
+      "status": "publicado",
       "video": "videos/25-quiz-matematica",
       "short": "shorts/matematica-1",
-      "titulo": "QUIZ DE MATEMÁTICA do 6º ao 9º Ano 🧮 36 Perguntas do Fácil ao Difícil! Você Passaria? | Quiz Palito"
+      "titulo": "QUIZ DE MATEMÁTICA do 6º ao 9º Ano 🧮 36 Perguntas do Fácil ao Difícil! Você Passaria? | Quiz Palito",
+      "publicado_em": "2026-11-14",
+      "links": {
+        "video": "https://youtu.be/EBiGgiyN0mU",
+        "short": "https://youtu.be/WclJ-RcaemE"
+      }
     },
     {
       "id": "2026-11-12-monumentos-mundo",
