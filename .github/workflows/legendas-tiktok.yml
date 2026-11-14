@@ -1,0 +1,29 @@
+# Copia cada shorts/<nome>/youtube/tiktok.txt para as notas da Release video-shorts-<nome>
+# (é de lá que o Patrick copia a legenda no celular). Roda sozinho quando um tiktok.txt muda na main.
+name: Atualizar legendas do TikTok
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["shorts/*/youtube/tiktok.txt"]
+
+permissions:
+  contents: write
+
+jobs:
+  notas:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Atualizar notas das Releases dos Shorts
+        run: |
+          for f in shorts/*/youtube/tiktok.txt; do
+            nome=$(basename "$(dirname "$(dirname "$f")")")
+            tag="video-shorts-$nome"
+            gh release view "$tag" >/dev/null 2>&1 || { echo "sem Release: $tag"; continue; }
+            { echo "Legenda do TikTok (copie e cole no app):"; echo; grep -viE "youtu|LINK_DO_VIDEO_LONGO|Canal:" "$f"; } > notas.md
+            gh release edit "$tag" --notes-file notas.md && echo "ok: $tag"
+          done
