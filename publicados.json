@@ -704,6 +704,20 @@
         "data": "2026-11-14",
         "origem": "github-actions"
       }
+    },
+    "videos/27-paises-pelas-comidas": {
+      "youtube": {
+        "status": "publicado",
+        "id": "BFnHzEz5fX0",
+        "url": "https://youtu.be/BFnHzEz5fX0",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "80edbd6be02b8d4c4bfb47ebc9e7e148b6367b47cdd0409e21678125c78790d9",
+        "no_ar_em": "2026-11-15T20:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
