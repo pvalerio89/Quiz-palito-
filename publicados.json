@@ -655,6 +655,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/matematica-1": {
+      "titulo": "QUIZ DE MATEMÁTICA RAPIDINHO! 🧮 Só gênio acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "WclJ-RcaemE",
+        "url": "https://youtu.be/WclJ-RcaemE",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "cc9a10be6d5581f1be41caa77d8168256a5eb3bdd85a9458d9dd5489a30babb2"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
