@@ -624,6 +624,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/bandeiras-estados-1": {
+      "titulo": "BANDEIRAS DOS ESTADOS DO BRASIL! 🇧🇷 Quase ninguém acerta a última! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "fUpyh2FbCjA",
+        "url": "https://youtu.be/fUpyh2FbCjA",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "9bbef26fe878c11909ea686f1c831fd3837471eb80647c53e3972233c2df957e",
+        "no_ar_em": "2026-11-14T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
