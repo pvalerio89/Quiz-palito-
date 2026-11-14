@@ -642,6 +642,19 @@
         "data": "2026-11-14",
         "origem": "github-actions"
       }
+    },
+    "videos/25-quiz-matematica": {
+      "youtube": {
+        "status": "publicado",
+        "id": "EBiGgiyN0mU",
+        "url": "https://youtu.be/EBiGgiyN0mU",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "b340b65ed16a1166a6d8bfa2a31c64cb91679d28dc1b09ca6d0c6c2a4b428d34"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
