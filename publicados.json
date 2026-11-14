@@ -610,6 +610,20 @@
         "data": "2026-11-13",
         "origem": "github-actions"
       }
+    },
+    "videos/24-bandeiras-estados": {
+      "youtube": {
+        "status": "publicado",
+        "id": "5n2rhoWXfrA",
+        "url": "https://youtu.be/5n2rhoWXfrA",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "5fdf685a2483632cccc38e2c95fa15c33c2179e71ba2154ada59cd94eb38aa98",
+        "no_ar_em": "2026-11-14T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
