@@ -1,0 +1,562 @@
+[
+ {
+  "n": 1,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Feijoada",
+  "foto": "feijoada.jpg",
+  "opcoes": [
+   "Brasil",
+   "Portugal",
+   "Argentina"
+  ],
+  "certa": 0,
+  "fala_q": "Pra aquecer, essa é de casa! De que país é esse prato? Brasil, Portugal ou Argentina?",
+  "fala_r": "Brasil! A nossa feijoada!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Pizza",
+  "foto": "pizza.jpg",
+  "opcoes": [
+   "Estados Unidos",
+   "Grécia",
+   "Itália"
+  ],
+  "certa": 2,
+  "fala_q": "Essa todo mundo ama. De que país vem a pizza? Estados Unidos, Grécia ou Itália?",
+  "fala_r": "Itália! A pizza nasceu em Nápoles!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Sushi",
+  "foto": "sushi.jpg",
+  "opcoes": [
+   "China",
+   "Japão",
+   "Coreia do Sul"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pra Ásia! De que país é o sushi? China, Japão ou Coreia do Sul?",
+  "fala_r": "Japão! O sushi!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Tacos",
+  "foto": "tacos.jpg",
+  "opcoes": [
+   "México",
+   "Espanha",
+   "Peru"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma bem apimentada! De que país são os tacos? México, Espanha ou Peru?",
+  "fala_r": "México! Os tacos!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Croissant",
+  "foto": "croissant.jpg",
+  "opcoes": [
+   "França",
+   "Bélgica",
+   "Suíça"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado, que essa tem pegadinha! Esse pão é famoso em que país? França, Bélgica ou Suíça?",
+  "fala_r": "França! Mas o pãozinho em forma de lua veio da Áustria!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "O croissant ficou famoso na França, mas a ideia veio da Áustria."
+ },
+ {
+  "n": 6,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Paella",
+  "foto": "paella.jpg",
+  "opcoes": [
+   "Portugal",
+   "Espanha",
+   "Itália"
+  ],
+  "certa": 1,
+  "fala_q": "Arroz com frutos do mar numa panela enorme. De que país? Portugal, Espanha ou Itália?",
+  "fala_r": "Espanha! A paella, de Valência!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Pastel de nata",
+  "foto": "pastel-de-nata.jpg",
+  "opcoes": [
+   "Brasil",
+   "Portugal",
+   "Espanha"
+  ],
+  "certa": 1,
+  "fala_q": "Esse docinho é famoso em que país? Brasil, Portugal ou Espanha?",
+  "fala_r": "Portugal! O pastel de nata, de Lisboa!",
+  "count": 7.0,
+  "sabia": "O pastel de nata foi criado por monges de um mosteiro de Lisboa."
+ },
+ {
+  "n": 8,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Hambúrguer",
+  "foto": "hamburguer.jpg",
+  "opcoes": [
+   "Alemanha",
+   "Estados Unidos",
+   "Inglaterra"
+  ],
+  "certa": 1,
+  "fala_q": "Esse lanche ficou famoso no mundo todo por qual país? Alemanha, Estados Unidos ou Inglaterra?",
+  "fala_r": "Estados Unidos! Mas o nome vem da cidade de Hamburgo, na Alemanha!",
+  "count": 7.0,
+  "aviso": "PENSA BEM!"
+ },
+ {
+  "n": 9,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Fish and chips",
+  "foto": "fish-and-chips.jpg",
+  "opcoes": [
+   "Irlanda",
+   "Austrália",
+   "Reino Unido"
+  ],
+  "certa": 2,
+  "fala_q": "Peixe frito com batata frita. De que país é esse clássico? Irlanda, Austrália ou Reino Unido?",
+  "fala_r": "Reino Unido! O fish and chips!",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Biryani",
+  "foto": "biryani.jpg",
+  "opcoes": [
+   "Tailândia",
+   "Índia",
+   "Turquia"
+  ],
+  "certa": 1,
+  "fala_q": "Arroz bem temperado com especiarias. De que país? Tailândia, Índia ou Turquia?",
+  "fala_r": "Índia! O biryani!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Kimchi",
+  "foto": "kimchi.jpg",
+  "opcoes": [
+   "Japão",
+   "Coreia do Sul",
+   "China"
+  ],
+  "certa": 1,
+  "fala_q": "Essa conserva de repolho apimentada é de que país? Japão, Coreia do Sul ou China?",
+  "fala_r": "Coreia do Sul! O kimchi!",
+  "count": 7.0,
+  "fala_d": "Dica: é o país do kpop!",
+  "dica_txt": "É O PAÍS DO K-POP"
+ },
+ {
+  "n": 12,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Pad thai",
+  "foto": "pad-thai.jpg",
+  "opcoes": [
+   "Vietnã",
+   "Indonésia",
+   "Tailândia"
+  ],
+  "certa": 2,
+  "fala_q": "Macarrão de arroz frito com amendoim. De que país? Vietnã, Indonésia ou Tailândia?",
+  "fala_r": "Tailândia! O pad thai!",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Asado",
+  "foto": "asado.jpg",
+  "opcoes": [
+   "Uruguai",
+   "Argentina",
+   "Chile"
+  ],
+  "certa": 1,
+  "fala_q": "Esse churrasco é a paixão de qual vizinho nosso? Uruguai, Argentina ou Chile?",
+  "fala_r": "Argentina! O asado!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Ceviche",
+  "foto": "ceviche.jpg",
+  "opcoes": [
+   "Peru",
+   "México",
+   "Colômbia"
+  ],
+  "certa": 0,
+  "fala_q": "Peixe cru temperado com limão. De que país é esse prato? Peru, México ou Colômbia?",
+  "fala_r": "Peru! O ceviche!",
+  "count": 7.0,
+  "sabia": "No ceviche, o limão é que \"cozinha\" o peixe."
+ },
+ {
+  "n": 15,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Döner kebab",
+  "foto": "doner-kebab.jpg",
+  "opcoes": [
+   "Turquia",
+   "Grécia",
+   "Índia"
+  ],
+  "certa": 0,
+  "fala_q": "Carne assada num espeto que gira. De que país? Turquia, Grécia ou Índia?",
+  "fala_r": "Turquia! O döner kebab!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Pato de Pequim",
+  "foto": "pato-de-pequim.jpg",
+  "opcoes": [
+   "Japão",
+   "China",
+   "Tailândia"
+  ],
+  "certa": 1,
+  "fala_q": "Esse pato assado leva o nome da capital de um país. Qual? Japão, China ou Tailândia?",
+  "fala_r": "China! O pato de Pequim!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Fondue",
+  "foto": "fondue.jpg",
+  "opcoes": [
+   "França",
+   "Suíça",
+   "Áustria"
+  ],
+  "certa": 1,
+  "fala_q": "Queijo derretido pra mergulhar o pão. De que país? França, Suíça ou Áustria?",
+  "fala_r": "Suíça! O fondue!",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 18,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Pho",
+  "foto": "pho.jpg",
+  "opcoes": [
+   "Vietnã",
+   "Japão",
+   "Coreia do Sul"
+  ],
+  "certa": 0,
+  "fala_q": "Essa sopa de macarrão é de que país? Vietnã, Japão ou Coreia do Sul?",
+  "fala_r": "Vietnã! O pho!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 19,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Moussaka",
+  "foto": "moussaka.jpg",
+  "opcoes": [
+   "Itália",
+   "Turquia",
+   "Grécia"
+  ],
+  "certa": 2,
+  "fala_q": "Berinjela, carne e molho branco no forno. De que país? Itália, Turquia ou Grécia?",
+  "fala_r": "Grécia! A moussaka!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Waffle belga",
+  "foto": "waffle-belga.jpg",
+  "opcoes": [
+   "Bélgica",
+   "Holanda",
+   "Alemanha"
+  ],
+  "certa": 0,
+  "fala_q": "Pra respirar: de que país é esse waffle famoso? Bélgica, Holanda ou Alemanha?",
+  "fala_r": "Bélgica! O waffle belga!",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Goulash",
+  "foto": "goulash.jpg",
+  "opcoes": [
+   "Hungria",
+   "Polônia",
+   "Rússia"
+  ],
+  "certa": 0,
+  "fala_q": "Um ensopado de carne com páprica. De que país? Hungria, Polônia ou Rússia?",
+  "fala_r": "Hungria! O goulash!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Budapeste!",
+  "dica_txt": "A CAPITAL É BUDAPESTE"
+ },
+ {
+  "n": 22,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Pierogi",
+  "foto": "pierogi.jpg",
+  "opcoes": [
+   "Ucrânia",
+   "Polônia",
+   "Alemanha"
+  ],
+  "certa": 1,
+  "fala_q": "Esses pasteizinhos cozidos são símbolo de que país? Ucrânia, Polônia ou Alemanha?",
+  "fala_r": "Polônia! Os pierogi!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Bratwurst",
+  "foto": "bratwurst.jpg",
+  "opcoes": [
+   "Áustria",
+   "Suíça",
+   "Alemanha"
+  ],
+  "certa": 2,
+  "fala_q": "Essa linguiça famosa é de que país? Áustria, Suíça ou Alemanha?",
+  "fala_r": "Alemanha! A bratwurst!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Strudel",
+  "foto": "strudel.jpg",
+  "opcoes": [
+   "Alemanha",
+   "Hungria",
+   "Áustria"
+  ],
+  "certa": 2,
+  "fala_q": "Torta de massa fininha recheada de maçã. De que país? Alemanha, Hungria ou Áustria?",
+  "fala_r": "Áustria! O strudel de Viena!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 25,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Poutine",
+  "foto": "poutine.jpg",
+  "opcoes": [
+   "Estados Unidos",
+   "França",
+   "Canadá"
+  ],
+  "certa": 2,
+  "fala_q": "Batata frita com queijo e molho por cima. De que país? Estados Unidos, França ou Canadá?",
+  "fala_r": "Canadá! A poutine!",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Cuscuz marroquino",
+  "foto": "cuscuz-marroquino.jpg",
+  "opcoes": [
+   "Egito",
+   "Brasil",
+   "Marrocos"
+  ],
+  "certa": 2,
+  "fala_q": "Agora a África. Esse cuscuz é de que país? Egito, Brasil ou Marrocos?",
+  "fala_r": "Marrocos! O cuscuz marroquino! Diferente do nosso, né?",
+  "count": 7.0,
+  "aviso": "PENSA BEM!"
+ },
+ {
+  "n": 27,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Nasi goreng",
+  "foto": "nasi-goreng.jpg",
+  "opcoes": [
+   "Malásia",
+   "Indonésia",
+   "Filipinas"
+  ],
+  "certa": 1,
+  "fala_q": "Arroz frito com ovo por cima. De que país? Malásia, Indonésia ou Filipinas?",
+  "fala_r": "Indonésia! O nasi goreng!",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Stroopwafel",
+  "foto": "stroopwafel.jpg",
+  "opcoes": [
+   "Bélgica",
+   "Holanda",
+   "Dinamarca"
+  ],
+  "certa": 1,
+  "fala_q": "Biscoito com calda de caramelo no meio. De que país? Bélgica, Holanda ou Dinamarca?",
+  "fala_r": "Holanda! O stroopwafel!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Pelmeni",
+  "foto": "pelmeni.jpg",
+  "opcoes": [
+   "Polônia",
+   "China",
+   "Rússia"
+  ],
+  "certa": 2,
+  "fala_q": "Bolinhos de massa recheados de carne. De que país? Polônia, China ou Rússia?",
+  "fala_r": "Rússia! Os pelmeni!",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Chivito",
+  "foto": "chivito.jpg",
+  "opcoes": [
+   "Argentina",
+   "Paraguai",
+   "Uruguai"
+  ],
+  "certa": 2,
+  "fala_q": "Esse sanduíche enorme é de um vizinho nosso. Qual? Argentina, Paraguai ou Uruguai?",
+  "fala_r": "Uruguai! O chivito!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Montevidéu!",
+  "dica_txt": "A CAPITAL É MONTEVIDÉU"
+ },
+ {
+  "n": 31,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Lamington",
+  "foto": "lamington.jpg",
+  "opcoes": [
+   "Nova Zelândia",
+   "Inglaterra",
+   "Austrália"
+  ],
+  "certa": 2,
+  "fala_q": "Bolinho com chocolate e coco. De que país? Nova Zelândia, Inglaterra ou Austrália?",
+  "fala_r": "Austrália! O lamington!",
+  "count": 7.0
+ },
+ {
+  "n": 32,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Smørrebrød",
+  "foto": "smrrebrd.jpg",
+  "opcoes": [
+   "Suécia",
+   "Dinamarca",
+   "Noruega"
+  ],
+  "certa": 1,
+  "fala_q": "Agora ficou difícil! Pão preto com coisas por cima. De que país? Suécia, Dinamarca ou Noruega?",
+  "fala_r": "Dinamarca! O smørrebrød!",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 33,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Injera",
+  "foto": "injera.jpg",
+  "opcoes": [
+   "Etiópia",
+   "Quênia",
+   "Egito"
+  ],
+  "certa": 0,
+  "fala_q": "Essa panqueca grandona é de que país africano? Etiópia, Quênia ou Egito?",
+  "fala_r": "Etiópia! A injera!",
+  "count": 7.0
+ },
+ {
+  "n": 34,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Ackee and saltfish",
+  "foto": "ackee-and-saltfish.jpg",
+  "opcoes": [
+   "Jamaica",
+   "Cuba",
+   "México"
+  ],
+  "certa": 0,
+  "fala_q": "Um prato do Caribe. De que país? Jamaica, Cuba ou México?",
+  "fala_r": "Jamaica! Ackee com bacalhau!",
+  "count": 7.0
+ },
+ {
+  "n": 35,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Bobotie",
+  "foto": "bobotie.jpg",
+  "opcoes": [
+   "Nigéria",
+   "Marrocos",
+   "África do Sul"
+  ],
+  "certa": 2,
+  "fala_q": "Carne moída com ovo assado por cima. De que país? Nigéria, Marrocos ou África do Sul?",
+  "fala_r": "África do Sul! O bobotie!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 36,
+  "pergunta": "DE QUE PAÍS É ESSE PRATO?",
+  "prato": "Mansaf",
+  "foto": "mansaf.jpg",
+  "opcoes": [
+   "Jordânia",
+   "Egito",
+   "Turquia"
+  ],
+  "certa": 0,
+  "fala_q": "De que país é esse prato de arroz com cordeiro? Jordânia, Egito ou Turquia?",
+  "fala_r": "Jordânia! O mansaf! Se acertou essa, você é fera!",
+  "count": 9.0,
+  "final": true,
+  "fala_s": "Valendo o título de chef do mundo... a resposta é..."
+ }
+]

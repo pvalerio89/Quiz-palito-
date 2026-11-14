@@ -1,1 +1,1 @@
-buscar videos/27-paises-pelas-comidas/candidatas/lista.tsv videos/27-paises-pelas-comidas/candidatas
+baixar videos/27-paises-pelas-comidas/escolhas.json videos/27-paises-pelas-comidas
