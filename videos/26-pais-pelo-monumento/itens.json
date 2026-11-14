@@ -1,0 +1,504 @@
+[
+ {
+  "n": 1,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Cristo Redentor",
+  "foto": "cristo-redentor.jpg",
+  "opcoes": [
+   "Brasil",
+   "Portugal",
+   "Argentina"
+  ],
+  "certa": 0,
+  "fala_q": "Pra aquecer, essa é de casa! Em que país fica esse monumento? Brasil, Portugal ou Argentina?",
+  "fala_r": "Brasil! O Cristo Redentor, no Rio de Janeiro!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Torre Eiffel",
+  "foto": "torre-eiffel.jpg",
+  "opcoes": [
+   "Itália",
+   "Inglaterra",
+   "França"
+  ],
+  "certa": 2,
+  "fala_q": "Essa todo mundo conhece. Em que país fica essa torre? Itália, Inglaterra ou França?",
+  "fala_r": "França! A Torre Eiffel, em Paris!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Pirâmides de Gizé",
+  "foto": "piramides-de-gize.jpg",
+  "opcoes": [
+   "México",
+   "Egito",
+   "Peru"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pro deserto! Em que país ficam essas pirâmides? México, Egito ou Peru?",
+  "fala_r": "Egito! As pirâmides de Gizé, com mais de quatro mil anos!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Coliseu",
+  "foto": "coliseu.jpg",
+  "opcoes": [
+   "Itália",
+   "Grécia",
+   "Espanha"
+  ],
+  "certa": 0,
+  "fala_q": "Aqui lutavam os gladiadores! Em que país fica? Itália, Grécia ou Espanha?",
+  "fala_r": "Itália! O Coliseu, em Roma!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Estátua da Liberdade",
+  "foto": "estatua-da-liberdade.jpg",
+  "opcoes": [
+   "Estados Unidos",
+   "França",
+   "Canadá"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado, que essa tem pegadinha! Em que país fica essa estátua? Estados Unidos, França ou Canadá?",
+  "fala_r": "Estados Unidos! Ela fica em Nova York, mas foi um presente da França!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "A Estátua da Liberdade foi um presente da França aos Estados Unidos."
+ },
+ {
+  "n": 6,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Big Ben",
+  "foto": "big-ben.jpg",
+  "opcoes": [
+   "Irlanda",
+   "Austrália",
+   "Reino Unido"
+  ],
+  "certa": 2,
+  "fala_q": "Olha esse relógio famoso! Em que país ele fica? Irlanda, Austrália ou Reino Unido?",
+  "fala_r": "Reino Unido! O Big Ben, em Londres!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Taj Mahal",
+  "foto": "taj-mahal.jpg",
+  "opcoes": [
+   "Turquia",
+   "Índia",
+   "Irã"
+  ],
+  "certa": 1,
+  "fala_q": "Agora a Ásia. Em que país fica esse palácio branco? Turquia, Índia ou Irã?",
+  "fala_r": "Índia! O Taj Mahal!",
+  "count": 7.0,
+  "sabia": "O Taj Mahal foi construído por um imperador em homenagem à esposa."
+ },
+ {
+  "n": 8,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Muralha da China",
+  "foto": "muralha-da-china.jpg",
+  "opcoes": [
+   "Japão",
+   "Coreia do Sul",
+   "China"
+  ],
+  "certa": 2,
+  "fala_q": "Essa aqui é enorme! Em que país fica? Japão, Coreia do Sul ou China?",
+  "fala_r": "China! A Grande Muralha!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Torre de Pisa",
+  "foto": "torre-de-pisa.jpg",
+  "opcoes": [
+   "França",
+   "Espanha",
+   "Itália"
+  ],
+  "certa": 2,
+  "fala_q": "Olha essa torre tortinha! Em que país ela fica? França, Espanha ou Itália?",
+  "fala_r": "Itália! A Torre de Pisa!",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Ópera de Sydney",
+  "foto": "opera-de-sydney.jpg",
+  "opcoes": [
+   "Nova Zelândia",
+   "Reino Unido",
+   "Austrália"
+  ],
+  "certa": 2,
+  "fala_q": "Parece um monte de velas de barco! Em que país fica? Nova Zelândia, Reino Unido ou Austrália?",
+  "fala_r": "Austrália! A Ópera de Sydney!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Machu Picchu",
+  "foto": "machu-picchu.jpg",
+  "opcoes": [
+   "Peru",
+   "Bolívia",
+   "México"
+  ],
+  "certa": 0,
+  "fala_q": "Uma cidade antiga lá no alto das montanhas. Em que país? Peru, Bolívia ou México?",
+  "fala_r": "Peru! Machu Picchu, a cidade dos incas!",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Sagrada Família",
+  "foto": "sagrada-familia.jpg",
+  "opcoes": [
+   "Portugal",
+   "Itália",
+   "Espanha"
+  ],
+  "certa": 2,
+  "fala_q": "Essa igreja tá em obra há mais de cem anos! Em que país fica? Portugal, Itália ou Espanha?",
+  "fala_r": "Espanha! A Sagrada Família, em Barcelona!",
+  "count": 7.0,
+  "sabia": "A Sagrada Família começou a ser construída em 1882."
+ },
+ {
+  "n": 13,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Chichén Itzá",
+  "foto": "chichen-itza.jpg",
+  "opcoes": [
+   "México",
+   "Peru",
+   "Egito"
+  ],
+  "certa": 0,
+  "fala_q": "Pirâmide de novo... mas cuidado! Em que país fica essa? México, Peru ou Egito?",
+  "fala_r": "México! Chichén Itzá, dos maias! Quem disse Egito caiu na pegadinha!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 14,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Portão de Brandemburgo",
+  "foto": "portao-de-brandemburgo.jpg",
+  "opcoes": [
+   "Áustria",
+   "Grécia",
+   "Alemanha"
+  ],
+  "certa": 2,
+  "fala_q": "Agora a Europa. Em que país fica esse portão? Áustria, Grécia ou Alemanha?",
+  "fala_r": "Alemanha! O Portão de Brandemburgo, em Berlim!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Partenon",
+  "foto": "partenon.jpg",
+  "opcoes": [
+   "Itália",
+   "Turquia",
+   "Grécia"
+  ],
+  "certa": 2,
+  "fala_q": "Um templo antigo lá no alto. Em que país fica? Itália, Turquia ou Grécia?",
+  "fala_r": "Grécia! O Partenon, em Atenas!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Torre de Belém",
+  "foto": "torre-de-belem.jpg",
+  "opcoes": [
+   "Brasil",
+   "Portugal",
+   "Espanha"
+  ],
+  "certa": 1,
+  "fala_q": "Essa aqui derruba muita gente! Em que país fica a Torre de Belém? Brasil, Portugal ou Espanha?",
+  "fala_r": "Portugal! Fica em Lisboa, não no Pará!",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 17,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Catedral de São Basílio",
+  "foto": "catedral-de-sao-basilio.jpg",
+  "opcoes": [
+   "Turquia",
+   "Rússia",
+   "Ucrânia"
+  ],
+  "certa": 1,
+  "fala_q": "Olha essas cúpulas coloridas! Em que país? Turquia, Rússia ou Ucrânia?",
+  "fala_r": "Rússia! A Catedral de São Basílio, em Moscou!",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Petra",
+  "foto": "petra.jpg",
+  "opcoes": [
+   "Jordânia",
+   "Egito",
+   "Arábia Saudita"
+  ],
+  "certa": 0,
+  "fala_q": "Uma cidade inteira esculpida na pedra. Em que país? Jordânia, Egito ou Arábia Saudita?",
+  "fala_r": "Jordânia! Petra!",
+  "count": 7.0,
+  "fala_d": "Dica: fica do lado de Israel!",
+  "dica_txt": "FICA DO LADO DE ISRAEL"
+ },
+ {
+  "n": 19,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Burj Khalifa",
+  "foto": "burj-khalifa.jpg",
+  "opcoes": [
+   "Catar",
+   "Arábia Saudita",
+   "Emirados Árabes"
+  ],
+  "certa": 2,
+  "fala_q": "O prédio mais alto do mundo! Em que país fica? Catar, Arábia Saudita ou Emirados Árabes?",
+  "fala_r": "Emirados Árabes! O Burj Khalifa, em Dubai!",
+  "count": 7.0,
+  "sabia": "O Burj Khalifa tem mais de 800 metros de altura."
+ },
+ {
+  "n": 20,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Obelisco de Buenos Aires",
+  "foto": "obelisco-de-buenos-aires.jpg",
+  "opcoes": [
+   "Uruguai",
+   "Argentina",
+   "Chile"
+  ],
+  "certa": 1,
+  "fala_q": "Aqui pertinho do Brasil. Em que país fica esse obelisco? Uruguai, Argentina ou Chile?",
+  "fala_r": "Argentina! O Obelisco de Buenos Aires!",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Moai",
+  "foto": "moai.jpg",
+  "opcoes": [
+   "Peru",
+   "Nova Zelândia",
+   "Chile"
+  ],
+  "certa": 2,
+  "fala_q": "Essas cabeças de pedra são famosas. Em que país elas ficam? Peru, Nova Zelândia ou Chile?",
+  "fala_r": "Chile! Na Ilha de Páscoa, no meio do Pacífico!",
+  "count": 7.0,
+  "aviso": "PENSA BEM!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 22,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Torre CN",
+  "foto": "torre-cn.jpg",
+  "opcoes": [
+   "Canadá",
+   "Estados Unidos",
+   "Austrália"
+  ],
+  "certa": 0,
+  "fala_q": "Uma torre altíssima na América do Norte. Em que país? Canadá, Estados Unidos ou Austrália?",
+  "fala_r": "Canadá! A Torre CN, em Toronto!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Santa Sofia",
+  "foto": "santa-sofia.jpg",
+  "opcoes": [
+   "Turquia",
+   "Grécia",
+   "Egito"
+  ],
+  "certa": 0,
+  "fala_q": "Já foi igreja e mesquita. Em que país fica? Turquia, Grécia ou Egito?",
+  "fala_r": "Turquia! Santa Sofia, em Istambul!",
+  "count": 7.0,
+  "fala_d": "Dica: a cidade é Istambul!",
+  "dica_txt": "A CIDADE É ISTAMBUL"
+ },
+ {
+  "n": 24,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Angkor Wat",
+  "foto": "angkor-wat.jpg",
+  "opcoes": [
+   "Camboja",
+   "Tailândia",
+   "Vietnã"
+  ],
+  "certa": 0,
+  "fala_q": "Um templo gigante no meio da floresta. Em que país? Camboja, Tailândia ou Vietnã?",
+  "fala_r": "Camboja! Angkor Wat! Está até na bandeira de lá!",
+  "count": 7.0,
+  "sabia": "Angkor Wat aparece desenhado na bandeira do Camboja."
+ },
+ {
+  "n": 25,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Alhambra",
+  "foto": "alhambra.jpg",
+  "opcoes": [
+   "Marrocos",
+   "Espanha",
+   "Portugal"
+  ],
+  "certa": 1,
+  "fala_q": "Um palácio antigo dos mouros. Em que país fica? Marrocos, Espanha ou Portugal?",
+  "fala_r": "Espanha! A Alhambra, em Granada!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 26,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Golden Gate",
+  "foto": "golden-gate.jpg",
+  "opcoes": [
+   "Estados Unidos",
+   "Canadá",
+   "Reino Unido"
+  ],
+  "certa": 0,
+  "fala_q": "Pra respirar: em que país fica essa ponte vermelha? Estados Unidos, Canadá ou Reino Unido?",
+  "fala_r": "Estados Unidos! A Golden Gate, em São Francisco!",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Torres Petronas",
+  "foto": "torres-petronas.jpg",
+  "opcoes": [
+   "Singapura",
+   "Malásia",
+   "Indonésia"
+  ],
+  "certa": 1,
+  "fala_q": "Duas torres gêmeas ligadas por uma ponte. Em que país? Singapura, Malásia ou Indonésia?",
+  "fala_r": "Malásia! As Torres Petronas!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Kuala Lumpur!",
+  "dica_txt": "A CAPITAL É KUALA LUMPUR"
+ },
+ {
+  "n": 28,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Castelo de Neuschwanstein",
+  "foto": "castelo-de-neuschwanstein.jpg",
+  "opcoes": [
+   "Áustria",
+   "Alemanha",
+   "Suíça"
+  ],
+  "certa": 1,
+  "fala_q": "Parece castelo de desenho animado! Em que país fica? Áustria, Alemanha ou Suíça?",
+  "fala_r": "Alemanha! Esse castelo inspirou o castelo da Cinderela!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Atomium",
+  "foto": "atomium.jpg",
+  "opcoes": [
+   "Holanda",
+   "França",
+   "Bélgica"
+  ],
+  "certa": 2,
+  "fala_q": "Olha essas bolas gigantes de metal! Em que país fica? Holanda, França ou Bélgica?",
+  "fala_r": "Bélgica! O Atomium, em Bruxelas!",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 30,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Mont Saint-Michel",
+  "foto": "mont-saint-michel.jpg",
+  "opcoes": [
+   "Inglaterra",
+   "França",
+   "Bélgica"
+  ],
+  "certa": 1,
+  "fala_q": "Uma ilha com um castelo que a maré cerca. Em que país? Inglaterra, França ou Bélgica?",
+  "fala_r": "França! O Mont Saint-Michel!",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Ponte Carlos",
+  "foto": "ponte-carlos.jpg",
+  "opcoes": [
+   "Hungria",
+   "República Tcheca",
+   "Polônia"
+  ],
+  "certa": 1,
+  "fala_q": "Agora ficou difícil! Em que país fica essa ponte de pedra? Hungria, República Tcheca ou Polônia?",
+  "fala_r": "República Tcheca! A Ponte Carlos, em Praga!",
+  "count": 7.0
+ },
+ {
+  "n": 32,
+  "pergunta": "EM QUE PAÍS FICA?",
+  "monumento": "Borobudur",
+  "foto": "borobudur.jpg",
+  "opcoes": [
+   "Índia",
+   "Indonésia",
+   "Tailândia"
+  ],
+  "certa": 1,
+  "fala_q": "Em que país fica esse templo gigante de pedra? Índia, Indonésia ou Tailândia?",
+  "fala_r": "Indonésia! Borobudur, o maior templo budista do mundo! Se acertou essa, você é fera!",
+  "count": 9.0,
+  "final": true,
+  "fala_s": "Valendo o título de fera da geografia... a resposta é..."
+ }
+]
