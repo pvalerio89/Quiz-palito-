@@ -1,1 +1,1 @@
-baixar videos/22-capitais/escolhas.json videos/22-capitais 
+baixar videos/26-pais-pelo-monumento/escolhas.json videos/26-pais-pelo-monumento

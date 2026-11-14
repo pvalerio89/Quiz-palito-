@@ -1,0 +1,718 @@
+[
+ {
+  "n": 1,
+  "serie": 6,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "7 × 8"
+  ],
+  "forma": null,
+  "foto": "m1.png",
+  "opcoes": [
+   "54",
+   "56",
+   "63"
+  ],
+  "certa": 1,
+  "fala_q": "Pra aquecer: quanto é sete vezes oito? 54, 56 ou 63?",
+  "fala_r": "Cinquenta e seis! Começou bem?",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "serie": 6,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "125 + 75"
+  ],
+  "forma": null,
+  "foto": "m2.png",
+  "opcoes": [
+   "190",
+   "210",
+   "200"
+  ],
+  "certa": 2,
+  "fala_q": "Agora de cabeça: cento e vinte e cinco mais setenta e cinco? 190, 210 ou 200?",
+  "fala_r": "Duzentos! Essa foi rapidinha!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "serie": 6,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "100 − 37"
+  ],
+  "forma": null,
+  "foto": "m3.png",
+  "opcoes": [
+   "73",
+   "67",
+   "63"
+  ],
+  "certa": 2,
+  "fala_q": "Cem menos trinta e sete? 73, 67 ou 63?",
+  "fala_r": "Sessenta e três!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "serie": 6,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "144 ÷ 12"
+  ],
+  "forma": null,
+  "foto": "m4.png",
+  "opcoes": [
+   "14",
+   "12",
+   "11"
+  ],
+  "certa": 1,
+  "fala_q": "Cento e quarenta e quatro dividido por doze? 14, 12 ou 11?",
+  "fala_r": "Doze! Doze vezes doze dá cento e quarenta e quatro!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "serie": 6,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "2^3"
+  ],
+  "forma": null,
+  "foto": "m5.png",
+  "opcoes": [
+   "6",
+   "9",
+   "8"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado, que essa tem pegadinha! Quanto é dois ao cubo? 6, 9 ou 8?",
+  "fala_r": "Oito! Dois vezes dois vezes dois. Quem disse seis caiu na pegadinha!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 6,
+  "serie": 6,
+  "pergunta": "QUAL É O MAIOR?",
+  "cartao": [
+   "0,5   0,25   0,8"
+  ],
+  "forma": null,
+  "foto": "m6.png",
+  "opcoes": [
+   "0,5",
+   "0,25",
+   "0,8"
+  ],
+  "certa": 2,
+  "fala_q": "Qual desses números é o maior? 0 vírgula 5, 0 vírgula 25 ou 0 vírgula 8?",
+  "fala_r": "Zero vírgula oito! Oitenta centavos é mais que cinquenta!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "serie": 6,
+  "pergunta": "QUANTOS MINUTOS?",
+  "cartao": [
+   "2 h 30 min",
+   "= ? min"
+  ],
+  "forma": null,
+  "foto": "m7.png",
+  "opcoes": [
+   "130",
+   "230",
+   "150"
+  ],
+  "certa": 2,
+  "fala_q": "Duas horas e meia têm quantos minutos? 130, 230 ou 150?",
+  "fala_r": "Cento e cinquenta minutos!",
+  "count": 7.0,
+  "sabia": "Um dia inteiro tem 1.440 minutos."
+ },
+ {
+  "n": 8,
+  "serie": 6,
+  "pergunta": "MENOR MÚLTIPLO COMUM",
+  "cartao": [
+   "MMC (4, 6)"
+  ],
+  "forma": null,
+  "foto": "m8.png",
+  "opcoes": [
+   "24",
+   "10",
+   "12"
+  ],
+  "certa": 2,
+  "fala_q": "Qual é o menor número que é múltiplo de quatro e de seis ao mesmo tempo? 24, 10 ou 12?",
+  "fala_r": "Doze! Quatro vezes três e seis vezes dois!",
+  "count": 7.0,
+  "fala_d": "Dica: é menor que vinte!",
+  "dica_txt": "É MENOR QUE 20"
+ },
+ {
+  "n": 9,
+  "serie": 6,
+  "pergunta": "QUAL É O PERÍMETRO?",
+  "cartao": [
+   "lado = 5 cm"
+  ],
+  "forma": "quadrado",
+  "foto": "m9.png",
+  "opcoes": [
+   "25 cm",
+   "20 cm",
+   "10 cm"
+  ],
+  "certa": 1,
+  "fala_q": "Esse quadrado tem cinco centímetros de lado. Qual é o perímetro? 25 centímetros, 20 centímetros ou 10 centímetros?",
+  "fala_r": "Vinte centímetros! Perímetro é a volta toda. Vinte e cinco seria a área!",
+  "count": 7.0,
+  "aviso": "PERÍMETRO OU ÁREA?"
+ },
+ {
+  "n": 10,
+  "serie": 7,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "−3 + 8"
+  ],
+  "forma": null,
+  "foto": "m10.png",
+  "opcoes": [
+   "−5",
+   "11",
+   "5"
+  ],
+  "certa": 2,
+  "fala_q": "Agora o sétimo ano, com números negativos! Menos três mais oito? menos 5, 11 ou 5?",
+  "fala_r": "Cinco positivo!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "serie": 7,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "(−4) × (−5)"
+  ],
+  "forma": null,
+  "foto": "m11.png",
+  "opcoes": [
+   "20",
+   "−20",
+   "−9"
+  ],
+  "certa": 0,
+  "fala_q": "Essa aqui derruba muita gente! Menos quatro vezes menos cinco? 20, menos 20 ou menos 9?",
+  "fala_r": "Vinte positivo! Menos com menos dá mais!",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 12,
+  "serie": 7,
+  "pergunta": "QUANTO VALE O X?",
+  "cartao": [
+   "x + 7 = 15"
+  ],
+  "forma": null,
+  "foto": "m12.png",
+  "opcoes": [
+   "22",
+   "8",
+   "7"
+  ],
+  "certa": 1,
+  "fala_q": "Achou o xis? Xis mais sete igual a quinze. 22, 8 ou 7?",
+  "fala_r": "Xis vale oito! Oito mais sete, quinze!",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "serie": 7,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "10% de 250"
+  ],
+  "forma": null,
+  "foto": "m13.png",
+  "opcoes": [
+   "50",
+   "15",
+   "25"
+  ],
+  "certa": 2,
+  "fala_q": "Quanto é dez por cento de duzentos e cinquenta? 50, 15 ou 25?",
+  "fala_r": "Vinte e cinco! Dez por cento é só dividir por dez.",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "serie": 7,
+  "pergunta": "QUANTO VALE O X?",
+  "cartao": [
+   "2x = 18"
+  ],
+  "forma": null,
+  "foto": "m14.png",
+  "opcoes": [
+   "9",
+   "16",
+   "36"
+  ],
+  "certa": 0,
+  "fala_q": "Dois xis igual a dezoito. Quanto vale xis? 9, 16 ou 36?",
+  "fala_r": "Nove!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "serie": 7,
+  "pergunta": "SOMA DOS ÂNGULOS?",
+  "cartao": [
+   "a + b + c = ?"
+  ],
+  "forma": "triangulo",
+  "foto": "m15.png",
+  "opcoes": [
+   "360°",
+   "90°",
+   "180°"
+  ],
+  "certa": 2,
+  "fala_q": "Quanto dá a soma dos três ângulos de um triângulo? 360 graus, 90 graus ou 180 graus?",
+  "fala_r": "Cento e oitenta graus! Em qualquer triângulo!",
+  "count": 7.0,
+  "sabia": "No quadrado e no retângulo, a soma dos ângulos dá 360°."
+ },
+ {
+  "n": 16,
+  "serie": 7,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "1/2 + 1/4"
+  ],
+  "forma": null,
+  "foto": "m16.png",
+  "opcoes": [
+   "2/6",
+   "2/4",
+   "3/4"
+  ],
+  "certa": 2,
+  "fala_q": "Fração! Um meio mais um quarto? dois sextos, dois quartos ou três quartos?",
+  "fala_r": "Três quartos! Um meio é a mesma coisa que dois quartos. Quem somou em cima e embaixo errou!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "serie": 7,
+  "pergunta": "QUANTO CUSTAM 5?",
+  "cartao": [
+   "3 lápis = R$ 6",
+   "5 lápis = ?"
+  ],
+  "forma": null,
+  "foto": "m17.png",
+  "opcoes": [
+   "R$ 8",
+   "R$ 10",
+   "R$ 12"
+  ],
+  "certa": 1,
+  "fala_q": "Se três lápis custam seis reais, quanto custam cinco lápis? 8 reais, 10 reais ou 12 reais?",
+  "fala_r": "Dez reais! Cada lápis custa dois.",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "serie": 7,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "−10 − 5"
+  ],
+  "forma": null,
+  "foto": "m18.png",
+  "opcoes": [
+   "−5",
+   "−15",
+   "15"
+  ],
+  "certa": 1,
+  "fala_q": "Menos dez menos cinco? menos 5, menos 15 ou 15?",
+  "fala_r": "Menos quinze! Quem deve dez e gasta mais cinco, fica devendo quinze!",
+  "count": 7.0,
+  "fala_d": "Dica: pensa em dinheiro devendo!",
+  "dica_txt": "PENSA EM DÍVIDA"
+ },
+ {
+  "n": 19,
+  "serie": 8,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "√81"
+  ],
+  "forma": null,
+  "foto": "m19.png",
+  "opcoes": [
+   "9",
+   "8",
+   "18"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pro oitavo ano! Qual é a raiz quadrada de oitenta e um? 9, 8 ou 18?",
+  "fala_r": "Nove! Nove vezes nove, oitenta e um.",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "serie": 8,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "(−2)^2"
+  ],
+  "forma": null,
+  "foto": "m20.png",
+  "opcoes": [
+   "4",
+   "−4",
+   "−2"
+  ],
+  "certa": 0,
+  "fala_q": "Olha os parênteses! Menos dois, ao quadrado? 4, menos 4 ou menos 2?",
+  "fala_r": "Quatro positivo! Com parênteses, o sinal também vai ao quadrado.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 21,
+  "serie": 8,
+  "pergunta": "QUANTO VALE O X?",
+  "cartao": [
+   "3x − 4 = 11"
+  ],
+  "forma": null,
+  "foto": "m21.png",
+  "opcoes": [
+   "3",
+   "5",
+   "7"
+  ],
+  "certa": 1,
+  "fala_q": "Três xis menos quatro igual a onze. Quanto vale xis? 3, 5 ou 7?",
+  "fala_r": "Xis vale cinco! Três vezes cinco, quinze, menos quatro, onze!",
+  "count": 7.0,
+  "fala_d": "Dica: primeiro passa o quatro pro outro lado!",
+  "dica_txt": "PASSA O 4 PRO OUTRO LADO"
+ },
+ {
+  "n": 22,
+  "serie": 8,
+  "pergunta": "QUE FRAÇÃO É ESSA?",
+  "cartao": [
+   "0,25"
+  ],
+  "forma": null,
+  "foto": "m22.png",
+  "opcoes": [
+   "1/25",
+   "1/4",
+   "2/5"
+  ],
+  "certa": 1,
+  "fala_q": "Zero vírgula vinte e cinco é igual a que fração? um vinte e cinco avos, um quarto ou dois quintos?",
+  "fala_r": "Um quarto! Tipo vinte e cinco centavos de um real.",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "serie": 8,
+  "pergunta": "QUAL É A ÁREA?",
+  "cartao": [
+   "8 cm × 3 cm"
+  ],
+  "forma": "retangulo",
+  "foto": "m23.png",
+  "opcoes": [
+   "24 cm²",
+   "22 cm²",
+   "11 cm²"
+  ],
+  "certa": 0,
+  "fala_q": "Um retângulo de oito por três centímetros. Qual é a área? 24 centímetros quadrados, 22 centímetros quadrados ou 11 centímetros quadrados?",
+  "fala_r": "Vinte e quatro centímetros quadrados! Vinte e dois seria o perímetro.",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "serie": 8,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "10^0"
+  ],
+  "forma": null,
+  "foto": "m24.png",
+  "opcoes": [
+   "1",
+   "0",
+   "10"
+  ],
+  "certa": 0,
+  "fala_q": "Essa parece fácil, mas não é. Quanto é dez elevado a zero? 1, 0 ou 10?",
+  "fala_r": "Um! Todo número, menos o zero, elevado a zero dá um!",
+  "count": 7.0,
+  "aviso": "PARECE FÁCIL...",
+  "sabia": "Qualquer número diferente de zero elevado a zero dá 1.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 25,
+  "serie": 8,
+  "pergunta": "PRODUTO NOTÁVEL",
+  "cartao": [
+   "(x + 3)^2"
+  ],
+  "forma": null,
+  "foto": "m25.png",
+  "opcoes": [
+   "x² + 6x + 9",
+   "x² + 9",
+   "x² + 3x + 9"
+  ],
+  "certa": 0,
+  "fala_q": "Produto notável! Xis mais três, tudo ao quadrado. Qual é a resposta?",
+  "fala_r": "Xis ao quadrado, mais seis xis, mais nove! Não esquece o dobro do primeiro vezes o segundo!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 26,
+  "serie": 8,
+  "pergunta": "QUAL É A MÉDIA?",
+  "cartao": [
+   "6, 7 e 8"
+  ],
+  "forma": null,
+  "foto": "m26.png",
+  "opcoes": [
+   "7",
+   "21",
+   "6,5"
+  ],
+  "certa": 0,
+  "fala_q": "Qual é a média de seis, sete e oito? 7, 21 ou 6 vírgula 5?",
+  "fala_r": "Sete! Soma tudo, vinte e um, e divide por três.",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "serie": 8,
+  "pergunta": "QUANTOS GRAUS?",
+  "cartao": [
+   "ângulo reto"
+  ],
+  "forma": "angulo",
+  "foto": "m27.png",
+  "opcoes": [
+   "180°",
+   "90°",
+   "45°"
+  ],
+  "certa": 1,
+  "fala_q": "Pra respirar: um ângulo reto mede quantos graus? 180 graus, 90 graus ou 45 graus?",
+  "fala_r": "Noventa graus! Igual o canto de uma folha de caderno.",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "serie": 9,
+  "pergunta": "QUANTO VALE O X?",
+  "cartao": [
+   "x^2 = 49"
+  ],
+  "forma": null,
+  "foto": "m28.png",
+  "opcoes": [
+   "Só 7",
+   "24,5",
+   "7 e −7"
+  ],
+  "certa": 2,
+  "fala_q": "Agora o nono ano, o mais difícil! Xis ao quadrado igual a quarenta e nove. Quanto vale xis?",
+  "fala_r": "Sete ou menos sete! Os dois, ao quadrado, dão quarenta e nove.",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 29,
+  "serie": 9,
+  "pergunta": "QUANTO MEDE A HIPOTENUSA?",
+  "cartao": [
+   "catetos 3 e 4"
+  ],
+  "forma": "pitagoras",
+  "foto": "m29.png",
+  "opcoes": [
+   "7",
+   "6",
+   "5"
+  ],
+  "certa": 2,
+  "fala_q": "Triângulo retângulo com catetos três e quatro. Quanto mede a hipotenusa? 7, 6 ou 5?",
+  "fala_r": "Cinco! O famoso três, quatro, cinco!",
+  "count": 7.0,
+  "sabia": "É o Teorema de Pitágoras: a² + b² = c²."
+ },
+ {
+  "n": 30,
+  "serie": 9,
+  "pergunta": "QUE TIPO DE NÚMERO É?",
+  "cartao": [
+   "√2"
+  ],
+  "forma": null,
+  "foto": "m30.png",
+  "opcoes": [
+   "Irracional",
+   "Racional",
+   "Inteiro"
+  ],
+  "certa": 0,
+  "fala_q": "A raiz quadrada de dois é um número de que tipo? Irracional, Racional ou Inteiro?",
+  "fala_r": "Irracional! As casas depois da vírgula nunca acabam e nunca se repetem.",
+  "count": 7.0,
+  "fala_d": "Dica: as casas depois da vírgula nunca acabam!",
+  "dica_txt": "AS CASAS DECIMAIS NUNCA ACABAM"
+ },
+ {
+  "n": 31,
+  "serie": 9,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "2^5"
+  ],
+  "forma": null,
+  "foto": "m31.png",
+  "opcoes": [
+   "10",
+   "32",
+   "25"
+  ],
+  "certa": 1,
+  "fala_q": "Dois elevado a cinco? 10, 32 ou 25?",
+  "fala_r": "Trinta e dois! Quem fez dois vezes cinco caiu na pegadinha!",
+  "count": 7.0
+ },
+ {
+  "n": 32,
+  "serie": 9,
+  "pergunta": "QUAIS SÃO AS RAÍZES?",
+  "cartao": [
+   "x² − 5x + 6 = 0"
+  ],
+  "forma": null,
+  "foto": "m32.png",
+  "opcoes": [
+   "2 e 3",
+   "1 e 6",
+   "−2 e −3"
+  ],
+  "certa": 0,
+  "fala_q": "Equação do segundo grau! Quais são as raízes dessa equação?",
+  "fala_r": "Dois e três! Eles somam cinco e multiplicados dão seis.",
+  "count": 7.0,
+  "fala_d": "Dica: dois números que somam cinco e multiplicados dão seis!",
+  "dica_txt": "SOMAM 5 E MULTIPLICADOS DÃO 6"
+ },
+ {
+  "n": 33,
+  "serie": 9,
+  "pergunta": "QUANTO VALE O Y?",
+  "cartao": [
+   "y = 2x + 1",
+   "x = 4"
+  ],
+  "forma": null,
+  "foto": "m33.png",
+  "opcoes": [
+   "7",
+   "9",
+   "10"
+  ],
+  "certa": 1,
+  "fala_q": "Na função y igual a dois xis mais um, quanto vale y quando xis é quatro? 7, 9 ou 10?",
+  "fala_r": "Nove! Dois vezes quatro, oito, mais um.",
+  "count": 7.0
+ },
+ {
+  "n": 34,
+  "serie": 9,
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "0,1 × 0,1"
+  ],
+  "forma": null,
+  "foto": "m34.png",
+  "opcoes": [
+   "0,1",
+   "0,01",
+   "1"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado! Zero vírgula um vezes zero vírgula um? 0 vírgula 1, 0 vírgula 01 ou 1?",
+  "fala_r": "Zero vírgula zero um! Um décimo de um décimo é um centésimo.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "serie": 9,
+  "pergunta": "QUANTO VALE O PI?",
+  "cartao": [
+   "π ≈ ?"
+  ],
+  "forma": null,
+  "foto": "m35.png",
+  "opcoes": [
+   "3,14",
+   "3,41",
+   "2,71"
+  ],
+  "certa": 0,
+  "fala_q": "Quanto vale o pi, mais ou menos? 3 vírgula 14, 3 vírgula 41 ou 2 vírgula 71?",
+  "fala_r": "Três vírgula catorze!",
+  "count": 7.0,
+  "sabia": "Em inglês, 14 de março se escreve 3/14: é o Dia do Pi!"
+ },
+ {
+  "n": 36,
+  "serie": 9,
+  "pergunta": "SOMA DOS ÂNGULOS?",
+  "cartao": [
+   "hexágono"
+  ],
+  "forma": "hexagono",
+  "foto": "m36.png",
+  "opcoes": [
+   "720°",
+   "360°",
+   "540°"
+  ],
+  "certa": 0,
+  "fala_q": "Quanto dá a soma dos ângulos internos de um hexágono, que tem seis lados? 720 graus, 360 graus ou 540 graus?",
+  "fala_r": "Setecentos e vinte graus! Se você acertou essa, você é fera em matemática!",
+  "count": 9.0,
+  "final": true,
+  "fala_s": "Valendo o título de gênio da matemática... a resposta é..."
+ }
+]

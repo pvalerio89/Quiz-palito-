@@ -1,0 +1,254 @@
+{
+ "Cristo Redentor": {
+  "file": "Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+  "crop": "fit",
+  "arquivo": "cristo-redentor.jpg",
+  "autor": "© Arne Müseler Arne Müseler",
+  "lic": "CC BY-SA 3.0 de"
+ },
+ "Torre Eiffel": {
+  "file": "Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+  "crop": "fit",
+  "arquivo": "torre-eiffel.jpg",
+  "autor": "Benh LIEU SONG",
+  "lic": "Public domain"
+ },
+ "Pirâmides de Gizé": {
+  "file": "Pyramids_of_the_Giza_Necropolis.jpg",
+  "crop": null,
+  "arquivo": "piramides-de-gize.jpg",
+  "autor": "KennyOMG",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Estátua da Liberdade": {
+  "file": "Front_view_of_Statue_of_Liberty_(cropped).jpg",
+  "crop": "fit",
+  "arquivo": "estatua-da-liberdade.jpg",
+  "autor": "AskALotl",
+  "lic": "CC0"
+ },
+ "Coliseu": {
+  "file": "Colosseo_2020.jpg",
+  "crop": null,
+  "arquivo": "coliseu.jpg",
+  "autor": "FeaturedPics",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Big Ben": {
+  "file": "Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg",
+  "crop": "fit",
+  "arquivo": "big-ben.jpg",
+  "autor": "Christian David",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Taj Mahal": {
+  "file": "Taj_Mahal_in_India_-_Kristian_Bertel.jpg",
+  "crop": null,
+  "arquivo": "taj-mahal.jpg",
+  "autor": "Kristian Bertel",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Muralha da China": {
+  "file": "The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+  "crop": null,
+  "arquivo": "muralha-da-china.jpg",
+  "autor": "Severin.stalder",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Torre de Pisa": {
+  "file": "Italy_-_Pisa_-_Leaning_Tower.jpg",
+  "crop": "fit",
+  "arquivo": "torre-de-pisa.jpg",
+  "autor": "© Arne Müseler Arne Müseler",
+  "lic": "CC BY-SA 3.0 de"
+ },
+ "Machu Picchu": {
+  "file": "Machu_Picchu,_Perú,_2015-07-30,_DD_47.JPG",
+  "crop": null,
+  "arquivo": "machu-picchu.jpg",
+  "autor": "Diego Delso (1974–)",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Sagrada Família": {
+  "file": "SF_maig_2_cropped.jpg",
+  "crop": "fit",
+  "arquivo": "sagrada-familia.jpg",
+  "autor": "Canaan",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Ópera de Sydney": {
+  "file": "Sydney_Opera_House_2026.jpg",
+  "crop": null,
+  "arquivo": "opera-de-sydney.jpg",
+  "autor": "BAVhah",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Chichén Itzá": {
+  "file": "Chichen_Itza_3.jpg",
+  "crop": null,
+  "arquivo": "chichen-itza.jpg",
+  "autor": "Daniel Schwen",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Partenon": {
+  "file": "The_Parthenon_in_Athens.jpg",
+  "crop": null,
+  "arquivo": "partenon.jpg",
+  "autor": "Steve Swayne",
+  "lic": "CC BY 2.0"
+ },
+ "Portão de Brandemburgo": {
+  "file": "Brandenburger_Tor_abends.jpg",
+  "crop": null,
+  "arquivo": "portao-de-brandemburgo.jpg",
+  "autor": "Thomas Wolf, www.foto-tw.de",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Petra": {
+  "file": "Treasury_petra_crop.jpeg",
+  "crop": "fit",
+  "arquivo": "petra.jpg",
+  "autor": "Graham Racher from London, UK derivative work: MrPanyGoff",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Torre de Belém": {
+  "file": "Lisbon_Torre_de_Belém_BW_2018-10-03_16-34-03.jpg",
+  "crop": "fit",
+  "arquivo": "torre-de-belem.jpg",
+  "autor": "Berthold Werner",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Catedral de São Basílio": {
+  "file": "Vasilij_Blazh.jpg",
+  "crop": "fit",
+  "arquivo": "catedral-de-sao-basilio.jpg",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain"
+ },
+ "Angkor Wat": {
+  "file": "Angkor_Wat.jpg",
+  "crop": null,
+  "arquivo": "angkor-wat.jpg",
+  "autor": "Bjørn Christian Tørrissen",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Moai": {
+  "file": "Moai_Rano_raraku.jpg",
+  "crop": "fit",
+  "arquivo": "moai.jpg",
+  "autor": "Aurbina",
+  "lic": "Public domain"
+ },
+ "Burj Khalifa": {
+  "file": "Dubai_Fountain_7.JPG",
+  "crop": null,
+  "arquivo": "burj-khalifa.jpg",
+  "autor": "Nealt",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Obelisco de Buenos Aires": {
+  "file": "Panorama_Obelisco_de_Buenos_Aires_2019.jpg",
+  "crop": null,
+  "arquivo": "obelisco-de-buenos-aires.jpg",
+  "autor": "Luis Santos",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Torre CN": {
+  "file": "CN_Tower_1976.jpg",
+  "crop": "fit",
+  "arquivo": "torre-cn.jpg",
+  "autor": "Robert Taylor from Stirling, Canada",
+  "lic": "CC BY 2.0"
+ },
+ "Santa Sofia": {
+  "file": "Hagia_Sophia_(228968325).jpeg",
+  "crop": null,
+  "arquivo": "santa-sofia.jpg",
+  "autor": "Adli Wahid",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Atomium": {
+  "file": "Brussels_Atomium_under_construction_-0395.jpg",
+  "crop": null,
+  "arquivo": "atomium.jpg",
+  "autor": "Elke Wetzig",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Alhambra": {
+  "file": "Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+  "crop": null,
+  "arquivo": "alhambra.jpg",
+  "autor": "Jebulon",
+  "lic": "CC0"
+ },
+ "Golden Gate": {
+  "file": "Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+  "crop": null,
+  "arquivo": "golden-gate.jpg",
+  "autor": "Frank Schulenburg (1969–)",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Torres Petronas": {
+  "file": "The_Twins_SE_Asia_2019_(49171985716)_(cropped)_2.jpg",
+  "crop": "fit",
+  "arquivo": "torres-petronas.jpg",
+  "autor": "James Kerwin from Tbilisi",
+  "lic": "CC BY 2.0"
+ },
+ "Ponte Carlos": {
+  "file": "Prague_07-2016_View_from_Petrinska_Tower_img2.jpg",
+  "crop": null,
+  "arquivo": "ponte-carlos.jpg",
+  "autor": "A.Savin",
+  "lic": "FAL"
+ },
+ "Castelo de Neuschwanstein": {
+  "file": "Schloss_Neuschwanstein_2013.jpg",
+  "crop": null,
+  "arquivo": "castelo-de-neuschwanstein.jpg",
+  "autor": "Thomas Wolf, www.foto-tw.de",
+  "lic": "CC BY-SA 3.0 de"
+ },
+ "Mont Saint-Michel": {
+  "file": "Mont-Saint-Michel_vu_du_ciel.jpg",
+  "crop": null,
+  "arquivo": "mont-saint-michel.jpg",
+  "autor": "Amaustan",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Borobudur": {
+  "file": "Pradaksina.jpg",
+  "crop": null,
+  "arquivo": "borobudur.jpg",
+  "autor": "Heri nugroho",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Templo do Céu": {
+  "file": "Temple_of_Heaven_20160323_01.jpg",
+  "crop": null,
+  "arquivo": "templo-do-ceu.jpg",
+  "autor": "Shujianyang",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Portal da Índia": {
+  "file": "Mumbai_03-2016_30_Gateway_of_India.jpg",
+  "crop": "fit",
+  "arquivo": "portal-da-india.jpg",
+  "autor": "A.Savin",
+  "lic": "FAL"
+ },
+ "Ponte da Torre": {
+  "file": "Tower_Bridge_at_Dawn.jpg",
+  "crop": null,
+  "arquivo": "ponte-da-torre.jpg",
+  "autor": "Fuzzypiggy",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Abu Simbel": {
+  "file": "Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg",
+  "crop": null,
+  "arquivo": "abu-simbel.jpg",
+  "autor": "youssef_alam",
+  "lic": "CC BY 3.0"
+ }
+}

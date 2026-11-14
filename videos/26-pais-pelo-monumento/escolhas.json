@@ -1,0 +1,123 @@
+{
+ "Cristo Redentor": {
+  "file": "Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+  "crop": "fit"
+ },
+ "Torre Eiffel": {
+  "file": "Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+  "crop": "fit"
+ },
+ "Pirâmides de Gizé": {
+  "file": "Pyramids_of_the_Giza_Necropolis.jpg"
+ },
+ "Estátua da Liberdade": {
+  "file": "Front_view_of_Statue_of_Liberty_(cropped).jpg",
+  "crop": "fit"
+ },
+ "Coliseu": {
+  "file": "Colosseo_2020.jpg"
+ },
+ "Big Ben": {
+  "file": "Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg",
+  "crop": "fit"
+ },
+ "Taj Mahal": {
+  "file": "Taj_Mahal_in_India_-_Kristian_Bertel.jpg"
+ },
+ "Muralha da China": {
+  "file": "The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+ },
+ "Torre de Pisa": {
+  "file": "Italy_-_Pisa_-_Leaning_Tower.jpg",
+  "crop": "fit"
+ },
+ "Machu Picchu": {
+  "file": "Machu_Picchu,_Perú,_2015-07-30,_DD_47.JPG"
+ },
+ "Sagrada Família": {
+  "file": "SF_maig_2_cropped.jpg",
+  "crop": "fit"
+ },
+ "Ópera de Sydney": {
+  "file": "Sydney_Opera_House_2026.jpg"
+ },
+ "Chichén Itzá": {
+  "file": "Chichen_Itza_3.jpg"
+ },
+ "Partenon": {
+  "file": "The_Parthenon_in_Athens.jpg"
+ },
+ "Portão de Brandemburgo": {
+  "file": "Brandenburger_Tor_abends.jpg"
+ },
+ "Petra": {
+  "file": "Treasury_petra_crop.jpeg",
+  "crop": "fit"
+ },
+ "Torre de Belém": {
+  "file": "Lisbon_Torre_de_Belém_BW_2018-10-03_16-34-03.jpg",
+  "crop": "fit"
+ },
+ "Catedral de São Basílio": {
+  "file": "Vasilij_Blazh.jpg",
+  "crop": "fit"
+ },
+ "Angkor Wat": {
+  "file": "Angkor_Wat.jpg"
+ },
+ "Moai": {
+  "file": "Moai_Rano_raraku.jpg",
+  "crop": "fit"
+ },
+ "Burj Khalifa": {
+  "file": "Dubai_Fountain_7.JPG"
+ },
+ "Obelisco de Buenos Aires": {
+  "file": "Panorama_Obelisco_de_Buenos_Aires_2019.jpg"
+ },
+ "Torre CN": {
+  "file": "CN_Tower_1976.jpg",
+  "crop": "fit"
+ },
+ "Santa Sofia": {
+  "file": "Hagia_Sophia_(228968325).jpeg"
+ },
+ "Atomium": {
+  "file": "Brussels_Atomium_under_construction_-0395.jpg"
+ },
+ "Alhambra": {
+  "file": "Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg"
+ },
+ "Golden Gate": {
+  "file": "Golden_Gate_Bridge_as_seen_from_Battery_East.jpg"
+ },
+ "Torres Petronas": {
+  "file": "The_Twins_SE_Asia_2019_(49171985716)_(cropped)_2.jpg",
+  "crop": "fit"
+ },
+ "Ponte Carlos": {
+  "file": "Prague_07-2016_View_from_Petrinska_Tower_img2.jpg"
+ },
+ "Castelo de Neuschwanstein": {
+  "file": "Schloss_Neuschwanstein_2013.jpg"
+ },
+ "Mont Saint-Michel": {
+  "file": "Mont-Saint-Michel_vu_du_ciel.jpg"
+ },
+ "Borobudur": {
+  "file": "Pradaksina.jpg"
+ },
+ "Templo do Céu": {
+  "file": "Temple_of_Heaven_20160323_01.jpg"
+ },
+ "Portal da Índia": {
+  "file": "Mumbai_03-2016_30_Gateway_of_India.jpg",
+  "crop": "fit"
+ },
+ "Ponte da Torre": {
+  "file": "Tower_Bridge_at_Dawn.jpg"
+ },
+ "Abu Simbel": {
+  "file": "Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg"
+ }
+}
