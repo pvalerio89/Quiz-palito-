@@ -31,6 +31,45 @@ def agora():
     return datetime.datetime.fromisoformat(a) if a else datetime.datetime.now(datetime.timezone.utc)
 
 
+def liberar_adiantados(doc, reg, ref=None):
+    """Horário que ficaria vazio: um item marcado para entrar no ar num horário futuro, mas cujo vídeo longo já
+    está PÚBLICO no YouTube (subiu público ou foi publicado antes da hora), não ocupa mais esse horário.
+    Assim o próximo 'pronto' entra no lugar dele e nunca fica faltando vídeo (Patrick, 2026-11-14: 3 por dia
+    sempre; o Capitais foi ao ar antes e o horário das 12h09 de 14/11 ficou vazio).
+    Só roda com os Secrets do YouTube; sem eles, não muda nada. Devolve os horários liberados."""
+    if not all(os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN")):
+        return []
+    ref = ref or agora()
+    futuros = []
+    for it in doc["itens"]:
+        q = it.get("no_ar_em")
+        vid = status(reg, it.get("video") or "", "youtube").get("id") if it.get("video") else None
+        if q and vid and datetime.datetime.fromisoformat(q.replace("Z", "+00:00")) > ref:
+            futuros.append((it, vid))
+    if not futuros:
+        return []
+    import urllib.request
+    from publicar_youtube import token
+    try:
+        tk = token()
+        ids = ",".join(v for _, v in futuros)
+        req = urllib.request.Request(f"https://www.googleapis.com/youtube/v3/videos?part=status&id={ids}",
+                                     headers={"Authorization": f"Bearer {tk}"})
+        st = {i["id"]: i["status"] for i in json.load(urllib.request.urlopen(req, timeout=60)).get("items", [])}
+    except (Exception, SystemExit) as e:  # sem acesso ao YouTube: segue como antes
+        print(f"AVISO: não consegui conferir os agendados no YouTube ({e}).")
+        return []
+    livres = []
+    for it, vid in futuros:
+        s = st.get(vid, {})
+        if s.get("privacyStatus") == "public":
+            print(f"{it['id']}: o vídeo {vid} já está público; o horário {it['no_ar_em']} fica livre.")
+            livres.append(it.pop("no_ar_em"))
+            it.pop("no_ar_brasilia", None)
+            it["foi_ao_ar_antes"] = True
+    return livres
+
+
 def horario_livre(doc, ref=None):
     """Próximo horário de HORARIOS (>= agora + MARGEM, dentro da JANELA) que nenhum item já ocupa."""
     ref = ref or agora()
@@ -72,6 +111,8 @@ def feito(reg, pasta):
 def proximo():
     doc, reg = ler(), ler_registro()
     sem_agendar = os.environ.get("SEM_AGENDAR") == "true"  # "Publicar JÁ" pedido à mão
+    if not sem_agendar:
+        liberar_adiantados(doc, reg)  # só na memória: cada rodada confere de novo no YouTube
     quando = "" if sem_agendar else horario_livre(doc)
     if not quando and not sem_agendar:
         print("Os horários das próximas 24 h já têm vídeo agendado. Nada a fazer agora.")
