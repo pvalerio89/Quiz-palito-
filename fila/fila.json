@@ -327,16 +327,21 @@
       "id": "2026-11-14-quiz-espanhol",
       "referencia": "https://youtu.be/GtwQMInw4-E",
       "tema": "Teste seus conhecimentos de ESPANHOL - quiz de espanhol (Detona Quiz)",
-      "status": "aguardando",
-      "obs": "Longo + Short. Mesmo jeito do vídeo 20 (quiz de inglês): tradução de palavras/frases, fácil→difícil, 3 alternativas, nível escolar. Não é repetido (outra língua), mas não publicar colado no de inglês."
+      "status": "pronto",
+      "obs": "Longo + Short. Mesmo jeito do vídeo 20 (quiz de inglês): tradução de palavras/frases, fácil→difícil, 3 alternativas, nível escolar. Não é repetido (outra língua), mas não publicar colado no de inglês.",
+      "video": "videos/29-quiz-espanhol",
+      "short": "shorts/espanhol-1",
+      "titulo": "QUIZ DE ESPANHOL 🇪🇸 36 Perguntas do Fácil ao Impossível! Você Fala Espanhol? | Quiz Palito"
     },
     {
       "id": "2026-11-14-raciocinio-short",
       "referencia": "https://youtube.com/shorts/Xonsn3QJwFk",
       "tema": "TESTE SEU RACIOCÍNIO - matemática/raciocínio lógico (Short, Prof Maura)",
-      "status": "aguardando",
+      "status": "pronto",
       "so_short": true,
-      "obs": "SÓ SHORT (pedido do Patrick), sem vídeo longo: item só com 'short' (shorts/raciocinio-1). 5-6 desafios de raciocínio (sequências, contas com figuras), 45-60 s."
+      "obs": "SÓ SHORT (pedido do Patrick), sem vídeo longo: item só com 'short' (shorts/raciocinio-1). 5-6 desafios de raciocínio (sequências, contas com figuras), 45-60 s.",
+      "short": "shorts/raciocinio-1",
+      "titulo": "TESTE SEU RACIOCÍNIO 🧠 A última é muito difícil! #shorts"
     },
     {
       "id": "2026-11-14-eu-nunca-escola",
