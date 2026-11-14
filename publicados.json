@@ -672,6 +672,20 @@
         "data": "2026-11-14",
         "origem": "github-actions"
       }
+    },
+    "videos/26-pais-pelo-monumento": {
+      "youtube": {
+        "status": "publicado",
+        "id": "mHz-g3_7Ek4",
+        "url": "https://youtu.be/mHz-g3_7Ek4",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "9bd9fa82cb1d8365710662b5669004c2e6b3ed4c830806b63c40c4da035eb834",
+        "no_ar_em": "2026-11-15T15:09:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
