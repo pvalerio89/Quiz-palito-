@@ -1,1 +1,1 @@
-baixar videos/26-pais-pelo-monumento/escolhas.json videos/26-pais-pelo-monumento
+buscar videos/27-paises-pelas-comidas/candidatas/lista.tsv videos/27-paises-pelas-comidas/candidatas
