@@ -22,6 +22,8 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
    escreva em `obs` com qual vídeo ele se parece, avise o Patrick (ver "Avisos") e siga para o próximo item.
    Se já produziu e só percebeu depois, avise do mesmo jeito.
 6. **Produzir** o 1º item `aguardando` (um por rodada; se o estoque estiver em 0, 1 ou 2, faça mais um):
+   - Item `esperando` = falta o Patrick explicar algo (ver `obs`): **pule**. Item com `"so_short": true` = faça só o Short
+     (sem vídeo longo; no item só `short`, `titulo` do Short e `status` = `pronto`).
    - Veja a referência leve: título pelo oembed, storyboard/miniaturas com `yt-dlp` (`-f sb0`), sem baixar o vídeo.
    - Faça a **versão Quiz Palito**: mesmo formato e ritmo, **perguntas próprias**, sem copiar arte, marca ou texto
      do outro canal, **sem parte de explicação/fonte**. Temas escolares/educativos para adolescentes quando der.

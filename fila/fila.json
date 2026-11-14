@@ -1,5 +1,5 @@
 {
-  "_sobre": "Fila de produção: 2 vídeos longos + 2 Shorts por dia (3h e 18h de Brasília, agendados no YouTube), públicos, sem pedir autorização. Status: aguardando (só a referência) -> pronto (pastas feitas e conferidas pela rotina diária do Claude) -> publicado (o workflow 'Publicar do dia' subiu os dois) ou erro (falhou; a rotina do Claude conserta e volta para pronto). 'pulado' = não fazer. 'parecido' = igual/parecido a vídeo já feito; não produzido, esperando o Patrick decidir.",
+  "_sobre": "Fila de produção: 2 vídeos longos + 2 Shorts por dia (3h e 18h de Brasília, agendados no YouTube), públicos, sem pedir autorização. Status: aguardando (só a referência) -> pronto (pastas feitas e conferidas pela rotina diária do Claude) -> publicado (o workflow 'Publicar do dia' subiu os dois) ou erro (falhou; a rotina do Claude conserta e volta para pronto). 'pulado' = não fazer. 'esperando' = falta o Patrick explicar algo (ver obs); não produzir. 'parecido' = igual/parecido a vídeo já feito; não produzido, esperando o Patrick decidir.",
   "itens": [
     {
       "id": "2026-11-06-conhecimentos-gerais",
@@ -264,6 +264,14 @@
       }
     },
     {
+      "id": "2026-11-14-mega-desafios-animados",
+      "referencia": "https://youtu.be/_5PcQJqS5G4",
+      "tema": "30 MEGA DESAFIOS DE SUPER MARIO GALAXY - quizzes animados (MacaQuiz)",
+      "status": "esperando",
+      "prioridade": 1,
+      "obs": "PATRICK QUER IGUAL À REFERÊNCIA e É O PRIMEIRO a produzir. NÃO PRODUZIR enquanto estiver 'esperando': a nuvem não vê o vídeo e o título não diz que tipo de desafio é (achar o diferente? labirinto? sombra?). Também não dá para usar Mario/Nintendo (personagens, arte, música): fazer o mesmo formato com o Palito e tema próprio. Quando o Patrick explicar o formato, passar para 'aguardando' e produzir antes dos outros."
+    },
+    {
       "id": "2026-11-12-matematica-escola",
       "referencia": "",
       "tema": "Quiz de matemática do 6º ao 9º ano (contas, frações, geometria)",
@@ -276,6 +284,49 @@
       "tema": "Adivinhe o país pelo monumento (fotos reais)",
       "obs": "Tema próprio (sem referência), escolhido pelos dados de retenção de 2026-11-12: seguir as regras 'O QUE SEGURA O PÚBLICO' do ROTINA.md.",
       "status": "aguardando"
+    },
+    {
+      "id": "2026-11-14-paises-pelas-comidas",
+      "referencia": "https://youtu.be/Lv8VmYRdCXc",
+      "tema": "Adivinhe os PAÍSES pelas COMIDAS - comidas mais populares do mundo (Universo Quiz)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Foto real do prato (Wikimedia) e 3 países como alternativas. 30-40 pratos, fácil→difícil. Estilo humano."
+    },
+    {
+      "id": "2026-11-14-eu-ja-eu-nunca",
+      "referencia": "https://youtu.be/YN4WdAfl2Ks",
+      "tema": "EU JÁ ou EU NUNCA? Escolha um botão - 50 perguntas, se mentir perde (MacaQuiz)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Formato de ESCOLHA (sem resposta certa): frase 'Eu já...' e dois botões EU JÁ ✅ / EU NUNCA ❌, contagem curta, depois mostra a % (inventada, plausível) de quem escolheu cada um. Chamada de anotar nos comentários. Frases leves para adolescentes (nada de perigoso/adulto). Mirar 10-13 min (~40-50 frases). Ver formato-referencia: se o storyboard mostrar outro formato, seguir a referência."
+    },
+    {
+      "id": "2026-11-14-quiz-espanhol",
+      "referencia": "https://youtu.be/GtwQMInw4-E",
+      "tema": "Teste seus conhecimentos de ESPANHOL - quiz de espanhol (Detona Quiz)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Mesmo jeito do vídeo 20 (quiz de inglês): tradução de palavras/frases, fácil→difícil, 3 alternativas, nível escolar. Não é repetido (outra língua), mas não publicar colado no de inglês."
+    },
+    {
+      "id": "2026-11-14-raciocinio-short",
+      "referencia": "https://youtube.com/shorts/Xonsn3QJwFk",
+      "tema": "TESTE SEU RACIOCÍNIO - matemática/raciocínio lógico (Short, Prof Maura)",
+      "status": "aguardando",
+      "so_short": true,
+      "obs": "SÓ SHORT (pedido do Patrick), sem vídeo longo: item só com 'short' (shorts/raciocinio-1). 5-6 desafios de raciocínio (sequências, contas com figuras), 45-60 s."
+    },
+    {
+      "id": "2026-11-14-eu-nunca-escola",
+      "referencia": "https://youtu.be/4vdI8aCQAgs",
+      "tema": "Você já fez isso na ESCOLA? Eu nunca / Eu já - escolha um botão (Quiz Flash)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Mesmo formato do item eu-ja-eu-nunca, mas só coisas de escola. Patrick mandou os dois: produzir depois do outro e não publicar no mesmo dia."
+    },
+    {
+      "id": "2026-11-14-musica-tiktok-emojis-13",
+      "referencia": "https://youtu.be/y55xUbsYtTM",
+      "tema": "ADIVINHE A MÚSICA DO TIKTOK COM EMOJIS #13 (MacaQuiz)",
+      "status": "parecido",
+      "obs": "Igual ao item 2026-11-10-musica-tiktok-emojis (já 'parecido'): Patrick não gostou de 'música pelo emoji' sem trecho, e trecho de música com direitos não dá. Esperando o Patrick decidir."
     }
   ]
 }
