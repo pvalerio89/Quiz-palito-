@@ -686,6 +686,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/monumentos-1": {
+      "titulo": "ADIVINHE O PAÍS PELO MONUMENTO! 🌍 Seu amigo não acerta essa! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "Hh90h87fvAc",
+        "url": "https://youtu.be/Hh90h87fvAc",
+        "data": "2026-11-14",
+        "origem": "github-actions",
+        "sha256": "897c313e5dcf96eb5c7ca4378877edd37743b669e4b4dfc3cd505babfe66b5ef",
+        "no_ar_em": "2026-11-15T15:09:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
