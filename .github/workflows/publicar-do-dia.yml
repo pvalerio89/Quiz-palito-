@@ -47,6 +47,10 @@ jobs:
       - id: f
         env:
           SEM_AGENDAR: ${{ inputs.agora && 'true' || 'false' }}
+          # para ver se algum agendado já foi ao ar antes da hora e liberar o horário (fila.liberar_adiantados)
+          YT_CLIENT_ID: ${{ vars.YT_CLIENT_ID || secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: python automacao/fila.py proximo
       - name: Resumo
         run: |
@@ -157,6 +161,10 @@ jobs:
           git push origin "HEAD:$GITHUB_REF_NAME"
       - name: Agendar o próximo, se houver
         if: env.OK == 'true' && env.AGENDAR != ''
+        env:
+          YT_CLIENT_ID: ${{ vars.YT_CLIENT_ID || secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: |
           python automacao/fila.py proximo > prox.txt
           if grep -q '^id=.\+' prox.txt; then gh workflow run publicar-do-dia.yml --ref "$GITHUB_REF_NAME"; fi
