@@ -800,6 +800,19 @@
         "data": "2026-11-15",
         "origem": "github-actions"
       }
+    },
+    "videos/33-quiz-portugues": {
+      "youtube": {
+        "status": "publicado",
+        "id": "BfhCt2SxGyE",
+        "url": "https://youtu.be/BfhCt2SxGyE",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "d084b6839efe68fa5361ea9eb124a4da6850e07fbf362f7633efe0573f734579"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
