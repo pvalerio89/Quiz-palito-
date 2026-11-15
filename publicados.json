@@ -813,6 +813,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/portugues-2": {
+      "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO! ✏️ Será que você gabarita? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "1HPCgpRWACA",
+        "url": "https://youtu.be/1HPCgpRWACA",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "3fa44b1c5c00beb52971b7a02e57140ea64ec15659e86d5746286635c41eb84c"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
