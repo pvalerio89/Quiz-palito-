@@ -1,0 +1,581 @@
+[
+ {
+  "n": 1,
+  "nivel": 1,
+  "pergunta": "COMUM OU PRÓPRIO?",
+  "cartao": [
+   "cachorro"
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Comum",
+   "Próprio",
+   "Verbo"
+  ],
+  "certa": 0,
+  "fala_q": "Pra aquecer: cachorro é substantivo comum ou próprio? Ou é verbo?",
+  "fala_r": "Comum! Qualquer cachorro, com letra minúscula.",
+  "count": 5.0
+ },
+ {
+  "n": 2,
+  "nivel": 1,
+  "pergunta": "QUAL PALAVRA É O VERBO?",
+  "cartao": [
+   "A menina pedala",
+   "a bicicleta."
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "menina",
+   "bicicleta",
+   "pedala"
+  ],
+  "certa": 2,
+  "fala_q": "Na frase a menina pedala a bicicleta, qual palavra é o verbo? menina, bicicleta ou pedala?",
+  "fala_r": "Pedala! É o que a menina está fazendo.",
+  "count": 6.0
+ },
+ {
+  "n": 3,
+  "nivel": 1,
+  "pergunta": "QUAL É O ADJETIVO?",
+  "cartao": [
+   "A Caipora é",
+   "muito forte."
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Caipora",
+   "muito",
+   "forte"
+  ],
+  "certa": 2,
+  "fala_q": "A Caipora é muito forte. Qual palavra é o adjetivo? Caipora, muito ou forte?",
+  "fala_r": "Forte! Conta como a Caipora é.",
+  "count": 8.0,
+  "sabia": "A Caipora é uma lenda brasileira: a protetora das matas e dos bichos."
+ },
+ {
+  "n": 4,
+  "nivel": 1,
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "ABACATE"
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "3",
+   "5",
+   "4"
+  ],
+  "certa": 2,
+  "fala_q": "Quantas sílabas tem abacate? três, cinco ou quatro?",
+  "fala_r": "Quatro! A, ba, ca, te.",
+  "count": 8.0,
+  "fala_d": "Dica: bate palma em cada pedacinho!",
+  "dica_txt": "BATE PALMA!"
+ },
+ {
+  "n": 5,
+  "nivel": 1,
+  "pergunta": "QUAL SÍLABA FALTA?",
+  "cartao": [
+   "MO _ _ LA",
+   "(vai nas costas)"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "XI",
+   "CHI",
+   "CHE"
+  ],
+  "certa": 1,
+  "fala_q": "Ela vai nas suas costas até a escola. Mo, o quê, la? Chi com cê-agá, xi com xis, ou che?",
+  "fala_r": "Chi, com cê-agá! Mochila.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 6,
+  "nivel": 1,
+  "pergunta": "QUAL PRONOME ENTRA?",
+  "cartao": [
+   "Os meninos chegaram.",
+   "___ estão felizes."
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Eles",
+   "Nós",
+   "Ela"
+  ],
+  "certa": 0,
+  "fala_q": "Pra não repetir os meninos, qual pronome entra? Eles, Nós ou Ela?",
+  "fala_r": "Eles! Vários meninos, então é eles.",
+  "count": 8.0
+ },
+ {
+  "n": 7,
+  "nivel": 1,
+  "pergunta": "COMPLETE A PALAVRA:",
+  "cartao": [
+   "_ APO",
+   "(pula na lagoa)"
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "S",
+   "Z",
+   "C"
+  ],
+  "certa": 0,
+  "fala_q": "Aquele bicho que pula na lagoa: sapo começa com esse, com zê ou com cê?",
+  "fala_r": "Com esse! Sapo.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "nivel": 1,
+  "pergunta": "QUAL É O NOME PRÓPRIO?",
+  "cartao": [
+   "rio • Amazonas",
+   "• lago"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "rio",
+   "lago",
+   "Amazonas"
+  ],
+  "certa": 2,
+  "fala_q": "Uma dessas palavras é substantivo próprio. Qual? rio, lago ou Amazonas?",
+  "fala_r": "Amazonas! É o nome de um rio específico, por isso tem letra maiúscula.",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "QUE TIPO DE VERBO?",
+  "cartao": [
+   "TROVEJAR"
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Ação",
+   "Estado",
+   "Fenômeno"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pro nível médio! Trovejar é verbo de ação, de estado ou de fenômeno da natureza?",
+  "fala_r": "Fenômeno da natureza! Ninguém faz trovão, ele acontece.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "QUE TIPO DE VERBO?",
+  "cartao": [
+   "O cachorro",
+   "CORREU muito."
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "Ação",
+   "Estado",
+   "Fenômeno"
+  ],
+  "certa": 0,
+  "fala_q": "E na frase o cachorro correu muito, o verbo é de ação, de estado ou de fenômeno da natureza?",
+  "fala_r": "Ação! Correr é fazer alguma coisa.",
+  "count": 8.0
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "SOFÁ"
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Oxítona",
+   "Paroxítona",
+   "Proparoxítona"
+  ],
+  "certa": 0,
+  "fala_q": "Hora da sílaba tônica! Sofá é oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Oxítona! A sílaba forte é a última: fá.",
+  "count": 8.0,
+  "sabia": "Oxítona: a sílaba forte é a última. Paroxítona: a penúltima. Proparoxítona: a antepenúltima."
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "MESA"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Oxítona",
+   "Paroxítona",
+   "Proparoxítona"
+  ],
+  "certa": 1,
+  "fala_q": "E mesa? Oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Paroxítona! Me, sa: a forte é a penúltima.",
+  "count": 8.0,
+  "sabia": "A maioria das palavras do português é paroxítona!"
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "M OU N?",
+  "cartao": [
+   "PO _ TE"
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "M",
+   "NH",
+   "N"
+  ],
+  "certa": 2,
+  "fala_q": "Ponte: antes do tê, vai eme ou ene?",
+  "fala_r": "Ene! Eme só antes de pê e bê.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "COMPLETE A FRASE:",
+  "cartao": [
+   "Nós temos uma casa.",
+   "___ casa é azul."
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "Nossa",
+   "Minha",
+   "Sua"
+  ],
+  "certa": 0,
+  "fala_q": "Nós temos uma casa. Qual pronome completa: a casa é de quem? Nossa, Minha ou Sua?",
+  "fala_r": "Nossa! A casa é nossa. Pronome possessivo.",
+  "count": 8.0
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "COMPLETE A PALAVRA:",
+  "cartao": [
+   "RO _ A",
+   "(flor cheirosa)"
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "Z",
+   "S",
+   "SS"
+  ],
+  "certa": 1,
+  "fala_q": "Rosa, a flor, se escreve com esse, com zê ou com dois esses?",
+  "fala_r": "Com esse! Rosa tem som de zê, mas é com esse.",
+  "count": 8.0,
+  "sabia": "S entre duas vogais tem som de Z: rosa, casa, mesa."
+ },
+ {
+  "n": 16,
+  "nivel": 2,
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "ASSUSTADO"
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "5",
+   "4",
+   "3"
+  ],
+  "certa": 1,
+  "fala_q": "Quantas sílabas tem assustado? cinco, quatro ou três?",
+  "fala_r": "Quatro! As, sus, ta, do. Os dois esses se separam.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "ESTE, ESSE OU AQUELE?",
+  "cartao": [
+   "___ livro aqui na",
+   "minha mão é novo."
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "Esse",
+   "Aquele",
+   "Este"
+  ],
+  "certa": 2,
+  "fala_q": "Subindo o nível! O livro está aqui, na mão de quem fala. Qual palavra completa? Esse, Aquele ou Este?",
+  "fala_r": "Este! Este é pro que está pertinho de quem fala.",
+  "count": 8.0,
+  "sabia": "Este: perto de quem fala. Esse: perto de quem ouve. Aquele: longe dos dois."
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "ISTO, ISSO OU AQUILO?",
+  "cartao": [
+   "O que é ___ aí",
+   "na sua mochila?"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "isso",
+   "isto",
+   "aquilo"
+  ],
+  "certa": 0,
+  "fala_q": "A coisa está aí, perto de você que está ouvindo. Qual palavra completa? isso, isto ou aquilo?",
+  "fala_r": "Isso! Perto de quem ouve é esse, essa e isso.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "COMO SE ESCREVE?",
+  "cartao": [
+   "Fruta vermelha",
+   "e redondinha"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "Massã",
+   "Maçã",
+   "Maçan"
+  ],
+  "certa": 1,
+  "fala_q": "Aquela fruta vermelha e redondinha. Como se escreve? Massã, Maçã ou Maçan?",
+  "fala_r": "Maçã! Com cê-cedilha e til.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "O OU U?",
+  "cartao": [
+   "C _ RUJA"
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "O",
+   "U",
+   "OU"
+  ],
+  "certa": 0,
+  "fala_q": "A ave da noite: coruja se escreve com o ou com u?",
+  "fala_r": "Com o! Coruja.",
+  "count": 8.0
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "E OU I?",
+  "cartao": [
+   "M _ XERICA"
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "I",
+   "E",
+   "A"
+  ],
+  "certa": 1,
+  "fala_q": "E mexerica, a fruta? É com é ou com i?",
+  "fala_r": "Com é! Mexerica. Muita gente fala mixirica.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "O OU U?",
+  "cartao": [
+   "B _ EIRO"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "O",
+   "OU",
+   "U"
+  ],
+  "certa": 2,
+  "fala_q": "Aquele buraco da rua por onde a água da chuva desce: é com o ou com u?",
+  "fala_r": "Com u! Bueiro.",
+  "count": 8.0,
+  "fala_d": "Dica: a gente escreve igual fala!",
+  "dica_txt": "ESCREVE IGUAL FALA",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "ÁRVORE"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "Paroxítona",
+   "Proparoxítona",
+   "Oxítona"
+  ],
+  "certa": 1,
+  "fala_q": "Árvore é oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Proparoxítona! Ár é a antepenúltima sílaba.",
+  "count": 8.0,
+  "sabia": "Toda proparoxítona tem acento!"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "QUAL SÍLABA FALTA?",
+  "cartao": [
+   "GA _ _ TO",
+   "(menino)"
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "RO",
+   "LO",
+   "RRO"
+  ],
+  "certa": 0,
+  "fala_q": "Que sílaba falta? Ga, o quê, to? Um menino!",
+  "fala_r": "Ro! Garoto, com um erre só.",
+  "count": 8.0
+ },
+ {
+  "n": 25,
+  "nivel": 4,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "JABUTI"
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "Paroxítona",
+   "Proparoxítona",
+   "Oxítona"
+  ],
+  "certa": 2,
+  "fala_q": "Agora o nível mais difícil! Jabuti é oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Oxítona! Ja, bu, ti: a forte é a última. E não tem acento!",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "nivel": 4,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "RUBRICA"
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "Proparoxítona",
+   "Paroxítona",
+   "Oxítona"
+  ],
+  "certa": 1,
+  "fala_q": "Essa derruba até adulto! Rubrica é oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Paroxítona! Ru, bri, ca. Se fosse proparoxítona, teria acento.",
+  "count": 8.0,
+  "fala_d": "Dica: tem acento?",
+  "dica_txt": "TEM ACENTO?",
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 27,
+  "nivel": 4,
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "SAÚDE"
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "3",
+   "2",
+   "4"
+  ],
+  "certa": 0,
+  "fala_q": "Quantas sílabas tem a palavra saúde? três, dois ou quatro?",
+  "fala_r": "Três! Sa, ú, de. O acento separa o a do u.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 28,
+  "nivel": 4,
+  "pergunta": "COMPLETE A PALAVRA:",
+  "cartao": [
+   "PÊ _ EGO",
+   "(fruta)"
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "SS",
+   "S",
+   "Ç"
+  ],
+  "certa": 0,
+  "fala_q": "Pêssego, a fruta: é com um esse, com dois esses ou com cê-cedilha?",
+  "fala_r": "Com dois esses! Pêssego.",
+  "count": 8.0
+ },
+ {
+  "n": 29,
+  "nivel": 4,
+  "pergunta": "ISTO, ISSO OU AQUILO?",
+  "cartao": [
+   "O que é ___",
+   "lá no céu?"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "isto",
+   "isso",
+   "aquilo"
+  ],
+  "certa": 2,
+  "fala_q": "A coisa está lá longe, no céu. Qual palavra completa? isto, isso ou aquilo?",
+  "fala_r": "Aquilo! Longe de todo mundo.",
+  "count": 8.0
+ },
+ {
+  "n": 30,
+  "nivel": 4,
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "PARALELEPÍPEDO"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "6",
+   "7",
+   "8"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo tudo! Quantas sílabas tem paralelepípedo? seis, sete ou oito?",
+  "fala_r": "Sete! Pa, ra, le, le, pí, pe, do. Se você acertou essa, pode ensinar a turma!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Valendo o boletim... a resposta é..."
+ }
+]
