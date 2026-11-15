@@ -83,7 +83,7 @@ def main():
     tk = token()
     if agendar:
         meta["status"]["publishAt"] = agendar
-    vid, priv = enviar_video(tk, mp4, meta, publico and not agendar)
+    vid, priv = enviar_video(tk, mp4, meta, publico and not agendar, notificar=not pasta.startswith("shorts/"))
 
     thumb = os.path.join(yt, "thumbnail.jpg")
     if os.path.exists(thumb) and not pasta.startswith("shorts/"):
@@ -105,13 +105,14 @@ def main():
     print(f"OK enviado como {priv.upper()}{' (entra no ar ' + agendar + ' UTC)' if agendar else ''}: https://youtu.be/{vid}")
 
 
-def enviar_video(tk, mp4, meta, publico=False):
+def enviar_video(tk, mp4, meta, publico=False, notificar=False):
     """Upload retomável. Só fica público com publico=True; devolve (id, privacidade que o YouTube gravou).
-    notifySubscribers=false: não publica no feed de inscrições nem notifica inscritos (pedido do Patrick, 2026-11-11)."""
+    notificar=True (vídeos longos): aparece no feed de inscrições e notifica inscritos.
+    Shorts e testes vão com notifySubscribers=false (pedido do Patrick, 2026-11-15)."""
     meta["status"]["privacyStatus"] = "public" if publico else "private"
     tam = os.path.getsize(mp4)
     req = urllib.request.Request(
-        f"{API_UP}/videos?uploadType=resumable&part=snippet,status&notifySubscribers=false", data=json.dumps(meta).encode(),
+        f"{API_UP}/videos?uploadType=resumable&part=snippet,status&notifySubscribers={'true' if notificar else 'false'}", data=json.dumps(meta).encode(),
         headers={"Authorization": f"Bearer {tk}", "Content-Type": "application/json; charset=UTF-8",
                  "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(tam)})
     try:
