@@ -83,7 +83,7 @@ def main():
     tk = token()
     if agendar:
         meta["status"]["publishAt"] = agendar
-    vid, priv = enviar_video(tk, mp4, meta, publico and not agendar, notificar=not pasta.startswith("shorts/"))
+    vid, priv = enviar_video(tk, mp4, meta, publico and not agendar, notificar=True)
 
     thumb = os.path.join(yt, "thumbnail.jpg")
     if os.path.exists(thumb) and not pasta.startswith("shorts/"):
@@ -107,8 +107,8 @@ def main():
 
 def enviar_video(tk, mp4, meta, publico=False, notificar=False):
     """Upload retomável. Só fica público com publico=True; devolve (id, privacidade que o YouTube gravou).
-    notificar=True (vídeos longos): aparece no feed de inscrições e notifica inscritos.
-    Shorts e testes vão com notifySubscribers=false (pedido do Patrick, 2026-11-15)."""
+    notificar=True: aparece no feed de inscrições e notifica inscritos. Todo envio (longo e Short) vai
+    com aviso (pedido do Patrick, 2026-11-15); só o upload de teste privado vai sem."""
     meta["status"]["privacyStatus"] = "public" if publico else "private"
     tam = os.path.getsize(mp4)
     req = urllib.request.Request(
