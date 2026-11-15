@@ -750,6 +750,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/euja-1": {
+      "titulo": "EU JÁ ou EU NUNCA? ✅❌ Não vale mentir! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "1NSP_WJMLgk",
+        "url": "https://youtu.be/1NSP_WJMLgk",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "17049fa90209160ea6937eb60bf3a2fe7051500621eb2f2780be6e4e38765f2a",
+        "no_ar_em": "2026-11-15T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
