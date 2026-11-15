@@ -1,0 +1,453 @@
+[
+ {
+  "n": 1,
+  "emoji": "⏰",
+  "frase": "cheguei atrasado na aula",
+  "pct": 88,
+  "fala_q": "Eu já... cheguei atrasado na aula?",
+  "fala_r": "88% já! Quem nunca, né?",
+  "count": 3.0
+ },
+ {
+  "n": 2,
+  "emoji": "🎒",
+  "frase": "esqueci o material em casa",
+  "pct": 84,
+  "fala_q": "Eu já... esqueci o material em casa?",
+  "fala_r": "84% já! Clássico de escola!",
+  "count": 3.0
+ },
+ {
+  "n": 3,
+  "emoji": "🔔",
+  "frase": "comemorei porque faltou professor",
+  "pct": 86,
+  "fala_q": "Eu já... comemorei porque faltou professor?",
+  "fala_r": "86% já! Aula vaga é a melhor coisa!",
+  "count": 3.0
+ },
+ {
+  "n": 4,
+  "emoji": "✏️",
+  "frase": "pedi lápis emprestado e não devolvi",
+  "pct": 76,
+  "fala_q": "Agora seja sincero... Eu já... pedi lápis emprestado e não devolvi?",
+  "fala_r": "76% já! Esse lápis nunca mais voltou!",
+  "count": 4.0
+ },
+ {
+  "n": 5,
+  "emoji": "🥱",
+  "frase": "bocejei bem alto no meio da aula",
+  "pct": 80,
+  "fala_q": "Eu já... bocejei bem alto no meio da aula?",
+  "fala_r": "80% já! Impossível nunca ter feito essa!",
+  "count": 4.0
+ },
+ {
+  "n": 6,
+  "emoji": "📝",
+  "frase": "fiz a lição de casa cinco minutos antes da aula",
+  "pct": 79,
+  "fala_q": "Eu já... fiz a lição de casa cinco minutos antes da aula?",
+  "fala_r": "79% já! Muita gente já fez isso!",
+  "count": 4.0
+ },
+ {
+  "n": 7,
+  "emoji": "🤫",
+  "frase": "conversei tanto que levei bronca",
+  "pct": 73,
+  "fala_q": "Eu já... conversei tanto que levei bronca?",
+  "fala_r": "73% já! A maioria já!",
+  "count": 4.0
+ },
+ {
+  "n": 8,
+  "emoji": "🎨",
+  "frase": "desenhei no caderno em vez de copiar a matéria",
+  "pct": 77,
+  "fala_q": "Eu já... desenhei no caderno em vez de copiar a matéria?",
+  "fala_r": "77% já! Mais da metade já, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 9,
+  "emoji": "🎤",
+  "frase": "apresentei trabalho tremendo de nervoso",
+  "pct": 71,
+  "fala_q": "Essa dá frio na barriga... Eu já... apresentei trabalho tremendo de nervoso?",
+  "fala_r": "71% já! Mais da metade já, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 10,
+  "emoji": "🏃",
+  "frase": "corri pra chegar antes do sinal",
+  "pct": 70,
+  "fala_q": "Eu já... corri pra chegar antes do sinal?",
+  "fala_r": "70% já! Muita gente já fez isso!",
+  "count": 4.0
+ },
+ {
+  "n": 11,
+  "emoji": "🍝",
+  "frase": "repeti a merenda",
+  "pct": 69,
+  "fala_q": "Eu já... repeti a merenda?",
+  "fala_r": "69% já! A merenda tava boa, né?",
+  "count": 4.0
+ },
+ {
+  "n": 12,
+  "emoji": "😂",
+  "frase": "tive crise de riso no meio da aula",
+  "pct": 68,
+  "fala_q": "Eu já... tive crise de riso no meio da aula?",
+  "fala_r": "68% já! A maioria já!",
+  "count": 4.0
+ },
+ {
+  "n": 13,
+  "emoji": "🧮",
+  "frase": "contei nos dedos durante a prova",
+  "pct": 66,
+  "fala_q": "Eu já... contei nos dedos durante a prova?",
+  "fala_r": "66% já! Mais da metade já, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 14,
+  "emoji": "🚌",
+  "frase": "fui numa excursão da escola",
+  "pct": 65,
+  "fala_q": "Lembra disso? Eu já... fui numa excursão da escola?",
+  "fala_r": "65% já! Muita gente já fez isso!",
+  "count": 4.0
+ },
+ {
+  "n": 15,
+  "emoji": "🎂",
+  "frase": "comemorei aniversário na sala de aula",
+  "pct": 64,
+  "fala_q": "Eu já... comemorei aniversário na sala de aula?",
+  "fala_r": "64% já! A maioria já!",
+  "count": 4.0
+ },
+ {
+  "n": 16,
+  "emoji": "💯",
+  "frase": "tirei dez numa prova",
+  "pct": 63,
+  "fala_q": "Eu já... tirei dez numa prova?",
+  "fala_r": "63% já! Parabéns, hein!",
+  "count": 4.0
+ },
+ {
+  "n": 17,
+  "emoji": "🤥",
+  "frase": "inventei uma desculpa por não ter feito a lição",
+  "pct": 62,
+  "fala_q": "Eu já... inventei uma desculpa por não ter feito a lição?",
+  "fala_r": "62% já! Eu sabia!",
+  "count": 4.0
+ },
+ {
+  "n": 18,
+  "emoji": "👩",
+  "frase": "chamei a professora de mãe sem querer",
+  "pct": 61,
+  "fala_q": "Eu já... chamei a professora de mãe sem querer?",
+  "fala_r": "61% já! Clássico demais!",
+  "count": 4.0
+ },
+ {
+  "n": 19,
+  "emoji": "🤝",
+  "frase": "fiz trabalho em grupo praticamente sozinho",
+  "pct": 60,
+  "fala_q": "Eu já... fiz trabalho em grupo praticamente sozinho?",
+  "fala_r": "60% já! Todo grupo tem um desses!",
+  "count": 4.0
+ },
+ {
+  "n": 20,
+  "emoji": "🌧️",
+  "frase": "cheguei na escola todo molhado de chuva",
+  "pct": 58,
+  "fala_q": "Eu já... cheguei na escola todo molhado de chuva?",
+  "fala_r": "58% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 21,
+  "emoji": "🍪",
+  "frase": "comi lanche escondido na sala",
+  "pct": 57,
+  "fala_q": "Bora pra próxima! Eu já... comi lanche escondido na sala?",
+  "fala_r": "57% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 22,
+  "emoji": "🏫",
+  "frase": "troquei de escola",
+  "pct": 56,
+  "fala_q": "Eu já... troquei de escola?",
+  "fala_r": "56% já! Quase meio a meio!",
+  "count": 4.0
+ },
+ {
+  "n": 23,
+  "emoji": "🎭",
+  "frase": "participei de uma peça de teatro da escola",
+  "pct": 55,
+  "fala_q": "Eu já... participei de uma peça de teatro da escola?",
+  "fala_r": "55% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 24,
+  "emoji": "🙋",
+  "frase": "levantei a mão e esqueci a pergunta",
+  "pct": 54,
+  "fala_q": "Eu já... levantei a mão e esqueci a pergunta?",
+  "fala_r": "54% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 25,
+  "emoji": "🤒",
+  "frase": "fui embora mais cedo porque passei mal",
+  "pct": 50,
+  "fala_q": "Eu já... fui embora mais cedo porque passei mal?",
+  "fala_r": "50% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 26,
+  "emoji": "🗣️",
+  "frase": "travei lendo em voz alta pra turma",
+  "pct": 48,
+  "fala_q": "Essa é de dar vergonha... Eu já... travei lendo em voz alta pra turma?",
+  "fala_r": "48% já! Quase meio a meio!",
+  "count": 4.0
+ },
+ {
+  "n": 27,
+  "emoji": "📱",
+  "frase": "levei bronca por mexer no celular na aula",
+  "pct": 47,
+  "fala_q": "Eu já... levei bronca por mexer no celular na aula?",
+  "fala_r": "47% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 28,
+  "emoji": "😳",
+  "frase": "chamei o professor pelo nome errado",
+  "pct": 46,
+  "fala_q": "Eu já... chamei o professor pelo nome errado?",
+  "fala_r": "46% já! Empate técnico!",
+  "count": 4.0
+ },
+ {
+  "n": 29,
+  "emoji": "📚",
+  "frase": "esqueci que tinha prova",
+  "pct": 44,
+  "fala_q": "Eu já... esqueci que tinha prova?",
+  "fala_r": "44% já! Que susto!",
+  "count": 4.0
+ },
+ {
+  "n": 30,
+  "emoji": "🧃",
+  "frase": "derrubei suco dentro da mochila",
+  "pct": 43,
+  "fala_q": "Eu já... derrubei suco dentro da mochila?",
+  "fala_r": "43% já! Ficou bem dividido!",
+  "count": 4.0
+ },
+ {
+  "n": 31,
+  "emoji": "📖",
+  "frase": "li o livro inteiro que a professora pediu",
+  "pct": 42,
+  "fala_q": "Agora uma de aluno caprichoso... Eu já... li o livro inteiro que a professora pediu?",
+  "fala_r": "42% já! Quase meio a meio!",
+  "count": 4.0
+ },
+ {
+  "n": 32,
+  "emoji": "🏅",
+  "frase": "fui o primeiro a terminar a prova",
+  "pct": 37,
+  "fala_q": "Eu já... fui o primeiro a terminar a prova?",
+  "fala_r": "37% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 33,
+  "emoji": "🍎",
+  "frase": "dei um presente pra um professor",
+  "pct": 36,
+  "fala_q": "Eu já... dei um presente pra um professor?",
+  "fala_r": "36% já! A maioria nunca!",
+  "count": 4.0
+ },
+ {
+  "n": 34,
+  "emoji": "🏆",
+  "frase": "ganhei medalha nos jogos da escola",
+  "pct": 35,
+  "fala_q": "Eu já... ganhei medalha nos jogos da escola?",
+  "fala_r": "35% já! Pouca gente já fez essa!",
+  "count": 4.0
+ },
+ {
+  "n": 35,
+  "emoji": "🧪",
+  "frase": "fiz uma experiência de ciências que deu errado",
+  "pct": 33,
+  "fala_q": "Eu já... fiz uma experiência de ciências que deu errado?",
+  "fala_r": "33% já! A maioria nunca!",
+  "count": 4.0
+ },
+ {
+  "n": 36,
+  "emoji": "👟",
+  "frase": "fui pra escola de chinelo",
+  "pct": 31,
+  "fala_q": "Eu já... fui pra escola de chinelo?",
+  "fala_r": "31% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 37,
+  "emoji": "📸",
+  "frase": "saí de olho fechado na foto da turma",
+  "pct": 30,
+  "fala_q": "Eu já... saí de olho fechado na foto da turma?",
+  "fala_r": "30% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 38,
+  "emoji": "🪑",
+  "frase": "caí da cadeira na sala de aula",
+  "pct": 29,
+  "fala_q": "Essa foi engraçada... Eu já... caí da cadeira na sala de aula?",
+  "fala_r": "29% já! Todo mundo riu, né?",
+  "count": 4.0
+ },
+ {
+  "n": 39,
+  "emoji": "⚽",
+  "frase": "quebrei alguma coisa jogando bola na escola",
+  "pct": 27,
+  "fala_q": "Eu já... quebrei alguma coisa jogando bola na escola?",
+  "fala_r": "27% já! Pouca gente já fez essa!",
+  "count": 4.0
+ },
+ {
+  "n": 40,
+  "emoji": "🚪",
+  "frase": "entrei na sala errada",
+  "pct": 25,
+  "fala_q": "Eu já... entrei na sala errada?",
+  "fala_r": "25% já! A maioria nunca!",
+  "count": 4.0
+ },
+ {
+  "n": 41,
+  "emoji": "💤",
+  "frase": "acordei com o professor me chamando",
+  "pct": 23,
+  "fala_q": "Agora só as raras! Eu já... acordei com o professor me chamando?",
+  "fala_r": "23% já! Essa é mais rara!",
+  "count": 4.0
+ },
+ {
+  "n": 42,
+  "emoji": "😬",
+  "frase": "tirei zero numa prova",
+  "pct": 21,
+  "fala_q": "Eu já... tirei zero numa prova?",
+  "fala_r": "21% já! A maioria nunca!",
+  "count": 4.0
+ },
+ {
+  "n": 43,
+  "emoji": "🤯",
+  "frase": "gabaritei uma prova de matemática",
+  "pct": 19,
+  "fala_q": "Eu já... gabaritei uma prova de matemática?",
+  "fala_r": "19% já! Se gabaritou, você é fera!",
+  "count": 4.0
+ },
+ {
+  "n": 44,
+  "emoji": "🏛️",
+  "frase": "fui parar na diretoria",
+  "pct": 18,
+  "fala_q": "Eu já... fui parar na diretoria?",
+  "fala_r": "18% já! Essa é raríssima!",
+  "count": 4.0
+ },
+ {
+  "n": 45,
+  "emoji": "📢",
+  "frase": "falei no microfone pra escola inteira",
+  "pct": 15,
+  "fala_q": "Eu já... falei no microfone pra escola inteira?",
+  "fala_r": "15% já! Se você já, você é raro!",
+  "count": 4.0
+ },
+ {
+  "n": 46,
+  "emoji": "📄",
+  "frase": "entreguei a prova em branco",
+  "pct": 14,
+  "fala_q": "E essa? Eu já... entreguei a prova em branco?",
+  "fala_r": "14% já! Quase ninguém já!",
+  "count": 4.0
+ },
+ {
+  "n": 47,
+  "emoji": "🥇",
+  "frase": "ganhei um campeonato representando a escola",
+  "pct": 12,
+  "fala_q": "Eu já... ganhei um campeonato representando a escola?",
+  "fala_r": "12% já! Essa é raríssima!",
+  "count": 4.0
+ },
+ {
+  "n": 48,
+  "emoji": "🐶",
+  "frase": "disse que o cachorro comeu minha lição",
+  "pct": 8,
+  "fala_q": "Eu já... disse que o cachorro comeu minha lição?",
+  "fala_r": "8% já! Essa desculpa é das antigas!",
+  "count": 4.0
+ },
+ {
+  "n": 49,
+  "emoji": "🎓",
+  "frase": "fui o orador da formatura",
+  "pct": 6,
+  "fala_q": "Eu já... fui o orador da formatura?",
+  "fala_r": "6% já! Se você já, você é raro!",
+  "count": 4.0
+ },
+ {
+  "n": 50,
+  "emoji": "🌟",
+  "frase": "ganhei prêmio por nunca faltar no ano inteiro",
+  "pct": 5,
+  "fala_q": "Eu já... ganhei prêmio por nunca faltar no ano inteiro?",
+  "fala_r": "5% já! Se você já, você é lenda!",
+  "count": 5.0,
+  "final": true
+ }
+]
