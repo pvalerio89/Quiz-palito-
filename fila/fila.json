@@ -341,11 +341,18 @@
       "id": "2026-11-15-jogador-clube-pais",
       "referencia": "https://youtu.be/__UcNiYly0w",
       "tema": "99% erram o jogador pelo CLUBE e PAÍS! (NaTraveQuiz)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Formato (visto pela miniatura 'JOGADOR QUE JÁ JOGOU'): aparece a BANDEIRA do país + o ESCUDO de um clube onde ele já jogou (ex. França + Monaco = Mbappé); o espectador adivinha; na resposta entra a foto real (Wikimedia). Bandeiras do vídeo 03 e escudos do vídeo 16 dá para reaproveitar. Fácil→difícil, 30–40 jogadores. Parecido com 2026-11-15-jogador-pela-carreira: usar jogadores diferentes e não publicar no mesmo dia. | FEITO (2026-11-15): 36 jogadores (nenhum dos vídeos 21 e 31 como resposta); cartão com bandeira + escudo e os nomes, 3 alternativas (as erradas são do mesmo país OU do mesmo clube), na resposta a foto real (fotos do vídeo 19). ~13:30. Short clube-pais-1: 6 jogadores. Não publicar no mesmo dia do vídeo 31.",
       "video": "videos/32-jogador-clube-pais",
       "short": "shorts/clube-pais-1",
-      "titulo": "QUEM JOGOU AQUI? ⚽ Adivinhe 36 Jogadores pelo PAÍS e pelo CLUBE! 99% Erram no Final | Quiz Palito"
+      "titulo": "QUEM JOGOU AQUI? ⚽ Adivinhe 36 Jogadores pelo PAÍS e pelo CLUBE! 99% Erram no Final | Quiz Palito",
+      "publicado_em": "2026-11-15",
+      "no_ar_em": "2026-11-16T15:09:00Z",
+      "no_ar_brasilia": "16/11 12h09",
+      "links": {
+        "video": "https://youtu.be/kd0--pAZPWU",
+        "short": "https://youtu.be/-QGDe5CO_No"
+      }
     },
     {
       "id": "2026-11-14-quiz-espanhol",
