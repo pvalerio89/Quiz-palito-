@@ -1,0 +1,701 @@
+[
+ {
+  "n": 1,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Vinícius Jr",
+  "foto": "pe-vinicius-jr.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "real-madrid",
+  "clube_nome": "REAL MADRID",
+  "opcoes": [
+   "Neymar",
+   "Mbappé",
+   "Vinícius Jr"
+  ],
+  "certa": 2,
+  "fala_q": "Pra aquecer, uma bem fácil! Qual brasileiro já jogou no Real Madrid? Neymar, Mbappé ou Vinícius Jr?",
+  "fala_r": "Vinícius Júnior! O Neymar nunca jogou no Real, e o Mbappé é francês!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Salah",
+  "foto": "pd-salah.jpg",
+  "bandeira": "eg",
+  "pais": "EGITO",
+  "clube": "liverpool",
+  "clube_nome": "LIVERPOOL",
+  "opcoes": [
+   "Salah",
+   "Mané",
+   "Firmino"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pra mais uma! Qual egípcio já jogou no Liverpool? Salah, Mané ou Firmino?",
+  "fala_r": "Salah! O Rei do Egito!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Harry Kane",
+  "foto": "ca-harry-kane.jpg",
+  "bandeira": "gb-eng",
+  "pais": "INGLATERRA",
+  "clube": "bayern-de-munique",
+  "clube_nome": "BAYERN",
+  "opcoes": [
+   "Sterling",
+   "Harry Kane",
+   "Musiala"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um centroavante! Qual inglês já jogou no Bayern de Munique? Sterling, Harry Kane ou Musiala?",
+  "fala_r": "Harry Kane! Saiu do Tottenham direto pro Bayern!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Lamine Yamal",
+  "foto": "pd-lamine-yamal.jpg",
+  "bandeira": "es",
+  "pais": "ESPANHA",
+  "clube": "barcelona",
+  "clube_nome": "BARCELONA",
+  "opcoes": [
+   "Nico Williams",
+   "Lamine Yamal",
+   "Raphinha"
+  ],
+  "certa": 1,
+  "fala_q": "Essa é da nova geração! Qual espanhol já jogou no Barcelona? Nico Williams, Lamine Yamal ou Raphinha?",
+  "fala_r": "Lamine Yamal! A joia do Barcelona!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Casemiro",
+  "foto": "vol-casemiro.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "manchester-united",
+  "clube_nome": "MAN. UNITED",
+  "opcoes": [
+   "Fabinho",
+   "Rashford",
+   "Casemiro"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um volante! Qual brasileiro já jogou no Manchester United? Fabinho, Rashford ou Casemiro?",
+  "fala_r": "Casemiro! Saiu do Real Madrid pro United!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Van Dijk",
+  "foto": "zag1-van-dijk.jpg",
+  "bandeira": "nl",
+  "pais": "HOLANDA",
+  "clube": "liverpool",
+  "clube_nome": "LIVERPOOL",
+  "opcoes": [
+   "De Ligt",
+   "Konaté",
+   "Van Dijk"
+  ],
+  "certa": 2,
+  "fala_q": "Um paredão na defesa! Qual holandês já jogou no Liverpool? De Ligt, Konaté ou Van Dijk?",
+  "fala_r": "Van Dijk! O capitão do Liverpool!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Bellingham",
+  "foto": "mei-bellingham.jpg",
+  "bandeira": "gb-eng",
+  "pais": "INGLATERRA",
+  "clube": "borussia-dortmund",
+  "clube_nome": "DORTMUND",
+  "opcoes": [
+   "Foden",
+   "Haaland",
+   "Bellingham"
+  ],
+  "certa": 2,
+  "fala_q": "Esse foi cedo pra Alemanha! Qual inglês já jogou no Borussia Dortmund? Foden, Haaland ou Bellingham?",
+  "fala_r": "Bellingham! Do Dortmund pro Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Lewandowski",
+  "foto": "ca-lewandowski.jpg",
+  "bandeira": "pl",
+  "pais": "POLÔNIA",
+  "clube": "borussia-dortmund",
+  "clube_nome": "DORTMUND",
+  "opcoes": [
+   "Szczęsny",
+   "Lewandowski",
+   "Reus"
+  ],
+  "certa": 1,
+  "fala_q": "Mesmo clube, outro país! Qual polonês já jogou no Borussia Dortmund? Szczęsny, Lewandowski ou Reus?",
+  "fala_r": "Lewandowski! Antes do Bayern e do Barça, ele brilhou no Dortmund!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Martinelli",
+  "foto": "joia-martinelli.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "arsenal",
+  "clube_nome": "ARSENAL",
+  "opcoes": [
+   "Antony",
+   "Saka",
+   "Martinelli"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um ponta brasileiro! Qual brasileiro já jogou no Arsenal? Antony, Saka ou Martinelli?",
+  "fala_r": "Gabriel Martinelli! Saiu do Ituano direto pro Arsenal!",
+  "count": 7.0,
+  "sabia": "O Martinelli foi pro Arsenal sem nunca jogar num time grande do Brasil."
+ },
+ {
+  "n": 10,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Thiago Silva",
+  "foto": "lzag-thiago-silva.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "chelsea",
+  "clube_nome": "CHELSEA",
+  "opcoes": [
+   "Marquinhos",
+   "Thiago Silva",
+   "Lampard"
+  ],
+  "certa": 1,
+  "fala_q": "Um zagueiro que jogou até depois dos quarenta! Qual brasileiro já jogou no Chelsea? Marquinhos, Thiago Silva ou Lampard?",
+  "fala_r": "Thiago Silva! Campeão da Champions com o Chelsea!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Ronaldinho",
+  "foto": "ldez-ronaldinho.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "psg",
+  "clube_nome": "PSG",
+  "opcoes": [
+   "Ronaldinho",
+   "Kaká",
+   "Beckham"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado, que essa tem pegadinha! Qual brasileiro já jogou no PSG? Ronaldinho, Kaká ou Beckham?",
+  "fala_r": "Ronaldinho! Antes do Barcelona, ele jogou no PSG!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 12,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Pelé",
+  "foto": "ldez-pele.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "new-york-cosmos",
+  "clube_nome": "NY COSMOS",
+  "opcoes": [
+   "Garrincha",
+   "Beckenbauer",
+   "Pelé"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um time dos Estados Unidos! Qual brasileiro já jogou no New York Cosmos? Garrincha, Beckenbauer ou Pelé?",
+  "fala_r": "Pelé! O Rei terminou a carreira no Cosmos!",
+  "count": 7.0,
+  "sabia": "O Pelé jogou no New York Cosmos de 1975 a 1977."
+ },
+ {
+  "n": 13,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Oliver Kahn",
+  "foto": "lgol-oliver-kahn.jpg",
+  "bandeira": "de",
+  "pais": "ALEMANHA",
+  "clube": "bayern-de-munique",
+  "clube_nome": "BAYERN",
+  "opcoes": [
+   "Oliver Kahn",
+   "Lehmann",
+   "Robben"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um goleiro das antigas! Qual alemão já jogou no Bayern de Munique? Oliver Kahn, Lehmann ou Robben?",
+  "fala_r": "Oliver Kahn! O Lehmann nunca jogou no Bayern!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Eto'o",
+  "foto": "lca-eto-o.jpg",
+  "bandeira": "cm",
+  "pais": "CAMARÕES",
+  "clube": "barcelona",
+  "clube_nome": "BARCELONA",
+  "opcoes": [
+   "Drogba",
+   "Henry",
+   "Eto'o"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra África! Qual camaronês já jogou no Barcelona? Drogba, Henry ou Eto'o?",
+  "fala_r": "Samuel Eto'o! Artilheiro do Barça!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Savinho",
+  "foto": "joia-savinho.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "manchester-city",
+  "clube_nome": "MAN. CITY",
+  "opcoes": [
+   "Richarlison",
+   "Savinho",
+   "Grealish"
+  ],
+  "certa": 1,
+  "fala_q": "Essa é recente! Qual brasileiro já jogou no Manchester City? Richarlison, Savinho ou Grealish?",
+  "fala_r": "Savinho! Brilhou no Girona e foi pro City!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Bruno Fernandes",
+  "foto": "dez-bruno-fernandes.jpg",
+  "bandeira": "pt",
+  "pais": "PORTUGAL",
+  "clube": "sporting",
+  "clube_nome": "SPORTING",
+  "opcoes": [
+   "Bruno Fernandes",
+   "Bernardo Silva",
+   "Gyökeres"
+  ],
+  "certa": 0,
+  "fala_q": "Agora Portugal! Qual português já jogou no Sporting? Bruno Fernandes, Bernardo Silva ou Gyökeres?",
+  "fala_r": "Bruno Fernandes! Foi do Sporting pro Manchester United!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Endrick",
+  "foto": "joia-endrick.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "palmeiras",
+  "clube_nome": "PALMEIRAS",
+  "opcoes": [
+   "Rodrygo",
+   "Gustavo Gómez",
+   "Endrick"
+  ],
+  "certa": 2,
+  "fala_q": "Um time brasileiro agora! Qual brasileiro já jogou no Palmeiras? Rodrygo, Gustavo Gómez ou Endrick?",
+  "fala_r": "Endrick! Saiu do Palmeiras pro Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Militão",
+  "foto": "zag1-militao.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "porto",
+  "clube_nome": "PORTO",
+  "opcoes": [
+   "Gabriel Magalhães",
+   "Luis Díaz",
+   "Militão"
+  ],
+  "certa": 2,
+  "fala_q": "Essa aqui derruba muita gente. Qual brasileiro já jogou no Porto? Gabriel Magalhães, Luis Díaz ou Militão?",
+  "fala_r": "Éder Militão! Foi do São Paulo pro Porto antes do Real!",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Rúben Dias",
+  "foto": "zag1-ruben-dias.jpg",
+  "bandeira": "pt",
+  "pais": "PORTUGAL",
+  "clube": "benfica",
+  "clube_nome": "BENFICA",
+  "opcoes": [
+   "Cristiano Ronaldo",
+   "Di María",
+   "Rúben Dias"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado: tem português famoso aí no meio! Qual português já jogou no Benfica? Cristiano Ronaldo, Di María ou Rúben Dias?",
+  "fala_r": "Rúben Dias! O Cristiano Ronaldo nunca jogou no Benfica!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 20,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Wirtz",
+  "foto": "dez-wirtz.jpg",
+  "bandeira": "de",
+  "pais": "ALEMANHA",
+  "clube": "bayer-leverkusen",
+  "clube_nome": "LEVERKUSEN",
+  "opcoes": [
+   "Kimmich",
+   "Xhaka",
+   "Wirtz"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um meia alemão! Qual alemão já jogou no Bayer Leverkusen? Kimmich, Xhaka ou Wirtz?",
+  "fala_r": "Florian Wirtz! Campeão invicto com o Leverkusen!",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Modrić",
+  "foto": "mei-modric.jpg",
+  "bandeira": "hr",
+  "pais": "CROÁCIA",
+  "clube": "tottenham",
+  "clube_nome": "TOTTENHAM",
+  "opcoes": [
+   "Modrić",
+   "Kovačić",
+   "Son"
+  ],
+  "certa": 0,
+  "fala_q": "Antes de ser lenda no Real, ele jogou na Inglaterra! Qual croata já jogou no Tottenham? Modrić, Kovačić ou Son?",
+  "fala_r": "Luka Modrić! Jogou quatro anos no Tottenham!",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Hakimi",
+  "foto": "ld-hakimi.jpg",
+  "bandeira": "ma",
+  "pais": "MARROCOS",
+  "clube": "inter-de-milao",
+  "clube_nome": "INTER",
+  "opcoes": [
+   "Hakimi",
+   "Ziyech",
+   "Lautaro"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pra Itália! Qual marroquino já jogou na Inter de Milão? Hakimi, Ziyech ou Lautaro?",
+  "fala_r": "Hakimi! Foi campeão italiano com a Inter antes do PSG!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Cafu",
+  "foto": "llat-cafu.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "roma",
+  "clube_nome": "ROMA",
+  "opcoes": [
+   "Cafu",
+   "Roberto Carlos",
+   "Totti"
+  ],
+  "certa": 0,
+  "fala_q": "Um lateral pentacampeão! Qual brasileiro já jogou na Roma? Cafu, Roberto Carlos ou Totti?",
+  "fala_r": "Cafu! O capitão do penta jogou na Roma e no Milan!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Bastoni",
+  "foto": "zag2-bastoni.jpg",
+  "bandeira": "it",
+  "pais": "ITÁLIA",
+  "clube": "inter-de-milao",
+  "clube_nome": "INTER",
+  "opcoes": [
+   "Chiellini",
+   "Bastoni",
+   "Çalhanoğlu"
+  ],
+  "certa": 1,
+  "fala_q": "Um zagueiro italiano! Qual italiano já jogou na Inter de Milão? Chiellini, Bastoni ou Çalhanoğlu?",
+  "fala_r": "Bastoni! O Chiellini foi ídolo da rival Juventus!",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Dibu Martínez",
+  "foto": "gol-dibu-martinez.jpg",
+  "bandeira": "ar",
+  "pais": "ARGENTINA",
+  "clube": "aston-villa",
+  "clube_nome": "ASTON VILLA",
+  "opcoes": [
+   "Dybala",
+   "Dibu Martínez",
+   "Watkins"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um goleiro campeão do mundo! Qual argentino já jogou no Aston Villa? Dybala, Dibu Martínez ou Watkins?",
+  "fala_r": "Dibu Martínez! O goleiro da Argentina campeã de 2022!",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Nuno Mendes",
+  "foto": "le-nuno-mendes.jpg",
+  "bandeira": "pt",
+  "pais": "PORTUGAL",
+  "clube": "psg",
+  "clube_nome": "PSG",
+  "opcoes": [
+   "Cancelo",
+   "Nuno Mendes",
+   "Mbappé"
+  ],
+  "certa": 1,
+  "fala_q": "Um lateral português! Qual português já jogou no PSG? Cancelo, Nuno Mendes ou Mbappé?",
+  "fala_r": "Nuno Mendes! Do Sporting pro PSG!",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Romário",
+  "foto": "lca-romario.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "psv",
+  "clube_nome": "PSV",
+  "opcoes": [
+   "Romário",
+   "Bebeto",
+   "Van Nistelrooy"
+  ],
+  "certa": 0,
+  "fala_q": "Agora a Holanda... mas o jogador é brasileiro! Qual brasileiro já jogou no PSV? Romário, Bebeto ou Van Nistelrooy?",
+  "fala_r": "Romário! Fez chover de gol no PSV!",
+  "count": 7.0,
+  "fala_d": "Dica: ele foi o craque da Copa de 94.",
+  "dica_txt": "CRAQUE DA COPA DE 94!"
+ },
+ {
+  "n": 28,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Reece James",
+  "foto": "ld-reece-james.jpg",
+  "bandeira": "gb-eng",
+  "pais": "INGLATERRA",
+  "clube": "chelsea",
+  "clube_nome": "CHELSEA",
+  "opcoes": [
+   "Alexander-Arnold",
+   "Reece James",
+   "Enzo Fernández"
+  ],
+  "certa": 1,
+  "fala_q": "Um lateral inglês! Qual inglês já jogou no Chelsea? Alexander-Arnold, Reece James ou Enzo Fernández?",
+  "fala_r": "Reece James! Cria da base do Chelsea!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Robertson",
+  "foto": "le-robertson.jpg",
+  "bandeira": "gb-sct",
+  "pais": "ESCÓCIA",
+  "clube": "liverpool",
+  "clube_nome": "LIVERPOOL",
+  "opcoes": [
+   "Tierney",
+   "Mac Allister",
+   "Robertson"
+  ],
+  "certa": 2,
+  "fala_q": "Atenção pra bandeira, que essa é diferente! Qual escocês já jogou no Liverpool? Tierney, Mac Allister ou Robertson?",
+  "fala_r": "Andy Robertson! O escocês do Liverpool!",
+  "count": 7.0,
+  "sabia": "A Escócia tem seleção própria, separada da Inglaterra."
+ },
+ {
+  "n": 30,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Ronald Araújo",
+  "foto": "zag2-ronald-araujo.jpg",
+  "bandeira": "uy",
+  "pais": "URUGUAI",
+  "clube": "barcelona",
+  "clube_nome": "BARCELONA",
+  "opcoes": [
+   "Ronald Araújo",
+   "Giménez",
+   "Koundé"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pro Uruguai! Qual uruguaio já jogou no Barcelona? Ronald Araújo, Giménez ou Koundé?",
+  "fala_r": "Ronald Araújo! O xerife uruguaio do Barça!",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Valverde",
+  "foto": "mei-valverde.jpg",
+  "bandeira": "uy",
+  "pais": "URUGUAI",
+  "clube": "penarol",
+  "clube_nome": "PEÑAROL",
+  "opcoes": [
+   "Bentancur",
+   "Valverde",
+   "Suárez"
+  ],
+  "certa": 1,
+  "fala_q": "Mais uma do Uruguai, mas agora o clube é de lá! Qual uruguaio já jogou no Peñarol? Bentancur, Valverde ou Suárez?",
+  "fala_r": "Fede Valverde! Começou no Peñarol! O Suárez é do rival Nacional!",
+  "count": 7.0,
+  "fala_d": "Dica: hoje ele joga no Real Madrid.",
+  "dica_txt": "HOJE NO REAL MADRID!"
+ },
+ {
+  "n": 32,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Grimaldo",
+  "foto": "le-grimaldo.jpg",
+  "bandeira": "es",
+  "pais": "ESPANHA",
+  "clube": "benfica",
+  "clube_nome": "BENFICA",
+  "opcoes": [
+   "Grimaldo",
+   "Jordi Alba",
+   "Otamendi"
+  ],
+  "certa": 0,
+  "fala_q": "Agora só pra quem entende de futebol! Qual espanhol já jogou no Benfica? Grimaldo, Jordi Alba ou Otamendi?",
+  "fala_r": "Grimaldo! Sete anos de Benfica antes do Leverkusen!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 33,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Gerrard",
+  "foto": "lmei-gerrard.jpg",
+  "bandeira": "gb-eng",
+  "pais": "INGLATERRA",
+  "clube": "la-galaxy",
+  "clube_nome": "LA GALAXY",
+  "opcoes": [
+   "Lampard",
+   "Gerrard",
+   "Ibrahimović"
+  ],
+  "certa": 1,
+  "fala_q": "Um ídolo inglês que foi pros Estados Unidos! Qual inglês já jogou no LA Galaxy? Lampard, Gerrard ou Ibrahimović?",
+  "fala_r": "Steven Gerrard! Saiu do Liverpool pro Galaxy! O Lampard foi pro New York City!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 34,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Dembélé",
+  "foto": "pd-dembele.jpg",
+  "bandeira": "fr",
+  "pais": "FRANÇA",
+  "clube": "rennes",
+  "clube_nome": "RENNES",
+  "opcoes": [
+   "Dembélé",
+   "Griezmann",
+   "Mbappé"
+  ],
+  "certa": 0,
+  "fala_q": "Essa é bem difícil! Qual francês já jogou no Rennes? Dembélé, Griezmann ou Mbappé?",
+  "fala_r": "Dembélé! Começou no Rennes, antes do Dortmund!",
+  "count": 7.0
+ },
+ {
+  "n": 35,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Carvajal",
+  "foto": "ld-carvajal.jpg",
+  "bandeira": "es",
+  "pais": "ESPANHA",
+  "clube": "bayer-leverkusen",
+  "clube_nome": "LEVERKUSEN",
+  "opcoes": [
+   "Xabi Alonso",
+   "Carvajal",
+   "Sergio Ramos"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa tem pegadinha das grandes! Qual espanhol já jogou no Bayer Leverkusen? Xabi Alonso, Carvajal ou Sergio Ramos?",
+  "fala_r": "Carvajal! Jogou um ano no Leverkusen! O Xabi Alonso foi técnico de lá, mas nunca jogou!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 36,
+  "pergunta": "QUEM JÁ JOGOU AQUI?",
+  "jogador": "Zico",
+  "foto": "ldez-zico.jpg",
+  "bandeira": "br",
+  "pais": "BRASIL",
+  "clube": "udinese",
+  "clube_nome": "UDINESE",
+  "opcoes": [
+   "Sócrates",
+   "Zico",
+   "Falcão"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo o título de craque da bola: um brasileiro num time pequeno da Itália! Qual brasileiro já jogou na Udinese? Sócrates, Zico ou Falcão?",
+  "fala_r": "Zico! O Galinho jogou duas temporadas na Udinese! Se acertou essa, você é fera!",
+  "count": 7.0,
+  "final": true,
+  "fala_s": "Valendo o título de craque... a resposta é..."
+ }
+]
