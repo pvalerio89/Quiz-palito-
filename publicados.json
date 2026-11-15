@@ -736,6 +736,20 @@
         "data": "2026-11-14",
         "origem": "github-actions"
       }
+    },
+    "videos/28-eu-ja-eu-nunca": {
+      "youtube": {
+        "status": "publicado",
+        "id": "0LZRUHYRpPo",
+        "url": "https://youtu.be/0LZRUHYRpPo",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "838c08ed0cf5cfe87217bf8aa2ece4064834e8c53671fb54564017e4204c5a50",
+        "no_ar_em": "2026-11-15T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
