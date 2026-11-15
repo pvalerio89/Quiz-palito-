@@ -768,6 +768,20 @@
         "data": "2026-11-15",
         "origem": "github-actions"
       }
+    },
+    "videos/32-jogador-clube-pais": {
+      "youtube": {
+        "status": "publicado",
+        "id": "kd0--pAZPWU",
+        "url": "https://youtu.be/kd0--pAZPWU",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "4b1be0e3a83e070c340a29740b6e22a01d0663ab027120a93d8a85be836db189",
+        "no_ar_em": "2026-11-16T15:09:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
