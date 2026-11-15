@@ -1,1 +1,1 @@
-baixar videos/27-paises-pelas-comidas/escolhas.json videos/27-paises-pelas-comidas
+escudos videos/31-jogador-pela-carreira/escudos.tsv videos/31-jogador-pela-carreira
