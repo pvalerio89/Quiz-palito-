@@ -1,0 +1,1269 @@
+[
+ {
+  "n": 1,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Cristiano Ronaldo",
+  "foto": "ca-cristiano-ronaldo.jpg",
+  "carreira": [
+   [
+    "sporting",
+    2002
+   ],
+   [
+    "manchester-united",
+    2003
+   ],
+   [
+    "real-madrid",
+    2009
+   ],
+   [
+    "juventus",
+    2018
+   ],
+   [
+    "manchester-united",
+    2021
+   ],
+   [
+    "al-nassr",
+    2023
+   ]
+  ],
+  "opcoes": [
+   "Cristiano Ronaldo",
+   "Benzema",
+   "Bale"
+  ],
+  "certa": 0,
+  "fala_q": "Pra aquecer, uma bem famosa! De quem é essa carreira? Cristiano Ronaldo, Benzema ou Bale?",
+  "fala_r": "Cristiano Ronaldo! Começou no Sporting e voltou duas vezes pro Manchester United!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Messi",
+  "foto": "dez-messi.jpg",
+  "carreira": [
+   [
+    "barcelona",
+    2004
+   ],
+   [
+    "psg",
+    2021
+   ],
+   [
+    "inter-miami",
+    2023
+   ]
+  ],
+  "opcoes": [
+   "Suárez",
+   "Di María",
+   "Messi"
+  ],
+  "certa": 2,
+  "fala_q": "Só três clubes nessa! Quem é? Suárez, Di María ou Messi?",
+  "fala_r": "Messi! Dezessete anos de Barcelona!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Neymar",
+  "foto": "pe-neymar.jpg",
+  "carreira": [
+   [
+    "santos",
+    2009
+   ],
+   [
+    "barcelona",
+    2013
+   ],
+   [
+    "psg",
+    2017
+   ],
+   [
+    "al-hilal",
+    2023
+   ],
+   [
+    "santos",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "Coutinho",
+   "Neymar",
+   "Gabigol"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um brasileiro que saiu e voltou pra casa! Coutinho, Neymar ou Gabigol?",
+  "fala_r": "Neymar! Saiu do Santos e voltou pro Santos!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Mbappé",
+  "foto": "ca-mbappe.jpg",
+  "carreira": [
+   [
+    "monaco",
+    2015
+   ],
+   [
+    "psg",
+    2017
+   ],
+   [
+    "real-madrid",
+    2024
+   ]
+  ],
+  "opcoes": [
+   "Griezmann",
+   "Giroud",
+   "Mbappé"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra França! Quem fez esse caminho? Griezmann, Giroud ou Mbappé?",
+  "fala_r": "Mbappé! Do Monaco pro PSG e depois pro Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Haaland",
+  "foto": "ca-haaland.jpg",
+  "carreira": [
+   [
+    "molde",
+    2017
+   ],
+   [
+    "rb-salzburg",
+    2019
+   ],
+   [
+    "borussia-dortmund",
+    2020
+   ],
+   [
+    "manchester-city",
+    2022
+   ]
+  ],
+  "opcoes": [
+   "Haaland",
+   "Ødegaard",
+   "Sørloth"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é uma máquina de gols. Quem é? Haaland, Ødegaard ou Sørloth?",
+  "fala_r": "Haaland! O robô norueguês!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Kaká",
+  "foto": "lmei-kaka.jpg",
+  "carreira": [
+   [
+    "sao-paulo",
+    2000
+   ],
+   [
+    "milan",
+    2003
+   ],
+   [
+    "real-madrid",
+    2009
+   ],
+   [
+    "milan",
+    2013
+   ],
+   [
+    "orlando-city",
+    2014
+   ]
+  ],
+  "opcoes": [
+   "Alexandre Pato",
+   "Ronaldinho",
+   "Kaká"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um craque das antigas, que foi o melhor do mundo! Alexandre Pato, Ronaldinho ou Kaká?",
+  "fala_r": "Kaká! Melhor do mundo em 2007, jogando pelo Milan!",
+  "count": 7.0,
+  "sabia": "O Kaká ganhou a Bola de Ouro de 2007 jogando pelo Milan."
+ },
+ {
+  "n": 7,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Ibrahimović",
+  "foto": "lca-ibrahimovic.jpg",
+  "carreira": [
+   [
+    "ajax",
+    2001
+   ],
+   [
+    "juventus",
+    2004
+   ],
+   [
+    "inter-de-milao",
+    2006
+   ],
+   [
+    "barcelona",
+    2009
+   ],
+   [
+    "milan",
+    2010
+   ],
+   [
+    "psg",
+    2012
+   ],
+   [
+    "manchester-united",
+    2016
+   ],
+   [
+    "la-galaxy",
+    2018
+   ],
+   [
+    "milan",
+    2019
+   ]
+  ],
+  "opcoes": [
+   "Higuaín",
+   "Van Persie",
+   "Ibrahimović"
+  ],
+  "certa": 2,
+  "fala_q": "Olha o tamanho dessa carreira! Quem rodou tanto assim? Higuaín, Van Persie ou Ibrahimović?",
+  "fala_r": "Ibrahimović! Jogou em nove clubes grandes!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Zidane",
+  "foto": "ldez-zidane.jpg",
+  "carreira": [
+   [
+    "cannes",
+    1989
+   ],
+   [
+    "bordeaux",
+    1992
+   ],
+   [
+    "juventus",
+    1996
+   ],
+   [
+    "real-madrid",
+    2001
+   ]
+  ],
+  "opcoes": [
+   "Figo",
+   "Zidane",
+   "Djorkaeff"
+  ],
+  "certa": 1,
+  "fala_q": "Um francês que virou lenda. Quem é? Figo, Zidane ou Djorkaeff?",
+  "fala_r": "Zidane! Craque da Juventus e do Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Maradona",
+  "foto": "ldez-maradona.jpg",
+  "carreira": [
+   [
+    "argentinos-juniors",
+    1976
+   ],
+   [
+    "boca-juniors",
+    1981
+   ],
+   [
+    "barcelona",
+    1982
+   ],
+   [
+    "napoli",
+    1984
+   ],
+   [
+    "sevilla",
+    1992
+   ],
+   [
+    "newells-old-boys",
+    1993
+   ],
+   [
+    "boca-juniors",
+    1995
+   ]
+  ],
+  "opcoes": [
+   "Batistuta",
+   "Riquelme",
+   "Maradona"
+  ],
+  "certa": 2,
+  "fala_q": "Esse aqui é ídolo em Nápoles até hoje! Batistuta, Riquelme ou Maradona?",
+  "fala_r": "Maradona! O deus do Napoli!",
+  "count": 7.0,
+  "sabia": "O estádio do Napoli hoje se chama Diego Armando Maradona."
+ },
+ {
+  "n": 10,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Donnarumma",
+  "foto": "gol-donnarumma.jpg",
+  "carreira": [
+   [
+    "milan",
+    2015
+   ],
+   [
+    "psg",
+    2021
+   ],
+   [
+    "manchester-city",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "Donnarumma",
+   "Buffon",
+   "Courtois"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um goleiro! De quem é essa carreira? Donnarumma, Buffon ou Courtois?",
+  "fala_r": "Donnarumma! Estreou no Milan com dezesseis anos!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Alexander-Arnold",
+  "foto": "ld-alexander-arnold.jpg",
+  "carreira": [
+   [
+    "liverpool",
+    2016
+   ],
+   [
+    "real-madrid",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "Robertson",
+   "Joe Gomez",
+   "Alexander-Arnold"
+  ],
+  "certa": 2,
+  "fala_q": "Cria da casa que trocou a Inglaterra pela Espanha. Quem é? Robertson, Joe Gomez ou Alexander-Arnold?",
+  "fala_r": "Alexander-Arnold! Saiu do Liverpool direto pro Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Lampard",
+  "foto": "lmei-lampard.jpg",
+  "carreira": [
+   [
+    "west-ham",
+    1995
+   ],
+   [
+    "chelsea",
+    2001
+   ],
+   [
+    "manchester-city",
+    2014
+   ],
+   [
+    "new-york-city",
+    2015
+   ]
+  ],
+  "opcoes": [
+   "Lampard",
+   "Gerrard",
+   "Terry"
+  ],
+  "certa": 0,
+  "fala_q": "Um ídolo do Chelsea! Quem é? Lampard, Gerrard ou Terry?",
+  "fala_r": "Lampard! O maior artilheiro da história do Chelsea!",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Henry",
+  "foto": "lca-henry.jpg",
+  "carreira": [
+   [
+    "monaco",
+    1994
+   ],
+   [
+    "juventus",
+    1999
+   ],
+   [
+    "arsenal",
+    1999
+   ],
+   [
+    "barcelona",
+    2007
+   ],
+   [
+    "new-york-red-bulls",
+    2010
+   ]
+  ],
+  "opcoes": [
+   "Trezeguet",
+   "Anelka",
+   "Henry"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado, que essa tem pegadinha! Dois clubes no mesmo ano! Trezeguet, Anelka ou Henry?",
+  "fala_r": "Thierry Henry! Ficou só meses na Juventus e virou lenda no Arsenal!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 14,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Declan Rice",
+  "foto": "vol-declan-rice.jpg",
+  "carreira": [
+   [
+    "west-ham",
+    2015
+   ],
+   [
+    "arsenal",
+    2023
+   ]
+  ],
+  "opcoes": [
+   "Jarrod Bowen",
+   "Declan Rice",
+   "Mason Mount"
+  ],
+  "certa": 1,
+  "fala_q": "Só dois clubes, mas um caminhão de dinheiro na troca. Quem é? Jarrod Bowen, Declan Rice ou Mason Mount?",
+  "fala_r": "Declan Rice! Saiu do West Ham pro Arsenal!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Alisson",
+  "foto": "gol-alisson.jpg",
+  "carreira": [
+   [
+    "internacional",
+    2013
+   ],
+   [
+    "roma",
+    2016
+   ],
+   [
+    "liverpool",
+    2018
+   ]
+  ],
+  "opcoes": [
+   "Alisson",
+   "Ederson",
+   "Weverton"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um goleiro brasileiro! Alisson, Ederson ou Weverton?",
+  "fala_r": "Alisson! Do Internacional pra Roma e depois pro Liverpool!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Rüdiger",
+  "foto": "zag1-rudiger.jpg",
+  "carreira": [
+   [
+    "stuttgart",
+    2012
+   ],
+   [
+    "roma",
+    2015
+   ],
+   [
+    "chelsea",
+    2017
+   ],
+   [
+    "real-madrid",
+    2022
+   ]
+  ],
+  "opcoes": [
+   "Hummels",
+   "Rüdiger",
+   "Boateng"
+  ],
+  "certa": 1,
+  "fala_q": "Um zagueiro alemão. Quem é? Hummels, Rüdiger ou Boateng?",
+  "fala_r": "Rüdiger! Hoje no Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Koundé",
+  "foto": "ld-kounde.jpg",
+  "carreira": [
+   [
+    "bordeaux",
+    2017
+   ],
+   [
+    "sevilla",
+    2019
+   ],
+   [
+    "barcelona",
+    2022
+   ]
+  ],
+  "opcoes": [
+   "Varane",
+   "Upamecano",
+   "Koundé"
+  ],
+  "certa": 2,
+  "fala_q": "Essa aqui derruba muita gente. Varane, Upamecano ou Koundé?",
+  "fala_r": "Koundé! Do Bordeaux pro Sevilla e depois pro Barcelona!",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Pirlo",
+  "foto": "lmei-pirlo.jpg",
+  "carreira": [
+   [
+    "brescia",
+    1995
+   ],
+   [
+    "inter-de-milao",
+    1998
+   ],
+   [
+    "milan",
+    2001
+   ],
+   [
+    "juventus",
+    2011
+   ],
+   [
+    "new-york-city",
+    2015
+   ]
+  ],
+  "opcoes": [
+   "Gattuso",
+   "De Rossi",
+   "Pirlo"
+  ],
+  "certa": 2,
+  "fala_q": "Um maestro italiano. Quem é? Gattuso, De Rossi ou Pirlo?",
+  "fala_r": "Pirlo! Jogou na Inter, no Milan e na Juventus!",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Tchouaméni",
+  "foto": "vol-tchouameni.jpg",
+  "carreira": [
+   [
+    "bordeaux",
+    2018
+   ],
+   [
+    "monaco",
+    2020
+   ],
+   [
+    "real-madrid",
+    2022
+   ]
+  ],
+  "opcoes": [
+   "Camavinga",
+   "Kanté",
+   "Tchouaméni"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um volante francês! Camavinga, Kanté ou Tchouaméni?",
+  "fala_r": "Tchouaméni! Hoje no Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Theo Hernández",
+  "foto": "le-theo-hernandez.jpg",
+  "carreira": [
+   [
+    "atletico-de-madrid",
+    2015
+   ],
+   [
+    "real-madrid",
+    2017
+   ],
+   [
+    "real-sociedad",
+    2018
+   ],
+   [
+    "milan",
+    2019
+   ],
+   [
+    "al-hilal",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "Theo Hernández",
+   "Lucas Hernández",
+   "Ferland Mendy"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado: essa tem irmão no meio! Theo Hernández, Lucas Hernández ou Ferland Mendy?",
+  "fala_r": "Theo Hernández! O Lucas é o irmão dele, que foi pro Bayern!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Theo e Lucas Hernández são irmãos e começaram no Atlético de Madrid."
+ },
+ {
+  "n": 21,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Alphonso Davies",
+  "foto": "le-alphonso-davies.jpg",
+  "carreira": [
+   [
+    "vancouver-whitecaps",
+    2016
+   ],
+   [
+    "bayern-de-munique",
+    2019
+   ]
+  ],
+  "opcoes": [
+   "Jonathan David",
+   "Alphonso Davies",
+   "Achraf Hakimi"
+  ],
+  "certa": 1,
+  "fala_q": "Esse veio do Canadá. Quem é? Jonathan David, Alphonso Davies ou Achraf Hakimi?",
+  "fala_r": "Alphonso Davies! O foguete do Bayern!",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Gvardiol",
+  "foto": "zag2-gvardiol.jpg",
+  "carreira": [
+   [
+    "dinamo-de-zagreb",
+    2019
+   ],
+   [
+    "rb-leipzig",
+    2020
+   ],
+   [
+    "manchester-city",
+    2023
+   ]
+  ],
+  "opcoes": [
+   "Dani Olmo",
+   "Kramarić",
+   "Gvardiol"
+  ],
+  "certa": 2,
+  "fala_q": "Um croata! Mas qual deles? Dani Olmo, Kramarić ou Gvardiol?",
+  "fala_r": "Gvardiol! O Dani Olmo também passou por Zagreb e Leipzig, mas foi pro Barcelona!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Luis Díaz",
+  "foto": "pe-luis-diaz.jpg",
+  "carreira": [
+   [
+    "junior",
+    2017
+   ],
+   [
+    "porto",
+    2019
+   ],
+   [
+    "liverpool",
+    2022
+   ],
+   [
+    "bayern-de-munique",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "James Rodríguez",
+   "Cuadrado",
+   "Luis Díaz"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra Colômbia! James Rodríguez, Cuadrado ou Luis Díaz?",
+  "fala_r": "Luis Díaz! Do Porto pro Liverpool e depois pro Bayern!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "João Pedro",
+  "foto": "joia-joao-pedro.jpg",
+  "carreira": [
+   [
+    "fluminense",
+    2019
+   ],
+   [
+    "watford",
+    2020
+   ],
+   [
+    "brighton",
+    2023
+   ],
+   [
+    "chelsea",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "Matheus Cunha",
+   "João Pedro",
+   "Evanilson"
+  ],
+  "certa": 1,
+  "fala_q": "Um brasileiro que foi cedo pra Inglaterra. Matheus Cunha, João Pedro ou Evanilson?",
+  "fala_r": "João Pedro! Saiu do Fluminense pro Watford!",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Ferland Mendy",
+  "foto": "le-ferland-mendy.jpg",
+  "carreira": [
+   [
+    "le-havre",
+    2015
+   ],
+   [
+    "lyon",
+    2017
+   ],
+   [
+    "real-madrid",
+    2019
+   ]
+  ],
+  "opcoes": [
+   "Benjamin Mendy",
+   "Ferland Mendy",
+   "Lucas Digne"
+  ],
+  "certa": 1,
+  "fala_q": "Pegadinha de sobrenome! Qual Mendy é esse? Benjamin Mendy, Ferland Mendy ou Lucas Digne?",
+  "fala_r": "Ferland Mendy! O Benjamin Mendy foi do Monaco pro City!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 26,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Beckenbauer",
+  "foto": "lzag-beckenbauer.jpg",
+  "carreira": [
+   [
+    "bayern-de-munique",
+    1964
+   ],
+   [
+    "new-york-cosmos",
+    1977
+   ],
+   [
+    "hamburgo",
+    1980
+   ],
+   [
+    "new-york-cosmos",
+    1983
+   ]
+  ],
+  "opcoes": [
+   "Beckenbauer",
+   "Gerd Müller",
+   "Matthäus"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma lenda alemã das antigas! Beckenbauer, Gerd Müller ou Matthäus?",
+  "fala_r": "Beckenbauer! O Kaiser! E jogou no Cosmos junto com o Pelé!",
+  "count": 7.0,
+  "sabia": "No New York Cosmos, o Beckenbauer jogou ao lado do Pelé."
+ },
+ {
+  "n": 27,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Petr Čech",
+  "foto": "lgol-petr-cech.jpg",
+  "carreira": [
+   [
+    "sparta-praga",
+    2001
+   ],
+   [
+    "rennes",
+    2002
+   ],
+   [
+    "chelsea",
+    2004
+   ],
+   [
+    "arsenal",
+    2015
+   ]
+  ],
+  "opcoes": [
+   "Lloris",
+   "Van der Sar",
+   "Petr Čech"
+  ],
+  "certa": 2,
+  "fala_q": "Um goleiro famoso pelo capacete! Lloris, Van der Sar ou Petr Čech?",
+  "fala_r": "Petr Čech! Usava capacete depois de uma pancada na cabeça!",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Kyle Walker",
+  "foto": "ld-kyle-walker.jpg",
+  "carreira": [
+   [
+    "sheffield-united",
+    2008
+   ],
+   [
+    "tottenham",
+    2009
+   ],
+   [
+    "queens-park-rangers",
+    2010
+   ],
+   [
+    "aston-villa",
+    2011
+   ],
+   [
+    "manchester-city",
+    2017
+   ],
+   [
+    "milan",
+    2025
+   ],
+   [
+    "burnley",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "Kyle Walker",
+   "Trippier",
+   "Reece James"
+  ],
+  "certa": 0,
+  "fala_q": "Lateral inglês que rodou bastante. Quem é? Kyle Walker, Trippier ou Reece James?",
+  "fala_r": "Kyle Walker! Campeão de tudo pelo City!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Lisandro Martínez",
+  "foto": "zag2-lisandro-martinez.jpg",
+  "carreira": [
+   [
+    "newells-old-boys",
+    2017
+   ],
+   [
+    "defensa-y-justicia",
+    2017
+   ],
+   [
+    "ajax",
+    2019
+   ],
+   [
+    "manchester-united",
+    2022
+   ]
+  ],
+  "opcoes": [
+   "Otamendi",
+   "Lisandro Martínez",
+   "Cuti Romero"
+  ],
+  "certa": 1,
+  "fala_q": "Um zagueiro argentino! Otamendi, Lisandro Martínez ou Cuti Romero?",
+  "fala_r": "Lisandro Martínez! Brilhou no Ajax antes do United!",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Saliba",
+  "foto": "zag1-saliba.jpg",
+  "carreira": [
+   [
+    "saint-etienne",
+    2018
+   ],
+   [
+    "arsenal",
+    2019
+   ],
+   [
+    "saint-etienne",
+    2019
+   ],
+   [
+    "nice",
+    2021
+   ],
+   [
+    "olympique-de-marselha",
+    2021
+   ],
+   [
+    "arsenal",
+    2022
+   ]
+  ],
+  "opcoes": [
+   "Upamecano",
+   "Saliba",
+   "Konaté"
+  ],
+  "certa": 1,
+  "fala_q": "Esse foi emprestado três vezes antes de vingar! Upamecano, Saliba ou Konaté?",
+  "fala_r": "Saliba! Hoje é paredão no Arsenal!",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Zanetti",
+  "foto": "llat-zanetti.jpg",
+  "carreira": [
+   [
+    "talleres",
+    1992
+   ],
+   [
+    "banfield",
+    1993
+   ],
+   [
+    "inter-de-milao",
+    1995
+   ]
+  ],
+  "opcoes": [
+   "Zanetti",
+   "Cambiasso",
+   "Samuel"
+  ],
+  "certa": 0,
+  "fala_q": "Esse ficou quase vinte anos no mesmo clube! Zanetti, Cambiasso ou Samuel?",
+  "fala_r": "Zanetti! Dezenove anos de Inter de Milão!",
+  "count": 7.0,
+  "fala_d": "Dica: ele foi o capitão da Inter por muitos anos.",
+  "dica_txt": "CAPITÃO DA INTER!"
+ },
+ {
+  "n": 32,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Gabriel Magalhães",
+  "foto": "zag2-gabriel-magalhaes.jpg",
+  "carreira": [
+   [
+    "avai",
+    2016
+   ],
+   [
+    "lille",
+    2017
+   ],
+   [
+    "troyes",
+    2017
+   ],
+   [
+    "dinamo-de-zagreb",
+    2018
+   ],
+   [
+    "arsenal",
+    2020
+   ]
+  ],
+  "opcoes": [
+   "Gabriel Magalhães",
+   "Marquinhos",
+   "Léo Ortiz"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um zagueiro brasileiro que começou em Santa Catarina! Gabriel Magalhães, Marquinhos ou Léo Ortiz?",
+  "fala_r": "Gabriel Magalhães! Do Avaí pro Arsenal!",
+  "count": 7.0
+ },
+ {
+  "n": 33,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Vitor Roque",
+  "foto": "joia-vitor-roque.jpg",
+  "carreira": [
+   [
+    "cruzeiro",
+    2021
+   ],
+   [
+    "athletico-paranaense",
+    2022
+   ],
+   [
+    "barcelona",
+    2023
+   ],
+   [
+    "betis",
+    2024
+   ],
+   [
+    "palmeiras",
+    2025
+   ]
+  ],
+  "opcoes": [
+   "Endrick",
+   "Vitor Roque",
+   "Savinho"
+  ],
+  "certa": 1,
+  "fala_q": "Essa é recente! Quem fez esse vai e volta? Endrick, Vitor Roque ou Savinho?",
+  "fala_r": "Vitor Roque! Foi pro Barcelona e voltou pro Brasil!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 34,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Lúcio",
+  "foto": "lzag-lucio.jpg",
+  "carreira": [
+   [
+    "internacional",
+    1997
+   ],
+   [
+    "bayer-leverkusen",
+    2001
+   ],
+   [
+    "bayern-de-munique",
+    2004
+   ],
+   [
+    "inter-de-milao",
+    2009
+   ],
+   [
+    "juventus",
+    2012
+   ],
+   [
+    "sao-paulo",
+    2013
+   ],
+   [
+    "palmeiras",
+    2014
+   ],
+   [
+    "goa",
+    2015
+   ]
+  ],
+  "opcoes": [
+   "Juan",
+   "Lúcio",
+   "Edmílson"
+  ],
+  "certa": 1,
+  "fala_q": "Um zagueiro pentacampeão! Juan, Lúcio ou Edmílson?",
+  "fala_r": "Lúcio! Campeão da Champions com a Inter!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Cannavaro",
+  "foto": "lzag-cannavaro.jpg",
+  "carreira": [
+   [
+    "napoli",
+    1991
+   ],
+   [
+    "parma",
+    1995
+   ],
+   [
+    "inter-de-milao",
+    2002
+   ],
+   [
+    "juventus",
+    2004
+   ],
+   [
+    "real-madrid",
+    2006
+   ],
+   [
+    "juventus",
+    2009
+   ],
+   [
+    "al-ahli-dubai",
+    2010
+   ]
+  ],
+  "opcoes": [
+   "Cannavaro",
+   "Nesta",
+   "Materazzi"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um zagueiro que foi eleito o melhor do mundo! Cannavaro, Nesta ou Materazzi?",
+  "fala_r": "Cannavaro! Melhor do mundo em 2006!",
+  "count": 7.0,
+  "fala_d": "Dica: ele foi capitão da Itália campeã em 2006.",
+  "dica_txt": "CAPITÃO DA ITÁLIA EM 2006!"
+ },
+ {
+  "n": 36,
+  "pergunta": "DE QUEM É ESSA CARREIRA?",
+  "jogador": "Taffarel",
+  "foto": "lgol-taffarel.jpg",
+  "carreira": [
+   [
+    "internacional",
+    1985
+   ],
+   [
+    "parma",
+    1990
+   ],
+   [
+    "reggiana",
+    1993
+   ],
+   [
+    "atletico-mineiro",
+    1995
+   ],
+   [
+    "galatasaray",
+    1998
+   ],
+   [
+    "parma",
+    2001
+   ]
+  ],
+  "opcoes": [
+   "Taffarel",
+   "Dida",
+   "Júlio César"
+  ],
+  "certa": 0,
+  "fala_q": "Valendo o título de craque da bola: um goleiro tetracampeão! Taffarel, Dida ou Júlio César?",
+  "fala_r": "Taffarel! O goleiro do tetra! Se acertou essa, você é fera!",
+  "count": 7.0,
+  "final": true,
+  "fala_s": "Valendo o título de craque... a resposta é..."
+ }
+]
