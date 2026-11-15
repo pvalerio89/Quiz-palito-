@@ -782,6 +782,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/clube-pais-1": {
+      "titulo": "QUEM JOGOU AQUI? ⚽ Seu amigo não acerta essa! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "-QGDe5CO_No",
+        "url": "https://youtu.be/-QGDe5CO_No",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "77a61927bb56e28df3477e0621f2f534676513e5c4f9876106e463db6933039c",
+        "no_ar_em": "2026-11-16T15:09:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
