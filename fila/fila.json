@@ -370,6 +370,20 @@
       "tema": "ADIVINHE A MÚSICA DO TIKTOK COM EMOJIS #13 (MacaQuiz)",
       "status": "parecido",
       "obs": "Igual ao item 2026-11-10-musica-tiktok-emojis (já 'parecido'): Patrick não gostou de 'música pelo emoji' sem trecho, e trecho de música com direitos não dá. Esperando o Patrick decidir."
+    },
+    {
+      "id": "2026-11-15-jogador-pela-carreira",
+      "referencia": "https://youtu.be/CmywDLEvERM",
+      "tema": "Só 1% acerta TODOS OS JOGADORES - quem é? pela carreira (BigFut)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Formato (visto pela miniatura): aparece a SEQUÊNCIA DE CLUBES do jogador (escudos em fila com o ano: ex. Benfica 2023 » Real Madrid 2009 » Man United 2014 » PSG 2019) e a silhueta escura do jogador; 'QUEM É?'. Na resposta, a foto real aparece. Escudos e fotos reais da Wikimedia (automacao/fotos_wiki.py; escudos do vídeo 16 dá para reaproveitar). Fácil→difícil, 30–40 jogadores, ~20 s cada com a pergunta falada. Evitar repetir muitos jogadores dos vídeos 02 e 21. Novo formato (carreira), não é igual a nenhum vídeo feito."
+    },
+    {
+      "id": "2026-11-15-jogadores-a-z-parte-2",
+      "referencia": "https://youtu.be/T2r5EybNMjo",
+      "tema": "Duvido você acertar jogadores de A a Z! PARTE 2 (NaTraveQuiz)",
+      "status": "parecido",
+      "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Esperando o Patrick decidir se quer uma parte 2 com outros jogadores."
     }
   ]
 }
