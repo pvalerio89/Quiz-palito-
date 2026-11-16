@@ -861,6 +861,19 @@
         "data": "2026-11-16",
         "origem": "github-actions"
       }
+    },
+    "videos/34-quiz-portugues-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "SjNnNrhzQHM",
+        "url": "https://youtu.be/SjNnNrhzQHM",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "4279395b553f7ba1f2dbf2a76625c4b5a1f9398e207352c3deda4682f2d16940"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
