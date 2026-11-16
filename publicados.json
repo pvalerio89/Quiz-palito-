@@ -941,6 +941,20 @@
         "data": "2026-11-16",
         "origem": "github-actions"
       }
+    },
+    "videos/30-eu-nunca-escola": {
+      "youtube": {
+        "status": "publicado",
+        "id": "tCy6IZaQGG0",
+        "url": "https://youtu.be/tCy6IZaQGG0",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "ee58098a00eaa18f2c6d01a1740bfe66e7e67a288b197f19e3b5410e07b1a28b",
+        "no_ar_em": "2026-11-17T20:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
