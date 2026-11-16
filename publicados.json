@@ -891,6 +891,20 @@
         "data": "2026-11-16",
         "origem": "github-actions"
       }
+    },
+    "videos/29-quiz-espanhol": {
+      "youtube": {
+        "status": "publicado",
+        "id": "7JmybQ2r0bE",
+        "url": "https://youtu.be/7JmybQ2r0bE",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "88cfc7552e262e2e7b5bed8a1a3a2141ecdab710d29568fe30fc66e68f81f909",
+        "no_ar_em": "2026-11-16T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
