@@ -388,11 +388,16 @@
       "id": "2026-11-15-quiz-portugues-3ano-parte-2",
       "referencia": "",
       "tema": "Quiz de português do 3º ano PARTE 2 (mesma matéria do caderno)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Patrick pediu 'faz parte 2' (2026-11-15) depois do vídeo 33. 30 perguntas novas, sem repetir o vídeo 33 nem o Short portugues-2 (mesma matéria: substantivo, adjetivo, verbos, pronomes, isto/isso/aquilo, sílabas, sílaba tônica, S/SS, M/N, til, O/U e E/I, sílaba que falta). ~10,6 min. Short portugues-3. Publicado JÁ (Publicar do dia agora=true pela branch).",
       "video": "videos/34-quiz-portugues-2",
       "short": "shorts/portugues-3",
-      "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO PARTE 2 ✏️ 30 Perguntas Novas do Fácil ao Impossível! | Quiz Palito"
+      "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO PARTE 2 ✏️ 30 Perguntas Novas do Fácil ao Impossível! | Quiz Palito",
+      "publicado_em": "2026-11-16",
+      "links": {
+        "video": "https://youtu.be/SjNnNrhzQHM",
+        "short": "https://youtu.be/v8-23OoLFjI"
+      }
     },
     {
       "id": "2026-11-14-quiz-espanhol",
