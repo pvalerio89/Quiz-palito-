@@ -844,6 +844,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/portugues-4": {
+      "titulo": "PROVA DE PORTUGUÊS DO 3º ANO! ✏️ Quantas você acerta? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "XANyHGQugNY",
+        "url": "https://youtu.be/XANyHGQugNY",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "bef5df98ee6bd019381fb6df16fbd06c2c54bafe56b337da8f93555ce89e395b"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
