@@ -830,6 +830,20 @@
         "data": "2026-11-15",
         "origem": "github-actions"
       }
+    },
+    "videos/35-quiz-portugues-3": {
+      "titulo": "PROVA DE PORTUGUÊS DO 3º ANO ✏️ 30 Questões do Fácil ao Impossível! Você Tiraria 10? | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "D5ml1lS-29k",
+        "url": "https://youtu.be/D5ml1lS-29k",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "9b1ec6bf07836bd050126f57e51599b610d20937d0b1d04549938147f469f252"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
