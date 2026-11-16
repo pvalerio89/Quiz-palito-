@@ -905,6 +905,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/espanhol-1": {
+      "titulo": "QUIZ DE ESPANHOL RAPIDINHO! 🇪🇸 Teste rápido: você passa? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "CHBirk8FIH4",
+        "url": "https://youtu.be/CHBirk8FIH4",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "6db760303f80f82e7bff05d876218f8797d06cc51391f1955e2a975c93ad003c",
+        "no_ar_em": "2026-11-16T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
