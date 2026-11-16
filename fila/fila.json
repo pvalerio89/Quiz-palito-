@@ -420,11 +420,17 @@
       "id": "2026-11-14-raciocinio-short",
       "referencia": "https://youtube.com/shorts/Xonsn3QJwFk",
       "tema": "TESTE SEU RACIOCÍNIO - matemática/raciocínio lógico (Short, Prof Maura)",
-      "status": "pronto",
+      "status": "publicado",
       "so_short": true,
       "obs": "SÓ SHORT (pedido do Patrick), sem vídeo longo: item só com 'short' (shorts/raciocinio-1). 5-6 desafios de raciocínio (sequências, contas com figuras), 45-60 s.",
       "short": "shorts/raciocinio-1",
-      "titulo": "TESTE SEU RACIOCÍNIO 🧠 A última é muito difícil! #shorts"
+      "titulo": "TESTE SEU RACIOCÍNIO 🧠 A última é muito difícil! #shorts",
+      "publicado_em": "2026-11-16",
+      "no_ar_em": "2026-11-17T15:09:00Z",
+      "no_ar_brasilia": "17/11 12h09",
+      "links": {
+        "short": "https://youtu.be/Tq2y8ao4Bq4"
+      }
     },
     {
       "id": "2026-11-14-eu-nunca-escola",
