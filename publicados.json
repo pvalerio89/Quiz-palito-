@@ -923,6 +923,21 @@
         "data": "2026-11-16",
         "origem": "github-actions"
       }
+    },
+    "shorts/raciocinio-1": {
+      "titulo": "TESTE SEU RACIOCÍNIO 🧠 A última é muito difícil! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "Tq2y8ao4Bq4",
+        "url": "https://youtu.be/Tq2y8ao4Bq4",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "b802c0c99525dcd0f954d40c648754f6173af05529f78f9d10d9e52c020c5269",
+        "no_ar_em": "2026-11-17T15:09:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
