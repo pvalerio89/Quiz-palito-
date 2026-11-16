@@ -800,6 +800,97 @@
         "data": "2026-11-15",
         "origem": "github-actions"
       }
+    },
+    "videos/33-quiz-portugues": {
+      "youtube": {
+        "status": "publicado",
+        "id": "BfhCt2SxGyE",
+        "url": "https://youtu.be/BfhCt2SxGyE",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "d084b6839efe68fa5361ea9eb124a4da6850e07fbf362f7633efe0573f734579"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/portugues-2": {
+      "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO! ✏️ Será que você gabarita? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "1HPCgpRWACA",
+        "url": "https://youtu.be/1HPCgpRWACA",
+        "data": "2026-11-15",
+        "origem": "github-actions",
+        "sha256": "3fa44b1c5c00beb52971b7a02e57140ea64ec15659e86d5746286635c41eb84c"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7708494614986262549",
+        "data": "2026-11-15",
+        "origem": "github-actions"
+      }
+    },
+    "videos/35-quiz-portugues-3": {
+      "titulo": "PROVA DE PORTUGUÊS DO 3º ANO ✏️ 30 Questões do Fácil ao Impossível! Você Tiraria 10? | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "D5ml1lS-29k",
+        "url": "https://youtu.be/D5ml1lS-29k",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "9b1ec6bf07836bd050126f57e51599b610d20937d0b1d04549938147f469f252"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/portugues-4": {
+      "titulo": "PROVA DE PORTUGUÊS DO 3º ANO! ✏️ Quantas você acerta? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "XANyHGQugNY",
+        "url": "https://youtu.be/XANyHGQugNY",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "bef5df98ee6bd019381fb6df16fbd06c2c54bafe56b337da8f93555ce89e395b"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7708865633663977478",
+        "data": "2026-11-16",
+        "origem": "github-actions"
+      }
+    },
+    "videos/34-quiz-portugues-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "SjNnNrhzQHM",
+        "url": "https://youtu.be/SjNnNrhzQHM",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "4279395b553f7ba1f2dbf2a76625c4b5a1f9398e207352c3deda4682f2d16940"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/portugues-3": {
+      "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO, PARTE 2! ✏️ Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "v8-23OoLFjI",
+        "url": "https://youtu.be/v8-23OoLFjI",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "b55be03b24a33375ce3e5edf53d4be5a7790e6821c8a9e137a6fab53eaf84290"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7708873344996657172",
+        "data": "2026-11-16",
+        "origem": "github-actions"
+      }
     }
   }
 }
