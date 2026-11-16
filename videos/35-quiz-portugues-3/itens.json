@@ -1,0 +1,588 @@
+[
+ {
+  "n": 1,
+  "nivel": 1,
+  "pergunta": "COMUM OU PRÓPRIO?",
+  "cartao": [
+   "Curitiba"
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Próprio",
+   "Comum",
+   "Verbo"
+  ],
+  "certa": 0,
+  "fala_q": "Primeira questão da prova: Curitiba é substantivo comum ou próprio? Ou é verbo?",
+  "fala_r": "Próprio! É o nome de uma cidade, por isso tem letra maiúscula.",
+  "count": 5.0
+ },
+ {
+  "n": 2,
+  "nivel": 1,
+  "pergunta": "QUANDO FOI?",
+  "cartao": [
+   "No sábado, Clara",
+   "achou uma caixa",
+   "de fotos."
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "No sábado",
+   "No domingo",
+   "Na segunda"
+  ],
+  "certa": 0,
+  "fala_q": "Leia: no sábado, Clara achou uma caixa de fotos. Quando ela achou as fotos? No sábado, No domingo ou Na segunda?",
+  "fala_r": "No sábado! Tá escrito logo no começo da frase.",
+  "count": 6.0
+ },
+ {
+  "n": 3,
+  "nivel": 1,
+  "pergunta": "QUAL PRONOME ENTRA?",
+  "cartao": [
+   "Eu e minha avó:",
+   "___ fizemos",
+   "a pesquisa."
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Eles",
+   "Nós",
+   "Ela"
+  ],
+  "certa": 1,
+  "fala_q": "Eu e minha avó fizemos a pesquisa. Qual pronome entra no lugar de eu e minha avó? Eles, Nós ou Ela?",
+  "fala_r": "Nós! Eu mais alguém vira nós.",
+  "count": 8.0
+ },
+ {
+  "n": 4,
+  "nivel": 1,
+  "pergunta": "QUE TIPO DE VERBO?",
+  "cartao": [
+   "Pedro CUIDA",
+   "dos animais."
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Estado",
+   "Fenômeno",
+   "Ação"
+  ],
+  "certa": 2,
+  "fala_q": "Pedro cuida dos animais. Cuidar é verbo de ação, de estado ou de fenômeno da natureza?",
+  "fala_r": "Ação! Cuidar é fazer alguma coisa.",
+  "count": 8.0
+ },
+ {
+  "n": 5,
+  "nivel": 1,
+  "pergunta": "COMPLETE A PALAVRA:",
+  "cartao": [
+   "O _ O",
+   "(o cachorro adora)"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "SS",
+   "S",
+   "Ç"
+  ],
+  "certa": 0,
+  "fala_q": "O cachorro adora roer: o, o quê, o? Com um esse, com dois esses ou com cê-cedilha?",
+  "fala_r": "Com dois esses! Osso.",
+  "count": 8.0
+ },
+ {
+  "n": 6,
+  "nivel": 1,
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "CANETA"
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "3",
+   "2",
+   "4"
+  ],
+  "certa": 0,
+  "fala_q": "Quantas sílabas tem caneta? três, dois ou quatro?",
+  "fala_r": "Três! Ca, ne, ta.",
+  "count": 8.0,
+  "fala_d": "Dica: bate palma em cada pedacinho!",
+  "dica_txt": "BATE PALMA!"
+ },
+ {
+  "n": 7,
+  "nivel": 1,
+  "pergunta": "O QUE ROSA É DE PEDRO?",
+  "cartao": [
+   "Pedro é neto",
+   "de Rosa."
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "Tia",
+   "Avó",
+   "Irmã"
+  ],
+  "certa": 1,
+  "fala_q": "Pedro é neto de Rosa. Então, o que Rosa é de Pedro? Tia, Avó ou Irmã?",
+  "fala_r": "Avó! Se ele é neto, ela é a avó.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "nivel": 1,
+  "pergunta": "QUE ÁRVORE É ESSA?",
+  "cartao": [
+   "Sem terra nem",
+   "semente, só com",
+   "nomes da família"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "De Natal",
+   "Frutífera",
+   "Genealógica"
+  ],
+  "certa": 2,
+  "fala_q": "Uma árvore desenhada sem terra nem semente, só com os nomes da família. Que árvore é essa? De Natal, Frutífera ou Genealógica?",
+  "fala_r": "Genealógica! A árvore da família.",
+  "count": 8.0,
+  "sabia": "Na árvore genealógica, cada galho mostra os parentes: pais, avós, bisavós..."
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "QUE TIPO DE VERBO?",
+  "cartao": [
+   "O cachorro",
+   "PARECE cansado."
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Ação",
+   "Fenômeno",
+   "Estado"
+  ],
+  "certa": 2,
+  "fala_q": "Nível médio, valendo! O cachorro parece cansado. Parecer é verbo de ação, de estado ou de fenômeno da natureza?",
+  "fala_r": "Estado! Parecer não é fazer nada, mostra como o cachorro está.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "PIPOCA"
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "Paroxítona",
+   "Oxítona",
+   "Proparoxítona"
+  ],
+  "certa": 0,
+  "fala_q": "Pipoca é oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Paroxítona! Pi, po, ca: a forte é a penúltima.",
+  "count": 8.0,
+  "sabia": "Oxítona: a sílaba forte é a última. Paroxítona: a penúltima. Proparoxítona: a antepenúltima."
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "CORAÇÃO"
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Paroxítona",
+   "Proparoxítona",
+   "Oxítona"
+  ],
+  "certa": 2,
+  "fala_q": "E coração? Oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Oxítona! Co, ra, ção: a forte é a última.",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "G OU GU?",
+  "cartao": [
+   "FO _ ETE",
+   "(vai pro espaço)"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "G",
+   "GU",
+   "J"
+  ],
+  "certa": 1,
+  "fala_q": "Ele vai pro espaço: fo, o quê, ete? Com gê, com gê-u ou com jota?",
+  "fala_r": "Com gê-u! Foguete. Sem o u, ia ler fojete.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Antes de E e I, o GU deixa o G com som de gato: foguete, guerra."
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "ESTA, ESSA OU AQUELA?",
+  "cartao": [
+   "___ foto aí",
+   "com você é antiga."
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "Esta",
+   "Essa",
+   "Aquela"
+  ],
+  "certa": 1,
+  "fala_q": "A foto está aí, com você que está ouvindo. Qual palavra completa? Esta, Essa ou Aquela?",
+  "fala_r": "Essa! Perto de quem ouve é esse e essa.",
+  "count": 8.0
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "QUAL É O ADJETIVO?",
+  "cartao": [
+   "A árvore estava",
+   "colorida."
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "colorida",
+   "árvore",
+   "estava"
+  ],
+  "certa": 0,
+  "fala_q": "A árvore estava colorida. Qual palavra é o adjetivo? colorida, árvore ou estava?",
+  "fala_r": "Colorida! Conta como a árvore estava.",
+  "count": 8.0
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "S COM SOM DE Z?",
+  "cartao": [
+   "Em qual palavra",
+   "o S tem som de Z?"
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "Camisa",
+   "Sapo",
+   "Sino"
+  ],
+  "certa": 0,
+  "fala_q": "Em qual dessas palavras o esse tem som de zê? Camisa, Sapo ou Sino?",
+  "fala_r": "Camisa! O esse entre duas vogais tem som de zê.",
+  "count": 8.0
+ },
+ {
+  "n": 16,
+  "nivel": 2,
+  "pergunta": "QUANTOS VERBOS?",
+  "cartao": [
+   "Clara pesquisou",
+   "e desenhou."
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "1",
+   "3",
+   "2"
+  ],
+  "certa": 2,
+  "fala_q": "Clara pesquisou e desenhou. Quantos verbos tem nessa frase? um, três ou dois?",
+  "fala_r": "Dois! Pesquisou e desenhou.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "QUE TIPO DE PALAVRA É?",
+  "cartao": [
+   "RAIVA"
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "Adjetivo",
+   "Verbo",
+   "Substantivo"
+  ],
+  "certa": 2,
+  "fala_q": "Agora complica! Raiva é substantivo, adjetivo ou verbo?",
+  "fala_r": "Substantivo! Sentimento também é nome de coisa.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "COMO SE ESCREVE?",
+  "cartao": [
+   "Árvore que",
+   "dá manga"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "Manguera",
+   "Mangueira",
+   "Mangera"
+  ],
+  "certa": 1,
+  "fala_q": "A árvore que dá manga. Como se escreve? Manguera, Mangueira ou Mangera?",
+  "fala_r": "Mangueira! Com gê-u e com e-i: man, guei, ra.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "COMPLETE A PALAVRA:",
+  "cartao": [
+   "GIRA _ OL",
+   "(flor amarela)"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "S",
+   "SS",
+   "Ç"
+  ],
+  "certa": 1,
+  "fala_q": "A flor amarela que segue o sol: gira, o quê, ol? Com um esse, com dois esses ou com cê-cedilha?",
+  "fala_r": "Com dois esses! Girassol. Com um esse só, ia ler girasol, com som de zê.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "COMPLETE A FRASE:",
+  "cartao": [
+   "Os livros são de nós.",
+   "Eles são ___."
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "nossos",
+   "nossas",
+   "nosso"
+  ],
+  "certa": 0,
+  "fala_q": "Os livros são de nós. Eles são o quê? Nossos, nossas ou nosso?",
+  "fala_r": "Nossos! Livros, no plural e no masculino.",
+  "count": 8.0
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "QUE PRONOME É?",
+  "cartao": [
+   "AQUELA caixa",
+   "é antiga."
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Pessoal",
+   "Possessivo",
+   "Demonstrativo"
+  ],
+  "certa": 2,
+  "fala_q": "Aquela caixa é antiga. Aquela é pronome pessoal, possessivo ou demonstrativo?",
+  "fala_r": "Demonstrativo! Mostra onde a caixa está: lá longe.",
+  "count": 8.0,
+  "sabia": "Pessoal: eu, ele, nós. Possessivo: meu, seu, nosso. Demonstrativo: este, esse, aquele."
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "QUEM SÃO ELES?",
+  "cartao": [
+   "Clara e Pedro",
+   "conversaram.",
+   "ELES trocaram fotos."
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "Rosa e Miguel",
+   "Clara e Pedro",
+   "Os avós"
+  ],
+  "certa": 1,
+  "fala_q": "Clara e Pedro conversaram. Eles trocaram fotos. Quem são eles? Rosa e Miguel, Clara e Pedro ou Os avós?",
+  "fala_r": "Clara e Pedro! O pronome eles está no lugar dos dois.",
+  "count": 8.0
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "COMO SE SEPARA?",
+  "cartao": [
+   "ARMAZÉM"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "ar-ma-zém",
+   "a-rma-zém",
+   "arm-a-zém"
+  ],
+  "certa": 0,
+  "fala_q": "Como se separa a palavra armazém em sílabas?",
+  "fala_r": "Ar, ma, zém! O erre fica com o a.",
+  "count": 8.0,
+  "fala_d": "Dica: fala bem devagar!",
+  "dica_txt": "FALA DEVAGAR!"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "QUAL TEM SEMPRE ACENTO?",
+  "cartao": [
+   "Toda ___",
+   "tem acento."
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Paroxítona",
+   "Oxítona",
+   "Proparoxítona"
+  ],
+  "certa": 2,
+  "fala_q": "Complete: toda o quê tem acento? Proparoxítona, paroxítona ou oxítona?",
+  "fala_r": "Proparoxítona! Médico, lâmpada, árvore: toda proparoxítona tem acento.",
+  "count": 8.0
+ },
+ {
+  "n": 25,
+  "nivel": 4,
+  "pergunta": "COMO É A SÍLABA FORTE?",
+  "cartao": [
+   "VETERINÁRIO"
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "Proparoxítona",
+   "Paroxítona",
+   "Oxítona"
+  ],
+  "certa": 1,
+  "fala_q": "Agora a parte que reprova! Veterinário é oxítona, paroxítona ou proparoxítona?",
+  "fala_r": "Paroxítona! Ve, te, ri, ná, rio: rio é uma sílaba só, então ná é a penúltima.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "nivel": 4,
+  "pergunta": "QUAL PRONOME ENTRA?",
+  "cartao": [
+   "As ferramentas de",
+   "Marina e Lucas =",
+   "as ferramentas ___"
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "delas",
+   "dele",
+   "deles"
+  ],
+  "certa": 2,
+  "fala_q": "Pra não repetir Marina e Lucas: as ferramentas o quê? Deles, delas ou dele?",
+  "fala_r": "Deles! Menino e menina juntos fica deles.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 27,
+  "nivel": 4,
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "FOTOGRAFIA"
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "4",
+   "5",
+   "6"
+  ],
+  "certa": 1,
+  "fala_q": "Quantas sílabas tem fotografia? quatro, cinco ou seis?",
+  "fala_r": "Cinco! Fo, to, gra, fi, a.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 28,
+  "nivel": 4,
+  "pergunta": "COMO SE ESCREVE?",
+  "cartao": [
+   "Instrumento",
+   "de cordas"
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "Guitarra",
+   "Gitarra",
+   "Guitara"
+  ],
+  "certa": 0,
+  "fala_q": "Aquele instrumento de cordas do rock. Como se escreve? Guitarra, Gitarra ou Guitara?",
+  "fala_r": "Guitarra! Com gê-u e dois erres.",
+  "count": 8.0
+ },
+ {
+  "n": 29,
+  "nivel": 4,
+  "pergunta": "QUE TIPO DE VERBO?",
+  "cartao": [
+   "ANOITECER"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Estado",
+   "Fenômeno",
+   "Ação"
+  ],
+  "certa": 1,
+  "fala_q": "Anoitecer é verbo de ação, de estado ou de fenômeno da natureza?",
+  "fala_r": "Fenômeno da natureza! Ninguém faz a noite chegar.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 30,
+  "nivel": 4,
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "GENEALÓGICA"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "5",
+   "7",
+   "6"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo a nota da prova! Lembra da árvore da Clara? Quantas sílabas tem genealógica? cinco, sete ou seis?",
+  "fala_r": "Seis! Ge, ne, a, ló, gi, ca. Se acertou essa, tirou dez na prova!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Valendo o boletim... a resposta é..."
+ }
+]
