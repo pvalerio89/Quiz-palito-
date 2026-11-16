@@ -403,11 +403,18 @@
       "id": "2026-11-14-quiz-espanhol",
       "referencia": "https://youtu.be/GtwQMInw4-E",
       "tema": "Teste seus conhecimentos de ESPANHOL - quiz de espanhol (Detona Quiz)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Mesmo jeito do vídeo 20 (quiz de inglês): tradução de palavras/frases, fácil→difícil, 3 alternativas, nível escolar. Não é repetido (outra língua), mas não publicar colado no de inglês.",
       "video": "videos/29-quiz-espanhol",
       "short": "shorts/espanhol-1",
-      "titulo": "QUIZ DE ESPANHOL 🇪🇸 36 Perguntas do Fácil ao Impossível! Você Fala Espanhol? | Quiz Palito"
+      "titulo": "QUIZ DE ESPANHOL 🇪🇸 36 Perguntas do Fácil ao Impossível! Você Fala Espanhol? | Quiz Palito",
+      "publicado_em": "2026-11-16",
+      "no_ar_em": "2026-11-16T23:30:00Z",
+      "no_ar_brasilia": "16/11 20h30",
+      "links": {
+        "video": "https://youtu.be/7JmybQ2r0bE",
+        "short": "https://youtu.be/CHBirk8FIH4"
+      }
     },
     {
       "id": "2026-11-14-raciocinio-short",
