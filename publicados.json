@@ -874,6 +874,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/portugues-3": {
+      "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO, PARTE 2! ✏️ Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "v8-23OoLFjI",
+        "url": "https://youtu.be/v8-23OoLFjI",
+        "data": "2026-11-16",
+        "origem": "github-actions",
+        "sha256": "b55be03b24a33375ce3e5edf53d4be5a7790e6821c8a9e137a6fab53eaf84290"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
