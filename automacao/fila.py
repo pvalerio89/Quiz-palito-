@@ -115,12 +115,18 @@ def proximo():
     if not sem_agendar:
         liberar_adiantados(doc, reg)  # só na memória: cada rodada confere de novo no YouTube
     quando = "" if sem_agendar else horario_livre(doc)
-    if not quando and not sem_agendar:
+    # Item que falhou no meio (o longo já subiu agendado) usa o horário dele mesmo sem horário livre.
+    ja_tem = any(i.get("status") == "pronto" and i.get("agendar_em") and
+                 datetime.datetime.fromisoformat(i["agendar_em"].replace("Z", "+00:00")) >= agora() + MARGEM
+                 for i in doc["itens"])
+    if not quando and not sem_agendar and not ja_tem:
         print("Os horários das próximas 24 h já têm vídeo agendado. Nada a fazer agora.")
         saida(id="", video="", short="", video_feito="false", short_feito="false", agendar="")
         return
     for it in doc["itens"]:
         if it.get("status") != "pronto":
+            continue
+        if not quando and not sem_agendar and not it.get("agendar_em"):
             continue
         video, short = it.get("video") or "", it.get("short") or ""
         for p in (video, short):
