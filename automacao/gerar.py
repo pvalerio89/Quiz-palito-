@@ -79,6 +79,11 @@ def main():
 
     inicio = time.time()
     antes = {p: os.path.getmtime(p) for p in glob.glob(os.path.join(aqui, "*.mp4"))}
+    # voz vazia (Edge TTS às vezes falha e grava mp3 de 0 bytes): apaga para gerar de novo
+    for mp3 in glob.glob(os.path.join(aqui, "**", "*.mp3"), recursive=True):
+        if os.path.getsize(mp3) < 1024:
+            print("voz vazia, gerando de novo:", os.path.relpath(mp3, aqui), flush=True)
+            os.remove(mp3)
     if os.path.exists(os.path.join(aqui, "gerar_vozes.py")):
         rodar("gerar_vozes.py", cwd=aqui)  # sem --tudo: só cria as falas que faltam
     rodar(build, *(["--previa"] if previa else []), cwd=aqui)

@@ -73,7 +73,8 @@ def liberar_adiantados(doc, reg, ref=None):
 def horario_livre(doc, ref=None):
     """Próximo horário de HORARIOS (>= agora + MARGEM, dentro da JANELA) que nenhum item já ocupa."""
     ref = ref or agora()
-    ocupados = {i["no_ar_em"] for i in doc["itens"] if i.get("no_ar_em")}
+    # agendar_em = item que falhou no meio (o longo já subiu agendado nesse horário): também ocupa
+    ocupados = {i[k] for i in doc["itens"] for k in ("no_ar_em", "agendar_em") if i.get(k)}
     dia = ref.astimezone(BRASILIA).date()
     for d in range(3):
         for h, m in HORARIOS:

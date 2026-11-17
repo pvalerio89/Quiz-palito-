@@ -2,7 +2,8 @@
 
 Uso: py -3 automacao/reagendar.py <DE>=<PARA> [<DE>=<PARA> ...]
   DE e PARA em UTC, no formato AAAA-MM-DDTHH:MM:SSZ (ex.: 2026-11-13T21:00:00Z=2026-11-13T22:14:00Z).
-Para cada item de fila/fila.json com no_ar_em == DE, troca o publishAt do vídeo longo e do Short no YouTube
+DE também pode ser o id do item (ex.: 2026-11-15-jogador-pela-carreira=2026-11-17T23:30:00Z).
+Para cada item de fila/fila.json com no_ar_em (ou agendar_em, se falhou no meio) == DE, troca o publishAt do vídeo longo e do Short no YouTube
 e grava o novo horário em fila/fila.json e publicados.json. Vídeo que já está público é pulado.
 Precisa dos Secrets YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN.
 """
@@ -53,11 +54,12 @@ def main():
     doc, reg, tk = ler(), ler_registro(), token()
     achou = 0
     for it in doc["itens"]:
-        para = trocas.get(it.get("no_ar_em") or "")
+        campo = "agendar_em" if it.get("agendar_em") and not it.get("no_ar_em") else "no_ar_em"
+        para = trocas.get(it["id"]) or trocas.get(it.get(campo) or "")  # DE = horário ou id do item
         if not para:
             continue
         achou += 1
-        print(f"{it['id']}: {it['no_ar_em']} -> {para}")
+        print(f"{it['id']}: {it.get(campo)} -> {para}")
         for k in ("video", "short"):
             pasta = it.get(k)
             yt = status(reg, pasta, "youtube") if pasta else {}
@@ -65,7 +67,9 @@ def main():
                 continue
             if trocar_no_youtube(tk, yt["id"], para):
                 reg["videos"][pasta]["youtube"]["no_ar_em"] = para
-        it["no_ar_em"] = para
+        it[campo] = para
+        if campo == "agendar_em":  # item com 'erro': a nova tentativa do Short usa o mesmo horário
+            continue
         it["no_ar_brasilia"] = datetime.datetime.fromisoformat(para.replace("Z", "+00:00")) \
             .astimezone(BRASILIA).strftime("%d/%m %Hh%M")
     if not achou:
