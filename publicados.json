@@ -416,7 +416,11 @@
         "no_ar_em": "2026-11-11T21:00:00Z"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "privado_teste",
+        "id": "v_pub_file~v2-1.7709118247031064597",
+        "data": "2026-11-17",
+        "origem": "github-actions",
+        "sha256": "38bf0b256bd44ad79cf6c7c8a139add916a326536d8e5ecfa75e262d7ae2cc2f"
       }
     },
     "videos/17-futebol-mundial": {
