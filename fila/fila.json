@@ -436,12 +436,11 @@
       "id": "2026-11-14-eu-nunca-escola",
       "referencia": "https://youtu.be/4vdI8aCQAgs",
       "tema": "Você já fez isso na ESCOLA? Eu nunca / Eu já - escolha um botão (Quiz Flash)",
-      "status": "erro",
-      "obs": "Longo + Short. Mesmo formato do item eu-ja-eu-nunca, mas só coisas de escola. Patrick mandou os dois: produzir depois do outro e não publicar no mesmo dia. | FEITO (2026-11-15): referência não abre na nuvem; mesmo formato do vídeo 28 (build_escola.py), 50 frases próprias só de escola, % inventada, chamada de anotar; ~12:00. Short escola-1: 6 frases. Não publicar no mesmo dia do vídeo 28 (saiu 15/11).",
+      "status": "pronto",
+      "obs": "Longo + Short. Mesmo formato do item eu-ja-eu-nunca, mas só coisas de escola. Patrick mandou os dois: produzir depois do outro e não publicar no mesmo dia. | FEITO (2026-11-15): referência não abre na nuvem; mesmo formato do vídeo 28 (build_escola.py), 50 frases próprias só de escola, % inventada, chamada de anotar; ~12:00. Short escola-1: 6 frases. Não publicar no mesmo dia do vídeo 28 (saiu 15/11). | 2026-11-17: Short não gerou (voz q/a em mp3 vazio, falha do Edge TTS); vozes refeitas e gerar.py agora refaz mp3 vazio. Volta para pronto (só falta o Short).",
       "video": "videos/30-eu-nunca-escola",
       "short": "shorts/escola-1",
       "titulo": "VOCÊ JÁ FEZ ISSO NA ESCOLA? 🏫 EU JÁ ou EU NUNCA? 50 Frases e NÃO VALE MENTIR! | Quiz Palito",
-      "erro": "2026-11-16: gerar_video=success gerar_short=failure enviar_video=success enviar_short=skipped",
       "agendar_em": "2026-11-17T20:30:00Z",
       "links": {
         "video": "https://youtu.be/tCy6IZaQGG0"
@@ -458,13 +457,12 @@
       "id": "2026-11-15-jogador-pela-carreira",
       "referencia": "https://youtu.be/CmywDLEvERM",
       "tema": "Só 1% acerta TODOS OS JOGADORES - quem é? pela carreira (BigFut)",
-      "status": "erro",
-      "obs": "Longo + Short. Formato (visto pela miniatura): aparece a SEQUÊNCIA DE CLUBES do jogador (escudos em fila com o ano: ex. Benfica 2023 » Real Madrid 2009 » Man United 2014 » PSG 2019) e a silhueta escura do jogador; 'QUEM É?'. Na resposta, a foto real aparece. Escudos e fotos reais da Wikimedia (automacao/fotos_wiki.py; escudos do vídeo 16 dá para reaproveitar). Fácil→difícil, 30–40 jogadores, ~20 s cada com a pergunta falada. Evitar repetir muitos jogadores dos vídeos 02 e 21. Novo formato (carreira), não é igual a nenhum vídeo feito. | FEITO (2026-11-15): 36 jogadores (10 repetem nomes do vídeo 02, nenhum do 21); cartão com escudos em ordem + ano (carreiras da Wikipédia), 3 alternativas, na resposta entra a foto real (fotos do vídeo 19). Escudos novos pelo workflow Fotos Wikimedia. Short carreira-1: 6 jogadores.",
+      "status": "pronto",
+      "obs": "Longo + Short. Formato (visto pela miniatura): aparece a SEQUÊNCIA DE CLUBES do jogador (escudos em fila com o ano: ex. Benfica 2023 » Real Madrid 2009 » Man United 2014 » PSG 2019) e a silhueta escura do jogador; 'QUEM É?'. Na resposta, a foto real aparece. Escudos e fotos reais da Wikimedia (automacao/fotos_wiki.py; escudos do vídeo 16 dá para reaproveitar). Fácil→difícil, 30–40 jogadores, ~20 s cada com a pergunta falada. Evitar repetir muitos jogadores dos vídeos 02 e 21. Novo formato (carreira), não é igual a nenhum vídeo feito. | FEITO (2026-11-15): 36 jogadores (10 repetem nomes do vídeo 02, nenhum do 21); cartão com escudos em ordem + ano (carreiras da Wikipédia), 3 alternativas, na resposta entra a foto real (fotos do vídeo 19). Escudos novos pelo workflow Fotos Wikimedia. Short carreira-1: 6 jogadores. | 2026-11-17: Short não gerou (voz q/a em mp3 vazio, falha do Edge TTS); vozes refeitas e gerar.py agora refaz mp3 vazio. Volta para pronto (só falta o Short).",
       "video": "videos/31-jogador-pela-carreira",
       "short": "shorts/carreira-1",
       "titulo": "DE QUEM É ESSA CARREIRA? ⚽ Adivinhe 36 Jogadores pelos Clubes, do Fácil ao Impossível! | Quiz Palito",
-      "erro": "2026-11-17: gerar_video=success gerar_short=failure enviar_video=success enviar_short=skipped",
-      "agendar_em": "2026-11-17T20:30:00Z",
+      "agendar_em": "2026-11-17T23:30:00Z",
       "links": {
         "video": "https://youtu.be/TgzYRttPyBE"
       }
