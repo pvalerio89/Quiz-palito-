@@ -987,6 +987,21 @@
         "data": "2026-11-17",
         "origem": "github-actions"
       }
+    },
+    "shorts/carreira-1": {
+      "titulo": "DE QUEM É ESSA CARREIRA? ⚽ Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "qj88KDcYg8M",
+        "url": "https://youtu.be/qj88KDcYg8M",
+        "data": "2026-11-17",
+        "origem": "github-actions",
+        "sha256": "bb569b13b5aa48fe850338dc3301ecaa1aa7f9cf5c6c0adc214b9720142918cd",
+        "no_ar_em": "2026-11-17T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
