@@ -458,11 +458,16 @@
       "id": "2026-11-15-jogador-pela-carreira",
       "referencia": "https://youtu.be/CmywDLEvERM",
       "tema": "Só 1% acerta TODOS OS JOGADORES - quem é? pela carreira (BigFut)",
-      "status": "pronto",
+      "status": "erro",
       "obs": "Longo + Short. Formato (visto pela miniatura): aparece a SEQUÊNCIA DE CLUBES do jogador (escudos em fila com o ano: ex. Benfica 2023 » Real Madrid 2009 » Man United 2014 » PSG 2019) e a silhueta escura do jogador; 'QUEM É?'. Na resposta, a foto real aparece. Escudos e fotos reais da Wikimedia (automacao/fotos_wiki.py; escudos do vídeo 16 dá para reaproveitar). Fácil→difícil, 30–40 jogadores, ~20 s cada com a pergunta falada. Evitar repetir muitos jogadores dos vídeos 02 e 21. Novo formato (carreira), não é igual a nenhum vídeo feito. | FEITO (2026-11-15): 36 jogadores (10 repetem nomes do vídeo 02, nenhum do 21); cartão com escudos em ordem + ano (carreiras da Wikipédia), 3 alternativas, na resposta entra a foto real (fotos do vídeo 19). Escudos novos pelo workflow Fotos Wikimedia. Short carreira-1: 6 jogadores.",
       "video": "videos/31-jogador-pela-carreira",
       "short": "shorts/carreira-1",
-      "titulo": "DE QUEM É ESSA CARREIRA? ⚽ Adivinhe 36 Jogadores pelos Clubes, do Fácil ao Impossível! | Quiz Palito"
+      "titulo": "DE QUEM É ESSA CARREIRA? ⚽ Adivinhe 36 Jogadores pelos Clubes, do Fácil ao Impossível! | Quiz Palito",
+      "erro": "2026-11-17: gerar_video=success gerar_short=failure enviar_video=success enviar_short=skipped",
+      "agendar_em": "2026-11-17T20:30:00Z",
+      "links": {
+        "video": "https://youtu.be/TgzYRttPyBE"
+      }
     },
     {
       "id": "2026-11-15-jogadores-a-z-parte-2",
