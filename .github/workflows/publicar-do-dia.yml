@@ -111,7 +111,7 @@ jobs:
     uses: ./.github/workflows/enviar-tiktok.yml
     with:
       pasta: ${{ needs.escolher.outputs.short }}
-      modo: rascunho
+      modo: ${{ vars.TIKTOK_MODO || 'rascunho' }}  # vire 'direto' na variável TIKTOK_MODO quando o TikTok aprovar o app
     secrets: inherit
 
   fechar:
