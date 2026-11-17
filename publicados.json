@@ -969,6 +969,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/escola-1": {
+      "titulo": "VOCÊ JÁ FEZ ISSO NA ESCOLA? 🏫 Eu já ou eu nunca? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "o4ScKd6o8UI",
+        "url": "https://youtu.be/o4ScKd6o8UI",
+        "data": "2026-11-17",
+        "origem": "github-actions",
+        "sha256": "ad3c3bc5218f31e1789062d4905e458a501a8546bed4ac4829f50ed66108b47e",
+        "no_ar_em": "2026-11-17T20:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
