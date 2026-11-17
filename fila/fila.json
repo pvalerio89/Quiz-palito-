@@ -436,15 +436,18 @@
       "id": "2026-11-14-eu-nunca-escola",
       "referencia": "https://youtu.be/4vdI8aCQAgs",
       "tema": "Você já fez isso na ESCOLA? Eu nunca / Eu já - escolha um botão (Quiz Flash)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Mesmo formato do item eu-ja-eu-nunca, mas só coisas de escola. Patrick mandou os dois: produzir depois do outro e não publicar no mesmo dia. | FEITO (2026-11-15): referência não abre na nuvem; mesmo formato do vídeo 28 (build_escola.py), 50 frases próprias só de escola, % inventada, chamada de anotar; ~12:00. Short escola-1: 6 frases. Não publicar no mesmo dia do vídeo 28 (saiu 15/11). | 2026-11-17: Short não gerou (voz q/a em mp3 vazio, falha do Edge TTS); vozes refeitas e gerar.py agora refaz mp3 vazio. Volta para pronto (só falta o Short).",
       "video": "videos/30-eu-nunca-escola",
       "short": "shorts/escola-1",
       "titulo": "VOCÊ JÁ FEZ ISSO NA ESCOLA? 🏫 EU JÁ ou EU NUNCA? 50 Frases e NÃO VALE MENTIR! | Quiz Palito",
-      "agendar_em": "2026-11-17T20:30:00Z",
       "links": {
-        "video": "https://youtu.be/tCy6IZaQGG0"
-      }
+        "video": "https://youtu.be/tCy6IZaQGG0",
+        "short": "https://youtu.be/o4ScKd6o8UI"
+      },
+      "publicado_em": "2026-11-17",
+      "no_ar_em": "2026-11-17T20:30:00Z",
+      "no_ar_brasilia": "17/11 17h30"
     },
     {
       "id": "2026-11-14-musica-tiktok-emojis-13",
