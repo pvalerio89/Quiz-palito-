@@ -1,1 +1,1 @@
-escudos videos/31-jogador-pela-carreira/escudos.tsv videos/31-jogador-pela-carreira
+buscar videos/36-brasil-x-portugal/candidatas/lista.tsv videos/36-brasil-x-portugal/candidatas
