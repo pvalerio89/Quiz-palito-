@@ -1048,6 +1048,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/geografia-1": {
+      "titulo": "PROVA DE GEOGRAFIA DO 3º ANO! 🌎 Será que você gabarita? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "Ufos9ipgwys",
+        "url": "https://youtu.be/Ufos9ipgwys",
+        "data": "2026-11-18",
+        "origem": "github-actions",
+        "sha256": "5ae09ed7feb43798edeb7d96dfa00c6a228fc7e23af7651dc2cb1c4421481169"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
