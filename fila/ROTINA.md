@@ -4,7 +4,32 @@ Roda sozinha 3 vezes por dia (4h43, 9h43 e 18h43) (tarefa agendada no claude.ai)
 (2026-11-06) publicar direto como público e apaga do YouTube se algo sair errado. Não pergunte, não espere.
 Responda tudo em português do Brasil. Siga o `CLAUDE.md` e a memória do projeto.
 
-São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **Publicar do dia** agenda o 1º item `pronto` no próximo horário livre (12h09, 17h30 ou 20h30 de Brasília). Esta rotina só deixa itens prontos.
+São **2 envios por dia, em horários diferentes** (Patrick, 2026-11-17): o **vídeo longo às 18h00** e o **Short às 20h30**
+de Brasília (pico do canal no Studio: 18h–21h todo dia). O workflow **Publicar do dia** agenda o 1º item `pronto`
+(longo no horário de `HORARIOS`, Short `SHORT_DEPOIS` mais tarde, em `automacao/fila.py`). Esta rotina só deixa itens prontos.
+(Antes, de 13/11 a 17/11, eram 3 longos + 3 Shorts por dia, e os vídeos novos pararam de ser distribuídos: ver "NOVO RITMO".)
+
+## NOVO RITMO (análise do Studio, 2026-11-17 — vale mais que as regras antigas abaixo)
+
+Desde 11/11 os vídeos novos quase não são mostrados (Shorts com 6–86 views; antes 900–1.800). Hipótese: muitos
+vídeos por dia no mesmo molde ("produzido em massa"). Análise completa: doc "Quiz Palito: análise do canal e o que
+copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
+- **Short de 30 a 50 s**, 4 ou 5 perguntas, e a **1ª imagem já é a pergunta** (sem abertura). O campeão (6 Bandeiras) tem 53 s.
+- **Nunca "Só 1% acerta"** (nem no título, nem na tela, nem no TikTok). Títulos de desafio e VARIADOS, ex.:
+  "Se você acertar 20 de 30…", "Fácil, médio, difícil e impossível", "As últimas são as mais difíceis",
+  "Nenhum adulto passa…", "Pais contra filhos…", "Ninguém acerta a letra W", "O vídeo acaba quando você errar".
+- **Cada vídeo com cara própria:** varie cor de fundo, ordem das telas, tipo de pergunta e frases. Dois vídeos
+  seguidos não podem parecer o mesmo molde com outro tema.
+- **Pensado para a TV** (61% do tempo assistido é na TV, família no sofá): letras grandes, placar na tela, 10 a 15 min.
+- A regra "mais de 8 min por causa do anúncio" só vale depois da monetização (canal com 81/500 inscritos):
+  a duração é escolhida pela retenção.
+- **Google Flow (Patrick, 2026-11-17: "use o Flow para melhorar os vídeos"):** além da miniatura, grave em
+  `youtube/prompt-flow-cena.txt` um prompt de **uma cena de abertura** do tema com o Palito (16:9; Short 9:16 se
+  houver), no mesmo estilo da miniatura. A tarefa das miniaturas (`fila/MINIATURAS-FLOW.md`) gera no Flow pelo
+  Chrome do PC e grava `abertura.jpg` na pasta do vídeo. No build do longo, passe
+  `abertura=os.path.join(PASTA, "abertura.jpg")` para `op.intro_rapida(...)`: se a imagem existir, vira o fundo da intro
+  (zoom lento); se ainda não existir, sai o fundo de sempre. Como o vídeo é gerado de novo na hora de publicar, a cena
+  entra se ficar pronta antes do horário.
 
 ## Passos
 
@@ -15,13 +40,13 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
 3. **Erros:** se algum item está `erro`, abra o último "Publicar do dia" (GitHub Actions) e conserte a causa.
    Se consertou, volte o item para `pronto` (o envio pula o que já foi publicado). Se não der, deixe `erro`
    com a explicação em `obs` e siga para o próximo.
-4. **Estoque:** se já há 6 ou mais itens `pronto` (2 dias), pare aqui (só grave os passos 2 e 3).
+4. **Estoque:** se já há 4 ou mais itens `pronto` (4 dias), pare aqui (só grave os passos 2 e 3).
 5. **Repetido ou parecido:** antes de produzir, compare o item com tudo que já existe (`publicados.json`,
    pastas em `videos/` e `shorts/`, e os outros itens da fila). Se o tema/formato for **igual ou parecido**
    (ex.: outro "adivinhe a bandeira", mesmo assunto com outro nome), **não produza**: marque `status` = `parecido`,
    escreva em `obs` com qual vídeo ele se parece, avise o Patrick (ver "Avisos") e siga para o próximo item.
    Se já produziu e só percebeu depois, avise do mesmo jeito.
-6. **Produzir** o 1º item `aguardando` (um por rodada; se o estoque estiver em 0, 1 ou 2, faça mais um):
+6. **Produzir** o 1º item `aguardando` (um por rodada; se o estoque estiver em 0 ou 1, faça mais um):
    - Item `esperando` = falta o Patrick explicar algo (ver `obs`): **pule**. Item com `"so_short": true` = faça só o Short
      (sem vídeo longo; no item só `short`, `titulo` do Short e `status` = `pronto`).
    - Veja a referência leve: título pelo oembed, storyboard/miniaturas com `yt-dlp` (`-f sb0`), sem baixar o vídeo.
@@ -77,11 +102,11 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
        muito longos).
      - **Primeiro minuto:** todo longo perde 25–50% nos primeiros 5%. A 1ª pergunta tem que ser fácil e
        aparecer já (intro rapidinha), e a fala do gancho diz quantas perguntas são e que fica difícil no fim.
-     - **Short: 45 a 60 s, 5 ou 6 perguntas**, contagem 3 a 5 s, pergunta falada (já é assim). O mais curto
+     - **Short: 30 a 50 s, 4 ou 5 perguntas** (2026-11-17; antes 45–60 s), contagem 3 a 5 s, pergunta falada. O mais curto
        (Bandeiras, 53 s) segurou mais. **Fala final de no máximo ~2 s** ("Comenta sua nota!"): hoje quase todos
        perdem 30–40 pontos no último quarto e terminam com 4–15%, por causa da tela final longa.
        1ª pergunta fácil (Estados, Logos e Times perderam ~25% logo nos primeiros 10%).
-   - **Vídeo longo com MAIS DE 8 MINUTOS** (regra do Patrick, 2026-11-09: a partir de 8 min o YouTube deixa pôr
+   - **Vídeo longo com MAIS DE 8 MINUTOS** (vale de novo depois da monetização; hoje a retenção manda, ver NOVO RITMO) (regra do Patrick, 2026-11-09: a partir de 8 min o YouTube deixa pôr
      anúncios no meio). Mire em **10 a 13 min** com **30 a 40 perguntas** no ritmo acima (não enrole com telas paradas). Depois de montar, confira a duração (`tempos.json` → `final` + fim ≥ 500 s, ou `ffprobe`); se
      ficar abaixo de 8:10, acrescente perguntas e monte de novo. Placar a cada 10 perguntas.
    - **Imagens reais quando o tema for de coisas reais** (frutas, legumes, animais, comidas, lugares, objetos,
@@ -99,9 +124,9 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
    - Vídeo longo com kit completo em `youtube/`: título, descrição, tags e **miniatura** (título emocional grande,
      elementos recortados gigantes, **fundo colorido com raios**, Palito enorme em pânico, faixa "VOCÊ CONSEGUE?").
    - Short 9:16 com movimento: **copie o modelo `shorts/modelo/`** (sem abertura, placar, 3 opções), 6 perguntas do mesmo tema. Use as mesmas fotos reais do vídeo longo
-     quando ele tiver fotos. **Frase de chamada variada:** não use sempre "Só 1% acerta". Escolha uma frase de
+     quando ele tiver fotos. **Frase de chamada variada** (nunca "Só 1% acerta"). Escolha uma frase de
      `CHAMADAS` em `shorts/short_base.py` (função `chamada()`) diferente das usadas nos últimos 3 Shorts
-     (veja os títulos em `publicados.json`); "Só 1% acerta" pode aparecer de vez em quando, nunca em 2 seguidos.
+     (veja os títulos em `publicados.json`); "Só 1% acerta" não se usa mais (2026-11-17).
      A mesma frase vai na tela de abertura, no título e no `tiktok.txt`. Na descrição (YouTube):
      link do canal (https://www.youtube.com/channel/UCerGMTooT9vl4yVgW7Ggd3A) e o texto `LINK_DO_VIDEO_LONGO` no lugar do link do vídeo
      longo (o workflow troca pelo link certo na hora de publicar).
@@ -130,7 +155,7 @@ São **3 vídeos por dia** (longo + Short cada; desde 2026-11-13): o workflow **
 
 Estes avisos valem **mesmo quando o pedido diz para terminar em silêncio**. Escreva-os no começo da mensagem final:
 
-- **Faltando links:** como saem 3 vídeos por dia, se depois do seu trabalho sobrar **3 ou menos** itens `aguardando`
+- **Faltando links:** como sai 1 item por dia, se depois do seu trabalho sobrar **3 ou menos** itens `aguardando`
   na fila, escreva: "⚠️ Só faltam N criações na fila: mande mais links de referência." (diga quantos `pronto` há.)
 - **Repetido/parecido:** para cada item marcado `parecido`, escreva qual link e com qual vídeo do canal ele se parece.
 

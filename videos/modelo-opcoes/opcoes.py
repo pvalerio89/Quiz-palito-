@@ -387,12 +387,31 @@ def sons_pergunta(tl, sfx, t0, fala=0.0, count=COUNT, entrada=True):
     tl.sound(sfx["acerto"], at=t0 + fala + count, vol=0.8)
 
 
-def intro_rapida(titulo, sub="", dur=2.6, fotos=(), filtro=None, cor=4):
+def fundo_abertura(caminho, escurecer=0.35):
+    """Fundo da intro a partir de uma imagem do Google Flow (`abertura.jpg` na pasta do vídeo; 2026-11-17):
+    cobre a tela, escurece um pouco para o título ler bem e faz um zoom lento. Devolve fundo(t) ou None."""
+    if not caminho or not os.path.exists(caminho):
+        return None
+    base = ImageOps.fit(Image.open(caminho).convert("RGB"), (W, H))
+    base = Image.blend(base, Image.new("RGB", (W, H), (0, 0, 0)), escurecer)
+
+    def f(t):
+        z = 1.0 + 0.04 * min(t / 3.0, 1.0)
+        w, h = int(W / z), int(H / z)
+        x, y = (W - w) // 2, (H - h) // 2
+        return base.crop((x, y, x + w, y + h)).resize((W, H))
+    return f
+
+
+def intro_rapida(titulo, sub="", dur=2.6, fotos=(), filtro=None, cor=4, abertura=None):
     """Intro rapidinha 16:9 (2 a 3 s): selo, título do tema, até 5 fotos do tema e o Palito acenando.
     Fale por cima uma saudação CURTA e variada + o tema (ex.: "Chegou mais um Quiz Palito! Times de A a Z!").
+    `abertura` = caminho da cena gerada no Google Flow (ex.: os.path.join(PASTA, "abertura.jpg")): se o arquivo
+    existir, vira o fundo da intro; se não, usa o fundo colorido de sempre.
     Depois: `transicao_frames(ultimo_quadro_da_intro, q1, total)` e a 1ª pergunta (com `gancho`)."""
     linhas = [(titulo, b.WHITE)] + ([(sub, b.YELLOW)] if sub else [])
     ims = [f if isinstance(f, Image.Image) else foto(f, 170, filtro) for f in fotos[:5]]  # nome do arquivo ou imagem
-    return eg.intro_rapida_frames(lambda t: fundo(cor, t), linhas, dur, W, H, cy0=300 if ims else 390, passo=165,
+    fa = fundo_abertura(abertura)
+    return eg.intro_rapida_frames(fa or (lambda t: fundo(cor, t)), linhas, dur, W, H, cy0=300 if ims else 390, passo=165,
                                   tamanhos=[130, 150][:len(linhas)], palito=(600, 1660, 1060), selo=(800, 110, 1.0),
                                   imagens=ims, img_y=720, img_lado=170)

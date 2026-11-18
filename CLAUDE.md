@@ -13,8 +13,8 @@ Canal de quiz em português no **YouTube** (Quiz Palito, ID `UCerGMTooT9vl4yVgW7
 - Python: `py -3` (não `python`, não `-I`). Voz: Edge TTS **pt-BR-AntonioNeural rate +20% pitch +2Hz**.
 - Prévia (prancha) antes de renderizar; depois conferir quadros e volume (~−26 dB). Não guardar em cache imagens de tamanho variável (estoura RAM).
 - Miniatura: título emocional grande, elementos recortados gigantes, fundo P&B com raios, **Palito enorme em pânico**, faixa "VOCÊ CONSEGUE?".
-- Vídeo longo: sempre **mais de 8 min** (anúncio no meio); mirar 10–13 min, 30–40 perguntas, ~20 s por pergunta com a pergunta falada (dados de retenção 2026-11-12, ver `fila/ROTINA.md`). Short: 45–60 s, fala final curta.
+- Vídeo longo: sempre **mais de 8 min** (anúncio no meio); mirar 10–13 min, 30–40 perguntas, ~20 s por pergunta com a pergunta falada (dados de retenção 2026-11-12, ver `fila/ROTINA.md`). Short: 30–50 s (2026-11-17), fala final curta. Ritmo: 1 longo 18h + 1 Short 20h30 por dia; regras novas em `fila/ROTINA.md` "NOVO RITMO".
 - Tema de coisas reais (frutas, animais, comidas, lugares): **fotos reais** de licença livre (`automacao/fotos_wiki.py`, Wikimedia; preferir domínio público/CC0). Créditos só numa tela curta no fim do vídeo, nunca em comentário/descrição.
-- Shorts: variar a frase de chamada (`chamada()` em `shorts/short_base.py`); "Só 1% acerta" só de vez em quando.
+- Shorts: variar a frase de chamada (`chamada()` em `shorts/short_base.py`); nunca "Só 1% acerta" (2026-11-17).
 - Postar: **Chrome do perfil Quiz** (Claude in Chrome, deviceId `b745beaa-97ae-48fe-9320-d5797ce2f42d`; nunca o perfil Patrick `878f2588…`), aba na frente, conferir canal Quiz Palito. Subir com `file_upload`. Esperar verificações do YouTube antes de Publicar. TikTok: legenda só com clique real + teclado (nunca editar por JS).
 - Economizar o plano: ler páginas por texto (não screenshot), /watch leve, não repetir ações falhas — perguntar ao usuário.

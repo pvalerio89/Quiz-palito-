@@ -474,18 +474,67 @@
       "no_ar_brasilia": "17/11 20h30"
     },
     {
+      "id": "2026-11-17-brasil-x-portugal",
+      "referencia": "",
+      "tema": "Brasil x Portugal: como se diz em Portugal? (Alex Santos fez 2,4 mi)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Palavra do Brasil (com foto real do objeto) e 3 alternativas do português de Portugal (ex.: ônibus -> autocarro; trem -> comboio; celular -> telemóvel; geladeira -> frigorífico). 30-36 palavras, das fáceis às bizarras. Público de Portugal/Angola também assiste. Título ex.: 'Você FALA PORTUGUÊS DE PORTUGAL? 30 palavras que mudam tudo!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+    },
+    {
+      "id": "2026-11-17-jogador-qual-pais",
+      "referencia": "",
+      "tema": "De qual PAÍS é esse JOGADOR? (Canal PLÁ+ com 8,9 mil inscritos fez 2,4 mi, 100x)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Foto real do jogador (Wikimedia, pode reaproveitar as do vídeo 19/21) e 3 bandeiras como alternativas. Fácil (Neymar, Messi) -> difícil (jogadores de seleções pequenas na Copa 2026). Título ex.: 'De qual PAÍS é esse JOGADOR? Fácil, médio, difícil e impossível!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+    },
+    {
+      "id": "2026-11-17-pais-contra-filhos-5-ano",
+      "referencia": "",
+      "tema": "Pais contra filhos: prova do 5º ano (público TV/família; Short do 5º ano é o 2º melhor do canal)",
+      "status": "aguardando",
+      "obs": "Longo + Short. 30 perguntas do 5º ano (português, matemática, ciências, geografia, história) com placar 'PAIS x FILHOS' na tela para a família marcar (letras grandes: 61% do tempo é na TV). Título ex.: 'PAIS contra FILHOS: quem passa na prova do 5º ano?'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+    },
+    {
+      "id": "2026-11-17-selecoes-a-z",
+      "referencia": "",
+      "tema": "Nomeie uma SELEÇÃO de A a Z - Copa 2026 (FaíscaMente fez 385 mil, 54x)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Para cada letra, a letra gigante + contagem; resposta com a bandeira (SVG PD, como no vídeo 24) e o nome. Letras difíceis (I, K, O, Q, W, X, Y, Z) no fim com aviso 'TEM PEGADINHA!'. Título ex.: 'Diga uma SELEÇÃO para cada LETRA de A a Z! Ninguém acerta a letra W'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+    },
+    {
+      "id": "2026-11-17-animal-simbolo-pais",
+      "referencia": "",
+      "tema": "Animal símbolo de cada país (Projeto Trivia fez 2,6 mi, 42x)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Bandeira do país + 3 fotos reais de animais como alternativas (ex.: Austrália canguru, China panda, Brasil onça? conferir na Wikipédia 'national animal'). Só casos com fonte clara. Título ex.: 'Qual é o ANIMAL de cada PAÍS? As últimas são impossíveis!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+    },
+    {
+      "id": "2026-11-17-pais-2-letras",
+      "referencia": "",
+      "tema": "Adivinhe o PAÍS só com as 2 primeiras letras",
+      "status": "aguardando",
+      "obs": "Longo + Short. Mostra 'BR _ _ _ _ _' com as 2 primeiras letras e o número de letras; dica (continente) no meio da contagem nas difíceis; resposta com bandeira + mapa (Natural Earth, como vídeo 23). Título ex.: 'Adivinhe o PAÍS só com as DUAS primeiras letras!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+    },
+    {
       "id": "2026-11-15-jogadores-a-z-parte-2",
       "referencia": "https://youtu.be/T2r5EybNMjo",
       "tema": "Duvido você acertar jogadores de A a Z! PARTE 2 (NaTraveQuiz)",
-      "status": "parecido",
-      "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Esperando o Patrick decidir se quer uma parte 2 com outros jogadores."
+      "status": "aguardando",
+      "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros jogadores."
+    },
+    {
+      "id": "2026-11-17-acaba-quando-errar",
+      "referencia": "",
+      "tema": "O vídeo acaba quando você errar a bandeira (TIAGO fez 711 mil)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Formato sobrevivência: bandeiras cada vez mais difíceis, contador de 'SEQUÊNCIA' na tela, 'Errou? Fim de jogo pra você! Comenta até onde chegou'. Bandeiras diferentes das do vídeo 03 quando der (ou ordem bem diferente). Título ex.: 'O vídeo ACABA quando você ERRAR a bandeira!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
     },
     {
       "id": "2026-11-15-alfabeto-times-parte-2",
       "referencia": "https://youtu.be/-0UZd2hEaVo",
       "tema": "2% acertam o alfabeto de TIMES de A a Z! Parte 2 (NaTraveQuiz)",
-      "status": "parecido",
-      "obs": "Miniatura: 'TIME COM A LETRA P' (escudo do Palmeiras). Mesmo formato do vídeo 16 (alfabeto dos times A-Z, publicado). Esperando o Patrick decidir se quer uma parte 2 com outros times."
+      "status": "aguardando",
+      "obs": "Miniatura: 'TIME COM A LETRA P' (escudo do Palmeiras). Mesmo formato do vídeo 16 (alfabeto dos times A-Z, publicado). Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros times."
     }
   ]
 }
