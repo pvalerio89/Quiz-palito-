@@ -57,7 +57,11 @@
  },
  "fila": {
   "file": "Queue_outside_a_soup_kitchen_at_Klostertorv_in_Ålborg_1943.jpg",
-  "crop": null,
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ],
   "arquivo": "fila.jpg",
   "autor": "National Museum of Denmark from Denmark",
   "lic": "No restrictions"
@@ -246,7 +250,7 @@
  },
  "placa do carro": {
   "file": "Botswana-rear-plate.jpg",
-  "crop": null,
+  "crop": "fit",
   "arquivo": "placa-do-carro.jpg",
   "autor": "Vicbrumby",
   "lic": "Public domain"
