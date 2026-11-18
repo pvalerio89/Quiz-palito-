@@ -1,0 +1,574 @@
+{
+ "Leão": {
+  "file": "020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "arquivo": "leao.jpg",
+  "autor": "Giles Laurent",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Canguru": {
+  "file": "Female_Red_Kangaroo_(Macropus_rufus).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "canguru.jpg",
+  "autor": "Bidgee",
+  "lic": "CC BY 3.0"
+ },
+ "Girafa": {
+  "file": "Giraffa_camelopardalis_reticulata_01,_flip.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "arquivo": "girafa.jpg",
+  "autor": "H. Zell",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Tigre": {
+  "file": "Panthera_tigris_corbetti_(Tierpark_Berlin)_832-714-(118).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "tigre.jpg",
+  "autor": "Lotse",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Macaco": {
+  "file": "015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "arquivo": "macaco.jpg",
+  "autor": "Giles Laurent",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Águia": {
+  "file": "Bald_eagle_about_to_fly_in_Alaska_(2016).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "aguia.jpg",
+  "autor": "Andy Morffew",
+  "lic": "CC BY 2.0"
+ },
+ "Cavalo": {
+  "file": "Biandintz_eta_zaldiak_-_modified2.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "arquivo": "cavalo.jpg",
+  "autor": "Mikel Ortega",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Vaca": {
+  "file": "CowPosture_20150612.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "vaca.jpg",
+  "autor": "Niranjan Arminius",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Rinoceronte": {
+  "file": "109_Male_White_rhinoceros_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "rinoceronte.jpg",
+  "autor": "Giles Laurent",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Alce": {
+  "file": "Alaska_moose.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "alce.jpg",
+  "autor": "Paxson Woelber",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Urso-polar": {
+  "file": "Polar_Bear_-_Alaska_(cropped).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "urso-polar.jpg",
+  "autor": "Alan Wilson",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Castor": {
+  "file": "American_Beaver.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "arquivo": "castor.jpg",
+  "autor": "Steve",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Lobo": {
+  "file": "Eurasian_wolf_2.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "lobo.jpg",
+  "autor": "Mas3cf",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Elefante": {
+  "file": "178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "arquivo": "elefante.jpg",
+  "autor": "Giles Laurent",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Tucano": {
+  "file": "Toco_toucan_or_Tucanuçu_(Ramphastos_toco)_(20142718649).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "tucano.jpg",
+  "autor": "Under the same moon...",
+  "lic": "CC BY 2.0"
+ },
+ "Iguana": {
+  "file": "Red_head_iguana_from_Costa_Rica_2.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "iguana.jpg",
+  "autor": "Roy Luck",
+  "lic": "CC BY 2.0"
+ },
+ "Raposa": {
+  "file": "Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ],
+  "arquivo": "raposa.jpg",
+  "autor": "ClaudiaTen",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Javali": {
+  "file": "Jabalí_13._F._FOTO-ARDEIDAS.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "javali.jpg",
+  "autor": "FOTO-ARDEIDAS",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Dragão-de-komodo": {
+  "file": "202306_Varanus_komodoensis.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "dragao-de-komodo.jpg",
+  "autor": "James Jolokia (james1203)",
+  "lic": "CC BY 4.0"
+ },
+ "Orangotango": {
+  "file": "Orangutan_Kalimantan.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "orangotango.jpg",
+  "autor": "Ridwan0810",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Lhama": {
+  "file": "Domestic_llama_(2009-05-19).jpg",
+  "crop": [
+   0.55,
+   0.5,
+   1.0
+  ],
+  "arquivo": "lhama.jpg",
+  "autor": "Kim Foster",
+  "lic": "CC BY 2.0"
+ },
+ "Capivara": {
+  "file": "Hydrochoeris_hydrochaeris_in_Brazil_in_Petrópolis,_Rio_de_Janeiro,_Brazil_09.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "capivara.jpg",
+  "autor": "Wilfredor",
+  "lic": "CC0"
+ },
+ "Gavião-real": {
+  "file": "Harpia_harpyja_001_800.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "arquivo": "gaviao-real.jpg",
+  "autor": "birdphotos.com",
+  "lic": "CC BY 3.0"
+ },
+ "Ema": {
+  "file": "Nandu_Rhea_americana_Tierpark_Hellabrunn-1.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "ema.jpg",
+  "autor": "Rufus46",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Beija-flor": {
+  "file": "Purple-throated_carib_hummingbird_feeding.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "arquivo": "beija-flor.jpg",
+  "autor": "Charles J. Sharp",
+  "lic": "CC BY 3.0"
+ },
+ "Bicho-preguiça": {
+  "file": "Bradypus.jpg",
+  "crop": [
+   0.5,
+   0.35,
+   1.0
+  ],
+  "arquivo": "bicho-preguica.jpg",
+  "autor": "Stefan Laube",
+  "lic": "Public domain"
+ },
+ "Arara": {
+  "file": "Ara_ararauna_qtl3.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "arara.jpg",
+  "autor": "Quartl",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Papagaio": {
+  "file": "Amazona_aestiva_-Parque_das_Aves,_Foz_do_Iguacu,_Brazil_-head-8a.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "arquivo": "papagaio.jpg",
+  "autor": "Deni Williams",
+  "lic": "CC BY 2.0"
+ },
+ "Panda-vermelho": {
+  "file": "Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+  "crop": [
+   0.55,
+   0.6,
+   1.0
+  ],
+  "arquivo": "panda-vermelho.jpg",
+  "autor": "Sunuwargr",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Camelo": {
+  "file": "Dromadaire4478.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "camelo.jpg",
+  "autor": "Pierrepoitevin",
+  "lic": "Public domain"
+ },
+ "Ocapi": {
+  "file": "Saint-Aignan_(Loir-et-Cher)._Okapi.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "arquivo": "ocapi.jpg",
+  "autor": "Daniel Jolivet",
+  "lic": "CC BY 2.0"
+ },
+ "Anta": {
+  "file": "Tapirus_terrestris_run.jpg",
+  "crop": [
+   0.4,
+   0.5,
+   1.0
+  ],
+  "arquivo": "anta.jpg",
+  "autor": "Bill McDavid",
+  "lic": "CC BY 2.0"
+ },
+ "Onça-pintada": {
+  "file": "Standing_jaguar.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "onca-pintada.jpg",
+  "autor": "USFWS",
+  "lic": "Public domain"
+ },
+ "Avestruz": {
+  "file": "Yaen001.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "avestruz.jpg",
+  "autor": "MathKnight",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Pato": {
+  "file": "2015_Kaczka_krzyżowka_w_wodzie_(samiec)_(tight_crop).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "pato.jpg",
+  "autor": "Jacek Halicki",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Bisão": {
+  "file": "American_bison_k5680-1.jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "bisao.jpg",
+  "autor": "Jack Dykinga",
+  "lic": "Public domain"
+ },
+ "Cabra": {
+  "file": "Hausziege_04.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "arquivo": "cabra.jpg",
+  "autor": "Kuebi = Armin Kübelbeck",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Ovelha": {
+  "file": "A_curious_Welsh_Mountain_sheep_(Ovis_aries).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "ovelha.jpg",
+  "autor": "Seraaron",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Unicórnio": {
+  "file": "Noto Color Emoji (Google)",
+  "arquivo": "unicornio.jpg",
+  "autor": "Google",
+  "lic": "Apache 2.0"
+ },
+ "Urso-pardo": {
+  "file": "2010-kodiak-bear-1.jpg",
+  "crop": null,
+  "arquivo": "urso-pardo.jpg",
+  "autor": "Yathin S Krishnappa",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Panda-gigante": {
+  "file": "Grosser_Panda.JPG",
+  "crop": null,
+  "arquivo": "panda-gigante.jpg",
+  "autor": "J. Patrick Fischer",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Sabiá-laranjeira": {
+  "file": "Turdus_rufiventris-standing.jpg",
+  "crop": null,
+  "arquivo": "sabia-laranjeira.jpg",
+  "autor": "Peterwchen",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Condor-andino": {
+  "file": "Condor_Andino_de_perfil.jpg",
+  "crop": null,
+  "arquivo": "condor-andino.jpg",
+  "autor": "Camilo 24CH",
+  "lic": "CC BY 4.0"
+ },
+ "Kiwi": {
+  "file": "20180703_kiwi-sonya9_959_DxO.jpg",
+  "crop": null,
+  "arquivo": "kiwi.jpg",
+  "autor": "Judi Lapsley Miller",
+  "lic": "CC BY 4.0"
+ },
+ "Galo": {
+  "file": "Red_Junglefowl.jpg",
+  "crop": null,
+  "arquivo": "galo.jpg",
+  "autor": "Jason Thompson",
+  "lic": "CC BY 2.0"
+ },
+ "Quetzal": {
+  "file": "Male_Resplendent_Quetzal.jpg",
+  "crop": null,
+  "arquivo": "quetzal.jpg",
+  "autor": "ryanacandee",
+  "lic": "CC BY 2.0"
+ },
+ "João-de-barro": {
+  "file": "Rufous_hornero_(Furnarius_rufus)_Colonia_(cropped).jpg",
+  "crop": null,
+  "arquivo": "joao-de-barro.jpg",
+  "autor": "Charles J. Sharp",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Vicunha": {
+  "file": "Vicuna_(89163948)_(cropped).jpg",
+  "crop": null,
+  "arquivo": "vicunha.jpg",
+  "autor": "Thomas Quine",
+  "lic": "CC BY 2.0"
+ },
+ "Takin": {
+  "file": "Thimphu-Takin-Reservat-06-2015-gje.jpg",
+  "crop": [
+   0.22,
+   0.6,
+   0.62
+  ],
+  "arquivo": "takin.jpg",
+  "autor": "Gerd Eichmann",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Faisão-verde": {
+  "file": "Phasianus_versicolor_-Japan_-male-8.jpg",
+  "crop": null,
+  "arquivo": "faisao-verde.jpg",
+  "autor": "coniferconifer",
+  "lic": "CC BY 2.0"
+ },
+ "Springbok": {
+  "file": "174_Male_Springbok_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": null,
+  "arquivo": "springbok.jpg",
+  "autor": "Giles Laurent",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Zebra": {
+  "file": "Equus_quagga.jpg",
+  "crop": null,
+  "arquivo": "zebra.jpg",
+  "autor": "Joachim Huber 2007-2025 (R.I.P.)",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Cisne-branco": {
+  "file": "CygneVaires.jpg",
+  "crop": null,
+  "arquivo": "cisne-branco.jpg",
+  "autor": "Sanchezn",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Markhor": {
+  "file": "Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg",
+  "crop": null,
+  "arquivo": "markhor.jpg",
+  "autor": "Rufus46",
+  "lic": "CC BY-SA 3.0"
+ },
+ "Emu": {
+  "file": "Emu_1_-_Tidbinbilla.jpg",
+  "crop": null,
+  "arquivo": "emu.jpg",
+  "autor": "JJ Harrison (https://www.jjharrison.com.au/)",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Águia-real": {
+  "file": "Orel_skalní_2.jpg",
+  "crop": null,
+  "arquivo": "aguia-real.jpg",
+  "autor": "Zoo Ostrava",
+  "lic": "Public domain"
+ },
+ "Ave-do-paraíso": {
+  "file": "Raggiana_Bird-of-Paradise_wild_5.jpg",
+  "crop": null,
+  "arquivo": "ave-do-paraiso.jpg",
+  "autor": "markaharper1",
+  "lic": "CC BY-SA 2.0"
+ },
+ "Grou-coroado": {
+  "file": "Grey_crowned_crane_(Balearica_regulorum_gibbericeps).jpg",
+  "crop": null,
+  "arquivo": "grou-coroado.jpg",
+  "autor": "Charles J. Sharp",
+  "lic": "CC BY-SA 4.0"
+ },
+ "Órix-da-arábia": {
+  "file": "Arabian_Oryx_(8454554499).jpg",
+  "crop": [
+   0.62,
+   0.68,
+   0.55
+  ],
+  "arquivo": "orix-da-arabia.jpg",
+  "autor": "shankar s. from Dubai, united arab emirates",
+  "lic": "CC BY 2.0"
+ }
+}

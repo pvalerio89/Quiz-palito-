@@ -1,0 +1,820 @@
+[
+ {
+  "n": 1,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "AUSTRÁLIA",
+  "cod": "au",
+  "foto": "bandeira-au.jpg",
+  "foto_resposta": "canguru.jpg",
+  "opcoes": [
+   "LEÃO",
+   "CANGURU",
+   "GIRAFA"
+  ],
+  "fotos_opcoes": [
+   "leao.jpg",
+   "canguru.jpg",
+   "girafa.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Pra começar, uma bem fácil! Qual é o animal símbolo da Austrália? leão, canguru ou girafa?",
+  "fala_r": "Canguru! Ele está até no brasão da Austrália!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "CHINA",
+  "cod": "cn",
+  "foto": "bandeira-cn.jpg",
+  "foto_resposta": "panda-gigante.jpg",
+  "opcoes": [
+   "TIGRE",
+   "MACACO",
+   "PANDA"
+  ],
+  "fotos_opcoes": [
+   "tigre.jpg",
+   "macaco.jpg",
+   "panda-gigante.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Essa aqui todo mundo sabe! Qual é o animal símbolo da China? tigre, macaco ou panda?",
+  "fala_r": "Panda! O panda-gigante é o grande símbolo da China!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "ESTADOS UNIDOS",
+  "cod": "us",
+  "foto": "bandeira-us.jpg",
+  "foto_resposta": "aguia.jpg",
+  "opcoes": [
+   "ÁGUIA-CARECA",
+   "URSO-PARDO",
+   "CAVALO"
+  ],
+  "fotos_opcoes": [
+   "aguia.jpg",
+   "urso-pardo.jpg",
+   "cavalo.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Mais uma pra aquecer! Qual é o animal símbolo dos Estados Unidos? águia-careca, urso-pardo ou cavalo?",
+  "fala_r": "Águia-careca! Ela aparece no selo oficial dos Estados Unidos!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "ÍNDIA",
+  "cod": "in",
+  "foto": "bandeira-in.jpg",
+  "foto_resposta": "tigre.jpg",
+  "opcoes": [
+   "VACA",
+   "TIGRE",
+   "RINOCERONTE"
+  ],
+  "fotos_opcoes": [
+   "vaca.jpg",
+   "tigre.jpg",
+   "rinoceronte.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um gigante da Ásia! Qual é o animal símbolo da Índia? vaca, tigre ou rinoceronte?",
+  "fala_r": "Tigre! O tigre-de-bengala é o animal nacional da Índia!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "CANADÁ",
+  "cod": "ca",
+  "foto": "bandeira-ca.jpg",
+  "foto_resposta": "castor.jpg",
+  "opcoes": [
+   "ALCE",
+   "URSO-POLAR",
+   "CASTOR"
+  ],
+  "fotos_opcoes": [
+   "alce.jpg",
+   "urso-polar.jpg",
+   "castor.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pro país do frio! Qual é o animal símbolo do Canadá? alce, urso-polar ou castor?",
+  "fala_r": "Castor! Ele está até na moeda de cinco centavos do Canadá!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "RÚSSIA",
+  "cod": "ru",
+  "foto": "bandeira-ru.jpg",
+  "foto_resposta": "urso-pardo.jpg",
+  "opcoes": [
+   "LOBO",
+   "URSO-PARDO",
+   "TIGRE"
+  ],
+  "fotos_opcoes": [
+   "lobo.jpg",
+   "urso-pardo.jpg",
+   "tigre.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Agora o maior país do mundo! Qual é o animal símbolo da Rússia? lobo, urso-pardo ou tigre?",
+  "fala_r": "Urso-pardo! O urso é o símbolo mais famoso da Rússia!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "NOVA ZELÂNDIA",
+  "cod": "nz",
+  "foto": "bandeira-nz.jpg",
+  "foto_resposta": "kiwi.jpg",
+  "opcoes": [
+   "EMU",
+   "CANGURU",
+   "KIWI"
+  ],
+  "fotos_opcoes": [
+   "emu.jpg",
+   "canguru.jpg",
+   "kiwi.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é do outro lado do mundo! Qual é o animal símbolo da Nova Zelândia? emu, canguru ou kiwi?",
+  "fala_r": "Kiwi! É um passarinho que não voa, e os neozelandeses são chamados de kiwis!",
+  "count": 7.0,
+  "sabia": "OS NEOZELANDESES SÃO CHAMADOS DE KIWIS"
+ },
+ {
+  "n": 8,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "FRANÇA",
+  "cod": "fr",
+  "foto": "bandeira-fr.jpg",
+  "foto_resposta": "galo.jpg",
+  "opcoes": [
+   "LEÃO",
+   "CAVALO",
+   "GALO"
+  ],
+  "fotos_opcoes": [
+   "leao.jpg",
+   "cavalo.jpg",
+   "galo.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra Europa! Qual é o animal símbolo da França? leão, cavalo ou galo?",
+  "fala_r": "Galo! O galo aparece até no uniforme da seleção francesa!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "TAILÂNDIA",
+  "cod": "th",
+  "foto": "bandeira-th.jpg",
+  "foto_resposta": "elefante.jpg",
+  "opcoes": [
+   "TIGRE",
+   "ELEFANTE",
+   "MACACO"
+  ],
+  "fotos_opcoes": [
+   "tigre.jpg",
+   "elefante.jpg",
+   "macaco.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um país da Ásia! Qual é o animal símbolo da Tailândia? tigre, elefante ou macaco?",
+  "fala_r": "Elefante! Na Tailândia ele é sagrado e tem até feriado!",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "MÉXICO",
+  "cod": "mx",
+  "foto": "bandeira-mx.jpg",
+  "foto_resposta": "aguia-real.jpg",
+  "opcoes": [
+   "TUCANO",
+   "ÁGUIA-REAL",
+   "IGUANA"
+  ],
+  "fotos_opcoes": [
+   "tucano.jpg",
+   "aguia-real.jpg",
+   "iguana.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Olha bem a bandeira, que tem uma dica nela! Qual é o animal símbolo do México? tucano, águia-real ou iguana?",
+  "fala_r": "Águia-real! Ela está no meio da bandeira do México, comendo uma cobra!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "INGLATERRA",
+  "cod": "gb-eng",
+  "foto": "bandeira-gb-eng.jpg",
+  "foto_resposta": "leao.jpg",
+  "opcoes": [
+   "RAPOSA",
+   "CAVALO",
+   "LEÃO"
+  ],
+  "fotos_opcoes": [
+   "raposa.jpg",
+   "cavalo.jpg",
+   "leao.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Agora a terra do futebol! Qual é o animal símbolo da Inglaterra? raposa, cavalo ou leão?",
+  "fala_r": "Leão! Por isso a seleção inglesa é chamada de Três Leões!",
+  "count": 7.0,
+  "sabia": "A SELEÇÃO É CHAMADA DE 'TRÊS LEÕES'"
+ },
+ {
+  "n": 12,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "ITÁLIA",
+  "cod": "it",
+  "foto": "bandeira-it.jpg",
+  "foto_resposta": "lobo.jpg",
+  "opcoes": [
+   "URSO-PARDO",
+   "JAVALI",
+   "LOBO"
+  ],
+  "fotos_opcoes": [
+   "urso-pardo.jpg",
+   "javali.jpg",
+   "lobo.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Agora a terra da pizza! Qual é o animal símbolo da Itália? urso-pardo, javali ou lobo?",
+  "fala_r": "Lobo! Na lenda, uma loba criou os fundadores de Roma!",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "INDONÉSIA",
+  "cod": "id",
+  "foto": "bandeira-id.jpg",
+  "foto_resposta": "dragao-de-komodo.jpg",
+  "opcoes": [
+   "DRAGÃO-DE-KOMODO",
+   "ORANGOTANGO",
+   "TIGRE"
+  ],
+  "fotos_opcoes": [
+   "dragao-de-komodo.jpg",
+   "orangotango.jpg",
+   "tigre.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Esse aqui parece de filme! Qual é o animal símbolo da Indonésia? dragão-de-komodo, orangotango ou tigre?",
+  "fala_r": "Dragão-de-komodo! O maior lagarto do mundo só vive na Indonésia!",
+  "count": 7.0,
+  "fala_d": "Dica: é um réptil!",
+  "dica_txt": "É UM RÉPTIL"
+ },
+ {
+  "n": 14,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "TANZÂNIA",
+  "cod": "tz",
+  "foto": "bandeira-tz.jpg",
+  "foto_resposta": "girafa.jpg",
+  "opcoes": [
+   "GIRAFA",
+   "ZEBRA",
+   "LEÃO"
+  ],
+  "fotos_opcoes": [
+   "girafa.jpg",
+   "zebra.jpg",
+   "leao.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pra África! Qual é o animal símbolo da Tanzânia? girafa, zebra ou leão?",
+  "fala_r": "Girafa! A girafa é o animal nacional da Tanzânia!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "ÁFRICA DO SUL",
+  "cod": "za",
+  "foto": "bandeira-za.jpg",
+  "foto_resposta": "springbok.jpg",
+  "opcoes": [
+   "LEÃO",
+   "SPRINGBOK",
+   "ZEBRA"
+  ],
+  "fotos_opcoes": [
+   "leao.jpg",
+   "springbok.jpg",
+   "zebra.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Essa tem a ver com esporte! Qual é o animal símbolo da África do Sul? leão, springbok ou zebra?",
+  "fala_r": "Springbok! É uma gazela, e a seleção de rúgbi do país se chama Springboks!",
+  "count": 7.0,
+  "sabia": "A SELEÇÃO DE RÚGBI SE CHAMA SPRINGBOKS"
+ },
+ {
+  "n": 16,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "PERU",
+  "cod": "pe",
+  "foto": "bandeira-pe.jpg",
+  "foto_resposta": "vicunha.jpg",
+  "opcoes": [
+   "LHAMA",
+   "VICUNHA",
+   "CAPIVARA"
+  ],
+  "fotos_opcoes": [
+   "lhama.jpg",
+   "vicunha.jpg",
+   "capivara.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa tem pegadinha! Qual é o animal símbolo do Peru? lhama, vicunha ou capivara?",
+  "fala_r": "Vicunha! Não é a lhama! A vicunha está no brasão do Peru!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "CHILE",
+  "cod": "cl",
+  "foto": "bandeira-cl.jpg",
+  "foto_resposta": "condor-andino.jpg",
+  "opcoes": [
+   "HARPIA",
+   "CONDOR",
+   "LHAMA"
+  ],
+  "fotos_opcoes": [
+   "gaviao-real.jpg",
+   "condor-andino.jpg",
+   "lhama.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Agora o país mais comprido do mundo! Qual é o animal símbolo do Chile? harpia, condor ou lhama?",
+  "fala_r": "Condor! O condor-dos-Andes está no brasão do Chile!",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "ARGENTINA",
+  "cod": "ar",
+  "foto": "bandeira-ar.jpg",
+  "foto_resposta": "joao-de-barro.jpg",
+  "opcoes": [
+   "JOÃO-DE-BARRO",
+   "EMA",
+   "BEIJA-FLOR"
+  ],
+  "fotos_opcoes": [
+   "joao-de-barro.jpg",
+   "ema.jpg",
+   "beija-flor.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Agora os nossos vizinhos! Qual é o animal símbolo da Argentina? joão-de-barro, ema ou beija-flor?",
+  "fala_r": "João-de-barro! Na Argentina ele se chama hornero, e é a ave nacional!",
+  "count": 7.0,
+  "fala_d": "Dica: ele faz a casa de barro!",
+  "dica_txt": "FAZ A CASA DE BARRO"
+ },
+ {
+  "n": 19,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "COSTA RICA",
+  "cod": "cr",
+  "foto": "bandeira-cr.jpg",
+  "foto_resposta": "bicho-preguica.jpg",
+  "opcoes": [
+   "IGUANA",
+   "BICHO-PREGUIÇA",
+   "TUCANO"
+  ],
+  "fotos_opcoes": [
+   "iguana.jpg",
+   "bicho-preguica.jpg",
+   "tucano.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Essa aqui é bem devagarinho! Qual é o animal símbolo da Costa Rica? iguana, bicho-preguiça ou tucano?",
+  "fala_r": "Bicho-preguiça! Virou símbolo nacional da Costa Rica em dois mil e vinte e um!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "GUATEMALA",
+  "cod": "gt",
+  "foto": "bandeira-gt.jpg",
+  "foto_resposta": "quetzal.jpg",
+  "opcoes": [
+   "ARARA",
+   "BEIJA-FLOR",
+   "QUETZAL"
+  ],
+  "fotos_opcoes": [
+   "arara.jpg",
+   "beija-flor.jpg",
+   "quetzal.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma ave linda! Qual é o animal símbolo da Guatemala? arara, beija-flor ou quetzal?",
+  "fala_r": "Quetzal! Ele é tão importante que a moeda da Guatemala se chama quetzal!",
+  "count": 7.0,
+  "sabia": "A MOEDA DA GUATEMALA SE CHAMA QUETZAL"
+ },
+ {
+  "n": 21,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "PAPUA-NOVA GUINÉ",
+  "cod": "pg",
+  "foto": "bandeira-pg.jpg",
+  "foto_resposta": "ave-do-paraiso.jpg",
+  "opcoes": [
+   "PAPAGAIO",
+   "AVE-DO-PARAÍSO",
+   "TUCANO"
+  ],
+  "fotos_opcoes": [
+   "papagaio.jpg",
+   "ave-do-paraiso.jpg",
+   "tucano.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Olha a bandeira de novo! Qual é o animal símbolo de Papua-Nova Guiné? papagaio, ave-do-paraíso ou tucano?",
+  "fala_r": "Ave-do-paraíso! Ela aparece em amarelo na bandeira!",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "pergunta": "QUAL É A AVE SÍMBOLO DO BRASIL?",
+  "pais": "BRASIL",
+  "cod": "br",
+  "foto": "bandeira-br.jpg",
+  "foto_resposta": "sabia-laranjeira.jpg",
+  "opcoes": [
+   "SABIÁ-LARANJEIRA",
+   "TUCANO",
+   "ARARA"
+  ],
+  "fotos_opcoes": [
+   "sabia-laranjeira.jpg",
+   "tucano.jpg",
+   "arara.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Agora a mais importante: a ave símbolo do Brasil! sabiá-laranjeira, tucano ou arara?",
+  "fala_r": "Sabiá-laranjeira! Muita gente chuta tucano ou arara, mas a ave símbolo do Brasil é o sabiá!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 23,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "NEPAL",
+  "cod": "np",
+  "foto": "bandeira-np.jpg",
+  "foto_resposta": "vaca.jpg",
+  "opcoes": [
+   "TIGRE",
+   "PANDA-VERMELHO",
+   "VACA"
+  ],
+  "fotos_opcoes": [
+   "tigre.jpg",
+   "panda-vermelho.jpg",
+   "vaca.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Olha essa bandeira diferente! Qual é o animal símbolo do Nepal? tigre, panda-vermelho ou vaca?",
+  "fala_r": "Vaca! No Nepal, a vaca é o animal nacional e é sagrada!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 24,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "PANAMÁ",
+  "cod": "pa",
+  "foto": "bandeira-pa.jpg",
+  "foto_resposta": "gaviao-real.jpg",
+  "opcoes": [
+   "ÁGUIA-REAL",
+   "CONDOR",
+   "HARPIA"
+  ],
+  "fotos_opcoes": [
+   "aguia-real.jpg",
+   "condor-andino.jpg",
+   "gaviao-real.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma ave gigante! Qual é o animal símbolo do Panamá? águia-real, condor ou harpia?",
+  "fala_r": "Harpia! É o gavião-real, uma das águias mais fortes do mundo!",
+  "count": 7.0,
+  "fala_d": "Dica: também vive na Amazônia!",
+  "dica_txt": "TAMBÉM VIVE NA AMAZÔNIA"
+ },
+ {
+  "n": 25,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "MONGÓLIA",
+  "cod": "mn",
+  "foto": "bandeira-mn.jpg",
+  "foto_resposta": "cavalo.jpg",
+  "opcoes": [
+   "CAMELO",
+   "LOBO",
+   "CAVALO"
+  ],
+  "fotos_opcoes": [
+   "camelo.jpg",
+   "lobo.jpg",
+   "cavalo.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é do país de Gengis Khan! Qual é o animal símbolo da Mongólia? camelo, lobo ou cavalo?",
+  "fala_r": "Cavalo! Na Mongólia tem mais cavalo do que gente!",
+  "count": 7.0,
+  "sabia": "TEM MAIS CAVALO DO QUE GENTE"
+ },
+ {
+  "n": 26,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "CONGO",
+  "cod": "cd",
+  "foto": "bandeira-cd.jpg",
+  "foto_resposta": "ocapi.jpg",
+  "opcoes": [
+   "OCAPI",
+   "GIRAFA",
+   "ZEBRA"
+  ],
+  "fotos_opcoes": [
+   "ocapi.jpg",
+   "girafa.jpg",
+   "zebra.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Esse bicho é muito estranho! Qual é o animal símbolo da República Democrática do Congo? ocapi, girafa ou zebra?",
+  "fala_r": "Ocapi! Parece uma zebra, mas é parente da girafa!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 27,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "BOTSUANA",
+  "cod": "bw",
+  "foto": "bandeira-bw.jpg",
+  "foto_resposta": "zebra.jpg",
+  "opcoes": [
+   "GIRAFA",
+   "ZEBRA",
+   "SPRINGBOK"
+  ],
+  "fotos_opcoes": [
+   "girafa.jpg",
+   "zebra.jpg",
+   "springbok.jpg"
+  ],
+  "certa": 1,
+  "fala_q": "Mais uma da África! Qual é o animal símbolo de Botsuana? girafa, zebra ou springbok?",
+  "fala_r": "Zebra! A zebra é o animal nacional de Botsuana, e as cores da bandeira lembram as listras dela!",
+  "count": 7.0,
+  "sabia": "A BANDEIRA LEMBRA AS LISTRAS DA ZEBRA"
+ },
+ {
+  "n": 28,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "BELIZE",
+  "cod": "bz",
+  "foto": "bandeira-bz.jpg",
+  "foto_resposta": "anta.jpg",
+  "opcoes": [
+   "ANTA",
+   "ONÇA-PINTADA",
+   "CAPIVARA"
+  ],
+  "fotos_opcoes": [
+   "anta.jpg",
+   "onca-pintada.jpg",
+   "capivara.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um país pequenininho! Qual é o animal símbolo de Belize? anta, onça-pintada ou capivara?",
+  "fala_r": "Anta! A anta é o animal nacional de Belize!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "COREIA DO SUL",
+  "cod": "kr",
+  "foto": "bandeira-kr.jpg",
+  "foto_resposta": "tigre.jpg",
+  "opcoes": [
+   "TIGRE",
+   "PANDA",
+   "URSO-PARDO"
+  ],
+  "fotos_opcoes": [
+   "tigre.jpg",
+   "panda-gigante.jpg",
+   "urso-pardo.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Essa é da terra do K-pop! Qual é o animal símbolo da Coreia do Sul? tigre, panda ou urso-pardo?",
+  "fala_r": "Tigre! O tigre foi até mascote das Olimpíadas na Coreia!",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "UGANDA",
+  "cod": "ug",
+  "foto": "bandeira-ug.jpg",
+  "foto_resposta": "grou-coroado.jpg",
+  "opcoes": [
+   "AVESTRUZ",
+   "TUCANO",
+   "GROU-COROADO"
+  ],
+  "fotos_opcoes": [
+   "avestruz.jpg",
+   "tucano.jpg",
+   "grou-coroado.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "A bandeira dá uma dica! Qual é o animal símbolo de Uganda? avestruz, tucano ou grou-coroado?",
+  "fala_r": "Grou-coroado! Ele aparece no meio da bandeira de Uganda!",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "DINAMARCA",
+  "cod": "dk",
+  "foto": "bandeira-dk.jpg",
+  "foto_resposta": "cisne-branco.jpg",
+  "opcoes": [
+   "CISNE",
+   "PATO",
+   "GALO"
+  ],
+  "fotos_opcoes": [
+   "cisne-branco.jpg",
+   "pato.jpg",
+   "galo.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um país gelado da Europa! Qual é o animal símbolo da Dinamarca? cisne, pato ou galo?",
+  "fala_r": "Cisne! O cisne-branco é a ave nacional da Dinamarca!",
+  "count": 7.0
+ },
+ {
+  "n": 32,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "JAPÃO",
+  "cod": "jp",
+  "foto": "bandeira-jp.jpg",
+  "foto_resposta": "faisao-verde.jpg",
+  "opcoes": [
+   "FAISÃO-VERDE",
+   "GALO",
+   "PAPAGAIO"
+  ],
+  "fotos_opcoes": [
+   "faisao-verde.jpg",
+   "galo.jpg",
+   "papagaio.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Essa derruba muita gente! Qual é o animal símbolo do Japão? faisão-verde, galo ou papagaio?",
+  "fala_r": "Faisão-verde! É a ave nacional do Japão!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 33,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "BUTÃO",
+  "cod": "bt",
+  "foto": "bandeira-bt.jpg",
+  "foto_resposta": "takin.jpg",
+  "opcoes": [
+   "TAKIN",
+   "BISÃO",
+   "CABRA"
+  ],
+  "fotos_opcoes": [
+   "takin.jpg",
+   "bisao.jpg",
+   "cabra.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um bicho que quase ninguém conhece! Qual é o animal símbolo do Butão? takin, bisão ou cabra?",
+  "fala_r": "Takin! Ele só vive nas montanhas do Himalaia!",
+  "count": 7.0,
+  "fala_d": "Dica: parece uma mistura de vaca com cabra!",
+  "dica_txt": "MISTURA DE VACA COM CABRA"
+ },
+ {
+  "n": 34,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "PAQUISTÃO",
+  "cod": "pk",
+  "foto": "bandeira-pk.jpg",
+  "foto_resposta": "markhor.jpg",
+  "opcoes": [
+   "CAMELO",
+   "ALCE",
+   "MARKHOR"
+  ],
+  "fotos_opcoes": [
+   "camelo.jpg",
+   "alce.jpg",
+   "markhor.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é pra quem manja de bicho! Qual é o animal símbolo do Paquistão? camelo, alce ou markhor?",
+  "fala_r": "Markhor! É uma cabra selvagem com chifres em espiral!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "CATAR",
+  "cod": "qa",
+  "foto": "bandeira-qa.jpg",
+  "foto_resposta": "orix-da-arabia.jpg",
+  "opcoes": [
+   "ÓRIX",
+   "CAMELO",
+   "CABRA"
+  ],
+  "fotos_opcoes": [
+   "orix-da-arabia.jpg",
+   "camelo.jpg",
+   "cabra.jpg"
+  ],
+  "certa": 0,
+  "fala_q": "Agora o país da Copa de dois mil e vinte e dois! Qual é o animal símbolo do Catar? órix, camelo ou cabra?",
+  "fala_r": "Órix! O órix-da-arábia é o animal nacional do Catar!",
+  "count": 7.0
+ },
+ {
+  "n": 36,
+  "pergunta": "QUAL É O ANIMAL SÍMBOLO DESTE PAÍS?",
+  "pais": "ESCÓCIA",
+  "cod": "gb-sct",
+  "foto": "bandeira-gb-sct.jpg",
+  "foto_resposta": "unicornio.jpg",
+  "opcoes": [
+   "CAVALO",
+   "OVELHA",
+   "UNICÓRNIO"
+  ],
+  "fotos_opcoes": [
+   "cavalo.jpg",
+   "ovelha.jpg",
+   "unicornio.jpg"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo o título de mestre dos bichos! Qual é o animal símbolo da Escócia? cavalo, ovelha ou unicórnio?",
+  "fala_r": "Unicórnio! É sério! O animal símbolo da Escócia é o unicórnio! Se acertou, você é fera!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "final": true,
+  "fala_s": "Valendo o título... o animal símbolo da Escócia é..."
+ }
+]

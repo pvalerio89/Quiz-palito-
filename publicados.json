@@ -1036,6 +1036,35 @@
         "status": "pendente"
       }
     },
+    "videos/37-jogador-qual-pais": {
+      "youtube": {
+        "status": "publicado",
+        "id": "a8jdj8bjsRQ",
+        "url": "https://youtu.be/a8jdj8bjsRQ",
+        "data": "2026-11-18",
+        "origem": "github-actions",
+        "sha256": "ceae79843e06c550a000a3d3a22bd7b81e3474e16735644f8ae264225a9a8334",
+        "no_ar_em": "2026-11-19T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/palito-2": {
+      "titulo": "Só UM palito e 7+1=0 fica CERTO! Você consegue? 🔥 #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "bRDjuQARPd0",
+        "url": "https://youtu.be/bRDjuQARPd0",
+        "data": "2026-11-18",
+        "origem": "github-actions",
+        "sha256": "9b831191705e52e066dc2348b10aedc3448ea381bf2febc4fad09b5203ed6a5d",
+        "no_ar_em": "2026-11-19T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
     "videos/40-prova-geografia": {
       "youtube": {
         "status": "publicado",
