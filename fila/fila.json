@@ -477,11 +477,18 @@
       "id": "2026-11-17-brasil-x-portugal",
       "referencia": "",
       "tema": "Brasil x Portugal: como se diz em Portugal? (Alex Santos fez 2,4 mi)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Palavra do Brasil (com foto real do objeto) e 3 alternativas do português de Portugal (ex.: ônibus -> autocarro; trem -> comboio; celular -> telemóvel; geladeira -> frigorífico). 30-36 palavras, das fáceis às bizarras. Público de Portugal/Angola também assiste. Título ex.: 'Você FALA PORTUGUÊS DE PORTUGAL? 30 palavras que mudam tudo!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #1 (shorts/palito-1); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 36, 37 palavras (foto real Wikimedia + palavra do Brasil no cartão, 3 palavras de Portugal), ~13 min. Short = palito-1.",
       "short": "shorts/palito-1",
       "video": "videos/36-brasil-x-portugal",
-      "titulo": "Você FALA PORTUGUÊS DE PORTUGAL? 🇧🇷🇵🇹 37 palavras que mudam tudo! | Quiz Palito"
+      "titulo": "Você FALA PORTUGUÊS DE PORTUGAL? 🇧🇷🇵🇹 37 palavras que mudam tudo! | Quiz Palito",
+      "publicado_em": "2026-11-18",
+      "no_ar_em": "2026-11-18T21:00:00Z",
+      "no_ar_brasilia": "18/11 18h00",
+      "links": {
+        "video": "https://youtu.be/Cd9k7MYRHXE",
+        "short": "https://youtu.be/mRkL4ydM1P4"
+      }
     },
     {
       "id": "2026-11-17-jogador-qual-pais",
