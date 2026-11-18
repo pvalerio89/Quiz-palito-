@@ -477,17 +477,21 @@
       "id": "2026-11-17-brasil-x-portugal",
       "referencia": "",
       "tema": "Brasil x Portugal: como se diz em Portugal? (Alex Santos fez 2,4 mi)",
-      "status": "aguardando",
-      "obs": "Longo + Short. Palavra do Brasil (com foto real do objeto) e 3 alternativas do português de Portugal (ex.: ônibus -> autocarro; trem -> comboio; celular -> telemóvel; geladeira -> frigorífico). 30-36 palavras, das fáceis às bizarras. Público de Portugal/Angola também assiste. Título ex.: 'Você FALA PORTUGUÊS DE PORTUGAL? 30 palavras que mudam tudo!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #1 (shorts/palito-1); faça SÓ o vídeo longo, sem Short do tema.",
-      "short": "shorts/palito-1"
+      "status": "pronto",
+      "obs": "Longo + Short. Palavra do Brasil (com foto real do objeto) e 3 alternativas do português de Portugal (ex.: ônibus -> autocarro; trem -> comboio; celular -> telemóvel; geladeira -> frigorífico). 30-36 palavras, das fáceis às bizarras. Público de Portugal/Angola também assiste. Título ex.: 'Você FALA PORTUGUÊS DE PORTUGAL? 30 palavras que mudam tudo!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #1 (shorts/palito-1); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 36, 37 palavras (foto real Wikimedia + palavra do Brasil no cartão, 3 palavras de Portugal), ~13 min. Short = palito-1.",
+      "short": "shorts/palito-1",
+      "video": "videos/36-brasil-x-portugal",
+      "titulo": "Você FALA PORTUGUÊS DE PORTUGAL? 🇧🇷🇵🇹 37 palavras que mudam tudo! | Quiz Palito"
     },
     {
       "id": "2026-11-17-jogador-qual-pais",
       "referencia": "",
       "tema": "De qual PAÍS é esse JOGADOR? (Canal PLÁ+ com 8,9 mil inscritos fez 2,4 mi, 100x)",
-      "status": "aguardando",
-      "obs": "Longo + Short. Foto real do jogador (Wikimedia, pode reaproveitar as do vídeo 19/21) e 3 bandeiras como alternativas. Fácil (Neymar, Messi) -> difícil (jogadores de seleções pequenas na Copa 2026). Título ex.: 'De qual PAÍS é esse JOGADOR? Fácil, médio, difícil e impossível!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #2 (shorts/palito-2); faça SÓ o vídeo longo, sem Short do tema.",
-      "short": "shorts/palito-2"
+      "status": "pronto",
+      "obs": "Longo + Short. Foto real do jogador (Wikimedia, pode reaproveitar as do vídeo 19/21) e 3 bandeiras como alternativas. Fácil (Neymar, Messi) -> difícil (jogadores de seleções pequenas na Copa 2026). Título ex.: 'De qual PAÍS é esse JOGADOR? Fácil, médio, difícil e impossível!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #2 (shorts/palito-2); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 37, 36 jogadores (fotos do vídeo 19), alternativas com bandeira, pegadinhas no fim (Hakimi, Musiala, Rüdiger, Davies, Rice, Ibrahimović), ~12 min. Short = palito-2.",
+      "short": "shorts/palito-2",
+      "video": "videos/37-jogador-qual-pais",
+      "titulo": "De qual PAÍS é esse JOGADOR? ⚽ Fácil, médio, difícil e impossível! | Quiz Palito"
     },
     {
       "id": "2026-11-17-pais-contra-filhos-5-ano",
