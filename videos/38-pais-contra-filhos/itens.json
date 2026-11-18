@@ -1,0 +1,651 @@
+[
+ {
+  "n": 1,
+  "rodada": 1,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "9 × 6"
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "54",
+   "56",
+   "45"
+  ],
+  "certa": 0,
+  "fala_q": "Pra esquentar: quanto é nove vezes seis? 54, 56 ou 45?",
+  "fala_r": "Cinquenta e quatro! Começou bem?",
+  "count": 5.0
+ },
+ {
+  "n": 2,
+  "rodada": 1,
+  "materia": "GEOGRAFIA",
+  "pergunta": "CAPITAL DO BRASIL?",
+  "cartao": [
+   "Capital do",
+   "Brasil"
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "Brasília",
+   "Rio de Janeiro",
+   "São Paulo"
+  ],
+  "certa": 0,
+  "fala_q": "Essa é pra todo mundo acertar: qual é a capital do Brasil? Brasília, Rio de Janeiro ou São Paulo?",
+  "fala_r": "Brasília! Quem disse Rio de Janeiro voltou pro tempo antigo!",
+  "count": 5.0
+ },
+ {
+  "n": 3,
+  "rodada": 1,
+  "materia": "CIÊNCIAS",
+  "pergunta": "QUANTOS PLANETAS?",
+  "cartao": [
+   "Planetas do",
+   "Sistema Solar"
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "9",
+   "8",
+   "7"
+  ],
+  "certa": 1,
+  "fala_q": "Quantos planetas tem o Sistema Solar? nove, oito ou sete?",
+  "fala_r": "Oito! Plutão virou planeta-anão em 2006. Pai e mãe que disseram nove aprenderam na escola antiga!",
+  "count": 8.0,
+  "aviso": "PAIS, CUIDADO!",
+  "sabia": "Plutão deixou de ser planeta em 2006: hoje é um planeta-anão."
+ },
+ {
+  "n": 4,
+  "rodada": 1,
+  "materia": "PORTUGUÊS",
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "PÃO"
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Pãos",
+   "Pões",
+   "Pães"
+  ],
+  "certa": 2,
+  "fala_q": "Qual é o plural de pão? Pãos, Pões ou Pães?",
+  "fala_r": "Pães! Um pão, dois pães.",
+  "count": 8.0
+ },
+ {
+  "n": 5,
+  "rodada": 1,
+  "materia": "HISTÓRIA",
+  "pergunta": "EM QUE ANO?",
+  "cartao": [
+   "Os portugueses",
+   "chegam ao Brasil"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "1822",
+   "1500",
+   "1889"
+  ],
+  "certa": 1,
+  "fala_q": "Em que ano os portugueses chegaram ao Brasil? 1822, 1500 ou 1889?",
+  "fala_r": "Mil e quinhentos! Com a esquadra de Pedro Álvares Cabral.",
+  "count": 8.0
+ },
+ {
+  "n": 6,
+  "rodada": 1,
+  "materia": "CIÊNCIAS",
+  "pergunta": "QUAL É MAMÍFERO?",
+  "cartao": [
+   "Qual desses",
+   "é mamífero?"
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Tubarão",
+   "Baleia",
+   "Pinguim"
+  ],
+  "certa": 1,
+  "fala_q": "Qual desses animais é mamífero? Tubarão, Baleia ou Pinguim?",
+  "fala_r": "A baleia! O filhote mama, e ela respira ar, igual a gente.",
+  "count": 8.0
+ },
+ {
+  "n": 7,
+  "rodada": 1,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTOS LADOS?",
+  "cartao": [
+   "HEXÁGONO"
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "6",
+   "5",
+   "8"
+  ],
+  "certa": 0,
+  "fala_q": "Quantos lados tem um hexágono? seis, cinco ou oito?",
+  "fala_r": "Seis! Igual aos buraquinhos do favo de mel.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "rodada": 1,
+  "materia": "GEOGRAFIA",
+  "pergunta": "QUANTAS REGIÕES?",
+  "cartao": [
+   "Regiões do",
+   "Brasil"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "4",
+   "5",
+   "6"
+  ],
+  "certa": 1,
+  "fala_q": "O Brasil é dividido em quantas regiões? quatro, cinco ou seis?",
+  "fala_r": "Cinco! Norte, Nordeste, Centro-Oeste, Sudeste e Sul.",
+  "count": 8.0,
+  "fala_d": "Dica: Norte, Sul... e conta o resto!",
+  "dica_txt": "CONTA NOS DEDOS!"
+ },
+ {
+  "n": 9,
+  "rodada": 2,
+  "materia": "PORTUGUÊS",
+  "pergunta": "QUAL É O ANTÔNIMO?",
+  "cartao": [
+   "GENEROSO"
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Bondoso",
+   "Egoísta",
+   "Gentil"
+  ],
+  "certa": 1,
+  "fala_q": "Rodada dois, valendo! Antônimo é o contrário. Qual é o antônimo de generoso? Bondoso, Egoísta ou Gentil?",
+  "fala_r": "Egoísta! Bondoso e gentil são sinônimos, quase a mesma coisa.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "rodada": 2,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "3,50 + 1,75"
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "5,25",
+   "4,80",
+   "5,15"
+  ],
+  "certa": 0,
+  "fala_q": "Conta com vírgula, igual dinheiro: três e cinquenta mais um e setenta e cinco?",
+  "fala_r": "Cinco e vinte e cinco! Quem faz compra no mercado matou essa.",
+  "count": 8.0
+ },
+ {
+  "n": 11,
+  "rodada": 2,
+  "materia": "CIÊNCIAS",
+  "pergunta": "ÁGUA VIRANDO VAPOR?",
+  "cartao": [
+   "ÁGUA → VAPOR"
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Evaporação",
+   "Condensação",
+   "Solidificação"
+  ],
+  "certa": 0,
+  "fala_q": "Quando a água vira vapor, como isso se chama? Evaporação, Condensação ou Solidificação?",
+  "fala_r": "Evaporação! Condensação é o contrário: o vapor virando água.",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "rodada": 2,
+  "materia": "HISTÓRIA",
+  "pergunta": "QUEM PROCLAMOU?",
+  "cartao": [
+   "Independência",
+   "7 de setembro",
+   "de 1822"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Tiradentes",
+   "Dom Pedro I",
+   "Dom Pedro II"
+  ],
+  "certa": 1,
+  "fala_q": "Sete de setembro de 1822. Quem proclamou a independência do Brasil? Dom Pedro primeiro, Tiradentes ou Dom Pedro segundo?",
+  "fala_r": "Dom Pedro primeiro! Às margens do riacho Ipiranga.",
+  "count": 8.0
+ },
+ {
+  "n": 13,
+  "rodada": 2,
+  "materia": "GEOGRAFIA",
+  "pergunta": "MAIOR ESTADO?",
+  "cartao": [
+   "Maior estado",
+   "do Brasil"
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "Pará",
+   "Amazonas",
+   "Mato Grosso"
+  ],
+  "certa": 1,
+  "fala_q": "Qual é o maior estado do Brasil? Pará, Amazonas ou Mato Grosso?",
+  "fala_r": "Amazonas! É maior que muitos países da Europa.",
+  "count": 8.0,
+  "sabia": "O Amazonas é quase 3 vezes maior que a França."
+ },
+ {
+  "n": 14,
+  "rodada": 2,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "25% de 80"
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "20",
+   "25",
+   "40"
+  ],
+  "certa": 0,
+  "fala_q": "Quanto é vinte e cinco por cento de oitenta? 20, 25 ou 40?",
+  "fala_r": "Vinte! Vinte e cinco por cento é a quarta parte.",
+  "count": 8.0
+ },
+ {
+  "n": 15,
+  "rodada": 2,
+  "materia": "PORTUGUÊS",
+  "pergunta": "QUAL COMPLETA?",
+  "cartao": [
+   "Eu quis ir,",
+   "___ choveu."
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "mas",
+   "mais",
+   "más"
+  ],
+  "certa": 0,
+  "fala_q": "Qual palavra completa a frase do cartão? Mas sem i, mais com i, ou más com acento?",
+  "fala_r": "Mas, sem i! Mais com i é de quantidade, o contrário de menos.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 16,
+  "rodada": 2,
+  "materia": "CIÊNCIAS",
+  "pergunta": "O QUE AS PLANTAS SOLTAM?",
+  "cartao": [
+   "FOTOSSÍNTESE"
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "Gás carbônico",
+   "Nitrogênio",
+   "Oxigênio"
+  ],
+  "certa": 2,
+  "fala_q": "Na fotossíntese, que gás as plantas soltam no ar? Gás carbônico, Nitrogênio ou Oxigênio?",
+  "fala_r": "Oxigênio! Elas pegam gás carbônico e devolvem oxigênio.",
+  "count": 8.0,
+  "fala_d": "Dica: é o gás que a gente respira!",
+  "dica_txt": "A GENTE RESPIRA ELE!"
+ },
+ {
+  "n": 17,
+  "rodada": 2,
+  "materia": "GEOGRAFIA",
+  "pergunta": "ONDE O SOL NASCE?",
+  "cartao": [
+   "O Sol nasce",
+   "no..."
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "Oeste",
+   "Norte",
+   "Leste"
+  ],
+  "certa": 2,
+  "fala_q": "De que lado o Sol nasce? Oeste, Norte ou Leste?",
+  "fala_r": "No leste! E se põe no oeste.",
+  "count": 6.0
+ },
+ {
+  "n": 18,
+  "rodada": 2,
+  "materia": "HISTÓRIA",
+  "pergunta": "QUEM ASSINOU?",
+  "cartao": [
+   "Lei Áurea",
+   "1888"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "Dom Pedro I",
+   "Princesa Isabel",
+   "Tiradentes"
+  ],
+  "certa": 1,
+  "fala_q": "Em 1888, quem assinou a Lei Áurea? Princesa Isabel, Dom Pedro primeiro ou Tiradentes?",
+  "fala_r": "Princesa Isabel! A lei acabou com a escravidão no Brasil.",
+  "count": 8.0
+ },
+ {
+  "n": 19,
+  "rodada": 2,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTOS CENTÍMETROS?",
+  "cartao": [
+   "1,5 m = ? cm"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "15",
+   "1500",
+   "150"
+  ],
+  "certa": 2,
+  "fala_q": "Um metro e meio tem quantos centímetros? 15, 1500 ou 150?",
+  "fala_r": "Cento e cinquenta! Um metro tem cem centímetros.",
+  "count": 8.0
+ },
+ {
+  "n": 20,
+  "rodada": 2,
+  "materia": "PORTUGUÊS",
+  "pergunta": "QUAL É O SUJEITO?",
+  "cartao": [
+   "Os meninos",
+   "jogaram bola."
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "Os meninos",
+   "jogaram",
+   "bola"
+  ],
+  "certa": 0,
+  "fala_q": "Os meninos jogaram bola. Qual é o sujeito da frase? Os meninos, jogaram ou bola?",
+  "fala_r": "Os meninos! Sujeito é quem faz a ação.",
+  "count": 8.0
+ },
+ {
+  "n": 21,
+  "rodada": 3,
+  "materia": "CIÊNCIAS",
+  "pergunta": "MAIOR ÓRGÃO DO CORPO?",
+  "cartao": [
+   "Maior órgão",
+   "do corpo humano"
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Fígado",
+   "Intestino",
+   "Pele"
+  ],
+  "certa": 2,
+  "fala_q": "Agora complica! Qual é o maior órgão do corpo humano? Fígado, Intestino ou Pele?",
+  "fala_r": "A pele! Ela também é um órgão, e é o maior de todos.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 22,
+  "rodada": 3,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "2 + 3 × 4"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "20",
+   "14",
+   "24"
+  ],
+  "certa": 1,
+  "fala_q": "Essa aqui derruba muito adulto! Dois mais três vezes quatro? 20, 14 ou 24?",
+  "fala_r": "Catorze! Primeiro a multiplicação, depois a soma. Quem fez na ordem deu vinte.",
+  "count": 8.0,
+  "aviso": "DERRUBA ATÉ ADULTO!"
+ },
+ {
+  "n": 23,
+  "rodada": 3,
+  "materia": "GEOGRAFIA",
+  "pergunta": "MAIOR OCEANO?",
+  "cartao": [
+   "Maior oceano",
+   "do mundo"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "Atlântico",
+   "Pacífico",
+   "Índico"
+  ],
+  "certa": 1,
+  "fala_q": "Qual é o maior oceano do mundo? Atlântico, Pacífico ou Índico?",
+  "fala_r": "Pacífico! Ele é maior que todos os continentes juntos.",
+  "count": 8.0,
+  "sabia": "O Pacífico sozinho é maior que toda a terra do planeta junta."
+ },
+ {
+  "n": 24,
+  "rodada": 3,
+  "materia": "HISTÓRIA",
+  "pergunta": "1ª CAPITAL DO BRASIL?",
+  "cartao": [
+   "Primeira",
+   "capital do",
+   "Brasil"
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Rio de Janeiro",
+   "São Paulo",
+   "Salvador"
+  ],
+  "certa": 2,
+  "fala_q": "Antes de Brasília e do Rio, qual foi a primeira capital do Brasil? Rio de Janeiro, São Paulo ou Salvador?",
+  "fala_r": "Salvador! Depois veio o Rio, e só em 1960 Brasília.",
+  "count": 8.0,
+  "fala_d": "Dica: fica no Nordeste!",
+  "dica_txt": "FICA NO NORDESTE!"
+ },
+ {
+  "n": 25,
+  "rodada": 3,
+  "materia": "PORTUGUÊS",
+  "pergunta": "QUANTAS SÍLABAS?",
+  "cartao": [
+   "PARALELEPÍPEDO"
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "6",
+   "8",
+   "7"
+  ],
+  "certa": 2,
+  "fala_q": "Quantas sílabas tem paralelepípedo? seis, oito ou sete?",
+  "fala_r": "Sete! Pa, ra, le, le, pí, pe, do.",
+  "count": 8.0,
+  "aviso": "CONTA DEVAGAR!"
+ },
+ {
+  "n": 26,
+  "rodada": 3,
+  "materia": "CIÊNCIAS",
+  "pergunta": "MAIS PERTO DO SOL?",
+  "cartao": [
+   "Planeta mais",
+   "perto do Sol"
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "Vênus",
+   "Mercúrio",
+   "Marte"
+  ],
+  "certa": 1,
+  "fala_q": "Qual planeta fica mais perto do Sol? Vênus, Mercúrio ou Marte?",
+  "fala_r": "Mercúrio! Vênus vem logo depois.",
+  "count": 8.0
+ },
+ {
+  "n": 27,
+  "rodada": 3,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "0,5 × 0,5"
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "2,5",
+   "1",
+   "0,25"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado! Zero vírgula cinco vezes zero vírgula cinco?",
+  "fala_r": "Zero vírgula vinte e cinco! Metade da metade é um quarto.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 28,
+  "rodada": 3,
+  "materia": "GEOGRAFIA",
+  "pergunta": "QUE RIO É ESSE?",
+  "cartao": [
+   "Apelido:",
+   "VELHO CHICO"
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "Tietê",
+   "Paraná",
+   "São Francisco"
+  ],
+  "certa": 2,
+  "fala_q": "Ele tem o apelido de Velho Chico. Que rio é esse? Tietê, Paraná ou São Francisco?",
+  "fala_r": "Rio São Francisco! Nasce em Minas Gerais e chega no mar entre Alagoas e Sergipe.",
+  "count": 8.0
+ },
+ {
+  "n": 29,
+  "rodada": 3,
+  "materia": "HISTÓRIA",
+  "pergunta": "O QUE ERA?",
+  "cartao": [
+   "PAU-BRASIL"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Uma árvore",
+   "Um rio",
+   "Uma moeda"
+  ],
+  "certa": 0,
+  "fala_q": "O pau-brasil, que deu nome ao país, era o quê? Uma árvore, Um rio ou Uma moeda?",
+  "fala_r": "Uma árvore! A madeira soltava uma tinta vermelha, cor de brasa.",
+  "count": 8.0
+ },
+ {
+  "n": 30,
+  "rodada": 3,
+  "materia": "PORTUGUÊS",
+  "pergunta": "QUAL É O COLETIVO?",
+  "cartao": [
+   "Coletivo de",
+   "LOBOS"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "Cardume",
+   "Matilha",
+   "Alcateia"
+  ],
+  "certa": 2,
+  "fala_q": "Qual é o coletivo de lobos? Cardume, Matilha ou Alcateia?",
+  "fala_r": "Alcateia! Matilha é de cães, cardume é de peixes.",
+  "count": 8.0,
+  "aviso": "DERRUBA ATÉ ADULTO!"
+ },
+ {
+  "n": 31,
+  "rodada": 3,
+  "materia": "CIÊNCIAS",
+  "pergunta": "QUANTOS OSSOS?",
+  "cartao": [
+   "Ossos do corpo",
+   "de um adulto"
+  ],
+  "foto": "q31.png",
+  "opcoes": [
+   "206",
+   "106",
+   "306"
+  ],
+  "certa": 0,
+  "fala_q": "Quantos ossos tem o corpo de um adulto? 206, 106 ou 306?",
+  "fala_r": "Duzentos e seis! O bebê nasce com mais, e eles vão se juntando.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 32,
+  "rodada": 3,
+  "materia": "MATEMÁTICA",
+  "pergunta": "QUANTO É?",
+  "cartao": [
+   "1/3 + 1/6"
+  ],
+  "foto": "q32.png",
+  "opcoes": [
+   "1/2",
+   "2/9",
+   "1/9"
+  ],
+  "certa": 0,
+  "fala_q": "Valendo a nota da família! Um terço mais um sexto? Um meio, dois nonos ou um nono?",
+  "fala_r": "Um meio! Um terço é dois sextos, mais um sexto dá três sextos, que é a metade. Se acertou, passou de ano!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Pais ou filhos... a resposta é..."
+ }
+]

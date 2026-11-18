@@ -1,0 +1,795 @@
+[
+ {
+  "n": 1,
+  "letra": "B",
+  "pista": [
+   "A única",
+   "PENTACAMPEÃ"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA B",
+  "foto": "q1.png",
+  "bandeiras": [
+   "br",
+   "be",
+   "bo"
+  ],
+  "opcoes": [
+   "BRASIL",
+   "BÉLGICA",
+   "BOLÍVIA"
+  ],
+  "certa": 0,
+  "fala_q": "Começando fácil, letra B: a única seleção pentacampeã do mundo! Brasil, Bélgica ou Bolívia?",
+  "fala_r": "Brasil! Cinco estrelas na camisa. Começou bem?",
+  "count": 5.0
+ },
+ {
+  "n": 2,
+  "letra": "A",
+  "pista": [
+   "Campeã do mundo",
+   "em 2022"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA A",
+  "foto": "q2.png",
+  "bandeiras": [
+   "de",
+   "au",
+   "ar"
+  ],
+  "opcoes": [
+   "ALEMANHA",
+   "AUSTRÁLIA",
+   "ARGENTINA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra A: quem foi campeã do mundo em 2022? Alemanha, Austrália ou Argentina?",
+  "fala_r": "Argentina! Com Messi levantando a taça.",
+  "count": 5.0
+ },
+ {
+  "n": 3,
+  "letra": "P",
+  "pista": [
+   "A seleção do",
+   "Cristiano Ronaldo"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA P",
+  "foto": "q3.png",
+  "bandeiras": [
+   "py",
+   "pe",
+   "pt"
+  ],
+  "opcoes": [
+   "PARAGUAI",
+   "PERU",
+   "PORTUGAL"
+  ],
+  "certa": 2,
+  "fala_q": "Letra P: a seleção do Cristiano Ronaldo! Paraguai, Peru ou Portugal?",
+  "fala_r": "Portugal! O maior artilheiro de seleções da história.",
+  "count": 7.0
+ },
+ {
+  "n": 4,
+  "letra": "F",
+  "pista": [
+   "Campeã do mundo",
+   "em 2018"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA F",
+  "foto": "q4.png",
+  "bandeiras": [
+   "fr",
+   "fi",
+   "fj"
+  ],
+  "opcoes": [
+   "FRANÇA",
+   "FINLÂNDIA",
+   "FIJI"
+  ],
+  "certa": 0,
+  "fala_q": "Letra F: a campeã do mundo de 2018, na Rússia. França, Finlândia ou Fiji?",
+  "fala_r": "França! Com o Mbappé ainda novinho.",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "letra": "E",
+  "pista": [
+   "Campeã do mundo",
+   "em 2010"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA E",
+  "foto": "q5.png",
+  "bandeiras": [
+   "ec",
+   "gb-sct",
+   "es"
+  ],
+  "opcoes": [
+   "EQUADOR",
+   "ESCÓCIA",
+   "ESPANHA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra E: quem ganhou a Copa de 2010, na África do Sul? Equador, Escócia ou Espanha?",
+  "fala_r": "Espanha! Gol do Iniesta na prorrogação da final.",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "letra": "I",
+  "pista": [
+   "A AZZURRA,",
+   "tetracampeã"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA I",
+  "foto": "q6.png",
+  "bandeiras": [
+   "it",
+   "gb-eng",
+   "ir"
+  ],
+  "opcoes": [
+   "ITÁLIA",
+   "INGLATERRA",
+   "IRÃ"
+  ],
+  "certa": 0,
+  "fala_q": "Letra I: a Azzurra, tetracampeã do mundo. Itália, Inglaterra ou Irã?",
+  "fala_r": "Itália! Quatro títulos, igual à Alemanha.",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "letra": "J",
+  "pista": [
+   "Os SAMURAIS",
+   "AZUIS"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA J",
+  "foto": "q7.png",
+  "bandeiras": [
+   "jm",
+   "jp",
+   "jo"
+  ],
+  "opcoes": [
+   "JAMAICA",
+   "JAPÃO",
+   "JORDÂNIA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra J: a seleção conhecida como Samurais Azuis. Jamaica, Japão ou Jordânia?",
+  "fala_r": "Japão! A torcida ainda limpa o estádio depois do jogo.",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "letra": "U",
+  "pista": [
+   "A 1ª campeã",
+   "do mundo (1930)"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA U",
+  "foto": "q8.png",
+  "bandeiras": [
+   "ua",
+   "uy",
+   "uz"
+  ],
+  "opcoes": [
+   "UCRÂNIA",
+   "URUGUAI",
+   "UZBEQUISTÃO"
+  ],
+  "certa": 1,
+  "fala_q": "Letra U: a primeira campeã do mundo, em 1930. Ucrânia, Uruguai ou Uzbequistão?",
+  "fala_r": "Uruguai! E ainda foi a dona da casa.",
+  "count": 7.0,
+  "sabia": "O Uruguai também ganhou a Copa de 1950, no Maracanã."
+ },
+ {
+  "n": 9,
+  "letra": "M",
+  "pista": [
+   "Sede das Copas",
+   "de 1970, 1986",
+   "e 2026"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA M",
+  "foto": "q9.png",
+  "bandeiras": [
+   "ma",
+   "mx",
+   "ml"
+  ],
+  "opcoes": [
+   "MARROCOS",
+   "MÉXICO",
+   "MALI"
+  ],
+  "certa": 1,
+  "fala_q": "Letra M: o país que recebeu as Copas de 1970, 1986 e 2026. Marrocos, México ou Mali?",
+  "fala_r": "México! O primeiro país a receber três Copas.",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "letra": "C",
+  "pista": [
+   "Vice em 2018,",
+   "camisa XADREZ"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA C",
+  "foto": "q10.png",
+  "bandeiras": [
+   "co",
+   "cm",
+   "hr"
+  ],
+  "opcoes": [
+   "COLÔMBIA",
+   "CAMARÕES",
+   "CROÁCIA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra C: a vice-campeã de 2018, a da camisa xadrez. Colômbia, Camarões ou Croácia?",
+  "fala_r": "Croácia! Com o Modrić no meio-campo.",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "letra": "H",
+  "pista": [
+   "A LARANJA",
+   "MECÂNICA"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA H",
+  "foto": "q11.png",
+  "bandeiras": [
+   "hu",
+   "ht",
+   "nl"
+  ],
+  "opcoes": [
+   "HUNGRIA",
+   "HAITI",
+   "HOLANDA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra H: a famosa Laranja Mecânica. Hungria, Haiti ou Holanda?",
+  "fala_r": "Holanda! Três finais de Copa e nenhum título.",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "letra": "A",
+  "pista": [
+   "Os SOCCEROOS",
+   "(a dos cangurus)"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA A",
+  "foto": "q12.png",
+  "bandeiras": [
+   "dz",
+   "au",
+   "at"
+  ],
+  "opcoes": [
+   "ARGÉLIA",
+   "AUSTRÁLIA",
+   "ÁUSTRIA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra A de novo: a seleção dos Socceroos, a dos cangurus. Argélia, Austrália ou Áustria?",
+  "fala_r": "Austrália! Socceroos mistura soccer, futebol, com kangaroo, canguru.",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "letra": "S",
+  "pista": [
+   "Perdeu a final",
+   "de 1958",
+   "para o Brasil"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA S",
+  "foto": "q13.png",
+  "bandeiras": [
+   "ch",
+   "se",
+   "rs"
+  ],
+  "opcoes": [
+   "SUÍÇA",
+   "SUÉCIA",
+   "SÉRVIA"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa tem pegadinha! Letra S: quem perdeu a final da Copa de 1958 para o Brasil? Suíça, Suécia ou Sérvia?",
+  "fala_r": "Suécia! A primeira Copa do Brasil, com Pelé de dezessete anos.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 14,
+  "letra": "G",
+  "pista": [
+   "As ESTRELAS",
+   "NEGRAS"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA G",
+  "foto": "q14.png",
+  "bandeiras": [
+   "gr",
+   "gh",
+   "ge"
+  ],
+  "opcoes": [
+   "GRÉCIA",
+   "GANA",
+   "GEÓRGIA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra G: as Estrelas Negras, da África. Grécia, Gana ou Geórgia?",
+  "fala_r": "Gana! A estrela preta tá até na bandeira.",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "letra": "N",
+  "pista": [
+   "As SUPER",
+   "ÁGUIAS"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA N",
+  "foto": "q15.png",
+  "bandeiras": [
+   "ng",
+   "no",
+   "nz"
+  ],
+  "opcoes": [
+   "NIGÉRIA",
+   "NORUEGA",
+   "NOVA ZELÂNDIA"
+  ],
+  "certa": 0,
+  "fala_q": "Letra N: a seleção das Super Águias. Nigéria, Noruega ou Nova Zelândia?",
+  "fala_r": "Nigéria! Campeã olímpica em 1996.",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "letra": "R",
+  "pista": [
+   "Sede da Copa",
+   "de 2018"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA R",
+  "foto": "q16.png",
+  "bandeiras": [
+   "ro",
+   "ru",
+   "rw"
+  ],
+  "opcoes": [
+   "ROMÊNIA",
+   "RÚSSIA",
+   "RUANDA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra R: o país-sede da Copa de 2018. Romênia, Rússia ou Ruanda?",
+  "fala_r": "Rússia! A Copa da final França contra Croácia.",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "letra": "T",
+  "pista": [
+   "3º lugar na",
+   "Copa de 2002"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA T",
+  "foto": "q17.png",
+  "bandeiras": [
+   "tn",
+   "tg",
+   "tr"
+  ],
+  "opcoes": [
+   "TUNÍSIA",
+   "TOGO",
+   "TURQUIA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra T: quem ficou em terceiro lugar na Copa de 2002? Tunísia, Togo ou Turquia?",
+  "fala_r": "Turquia! E perdeu a semifinal justo pro Brasil.",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 18,
+  "letra": "C",
+  "pista": [
+   "Campeã da Copa",
+   "América em",
+   "2015 e 2016"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA C",
+  "foto": "q18.png",
+  "bandeiras": [
+   "cl",
+   "co",
+   "cr"
+  ],
+  "opcoes": [
+   "CHILE",
+   "COLÔMBIA",
+   "COSTA RICA"
+  ],
+  "certa": 0,
+  "fala_q": "Letra C de novo: a campeã da Copa América em 2015 e em 2016. Chile, Colômbia ou Costa Rica?",
+  "fala_r": "Chile! Ganhou as duas na final contra a Argentina, nos pênaltis.",
+  "count": 7.0,
+  "fala_d": "Dica: é a do Alexis Sánchez!",
+  "dica_txt": "ALEXIS SÁNCHEZ!"
+ },
+ {
+  "n": 19,
+  "letra": "M",
+  "pista": [
+   "1ª africana na",
+   "SEMIFINAL",
+   "(2022)"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA M",
+  "foto": "q19.png",
+  "bandeiras": [
+   "ml",
+   "ma",
+   "mz"
+  ],
+  "opcoes": [
+   "MALI",
+   "MARROCOS",
+   "MOÇAMBIQUE"
+  ],
+  "certa": 1,
+  "fala_q": "Letra M: a primeira seleção africana a chegar numa semifinal de Copa, em 2022. Mali, Marrocos ou Moçambique?",
+  "fala_r": "Marrocos! Eliminou Espanha e Portugal no caminho.",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "letra": "D",
+  "pista": [
+   "Campeã da",
+   "EUROCOPA 1992"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA D",
+  "foto": "q20.png",
+  "bandeiras": [
+   "dj",
+   "dm",
+   "dk"
+  ],
+  "opcoes": [
+   "DJIBUTI",
+   "DOMINICA",
+   "DINAMARCA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra D: a campeã da Eurocopa de 1992. Djibuti, Dominica ou Dinamarca?",
+  "fala_r": "Dinamarca! E ela nem tinha se classificado, entrou de última hora.",
+  "count": 7.0,
+  "sabia": "A Dinamarca entrou na Euro 92 no lugar da Iugoslávia, 10 dias antes."
+ },
+ {
+  "n": 21,
+  "letra": "I",
+  "pista": [
+   "Campeã do mundo",
+   "em casa, 1966"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA I",
+  "foto": "q21.png",
+  "bandeiras": [
+   "ie",
+   "is",
+   "gb-eng"
+  ],
+  "opcoes": [
+   "IRLANDA",
+   "ISLÂNDIA",
+   "INGLATERRA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra I: campeã do mundo em casa, em 1966. Irlanda, Islândia ou Inglaterra?",
+  "fala_r": "Inglaterra! O único título deles.",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "letra": "V",
+  "pista": [
+   "A ÚNICA da",
+   "América do Sul que",
+   "NUNCA foi à Copa"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA V",
+  "foto": "q22.png",
+  "bandeiras": [
+   "vn",
+   "vu",
+   "ve"
+  ],
+  "opcoes": [
+   "VIETNÃ",
+   "VANUATU",
+   "VENEZUELA"
+  ],
+  "certa": 2,
+  "fala_q": "Essa derruba muita gente! Letra V: a única seleção da América do Sul que nunca jogou uma Copa. Vietnã, Vanuatu ou Venezuela?",
+  "fala_r": "Venezuela! Bateu na trave de novo nas eliminatórias de 2026.",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 23,
+  "letra": "C",
+  "pista": [
+   "Os LEÕES",
+   "INDOMÁVEIS"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA C",
+  "foto": "q23.png",
+  "bandeiras": [
+   "ca",
+   "qa",
+   "cm"
+  ],
+  "opcoes": [
+   "CANADÁ",
+   "CATAR",
+   "CAMARÕES"
+  ],
+  "certa": 2,
+  "fala_q": "Letra C, a última com C: os Leões Indomáveis. Canadá, Catar ou Camarões?",
+  "fala_r": "Camarões! A do Roger Milla dançando na bandeirinha de escanteio.",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "letra": "L",
+  "pista": [
+   "Seleção do único",
+   "africano BOLA",
+   "DE OURO"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA L",
+  "foto": "q24.png",
+  "bandeiras": [
+   "ly",
+   "lu",
+   "lr"
+  ],
+  "opcoes": [
+   "LÍBIA",
+   "LUXEMBURGO",
+   "LIBÉRIA"
+  ],
+  "certa": 2,
+  "fala_q": "Agora as letras difíceis! Letra L: a seleção do George Weah, o único africano Bola de Ouro. Líbia, Luxemburgo ou Libéria?",
+  "fala_r": "Libéria! E o Weah depois virou presidente do país.",
+  "count": 7.0,
+  "fala_d": "Dica: fica na África!",
+  "dica_txt": "FICA NA ÁFRICA!",
+  "aviso": "AGORA SÓ LETRA DIFÍCIL!"
+ },
+ {
+  "n": 25,
+  "letra": "I",
+  "pista": [
+   "O grito viking",
+   "\"UH!\" na Euro 2016"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA I",
+  "foto": "q25.png",
+  "bandeiras": [
+   "is",
+   "ie",
+   "il"
+  ],
+  "opcoes": [
+   "ISLÂNDIA",
+   "IRLANDA",
+   "ISRAEL"
+  ],
+  "certa": 0,
+  "fala_q": "Letra I: a seleção do grito viking, uh, na Eurocopa de 2016. Islândia, Irlanda ou Israel?",
+  "fala_r": "Islândia! Um país com menos gente que muita cidade brasileira.",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "letra": "Z",
+  "pista": [
+   "Campeã africana",
+   "em 2012"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA Z",
+  "foto": "q26.png",
+  "bandeiras": [
+   "zw",
+   "-zaire",
+   "zm"
+  ],
+  "opcoes": [
+   "ZIMBÁBUE",
+   "ZAIRE",
+   "ZÂMBIA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra Z: a campeã da Copa Africana de 2012. Zimbábue, Zaire ou Zâmbia?",
+  "fala_r": "Zâmbia! E Zaire é o nome antigo do Congo.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 27,
+  "letra": "K",
+  "pista": [
+   "Jogou a Copa",
+   "de 1982"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA K",
+  "foto": "q27.png",
+  "bandeiras": [
+   "kw",
+   "xk",
+   "ki"
+  ],
+  "opcoes": [
+   "KUWAIT",
+   "KOSOVO",
+   "KIRIBATI"
+  ],
+  "certa": 0,
+  "fala_q": "Ninguém lembra dessa! Letra K: a seleção que jogou a Copa de 1982. Kuwait, Kosovo ou Kiribati?",
+  "fala_r": "Kuwait! Jogou na Espanha, contra França, Inglaterra e Tchecoslováquia.",
+  "count": 7.0,
+  "aviso": "NINGUÉM LEMBRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 28,
+  "letra": "O",
+  "pista": [
+   "A ÚNICA seleção",
+   "com O"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA O",
+  "foto": "q28.png",
+  "bandeiras": [
+   "-oceania",
+   "om",
+   "-oriente"
+  ],
+  "opcoes": [
+   "OCEANIA",
+   "OMÃ",
+   "ORIENTE MÉDIO"
+  ],
+  "certa": 1,
+  "fala_q": "Letra O: qual é a única seleção com O? Oceania, Omã ou Oriente Médio?",
+  "fala_r": "Omã! Oceania é continente, e Oriente Médio é região.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 29,
+  "letra": "Q",
+  "pista": [
+   "Terra dos campeões",
+   "de MARATONA"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA Q",
+  "foto": "q29.png",
+  "bandeiras": [
+   "ke",
+   "kg",
+   "-quebec"
+  ],
+  "opcoes": [
+   "QUÊNIA",
+   "QUIRGUISTÃO",
+   "QUEBEC"
+  ],
+  "certa": 0,
+  "fala_q": "Letra Q: o país africano dos campeões de maratona. Quênia, Quirguistão ou Quebec?",
+  "fala_r": "Quênia! Quebec é uma província do Canadá.",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "letra": "Y",
+  "pista": [
+   "Em inglês: YEMEN.",
+   "E em português?"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA Y",
+  "foto": "q30.png",
+  "bandeiras": [
+   "ye",
+   "om",
+   "qa"
+  ],
+  "opcoes": [
+   "IÊMEN",
+   "OMÃ",
+   "CATAR"
+  ],
+  "certa": 0,
+  "fala_q": "Letra Y! Em português não tem seleção com Y. Mas em inglês tem: Yemen. Que país é esse? Iêmen, Omã ou Catar?",
+  "fala_r": "Iêmen! No Brasil a gente escreve com I.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 31,
+  "letra": "X",
+  "pista": [
+   "Que seleção",
+   "começa com X?"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA X",
+  "foto": "q31.png",
+  "bandeiras": [
+   "-nenhuma",
+   "-xangai",
+   "-xingu"
+  ],
+  "opcoes": [
+   "NENHUMA!",
+   "XANGAI",
+   "XINGU"
+  ],
+  "certa": 0,
+  "fala_q": "E a letra xis? Que seleção começa com xis? nenhuma, Xangai ou Xingu?",
+  "fala_r": "Nenhuma! Não existe país com xis. Xangai é cidade da China e Xingu é rio do Brasil.",
+  "count": 7.0,
+  "aviso": "PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 32,
+  "letra": "W",
+  "pista": [
+   "Em inglês: WALES,",
+   "a do Gareth Bale"
+  ],
+  "pergunta": "SELEÇÃO COM A LETRA W",
+  "foto": "q32.png",
+  "bandeiras": [
+   "gb-sct",
+   "gb-wls",
+   "ie"
+  ],
+  "opcoes": [
+   "ESCÓCIA",
+   "PAÍS DE GALES",
+   "IRLANDA"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo o título de craque das seleções! Letra W: Wales, a seleção do Gareth Bale. Como é em português? Escócia, País de Gales ou Irlanda?",
+  "fala_r": "País de Gales! Em inglês é Wales, com W. Se acertou essa, você manja de seleção!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Valendo o título... a resposta é..."
+ }
+]

@@ -504,17 +504,21 @@
       "id": "2026-11-17-pais-contra-filhos-5-ano",
       "referencia": "",
       "tema": "Pais contra filhos: prova do 5º ano (público TV/família; Short do 5º ano é o 2º melhor do canal)",
-      "status": "aguardando",
-      "obs": "Longo + Short. 30 perguntas do 5º ano (português, matemática, ciências, geografia, história) com placar 'PAIS x FILHOS' na tela para a família marcar (letras grandes: 61% do tempo é na TV). Título ex.: 'PAIS contra FILHOS: quem passa na prova do 5º ano?'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #3 (shorts/palito-3); faça SÓ o vídeo longo, sem Short do tema.",
-      "short": "shorts/palito-3"
+      "status": "pronto",
+      "obs": "Longo + Short. 30 perguntas do 5º ano (português, matemática, ciências, geografia, história) com placar 'PAIS x FILHOS' na tela para a família marcar (letras grandes: 61% do tempo é na TV). Título ex.: 'PAIS contra FILHOS: quem passa na prova do 5º ano?'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #3 (shorts/palito-3); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 38, 32 questões do 5º ano (português, matemática, ciências, geografia, história) em 3 rodadas, cartões de caderno com a matéria, placar PAIS x FILHOS a cada 10, fundo roxo, ~11:50. Short = palito-3.",
+      "short": "shorts/palito-3",
+      "video": "videos/38-pais-contra-filhos",
+      "titulo": "PAIS contra FILHOS 📚 Quem passa na PROVA DO 5º ANO? Quiz em família | Quiz Palito"
     },
     {
       "id": "2026-11-17-selecoes-a-z",
       "referencia": "",
       "tema": "Nomeie uma SELEÇÃO de A a Z - Copa 2026 (FaíscaMente fez 385 mil, 54x)",
-      "status": "aguardando",
-      "obs": "Longo + Short. Para cada letra, a letra gigante + contagem; resposta com a bandeira (SVG PD, como no vídeo 24) e o nome. Letras difíceis (I, K, O, Q, W, X, Y, Z) no fim com aviso 'TEM PEGADINHA!'. Título ex.: 'Diga uma SELEÇÃO para cada LETRA de A a Z! Ninguém acerta a letra W'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #4 (shorts/palito-4); faça SÓ o vídeo longo, sem Short do tema.",
-      "short": "shorts/palito-4"
+      "status": "pronto",
+      "obs": "Longo + Short. Para cada letra, a letra gigante + contagem; resposta com a bandeira (SVG PD, como no vídeo 24) e o nome. Letras difíceis (I, K, O, Q, W, X, Y, Z) no fim com aviso 'TEM PEGADINHA!'. Título ex.: 'Diga uma SELEÇÃO para cada LETRA de A a Z! Ninguém acerta a letra W'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #4 (shorts/palito-4); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 39, 32 perguntas (todas as letras, A/C/I/M repetem), letra gigante + pista no cartão, 3 seleções da mesma letra com bandeira; K, O, Q, X, Y, W no fim (X = nenhuma, W = Wales/País de Gales). Short = palito-4.",
+      "short": "shorts/palito-4",
+      "video": "videos/39-selecoes-a-z",
+      "titulo": "Uma SELEÇÃO para cada LETRA de A a Z! ⚽ Ninguém acerta a letra W | Quiz Palito"
     },
     {
       "id": "2026-11-17-animal-simbolo-pais",
