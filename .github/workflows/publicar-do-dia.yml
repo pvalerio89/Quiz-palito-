@@ -61,6 +61,32 @@ jobs:
             echo "**${{ steps.f.outputs.id }}** — ${{ steps.f.outputs.video }} + ${{ steps.f.outputs.short }}, longo no ar em ${{ steps.f.outputs.agendar }}, Short em ${{ steps.f.outputs.agendar_short }} (UTC)" >> "$GITHUB_STEP_SUMMARY"
           fi
 
+  # Shorts de desafio (Desafio do Palito) não mostram a resposta: ela vai num comentário do canal assim que o
+  # Short fica público (automacao/comentar_resposta.py). Roda em toda rodada; não falha a execução.
+  comentar_resposta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - name: Comentar respostas
+        env:
+          YT_CLIENT_ID: ${{ vars.YT_CLIENT_ID || secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python automacao/comentar_resposta.py
+      - name: Gravar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add comentarios/respostas-shorts.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Respostas dos desafios comentadas"
+          for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && break; sleep 5; done
+
   gerar_video:
     needs: escolher
     if: needs.escolher.outputs.video != '' && needs.escolher.outputs.video_feito != 'true'

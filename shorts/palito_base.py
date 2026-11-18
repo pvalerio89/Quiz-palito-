@@ -295,9 +295,13 @@ class Desafio:
     titulo (2 linhas da tela), falas {"q", "comenta", "r1", ["r2"], "final", ["dica"]}, count, dica_txt."""
 
     def __init__(self, here, conta, modo, mostrar, numero, tema, titulo, falas, count=8.0, dica_txt=None,
-                 musica="Sneaky Snitch.mp3"):
+                 musica="Sneaky Snitch.mp3", revelar=False):
         self.here, self.conta, self.modo, self.numero, self.tema = here, conta, modo, numero, tema
         self.titulo, self.falas, self.count, self.dica_txt = titulo, falas, count, dica_txt
+        # revelar=False (Patrick, 2026-11-17): o Short NÃO mostra a resposta. Termina pedindo o palpite nos
+        # comentários e a resposta vai num comentário do canal (youtube/comentario.txt, postado pelo
+        # "Publicar do dia" quando o Short fica público). Quem quer saber fica revendo e comentando.
+        self.revelar = revelar
         self.musica = os.path.join(s.QP, "musicas", musica)
         if certa(conta):
             sys.exit(f"ERRO: a conta {conta} já está certa.")
@@ -322,6 +326,8 @@ class Desafio:
             _c._SSL_CTX = ssl.create_default_context(cafile="/root/.ccr/ca-bundle.crt")
         os.makedirs(os.path.join(self.here, "assets"), exist_ok=True)
         for k, txt in self.falas.items():
+            if not self.revelar and (k == "comenta" or re.fullmatch(r"r\d", k)):
+                continue  # sem revelação: essas falas só viram o comentário com a resposta
             p = self.A(f"{k}.mp3")
             if os.path.exists(p) and os.path.getsize(p) < 1000:
                 os.remove(p)  # Edge TTS às vezes grava vazio
@@ -408,6 +414,20 @@ class Desafio:
                 b.put_palito(img, "pensando", 330, 230, 1570)
             yield zoom(img, 1.02).convert("RGB")
 
+    def sem_resposta_frames(self, dur):
+        """Fim SEM revelar: a conta continua na tela e pede o palpite; a resposta está nos comentários."""
+        for n in range(int(dur * FPS)):
+            t = n / FPS
+            img = self.base(9)
+            desenhar_conta(img, self.ps, self.xs, self.sc)
+            d = ImageDraw.Draw(img)
+            balao(img, "COMENTA TUA RESPOSTA!", 540, 1185, t, cor=b.RED, size=62, larg=920)
+            if t > 0.4:
+                s.texto(d, (600, 1320), "A CERTA ESTÁ NOS", 54, b.WHITE)
+                s.texto(d, (600, 1400), "COMENTÁRIOS 👇".replace(" 👇", ""), 64, b.YELLOW)
+            b.put_palito(img, "apontando", 330, 200, 1570, int(6 * math.sin(t * 6)))
+            yield zoom(img, 1.0 + 0.03 * t / dur).convert("RGB")
+
     def final_frames(self, dur):
         img = mesa(self.tema)
         d = ImageDraw.Draw(img)
@@ -438,18 +458,24 @@ class Desafio:
             tl.sound(sfx["tick"], at=fala + k, vol=0.8)
         for f in self.pergunta_frames(fala, dica_em):
             tl.frame(f)
-        tl.sound(A("comenta.mp3"), at=tl.t + 0.05, voz=True)
-        for f in self.comenta_frames(dur(A("comenta.mp3")) + 0.3):
-            tl.frame(f)
-        for n, sol in enumerate(self.sols, 1):
-            tl.sound(sfx["whoosh"], at=tl.t + 0.7, vol=0.7)
-            tl.sound(sfx["ding"], at=tl.t + 1.8, vol=0.8)
-            tl.sound(A(f"r{n}.mp3"), at=tl.t + 1.9, voz=True)
-            for f in self.resposta_frames(sol, 1.9 + dur(A(f"r{n}.mp3")) + 0.6, self.ps):
+        if not self.revelar:
+            tl.sound(sfx["whoosh"], at=tl.t, vol=0.6)
+            tl.sound(A("final.mp3"), at=tl.t + 0.1, voz=True)
+            for f in self.sem_resposta_frames(dur(A("final.mp3")) + 1.0):
                 tl.frame(f)
-        tl.sound(A("final.mp3"), at=tl.t + 0.1, voz=True)
-        for f in self.final_frames(dur(A("final.mp3")) + 0.7):
-            tl.frame(f)
+        else:
+            tl.sound(A("comenta.mp3"), at=tl.t + 0.05, voz=True)
+            for f in self.comenta_frames(dur(A("comenta.mp3")) + 0.3):
+                tl.frame(f)
+            for n, sol in enumerate(self.sols, 1):
+                tl.sound(sfx["whoosh"], at=tl.t + 0.7, vol=0.7)
+                tl.sound(sfx["ding"], at=tl.t + 1.8, vol=0.8)
+                tl.sound(A(f"r{n}.mp3"), at=tl.t + 1.9, voz=True)
+                for f in self.resposta_frames(sol, 1.9 + dur(A(f"r{n}.mp3")) + 0.6, self.ps):
+                    tl.frame(f)
+            tl.sound(A("final.mp3"), at=tl.t + 0.1, voz=True)
+            for f in self.final_frames(dur(A("final.mp3")) + 0.7):
+                tl.frame(f)
         tl.close()
         s.mixar(tl, video, self.musica, saida)
         print(f"OK {saida} ({tl.t:.1f}s)")
@@ -458,6 +484,16 @@ class Desafio:
         out = os.path.join(self.here, "previa")
         os.makedirs(out, exist_ok=True)
         pf = list(self.pergunta_frames(2.5, 3.0 if self.dica_txt else None))
+        if not self.revelar:
+            fim = list(self.sem_resposta_frames(2.5))
+            ims = [pf[2], pf[int(5.5 * FPS)], pf[-5], fim[5], fim[-1]]
+            sheet = Image.new("RGB", (len(ims) * 370, 640), (25, 25, 25))
+            for i, im in enumerate(ims):
+                sheet.paste(im.resize((360, 640)), (i * 370, 0))
+            os.makedirs(out, exist_ok=True)
+            sheet.save(os.path.join(out, "prancha.jpg"), quality=85)
+            print(os.path.join(out, "prancha.jpg"))
+            return
         rf = list(self.resposta_frames(self.sols[0], 4.0, self.ps))
         ims = [pf[2], pf[int(5.5 * FPS)], list(self.comenta_frames(1.0))[20], rf[int(1.2 * FPS)], rf[-1],
                list(self.final_frames(1.0))[10]]

@@ -23,7 +23,7 @@ D = pb.Desafio(
         "comenta": "Achou as duas? Comenta antes de ver!",
         "r1": "Primeira: o palito do mais vai pro seis! Oito menos quatro, quatro!",
         "r2": "Segunda: o meio do seis sobe! Zero mais quatro, quatro!",
-        "final": "Achou as duas? Comenta!",
+        "final": "Achou as duas? Comenta! As respostas tão nos comentários!",
     },
     dica_txt=None,
     count=8.0,

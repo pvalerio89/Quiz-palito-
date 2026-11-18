@@ -23,7 +23,7 @@ D = pb.Desafio(
         "dica": "Dica: olha o número um!",
         "comenta": "Já sabe? Comenta antes de ver!",
         "r1": "Tira o palito do mais e faz um sete! Sete menos sete, zero!",
-        "final": "Acertou? Comenta eu!",
+        "final": "E aí, achou? Comenta! A resposta tá nos comentários!",
     },
     dica_txt='OLHE O NÚMERO 1!',
     count=8.0,
