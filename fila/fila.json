@@ -494,11 +494,18 @@
       "id": "2026-11-17-jogador-qual-pais",
       "referencia": "",
       "tema": "De qual PAÍS é esse JOGADOR? (Canal PLÁ+ com 8,9 mil inscritos fez 2,4 mi, 100x)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Foto real do jogador (Wikimedia, pode reaproveitar as do vídeo 19/21) e 3 bandeiras como alternativas. Fácil (Neymar, Messi) -> difícil (jogadores de seleções pequenas na Copa 2026). Título ex.: 'De qual PAÍS é esse JOGADOR? Fácil, médio, difícil e impossível!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #2 (shorts/palito-2); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 37, 36 jogadores (fotos do vídeo 19), alternativas com bandeira, pegadinhas no fim (Hakimi, Musiala, Rüdiger, Davies, Rice, Ibrahimović), ~12 min. Short = palito-2.",
       "short": "shorts/palito-2",
       "video": "videos/37-jogador-qual-pais",
-      "titulo": "De qual PAÍS é esse JOGADOR? ⚽ Fácil, médio, difícil e impossível! | Quiz Palito"
+      "titulo": "De qual PAÍS é esse JOGADOR? ⚽ Fácil, médio, difícil e impossível! | Quiz Palito",
+      "publicado_em": "2026-11-18",
+      "no_ar_em": "2026-11-19T21:00:00Z",
+      "no_ar_brasilia": "19/11 18h00",
+      "links": {
+        "video": "https://youtu.be/a8jdj8bjsRQ",
+        "short": "https://youtu.be/bRDjuQARPd0"
+      }
     },
     {
       "id": "2026-11-17-pais-contra-filhos-5-ano",
