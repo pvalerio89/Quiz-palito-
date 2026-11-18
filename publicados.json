@@ -1006,6 +1006,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/36-brasil-x-portugal": {
+      "youtube": {
+        "status": "publicado",
+        "id": "Cd9k7MYRHXE",
+        "url": "https://youtu.be/Cd9k7MYRHXE",
+        "data": "2026-11-18",
+        "origem": "github-actions",
+        "sha256": "b348690a7a779a186112f69f44c7be8a13841c919cac4ad97751179cdf6ceedf",
+        "no_ar_em": "2026-11-18T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
