@@ -1,0 +1,119 @@
+{
+ "ônibus": {
+  "file": "(SGP-Singapore)_SBS_Transit_SG3042Y_298_2024-12-23.jpg"
+ },
+ "celular": {
+  "file": "Livraria_do_Senado_(22622160063).jpg"
+ },
+ "geladeira": {
+  "file": "A_Samsung_Refrigerator.jpg"
+ },
+ "trem": {
+  "file": "New_Zealand_DX_class_locomotive._(24769239234).jpg"
+ },
+ "suco": {
+  "file": "Orange_juice_1.jpg"
+ },
+ "banheiro": {
+  "file": "Barcelonnette_-_Villa_du_Parc_du_Mercantour_-991.jpg"
+ },
+ "sorvete": {
+  "file": "Black_sesame_soft_ice_cream.jpg"
+ },
+ "caminhão": {
+  "file": "Truck_Pakistan.jpg"
+ },
+ "fila": {
+  "file": "Queue_outside_a_soup_kitchen_at_Klostertorv_in_Ålborg_1943.jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ]
+ },
+ "café da manhã": {
+  "file": "Breakfast_at_the_Black_Bear_Diner.jpg"
+ },
+ "grama": {
+  "file": "The_Lawn_UVa_2007.jpg"
+ },
+ "terno": {
+  "file": "Gentleman_in_bowler.JPG"
+ },
+ "xícara": {
+  "file": "Five_Piece_Tea_Service_with_Chrysanthemum_Design_LACMA_M.2006.132.10a-i.jpg"
+ },
+ "garçom": {
+  "file": "Servitris_-_Ystad-2012.jpg"
+ },
+ "mouse": {
+  "file": "A_computer_mouse,_black_and_white,_retouched,_keyboard_visible_in_background.jpg"
+ },
+ "tela": {
+  "file": "LG_Flatron_W2486_(1).jpg"
+ },
+ "cardápio": {
+  "file": "Menu_of_Fatto_a_Mano_Pizzeria,_North_Laine_(desserts).jpg"
+ },
+ "pedestre": {
+  "file": "CrossWalk_(5465840138).jpg"
+ },
+ "faixa de pedestres": {
+  "file": "Abbey_Road_Zebra.jpg"
+ },
+ "goleiro": {
+  "file": "Belgium_goalkeeper_Thibaut_Courtois_making_a_save_during_the_match_against_Brazil,_6_July_2018.jpg"
+ },
+ "bala": {
+  "file": "HardCandy.jpg"
+ },
+ "presunto": {
+  "file": "Schinken-gekocht.jpg"
+ },
+ "curativo": {
+  "file": "Sparadrap_2.jpg"
+ },
+ "abacaxi": {
+  "file": "Ananas_01.JPG"
+ },
+ "chiclete": {
+  "file": "Blowing_bubble_gum.jpg"
+ },
+ "fita adesiva": {
+  "file": "Adhesive_tapes_clear.JPG"
+ },
+ "aeromoça": {
+  "file": "Aeroflot_flight_attendant_(hostess).jpg"
+ },
+ "vaso sanitário": {
+  "file": "Toilet_370x580.jpg"
+ },
+ "grampeador": {
+  "file": "2017_Zszywacz_biurowy.jpg"
+ },
+ "encanador": {
+  "file": "Plumber_at_work.jpg"
+ },
+ "fone de ouvido": {
+  "file": "Słuchawki_referencyjne_K-701_firmy_AKG.jpg"
+ },
+ "ponto de ônibus": {
+  "file": "Yorkshire_bus_stop.jpg"
+ },
+ "bonde": {
+  "file": "Lisbon_3.jpg"
+ },
+ "suéter": {
+  "file": "Selburose-sweater.jpg"
+ },
+ "salva-vidas": {
+  "file": "Lifeguard_jumping_into_action,_Ocean_City,_June_27_,2007.jpg"
+ },
+ "placa do carro": {
+  "file": "Botswana-rear-plate.jpg",
+  "crop": "fit"
+ },
+ "açougue": {
+  "file": "Wiki_Loves_Mett_P1020898.JPG"
+ }
+}

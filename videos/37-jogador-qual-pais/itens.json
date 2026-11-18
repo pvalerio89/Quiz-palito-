@@ -1,0 +1,745 @@
+[
+ {
+  "n": 1,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Neymar",
+  "foto": "pe-neymar.jpg",
+  "bandeiras": [
+   "ar",
+   "br",
+   "pt"
+  ],
+  "opcoes": [
+   "ARGENTINA",
+   "BRASIL",
+   "PORTUGAL"
+  ],
+  "certa": 1,
+  "fala_q": "Pra começar, uma bem fácil! Argentina, Brasil ou Portugal?",
+  "fala_r": "Brasil, claro! É o Neymar, o maior artilheiro da história da Seleção!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Messi",
+  "foto": "dez-messi.jpg",
+  "bandeiras": [
+   "es",
+   "uy",
+   "ar"
+  ],
+  "opcoes": [
+   "ESPANHA",
+   "URUGUAI",
+   "ARGENTINA"
+  ],
+  "certa": 2,
+  "fala_q": "Essa aqui todo mundo sabe! Espanha, Uruguai ou Argentina?",
+  "fala_r": "Argentina! É o Messi, campeão do mundo em dois mil e vinte e dois!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Cristiano Ronaldo",
+  "foto": "ca-cristiano-ronaldo.jpg",
+  "bandeiras": [
+   "pt",
+   "es",
+   "br"
+  ],
+  "opcoes": [
+   "PORTUGAL",
+   "ESPANHA",
+   "BRASIL"
+  ],
+  "certa": 0,
+  "fala_q": "Mais uma pra aquecer! Portugal, Espanha ou Brasil?",
+  "fala_r": "Portugal! O Cristiano Ronaldo nasceu na Ilha da Madeira!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Mbappé",
+  "foto": "ca-mbappe.jpg",
+  "bandeiras": [
+   "be",
+   "cm",
+   "fr"
+  ],
+  "opcoes": [
+   "BÉLGICA",
+   "CAMARÕES",
+   "FRANÇA"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um velocista! Bélgica, Camarões ou França?",
+  "fala_r": "França! É o Mbappé, campeão do mundo em dois mil e dezoito!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Salah",
+  "foto": "pd-salah.jpg",
+  "bandeiras": [
+   "ma",
+   "sa",
+   "eg"
+  ],
+  "opcoes": [
+   "MARROCOS",
+   "ARÁBIA SAUDITA",
+   "EGITO"
+  ],
+  "certa": 2,
+  "fala_q": "Esse aqui é rei no país dele! Marrocos, Arábia Saudita ou Egito?",
+  "fala_r": "Egito! É o Mohamed Salah, o Rei do Egito!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Haaland",
+  "foto": "ca-haaland.jpg",
+  "bandeiras": [
+   "se",
+   "dk",
+   "no"
+  ],
+  "opcoes": [
+   "SUÉCIA",
+   "DINAMARCA",
+   "NORUEGA"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um centroavante gigante! Suécia, Dinamarca ou Noruega?",
+  "fala_r": "Noruega! É o Haaland, uma máquina de fazer gol!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Harry Kane",
+  "foto": "ca-harry-kane.jpg",
+  "bandeiras": [
+   "gb-sct",
+   "gb-eng",
+   "ie"
+  ],
+  "opcoes": [
+   "ESCÓCIA",
+   "INGLATERRA",
+   "IRLANDA"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pra Europa! Escócia, Inglaterra ou Irlanda?",
+  "fala_r": "Inglaterra! O Harry Kane é o maior artilheiro da história da seleção inglesa!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Son",
+  "foto": "pe-son.jpg",
+  "bandeiras": [
+   "kr",
+   "jp",
+   "cn"
+  ],
+  "opcoes": [
+   "COREIA DO SUL",
+   "JAPÃO",
+   "CHINA"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado pra não confundir os vizinhos! Coreia do Sul, Japão ou China?",
+  "fala_r": "Coreia do Sul! É o Son, ídolo do Tottenham!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Seul!",
+  "dica_txt": "CAPITAL: SEUL"
+ },
+ {
+  "n": 9,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Lewandowski",
+  "foto": "ca-lewandowski.jpg",
+  "bandeiras": [
+   "de",
+   "cz",
+   "pl"
+  ],
+  "opcoes": [
+   "ALEMANHA",
+   "REP. TCHECA",
+   "POLÔNIA"
+  ],
+  "certa": 2,
+  "fala_q": "Mais um matador! Alemanha, República Tcheca ou Polônia?",
+  "fala_r": "Polônia! Muita gente acha que ele é alemão, porque brilhou no Bayern!",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Modrić",
+  "foto": "mei-modric.jpg",
+  "bandeiras": [
+   "hr",
+   "rs",
+   "si"
+  ],
+  "opcoes": [
+   "CROÁCIA",
+   "SÉRVIA",
+   "ESLOVÊNIA"
+  ],
+  "certa": 0,
+  "fala_q": "Esse aqui já foi o melhor do mundo! Croácia, Sérvia ou Eslovênia?",
+  "fala_r": "Croácia! É o Modric, o maestro croata!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "De Bruyne",
+  "foto": "mei-de-bruyne.jpg",
+  "bandeiras": [
+   "be",
+   "nl",
+   "de"
+  ],
+  "opcoes": [
+   "BÉLGICA",
+   "HOLANDA",
+   "ALEMANHA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um gênio do passe! Bélgica, Holanda ou Alemanha?",
+  "fala_r": "Bélgica! É o De Bruyne!",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Luis Díaz",
+  "foto": "pe-luis-diaz.jpg",
+  "bandeiras": [
+   "ve",
+   "ec",
+   "co"
+  ],
+  "opcoes": [
+   "VENEZUELA",
+   "EQUADOR",
+   "COLÔMBIA"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra América do Sul! Venezuela, Equador ou Colômbia?",
+  "fala_r": "Colômbia! É o Luis Díaz, que saiu do Liverpool pro Bayern!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Bogotá!",
+  "dica_txt": "CAPITAL: BOGOTÁ"
+ },
+ {
+  "n": 13,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Valverde",
+  "foto": "mei-valverde.jpg",
+  "bandeiras": [
+   "ar",
+   "uy",
+   "py"
+  ],
+  "opcoes": [
+   "ARGENTINA",
+   "URUGUAI",
+   "PARAGUAI"
+  ],
+  "certa": 1,
+  "fala_q": "Mais um sul-americano! Argentina, Uruguai ou Paraguai?",
+  "fala_r": "Uruguai! É o Federico Valverde, do Real Madrid!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Hakimi",
+  "foto": "ld-hakimi.jpg",
+  "bandeiras": [
+   "es",
+   "fr",
+   "ma"
+  ],
+  "opcoes": [
+   "ESPANHA",
+   "FRANÇA",
+   "MARROCOS"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado, que essa tem pegadinha: ele nasceu em Madri! Espanha, França ou Marrocos?",
+  "fala_r": "Marrocos! O Hakimi nasceu na Espanha, mas escolheu jogar por Marrocos!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 15,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Lamine Yamal",
+  "foto": "pd-lamine-yamal.jpg",
+  "bandeiras": [
+   "es",
+   "ma",
+   "pt"
+  ],
+  "opcoes": [
+   "ESPANHA",
+   "MARROCOS",
+   "PORTUGAL"
+  ],
+  "certa": 0,
+  "fala_q": "Agora a joia da nova geração! Espanha, Marrocos ou Portugal?",
+  "fala_r": "Espanha! O Lamine Yamal foi campeão da Eurocopa com só dezessete anos!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Bellingham",
+  "foto": "mei-bellingham.jpg",
+  "bandeiras": [
+   "gb-eng",
+   "gb-sct",
+   "us"
+  ],
+  "opcoes": [
+   "INGLATERRA",
+   "ESCÓCIA",
+   "ESTADOS UNIDOS"
+  ],
+  "certa": 0,
+  "fala_q": "Esse joga no Real Madrid! Inglaterra, Escócia ou Estados Unidos?",
+  "fala_r": "Inglaterra! É o Jude Bellingham!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Kimmich",
+  "foto": "vol-kimmich.jpg",
+  "bandeiras": [
+   "de",
+   "at",
+   "ch"
+  ],
+  "opcoes": [
+   "ALEMANHA",
+   "ÁUSTRIA",
+   "SUÍÇA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora um volante! Alemanha, Áustria ou Suíça?",
+  "fala_r": "Alemanha! É o Kimmich, do Bayern de Munique!",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Pedri",
+  "foto": "mei-pedri.jpg",
+  "bandeiras": [
+   "pt",
+   "es",
+   "it"
+  ],
+  "opcoes": [
+   "PORTUGAL",
+   "ESPANHA",
+   "ITÁLIA"
+  ],
+  "certa": 1,
+  "fala_q": "Esse é baixinho, mas joga muito! Portugal, Espanha ou Itália?",
+  "fala_r": "Espanha! O Pedri é das Ilhas Canárias!",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Lautaro",
+  "foto": "ca-lautaro.jpg",
+  "bandeiras": [
+   "ar",
+   "uy",
+   "cl"
+  ],
+  "opcoes": [
+   "ARGENTINA",
+   "URUGUAI",
+   "CHILE"
+  ],
+  "certa": 0,
+  "fala_q": "Um artilheiro da Inter de Milão! Argentina, Uruguai ou Chile?",
+  "fala_r": "Argentina! É o Lautaro Martínez!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Van Dijk",
+  "foto": "zag1-van-dijk.jpg",
+  "bandeiras": [
+   "be",
+   "nl",
+   "de"
+  ],
+  "opcoes": [
+   "BÉLGICA",
+   "HOLANDA",
+   "ALEMANHA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um paredão na defesa! Bélgica, Holanda ou Alemanha?",
+  "fala_r": "Holanda! É o Van Dijk, capitão do Liverpool!",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Kvaratskhelia",
+  "foto": "pe-kvaratskhelia.jpg",
+  "bandeiras": [
+   "ru",
+   "ge",
+   "ua"
+  ],
+  "opcoes": [
+   "RÚSSIA",
+   "GEÓRGIA",
+   "UCRÂNIA"
+  ],
+  "certa": 1,
+  "fala_q": "Esse nome é difícil até de falar! Rússia, Geórgia ou Ucrânia?",
+  "fala_r": "Geórgia! O Kvaratskhelia é o grande craque da Geórgia!",
+  "count": 7.0,
+  "fala_d": "Dica: o país fica entre a Europa e a Ásia!",
+  "dica_txt": "ENTRE EUROPA E ÁSIA"
+ },
+ {
+  "n": 22,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Alphonso Davies",
+  "foto": "le-alphonso-davies.jpg",
+  "bandeiras": [
+   "gh",
+   "us",
+   "ca"
+  ],
+  "opcoes": [
+   "GANA",
+   "ESTADOS UNIDOS",
+   "CANADÁ"
+  ],
+  "certa": 2,
+  "fala_q": "Essa aqui engana muita gente! Gana, Estados Unidos ou Canadá?",
+  "fala_r": "Canadá! O Alphonso Davies nasceu num campo de refugiados em Gana e cresceu no Canadá!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "NASCEU EM GANA, CRESCEU NO CANADÁ",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 23,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Robertson",
+  "foto": "le-robertson.jpg",
+  "bandeiras": [
+   "gb-eng",
+   "gb-sct",
+   "ie"
+  ],
+  "opcoes": [
+   "INGLATERRA",
+   "ESCÓCIA",
+   "IRLANDA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um lateral do Liverpool! Inglaterra, Escócia ou Irlanda?",
+  "fala_r": "Escócia! O Robertson é o capitão da Escócia!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Rüdiger",
+  "foto": "zag1-rudiger.jpg",
+  "bandeiras": [
+   "de",
+   "sl",
+   "fr"
+  ],
+  "opcoes": [
+   "ALEMANHA",
+   "SERRA LEOA",
+   "FRANÇA"
+  ],
+  "certa": 0,
+  "fala_q": "Olha a pegadinha de novo! Alemanha, Serra Leoa ou França?",
+  "fala_r": "Alemanha! O Rüdiger nasceu em Berlim, e a mãe dele é de Serra Leoa!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 25,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Musiala",
+  "foto": "dez-musiala.jpg",
+  "bandeiras": [
+   "de",
+   "gb-eng",
+   "ng"
+  ],
+  "opcoes": [
+   "ALEMANHA",
+   "INGLATERRA",
+   "NIGÉRIA"
+  ],
+  "certa": 0,
+  "fala_q": "Essa aqui derruba muita gente! Alemanha, Inglaterra ou Nigéria?",
+  "fala_r": "Alemanha! O Musiala jogou na base da Inglaterra, mas escolheu a Alemanha!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Declan Rice",
+  "foto": "vol-declan-rice.jpg",
+  "bandeiras": [
+   "ie",
+   "gb-eng",
+   "gb-sct"
+  ],
+  "opcoes": [
+   "IRLANDA",
+   "INGLATERRA",
+   "ESCÓCIA"
+  ],
+  "certa": 1,
+  "fala_q": "Mais uma pegadinha! Irlanda, Inglaterra ou Escócia?",
+  "fala_r": "Inglaterra! O Declan Rice chegou a jogar pela Irlanda antes de trocar pela Inglaterra!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 27,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Tchouaméni",
+  "foto": "vol-tchouameni.jpg",
+  "bandeiras": [
+   "cm",
+   "be",
+   "fr"
+  ],
+  "opcoes": [
+   "CAMARÕES",
+   "BÉLGICA",
+   "FRANÇA"
+  ],
+  "certa": 2,
+  "fala_q": "Mais um do Real Madrid! Camarões, Bélgica ou França?",
+  "fala_r": "França! O Tchouaméni nasceu na França, filho de pais de Camarões!",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Gvardiol",
+  "foto": "zag2-gvardiol.jpg",
+  "bandeiras": [
+   "hr",
+   "rs",
+   "ba"
+  ],
+  "opcoes": [
+   "CROÁCIA",
+   "SÉRVIA",
+   "BÓSNIA"
+  ],
+  "certa": 0,
+  "fala_q": "Um zagueiro do Manchester City! Croácia, Sérvia ou Bósnia?",
+  "fala_r": "Croácia! É o Gvardiol!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Ødegaard",
+  "foto": "mei-degaard.jpg",
+  "bandeiras": [
+   "no",
+   "dk",
+   "se"
+  ],
+  "opcoes": [
+   "NORUEGA",
+   "DINAMARCA",
+   "SUÉCIA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora o capitão do Arsenal! Noruega, Dinamarca ou Suécia?",
+  "fala_r": "Noruega! O Odegaard estreou na seleção com só quinze anos!",
+  "count": 7.0,
+  "sabia": "ESTREOU NA SELEÇÃO COM 15 ANOS"
+ },
+ {
+  "n": 30,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Bastoni",
+  "foto": "zag2-bastoni.jpg",
+  "bandeiras": [
+   "es",
+   "it",
+   "ar"
+  ],
+  "opcoes": [
+   "ESPANHA",
+   "ITÁLIA",
+   "ARGENTINA"
+  ],
+  "certa": 1,
+  "fala_q": "Um zagueiro canhoto da Inter! Espanha, Itália ou Argentina?",
+  "fala_r": "Itália! É o Bastoni!",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Eto'o",
+  "foto": "lca-eto-o.jpg",
+  "bandeiras": [
+   "ci",
+   "cm",
+   "sn"
+  ],
+  "opcoes": [
+   "COSTA DO MARFIM",
+   "CAMARÕES",
+   "SENEGAL"
+  ],
+  "certa": 1,
+  "fala_q": "Agora só lendas do futebol! Costa do Marfim, Camarões ou Senegal?",
+  "fala_r": "Camarões! O Samuel Eto'o foi eleito quatro vezes o melhor jogador da África!",
+  "count": 7.0
+ },
+ {
+  "n": 32,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Ibrahimović",
+  "foto": "lca-ibrahimovic.jpg",
+  "bandeiras": [
+   "ba",
+   "se",
+   "hr"
+  ],
+  "opcoes": [
+   "BÓSNIA",
+   "SUÉCIA",
+   "CROÁCIA"
+  ],
+  "certa": 1,
+  "fala_q": "Essa lenda tem pegadinha! Bósnia, Suécia ou Croácia?",
+  "fala_r": "Suécia! O Ibrahimovic nasceu na Suécia, e os pais dele vieram da antiga Iugoslávia!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 33,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Petr Čech",
+  "foto": "lgol-petr-cech.jpg",
+  "bandeiras": [
+   "sk",
+   "pl",
+   "cz"
+  ],
+  "opcoes": [
+   "ESLOVÁQUIA",
+   "POLÔNIA",
+   "REP. TCHECA"
+  ],
+  "certa": 2,
+  "fala_q": "Um goleiro que jogava de capacete! Eslováquia, Polônia ou República Tcheca?",
+  "fala_r": "República Tcheca! O Petr Cech usava capacete depois de uma lesão grave na cabeça!",
+  "count": 7.0,
+  "fala_d": "Dica: a capital é Praga!",
+  "dica_txt": "CAPITAL: PRAGA",
+  "sabia": "JOGAVA DE CAPACETE"
+ },
+ {
+  "n": 34,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Cruyff",
+  "foto": "ldez-cruyff.jpg",
+  "bandeiras": [
+   "be",
+   "de",
+   "nl"
+  ],
+  "opcoes": [
+   "BÉLGICA",
+   "ALEMANHA",
+   "HOLANDA"
+  ],
+  "certa": 2,
+  "fala_q": "Uma lenda das antigas! Bélgica, Alemanha ou Holanda?",
+  "fala_r": "Holanda! É o Johan Cruyff, o gênio do Carrossel Holandês!",
+  "count": 7.0
+ },
+ {
+  "n": 35,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Zanetti",
+  "foto": "llat-zanetti.jpg",
+  "bandeiras": [
+   "it",
+   "uy",
+   "ar"
+  ],
+  "opcoes": [
+   "ITÁLIA",
+   "URUGUAI",
+   "ARGENTINA"
+  ],
+  "certa": 2,
+  "fala_q": "Esse foi ídolo na Itália! Itália, Uruguai ou Argentina?",
+  "fala_r": "Argentina! O Zanetti foi capitão da Inter por muitos anos, mas é argentino!",
+  "count": 7.0
+ },
+ {
+  "n": 36,
+  "pergunta": "DE QUAL PAÍS É ESSE JOGADOR?",
+  "jogador": "Ronald Araújo",
+  "foto": "zag2-ronald-araujo.jpg",
+  "bandeiras": [
+   "br",
+   "py",
+   "uy"
+  ],
+  "opcoes": [
+   "BRASIL",
+   "PARAGUAI",
+   "URUGUAI"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo o título de craque: um zagueiro do Barcelona! Brasil, Paraguai ou Uruguai?",
+  "fala_r": "Uruguai! É o Ronald Araújo! Muita gente acha que ele é brasileiro por causa do nome! Se acertou, você é fera!",
+  "count": 7.0,
+  "final": true,
+  "fala_s": "Valendo o título de craque... a resposta é..."
+ }
+]

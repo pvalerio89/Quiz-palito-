@@ -1,0 +1,40 @@
+ônibus	objeto	Bus
+trem	objeto	Train
+celular	objeto	Smartphone
+geladeira	objeto	Refrigerator
+sorvete	comida	Ice_cream
+suco	comida	Juice
+caminhão	objeto	Truck
+banheiro	lugar	Bathroom
+café da manhã	comida	Breakfast
+grama	lugar	Lawn
+fila	lugar	Queue_area
+terno	roupa	Suit_(clothing)
+mouse	objeto	Computer_mouse
+tela	objeto	Computer_monitor
+xícara	objeto	Teacup
+cardápio	objeto	Menu
+garçom	pessoa	Waiting_staff
+pedestre	pessoa	Pedestrian
+faixa de pedestres	lugar	Zebra_crossing
+goleiro	pessoa	Goalkeeper_(association_football)
+bala	comida	Hard_candy
+presunto	comida	Ham
+abacaxi	comida	Pineapple
+chiclete	comida	Chewing_gum
+curativo	objeto	Adhesive_bandage
+vaso sanitário	objeto	Toilet
+aeromoça	pessoa	Flight_attendant
+grampeador	objeto	Stapler
+fita adesiva	objeto	Adhesive_tape
+fone de ouvido	objeto	Headphones
+encanador	pessoa	Plumber
+tênis	roupa	Sneakers
+ponto de ônibus	lugar	Bus_stop
+bonde	objeto	Trams_in_Lisbon
+salva-vidas	pessoa	Lifeguard
+placa do carro	objeto	Vehicle_registration_plate
+suéter	roupa	Sweater
+misto-quente	comida	Toast_sandwich
+geleia	comida	Fruit_preserves
+açougue	lugar	Butcher

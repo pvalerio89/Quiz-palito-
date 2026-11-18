@@ -1,0 +1,2686 @@
+{
+ "ônibus": {
+  "tipo": "objeto",
+  "art": "Bus",
+  "cand": [
+   {
+    "file": "LTZ1328-19-20241030-160332.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "SIA321"
+   },
+   {
+    "file": "(SGP-Singapore)_SBS_Transit_SG3042Y_298_2024-12-23.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "S5A-0043"
+   },
+   {
+    "file": "BRT2101_at_Balou_(20230921084843).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "N509FZ"
+   },
+   {
+    "file": "Toronto_Flyer_E700A_trolleybus_in_1987.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Steve Morgan"
+   },
+   {
+    "file": "Omnibus_-_Project_Gutenberg_eText_16943.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Obeissante.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Erster_Benzin-Omnibus_der_Welt.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Siegener Zeitung"
+   },
+   {
+    "file": "B43OleBillatIWMLondon.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Flickr user \"DanieVDM\" https://www.flickr.com/photos/dvdmerwe/"
+   },
+   {
+    "file": "Daimler_CC_Bus_(1912).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Nixons Wagga"
+   },
+   {
+    "file": "Inside_a_LACMTA_720_Bus_on_relatively_low_traffic_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Yonghokim"
+   }
+  ]
+ },
+ "celular": {
+  "tipo": "objeto",
+  "art": "Smartphone",
+  "cand": [
+   {
+    "file": "Wikipedia_homepage_on_a_large_Android_phone,_2015-04-16.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sage Ross"
+   },
+   {
+    "file": "Samsung_Galaxy_S6_edge_(17448278539).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Maurizio Pesce from Milan, Italia"
+   },
+   {
+    "file": "TouchWiz_2013_device_options.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Samsung Mobile"
+   },
+   {
+    "file": "HTC_Desire_-_optic_navigation.jpeg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Espen Irwing Swang, Mobilen.no"
+   },
+   {
+    "file": "Livraria_do_Senado_(22622160063).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Senado Federal"
+   },
+   {
+    "file": "Mobile_URL_tooltip.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Own work"
+   },
+   {
+    "file": "HTC_Legend_-_optic_sensor.jpeg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Espen Irwing Swang, Mobilen.no"
+   },
+   {
+    "file": "Huawei_U8950D_no_cover.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ilya Plekhanov"
+   },
+   {
+    "file": "OnePlus_9_Pro_Camera_Module.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "金琛玮"
+   }
+  ]
+ },
+ "geladeira": {
+  "tipo": "objeto",
+  "art": "Refrigerator",
+  "cand": [
+   {
+    "file": "A_Samsung_Refrigerator.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Kskhh"
+   },
+   {
+    "file": "Open_refrigerator_with_food_at_night.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "W.carter"
+   },
+   {
+    "file": "Gorrie_Ice_Machine.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "AppareilCarré.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Auguste Jahandier&nbsp;(1837–1875)&nbsp;&nbsp; &nbsp; Description French illustr"
+   },
+   {
+    "file": "Linde_cycle_1895_-1903_patent_cryo.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "US uspto.gov"
+   },
+   {
+    "file": "French_Refrigerator_Plant_Increases_its_Productivity_-_DPLA_-_95f3ac5808bd87d40bb4379003218b75.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Department of State. Agency for International Development. 1961-10/1/1979"
+   },
+   {
+    "file": "Röck_istván_1896.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Vasárnapi Újság Magazine"
+   },
+   {
+    "file": "DOMELRE_refrigerator_c._1914.png",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Monitor_refer.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "User:Magi Media"
+   },
+   {
+    "file": "Frankfurt,_Germany_-_REWE_inside_freezer_section.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Alexis Jazz"
+   }
+  ]
+ },
+ "trem": {
+  "tipo": "objeto",
+  "art": "Train",
+  "cand": [
+   {
+    "file": "Поезд_на_фоне_горы_Шатрище._Воронежская_область.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Алексей Задонский"
+   },
+   {
+    "file": "Pilatus_railway_train.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Maria Feofilova"
+   },
+   {
+    "file": "New_Zealand_DX_class_locomotive._(24769239234).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Bernard Spragg. NZ from Christchurch, New Zealand"
+   },
+   {
+    "file": "Wuppertaler_Schwebebahn_Westende_2019-10-06_06_(cropped).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Leonhard Lenz"
+   },
+   {
+    "file": "Union_Pacific_844,_Painted_Rocks,_NV,_2009_(crop).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "04_15_09_162xp_-_Flickr_-_drewj1946.jpg: Drew Jacksich from San Jose, CA, The Re"
+   },
+   {
+    "file": "Metro_train_at_kochi_metro_mg_road_station_Ernakulam,_Kerala,_India.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ranjithsiji"
+   },
+   {
+    "file": "Zuerich-vbz-tram-2-swpsigbbc-880755.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Kurt Rasmussen"
+   },
+   {
+    "file": "Avg-858-02.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "K. Jähne"
+   },
+   {
+    "file": "Claude_Monet_-_Arrival_of_the_Normandy_Train,_Gare_Saint-Lazare_-_Google_Art_Project.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Claude Monet&nbsp;(1840–1926)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "suco": {
+  "tipo": "comida",
+  "art": "Juice",
+  "cand": [
+   {
+    "file": "Orange_juice_1.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Agricultural Research Service"
+   },
+   {
+    "file": "Pomegranate_Juice_(2019).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Augustus Binu&nbsp;: flickr"
+   },
+   {
+    "file": "Néctar_smoothie_before.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "rúpìgo from Lisbon, Portugal"
+   },
+   {
+    "file": "Afghan_pomegranates_getting_washed.jpg",
+    "lic": [
+     "Public domain",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "USAID Afghanistan"
+   },
+   {
+    "file": "Hand_Press_Juicer.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Augustus Binu&nbsp;: flickr"
+   },
+   {
+    "file": "The_Ladies'_home_journal_(1948)_(14743477936).jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Internet Archive Book Images"
+   },
+   {
+    "file": "Juice_bar_selling_oranges,_red_apples_and_other_fruits,_Clarke_Quay_MRT_station,_Singapore.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Basile Morin"
+   },
+   {
+    "file": "JJB_Galleria_Esplanad_Helsinki.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Arkke"
+   }
+  ]
+ },
+ "banheiro": {
+  "tipo": "lugar",
+  "art": "Bathroom",
+  "cand": [
+   {
+    "file": "Modern_bath_rooms_and_appliances_-_a_few_suggestions_about_plumbing_valuable_to_home_builders_or_those_about_to_remodel_their_present_dwellings._(1903)_(14778178805).jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Standard Sanitary Manufacturing Company."
+   },
+   {
+    "file": "Barcelonnette_-_Villa_du_Parc_du_Mercantour_-991.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "MOSSOT"
+   },
+   {
+    "file": "Polson_Museum_-_medicine_cabinet.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Joe Mabel"
+   },
+   {
+    "file": "VillaMitre50.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ezarate"
+   },
+   {
+    "file": "A_good_lighting_in_a_Bathroom.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "PulbyHugo"
+   },
+   {
+    "file": "Mohenjo-daro.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Saqib Qayyum"
+   },
+   {
+    "file": "Cyark_Weissenburg_Reconstruction.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CyArk"
+   },
+   {
+    "file": "Badkamer_kasteel_van_gaasbeek.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Paul Hermans at Dutch Wikipedia"
+   },
+   {
+    "file": "Bathroom_in_the_Beamish_Museum_01.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Immanuel Giel"
+   },
+   {
+    "file": "Modern_bath_rooms_and_appliances_-_a_few_suggestions_about_plumbing_valuable_to_home_builders_or_those_about_to_remodel_their_present_dwellings._(1903)_(14798031263).jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Standard Sanitary Manufacturing Company."
+   }
+  ]
+ },
+ "sorvete": {
+  "tipo": "comida",
+  "art": "Ice_cream",
+  "cand": [
+   {
+    "file": "Vanilla_Ice_Cream_Cone_at_Camp_Manitoulin.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Steven Depolo"
+   },
+   {
+    "file": "唐代章怀太子墓壁画中的酥山.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Matkakulfi.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "danchitnis"
+   },
+   {
+    "file": "Les_Glaces.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Art_of_Cookery_frontispiece.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "Scan: Contributor. Original: W.Wangford c.1777"
+   },
+   {
+    "file": "Agnes_B_Marshall.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Children_in_the_Ghetto_and_the_Ice-Cream_Man._Chicago_Ill._(FRONT).jpeg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "V.O. Hammond Pub. Co., Chicago"
+   },
+   {
+    "file": "Sydney_markets,_by_Rex_Hazlewood,_c._1911-1916_(9909471825)_(2).jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Rex Hazlewood"
+   },
+   {
+    "file": "Black_sesame_soft_ice_cream.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Kwekwe"
+   },
+   {
+    "file": "IceCreamSandwich.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Renee Comet (photographer)"
+   }
+  ]
+ },
+ "caminhão": {
+  "tipo": "objeto",
+  "art": "Truck",
+  "cand": [
+   {
+    "file": "2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "MercurySable99"
+   },
+   {
+    "file": "1924-Super-Sentinel.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Salmanazar"
+   },
+   {
+    "file": "DMG-Lastwagen_von_1896.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Martin Dürrschnabel"
+   },
+   {
+    "file": "1903EldridgeTruck.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "DrReload"
+   },
+   {
+    "file": "Foden_Diesel_Truck_(40746179963).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Michael Gaylard from Horsham, UK"
+   },
+   {
+    "file": "1911WalkerElectricTruck-2.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "DrReload"
+   },
+   {
+    "file": "President_Biden_Ford_F150_Lightning_05_20_2021.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "The White House (https://www.facebook.com/POTUS/videos)"
+   },
+   {
+    "file": "Finlaysonin_Mannesmann_Mulag-auto.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Teuvo Mäkinen"
+   },
+   {
+    "file": "Trucks_parked_in_USA.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Shashidhara halady"
+   },
+   {
+    "file": "Truck_Pakistan.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Lunaloop"
+   }
+  ]
+ },
+ "fila": {
+  "tipo": "lugar",
+  "art": "Queue_area",
+  "cand": [
+   {
+    "file": "Tai_Po_Voting_queue-20200712.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Studio Incendo"
+   },
+   {
+    "file": "Waiting_in_line_at_a_food_store.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "David Shankbone&nbsp;(1974–)&nbsp; &nbsp;"
+   },
+   {
+    "file": "Dejvická,_autobus_312.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "ŠJů"
+   },
+   {
+    "file": "Queue_outside_a_soup_kitchen_at_Klostertorv_in_Ålborg_1943.jpg",
+    "lic": [
+     "No restrictions",
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "National Museum of Denmark from Denmark"
+   },
+   {
+    "file": "Osaka_Station_platform_passenger_queue_2022-02-03.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "m-louis .®"
+   },
+   {
+    "file": "Prague_main_post_office.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "user:Diligent"
+   },
+   {
+    "file": "Pořadové_číslo,_Česká_pošta.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Emited by Česká pošta s. p. Scanned by ŠJů (cs:ŠJů)"
+   }
+  ]
+ },
+ "café da manhã": {
+  "tipo": "comida",
+  "art": "Breakfast",
+  "cand": [
+   {
+    "file": "Breakfast_at_the_Black_Bear_Diner.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Kiddo27"
+   },
+   {
+    "file": "Floris_Claesz._van_Dyck_001.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "Floris van Dyck&nbsp;(1575–1651)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Medieval_baker.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Café_na_fazenda_(1),_N.ELAC.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "NELAC &nbsp;&nbsp;"
+   },
+   {
+    "file": "A_traditional_family_breakfast_in_the_Isan,_Thailand.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "User:Mattes"
+   },
+   {
+    "file": "Traditional_Levantine_Breakfast_with_a_Variety_of_Local_Delights.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "روتانا"
+   },
+   {
+    "file": "Breakfast_with_a_view_(unknown_date),_by_Vittorio_Matteo_Corcos.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Vittorio Matteo Corcos&nbsp;(1859–1933)&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Savoury_part_of_sea_breakfast_on_Viking_Gabriella.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "GFDL"
+    ],
+    "autor": "JIP"
+   },
+   {
+    "file": "Petit_dejeuner.jpg",
+    "lic": [
+     "CeCILL",
+     "CC BY-SA 2.0 fr"
+    ],
+    "autor": "Rama"
+   },
+   {
+    "file": "British_breakfast.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Arnaud 25"
+   }
+  ]
+ },
+ "grama": {
+  "tipo": "lugar",
+  "art": "Lawn",
+  "cand": [
+   {
+    "file": "The_Lawn_UVa_2007.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Berglund from Richardson, Texas, USA"
+   },
+   {
+    "file": "Lötstugan_Bärbo_Nyköpings_kommun.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "TS Eriksson"
+   },
+   {
+    "file": "Croquetplayers.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "User:pschemp"
+   },
+   {
+    "file": "San_Francisco_Botanical_Garden_Great_Lawn_1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Stan Shebs"
+   },
+   {
+    "file": "Open_parkland_to_the_south_of_Newbiggin_Hall_-_geograph.org.uk_-_6505413.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Oliver Dixon&nbsp;"
+   },
+   {
+    "file": "Vaux-le-Vicomte_Garten.jpg",
+    "lic": [
+     "CC BY-SA 2.0 de"
+    ],
+    "autor": "Thomas Henz Sadeness"
+   },
+   {
+    "file": "BadmintonMorris_edited.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "János_Rombauer_-_English_Garden_in_the_Csáky_Castle_at_Hotkóc_-_WGA20009.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "János Rombauer&nbsp;(1782–1849)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Kirby_Fleetham_Hall,_Yorkshire,_UK,_lawn,_1889.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "anon (Life time: circa 1889)"
+   },
+   {
+    "file": "Ransomes01.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "terno": {
+  "tipo": "roupa",
+  "art": "Suit_(clothing)",
+  "cand": [
+   {
+    "file": "Gentleman_in_bowler.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Fredrik Tersmeden (= User:FredrikT)"
+   },
+   {
+    "file": "Three_Piece_(SBW)_Tweed_–_Yellow-Olive-Taupe_Windowpane_Harris_Tweed_Suit.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "BNTailor"
+   },
+   {
+    "file": "Lapel_comparison.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Cantabrucu"
+   },
+   {
+    "file": "Waistcoat.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "The_Duke_and_Duchess_of_Kent.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Australian_Football_Awards_(6210387037).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Eva Rinaldi&nbsp;(1971–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Camino_a_la_reunión_con_con_el_Presidente_de_la_República_Popular_China,_el_Excmo._Sr._Xi_Jinping._(8627337472).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Angélica Rivera de Peña"
+   },
+   {
+    "file": "Shinzō_Abe_and_Ivanka_Trump_(4).jpg",
+    "lic": [
+     "CC BY 4.0",
+     "CC BY 4.0"
+    ],
+    "autor": "内閣官房内閣広報室"
+   },
+   {
+    "file": "Nick_Cave_2.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Alterna2 http://www.alterna2.com"
+   },
+   {
+    "file": "Valentino_evening_gown_for_Audrey_Hepburn.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Loquax"
+   }
+  ]
+ },
+ "xícara": {
+  "tipo": "objeto",
+  "art": "Teacup",
+  "cand": [
+   {
+    "file": "Five_Piece_Tea_Service_with_Chrysanthemum_Design_LACMA_M.2006.132.10a-i.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Small_black_and_green_CUP_no_handle.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5",
+     "Public domain"
+    ],
+    "autor": "PJ McNally"
+   }
+  ]
+ },
+ "garçom": {
+  "tipo": "pessoa",
+  "art": "Waiting_staff",
+  "cand": [
+   {
+    "file": "Annie_O'Black_1973.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Lars Jacob"
+   },
+   {
+    "file": "North_Korea_-_Samjiyon_waitress_(5024319154).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Roman Harak"
+   },
+   {
+    "file": "Servitris_-_Ystad-2012.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Foto: Jonn Leffmann"
+   },
+   {
+    "file": "RPPC_13.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "mouse": {
+  "tipo": "objeto",
+  "art": "Computer_mouse",
+  "cand": [
+   {
+    "file": "3-Tasten-Maus_Microsoft.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Darkone"
+   },
+   {
+    "file": "A_computer_mouse,_black_and_white,_retouched,_keyboard_visible_in_background.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Charlie Smith FDTB"
+   },
+   {
+    "file": "Мышь_2.jpg",
+    "lic": [
+     "CC BY-SA 1.0"
+    ],
+    "autor": "George Shuklin (talk)"
+   },
+   {
+    "file": "Firstmouseunderside.jpg",
+    "lic": [
+     "Fair use"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Computer_mouse_prototype_bottom.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Mouse-patents-englebart-rid.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Telefunken_Rollkugel_RKS_100-86.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Marcin Wichary"
+   },
+   {
+    "file": "Telefunken_Rollkugel_RKS_100-86_(bottom).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Marcin Wichary"
+   },
+   {
+    "file": "Hil-mouse.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Michael Piotrowski (mxp)"
+   },
+   {
+    "file": "Digitalizador_de_tablero.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Amfeli"
+   }
+  ]
+ },
+ "tela": {
+  "tipo": "objeto",
+  "art": "Computer_monitor",
+  "cand": [
+   {
+    "file": "Apple_AudioVision_14_Display.png",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Ben_Boldt (talk) (Uploads)"
+   },
+   {
+    "file": "Computer_screen_dimensions.png",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "LG_Flatron_W2486_(1).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "LG전자"
+   },
+   {
+    "file": "LG_Flatron_W2420R_(1).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "LG전자"
+   },
+   {
+    "file": "Monitor-Eizo-CG277-BK-27inches-01.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CEphoto, Uwe Aranas"
+   },
+   {
+    "file": "Monitor_arm_stand_(1).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ben Scholzen"
+   },
+   {
+    "file": "Rackmount-LCD.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "David Lippincott for Chassis Plans"
+   },
+   {
+    "file": "Rackmount-KVM.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "David Lippincott for Chassis Plans"
+   },
+   {
+    "file": "Panel-Mount-LCD.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "David Lippincott for Chassis Plans"
+   },
+   {
+    "file": "(_CRM_)Filiming_RED_Technology_2023_hello_IWJG.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "FLORIDA"
+   }
+  ]
+ },
+ "cardápio": {
+  "tipo": "objeto",
+  "art": "Menu",
+  "cand": [
+   {
+    "file": "Menu_of_Fatto_a_Mano_Pizzeria,_North_Laine_(desserts).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Andy Li"
+   },
+   {
+    "file": "Festessen_Kaiser_Wilhelm_1898_(front_page).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "A. Ludorff. Restored and uploaded by Palauenc05"
+   },
+   {
+    "file": "Kebab_menu_France.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "User:Stevage"
+   },
+   {
+    "file": "Delmonico_menu_April_1899.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "City_Hotel,_New_Orleans_restaurant_menu_(December_8,_1857).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Public domain",
+     "PDM",
+     "FAL"
+    ],
+    "autor": "Hospitality Industry Archives"
+   },
+   {
+    "file": "Belle's_Diner,_French_Market_Place,_New_Orleans,_24_May_2016_-_Menu_board.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Infrogmation of New Orleans"
+   },
+   {
+    "file": "Menu_board_in_front_of_a_lunch_room_at_1428_Market_Street._-_DPLA_-_5ed315216e06ca7b5068f0b8522204b2.jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Saint Louis (Mo.). Department of Streets and Sewers. Photographic Division"
+   },
+   {
+    "file": "Demo_Day_2016_-_Design_Center_(20).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Elekes Andor"
+   },
+   {
+    "file": "Culver's_Drive-Thru_Restaurant_Menu.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tony Webster"
+   }
+  ]
+ },
+ "pedestre": {
+  "tipo": "pessoa",
+  "art": "Pedestrian",
+  "cand": [
+   {
+    "file": "CrossWalk_(5465840138).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Alex Proimos from Sydney, Australia"
+   },
+   {
+    "file": "Pedestre.JPG",
+    "lic": [
+     "CC BY 3.0",
+     "GFDL"
+    ],
+    "autor": "Andrevruas"
+   },
+   {
+    "file": "Bauman_Street.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Yieldpeds.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Crispy1995 (talk)"
+   },
+   {
+    "file": "LightTunnelDetroit.jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "Steve Hopson"
+   },
+   {
+    "file": "Pedestrian_safety_message_crosswalk_stencil_(18360246018).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Eric Fischer"
+   },
+   {
+    "file": "Pedestrians_in_Pornainen.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Abel111222"
+   }
+  ]
+ },
+ "faixa de pedestres": {
+  "tipo": "lugar",
+  "art": "Zebra_crossing",
+  "cand": [
+   {
+    "file": "Abbey_Road_Zebra.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Misterweiss at English Wikipedia"
+   },
+   {
+    "file": "View_of_Shibuya_Crossing.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ewong17"
+   },
+   {
+    "file": "Zebra_crossing_road.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "FastfabNA"
+   },
+   {
+    "file": "Wavy_lines_before_pedestrian_crossing.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Benjamin D. Esham (bdesham)"
+   },
+   {
+    "file": "Red_and_white_zebra_crossing_in_Sofia_-_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Vassia Atanassova - Spiritia"
+   },
+   {
+    "file": "Bahnhofstr19_Effretikon.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Abderitestatos"
+   },
+   {
+    "file": "13-08-06-abu-dhabi-by-RalfR-114.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "©&nbsp;Ralf Roletschek Ralf Roletschek&nbsp;(1963–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Boulia_State_School_3D_pedestrian_crossing_Templeton_St_Boulia_Queensland_P1030788dp.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "John Robert McPherson"
+   },
+   {
+    "file": "Tiger_crossing_in_Southsea.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tim Sheerman-Chase"
+   }
+  ]
+ },
+ "goleiro": {
+  "tipo": "pessoa",
+  "art": "Goalkeeper_(association_football)",
+  "cand": [
+   {
+    "file": "Belgium_goalkeeper_Thibaut_Courtois_making_a_save_during_the_match_against_Brazil,_6_July_2018.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Эдгар Брещанов"
+   },
+   {
+    "file": "Goalkeeper_reflex_ball.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "EncyclopedianWP"
+   },
+   {
+    "file": "DK-Porto15_(9).jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Илья Хохлов"
+   },
+   {
+    "file": "Suarez_Ajax_captain.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Давиденко Валерий"
+   },
+   {
+    "file": "U20-WorldCup2007-Okotie-Onka_edit2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nick Wiebe 06:19, 30 October 2007 (UTC), edited by Fir0002"
+   },
+   {
+    "file": "Kailen_Sheridan_SD_Gotham5.16-120_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bryan Berlin"
+   },
+   {
+    "file": "Manuel_Neuer_2020.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Антон Зайцев"
+   },
+   {
+    "file": "Rogério_Ceni.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Ricardo Stuckert/PR (cropped by Paris)"
+   },
+   {
+    "file": "Liverpool_FC_team_v_FC_Gomel.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Илья Хохлов"
+   }
+  ]
+ },
+ "bala": {
+  "tipo": "comida",
+  "art": "Hard_candy",
+  "cand": [
+   {
+    "file": "HardCandy.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Adam Zivner"
+   },
+   {
+    "file": "Candy_cane_mixture_(10932186854).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tom Britt"
+   },
+   {
+    "file": "Kongen_af_Danmark.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Orf3us"
+   }
+  ]
+ },
+ "presunto": {
+  "tipo": "comida",
+  "art": "Ham",
+  "cand": [
+   {
+    "file": "Ham_(4).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Renee Comet (Photographer)"
+   },
+   {
+    "file": "Schinken-gekocht.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rainer Zenz"
+   },
+   {
+    "file": "ProsciuttoSeaSalt.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Deathworm at English Wikipedia"
+   },
+   {
+    "file": "Making_Jambon_de_Bayonne--Step_4.jpg",
+    "lic": [
+     "GFDL"
+    ],
+    "autor": "Leon Baradat (Peyre at en.wikipedia)"
+   },
+   {
+    "file": "850_food.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "EinPole"
+   },
+   {
+    "file": "Christmas_ham.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Santeri Viinamäki"
+   },
+   {
+    "file": "FoodMeat.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown photographer"
+   },
+   {
+    "file": "Plateau_van_zeevruchten.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Frits Hoogesteger at nl.wikibooks"
+   }
+  ]
+ },
+ "curativo": {
+  "tipo": "objeto",
+  "art": "Adhesive_bandage",
+  "cand": [
+   {
+    "file": "Sparadrap_2.jpg",
+    "lic": [
+     "CeCILL"
+    ],
+    "autor": "Photograph by Rama"
+   },
+   {
+    "file": "Sparadrap_3.jpg",
+    "lic": [
+     "CeCILL"
+    ],
+    "autor": "Photograph by Rama"
+   },
+   {
+    "file": "Sparadrap_4.jpg",
+    "lic": [
+     "CeCILL"
+    ],
+    "autor": "Photograph by Rama"
+   },
+   {
+    "file": "Blasenpflaster.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Morty"
+   },
+   {
+    "file": "Butterfly_closure.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Drew Stephens"
+   }
+  ]
+ },
+ "abacaxi": {
+  "tipo": "comida",
+  "art": "Pineapple",
+  "cand": [
+   {
+    "file": "കൈതച്ചക്ക.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Suniltg at Malayalam Wikipedia"
+   },
+   {
+    "file": "Pinus_coulteri_MHNT_Cone.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Didier Descouens"
+   },
+   {
+    "file": "Pineapple_and_cross_section.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8"
+   },
+   {
+    "file": "PineApple_-_Ananas_comosus_-_starting_stage.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Ramesh NG"
+   },
+   {
+    "file": "Ananas_bracteatus_Striatus_0zz.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Photo by David J. Stang"
+   },
+   {
+    "file": "Flowering_Pineapple_Sept_4_2011.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Supportstorm"
+   },
+   {
+    "file": "Ananas_bracteatus,_Dole_Pineapple_Plantation,_Oahu,_Hawaii,_USA2.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Diego Delso&nbsp;(1974–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Ananas_01.JPG",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Dinkum"
+   },
+   {
+    "file": "Curuá_(cropped).JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "LeRoc"
+   },
+   {
+    "file": "Ananas_nanus_20060514-2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Elke Wetzig (elya)"
+   }
+  ]
+ },
+ "chiclete": {
+  "tipo": "comida",
+  "art": "Chewing_gum",
+  "cand": [
+   {
+    "file": "Chewing_gum_stick.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Lusheeta"
+   },
+   {
+    "file": "Fruit-Stipe-Gum-Sticks.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Evan-Amos"
+   },
+   {
+    "file": "CHICLEROSPCIQUINTANAROO001.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Yuum Bej"
+   },
+   {
+    "file": "Colgans_Taffy_Tolu.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Bubble_gum_at_the_Haribo_factory.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Martial BACQUET"
+   },
+   {
+    "file": "Streifenkaugummi.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "-- Gohnarch░░░░ 12:20, 17. Jan. 2009 (CET)"
+   },
+   {
+    "file": "Kaugummis_cropped.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Kaugummis.jpg: Pascua Theus aka Körnerbrötchen derivative work: Sir James (talk)"
+   },
+   {
+    "file": "Kauwgum.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Michiel1972 at Dutch Wikipedia"
+   },
+   {
+    "file": "Blowing_bubble_gum.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Jim McCluskey from Everett, Washington, United States"
+   },
+   {
+    "file": "Chewing_gum_on_a_sidewalk_in_Reykjavík.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Jóhann Heiðar Árnason"
+   }
+  ]
+ },
+ "fita adesiva": {
+  "tipo": "objeto",
+  "art": "Adhesive_tape",
+  "cand": [
+   {
+    "file": "Adhesive_tapes_clear.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "BarberJP"
+   },
+   {
+    "file": "MODODennison.jpg",
+    "lic": [
+     "CC BY",
+     "CC BY 3.0"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Carton_box_seal_tape.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Acheolg"
+   },
+   {
+    "file": "Water_Activated_Gummed_Tape.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Acheolg"
+   }
+  ]
+ },
+ "aeromoça": {
+  "tipo": "pessoa",
+  "art": "Flight_attendant",
+  "cand": [
+   {
+    "file": "Austrian_Crew_-_8961564592.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Austrian Airlines"
+   },
+   {
+    "file": "Some_of_the_Hindenburg_crew_after_the_disaster_1937.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Associated Press"
+   },
+   {
+    "file": "Jack_Sanderson,_world's_first_flight_steward.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Vraagteken_vlucht_Lockheed_Electra_naar_Istanbul,_Bestanddeelnr_910-7819.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Harry Pot for Anefo"
+   },
+   {
+    "file": "Nelly_Diener_cropped.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Swissair"
+   },
+   {
+    "file": "1949.01._Washing_up_on_Catalina_(Suva-Sydney)_copy.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Qantas Empire Airways (unknown photographer)"
+   },
+   {
+    "file": "Photography_by_Victor_Albert_Grigas_(1919-2017)_1_Heathrow_Airport_-_Victoria_Station_London00622_(48361402931).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Victor Grigas"
+   },
+   {
+    "file": "In_flight_via_Eastern_Air_Lines_Silverliner_-_A_courteous,_alert_Flight-Steward_--_at_your_service_--_is_aboard_every_Silverliner_A.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Egypt_air_Flyght_attendant_during_flight.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Peter van der Sluijs"
+   },
+   {
+    "file": "Aeroflot_flight_attendant_(hostess).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Petar Milošević"
+   }
+  ]
+ },
+ "vaso sanitário": {
+  "tipo": "objeto",
+  "art": "Toilet",
+  "cand": [
+   {
+    "file": "Toilet_photo.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Amin"
+   },
+   {
+    "file": "Squat-toilet-with-tank.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "FAL"
+    ],
+    "autor": "Scottperry"
+   },
+   {
+    "file": "Raised_pit_toilet,_Informal_settlements_Kampala_(8409884995).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "SuSanA Secretariat"
+   },
+   {
+    "file": "Toilet_370x580.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Vacuum_toilet_in_a_train.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Kecko from Eastern Switzerland"
+   },
+   {
+    "file": "Dolmabahce_Toilette2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Nérostrateur"
+   },
+   {
+    "file": "Lower_NTK_Estate_old_squat_toilet.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Wright"
+   },
+   {
+    "file": "French_Squatter_Toilet.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Mintguy"
+   },
+   {
+    "file": "Squattoilet.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Barthdqp"
+   },
+   {
+    "file": "Peeing_.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Daniel Lobo"
+   }
+  ]
+ },
+ "grampeador": {
+  "tipo": "objeto",
+  "art": "Stapler",
+  "cand": [
+   {
+    "file": "2017_Zszywacz_biurowy.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jacek Halicki"
+   },
+   {
+    "file": "StaplerDHS.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Alex Fuerst"
+   },
+   {
+    "file": "McGill_Stapler.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mikebartnz"
+   },
+   {
+    "file": "Stapler_exploded_view.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "MacChesney"
+   },
+   {
+    "file": "Rapid_Classic_Longarm_Stapler_HD12_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "W.carter"
+   },
+   {
+    "file": "BookletStapler.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "NotAnonymous at English Wikipedia"
+   },
+   {
+    "file": "Clipless.jpg",
+    "lic": [
+     "PD"
+    ],
+    "autor": "18:41, 4 February 2006"
+   },
+   {
+    "file": "Heavy-duty-stapler-firestone.jpeg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "JosephBarillari at en.wikipedia"
+   },
+   {
+    "file": "Skin_stapler_closeup.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Steven Fruitsmaak"
+   }
+  ]
+ },
+ "encanador": {
+  "tipo": "pessoa",
+  "art": "Plumber",
+  "cand": [
+   {
+    "file": "Plumber_at_work.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "photo taken by flickr user rick"
+   },
+   {
+    "file": "Working_underground.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Делфина"
+   }
+  ]
+ },
+ "fone de ouvido": {
+  "tipo": "objeto",
+  "art": "Headphones",
+  "cand": [
+   {
+    "file": "Słuchawki_referencyjne_K-701_firmy_AKG.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "http://muzyczny.pl"
+   },
+   {
+    "file": "Night_telephone_operator_1898.png",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Interior_of_Fessenden_wireless_telegraph_station.png",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Archie Frederick Collins"
+   },
+   {
+    "file": "Holtzer_Cabot_Wireless_Head_Normal_Receivers.png",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Holtzer Cabot"
+   },
+   {
+    "file": "Headphones-Sennheiser-HD555.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Adamantios"
+   },
+   {
+    "file": "Headset_adaptor.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Andrewa"
+   },
+   {
+    "file": "Interrupteur.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Doudoulolita"
+   },
+   {
+    "file": "Headphones_1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. PJ assumed (based on copyright claims)."
+   },
+   {
+    "file": "GradoPrestige-HeadphoneArticle.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "PiccoloNamek at English Wikipedia"
+   },
+   {
+    "file": "Earphones_BW_2011-12-10_15-49-08.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Berthold Werner"
+   }
+  ]
+ },
+ "tênis": {
+  "tipo": "roupa",
+  "art": "Sneakers",
+  "cand": [
+   {
+    "file": "Air_Jordan_1_Banned.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "HI 622"
+   },
+   {
+    "file": "Adidas_Superstar_shoes_pair.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Yahoo! Blog from Sunnyvale, California, USA"
+   },
+   {
+    "file": "New_Balance_Women's_990_Running_Shoes.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "slgckgc"
+   },
+   {
+    "file": "Stride_rite_sneakers_10101.jpeg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Zoe1013"
+   },
+   {
+    "file": "Dorothea_Lange_atop_automobile_in_California_(restored)_(cropped).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Rondal Partridge&nbsp;(1917–2015)&nbsp;&nbsp; &nbsp; Description American photog"
+   },
+   {
+    "file": "Black_Converse_sneakers.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Brooke Fishwick"
+   },
+   {
+    "file": "Adidas_Stan_Smith_80s.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Tohlsson"
+   },
+   {
+    "file": "EVD-tenis-050.jpg",
+    "lic": [
+     "CC BY-SA 2.5 co"
+    ],
+    "autor": "User:Evdcoldeportes"
+   },
+   {
+    "file": "Nike_dunk.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "William Mucci"
+   },
+   {
+    "file": "DIG_E_2015._Brooklyn_Museum.The_Rise_of_Sneaker_Culture.jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Brooklyn Museum"
+   }
+  ]
+ },
+ "ponto de ônibus": {
+  "tipo": "lugar",
+  "art": "Bus_stop",
+  "cand": [
+   {
+    "file": "Bangkok_New_bus_sign_2019_is_informative.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Chainwit."
+   },
+   {
+    "file": "People_waiting_at_bus_stop.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Frank Hank"
+   },
+   {
+    "file": "Yorkshire_bus_stop.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Cameron Butler"
+   },
+   {
+    "file": "Dukuh_Atas_1_Transjakarta_stop_perspective_view,_2023.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fikri RA"
+   },
+   {
+    "file": "Busstationphotomelbourne.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Celco85"
+   },
+   {
+    "file": "Bus_stop_on_Toppelundintie.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "GFDL"
+    ],
+    "autor": "JIP"
+   },
+   {
+    "file": "Dublin_Bus_stop.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "AntiRevisionismEnjoyer"
+   },
+   {
+    "file": "HighpointShoppingCentreBusSetdown.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rng0286"
+   },
+   {
+    "file": "Haltestellenschild_Jungfernstieg_retouched.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "MissyWegner"
+   },
+   {
+    "file": "YRT_bin.jpeg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "User:Savevp"
+   }
+  ]
+ },
+ "bonde": {
+  "tipo": "objeto",
+  "art": "Trams_in_Lisbon",
+  "cand": [
+   {
+    "file": "Lisbon-Day3-1_(34184431096).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ajay Suresh from New York, NY, USA"
+   },
+   {
+    "file": "Tram_map_Lisbon_2011.png",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Don-kun, Open Street Map"
+   },
+   {
+    "file": "1873_Horse_tram_in_Lisbon.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Ascensor_da_Estrela,_foto_do_fabricante.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Tramway-caboPalma-Graça.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "ElevadorGraca@Arco(A77588)(!).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Lisbon_3.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Travelinho"
+   },
+   {
+    "file": "CCFLarticulado№604(crrQ023).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Tuvalkin (talk&nbsp;· contribs) (crrQ023)"
+   },
+   {
+    "file": "Oporto_-_Jardim_Do_Morro_-_20110425_133656.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Barcex"
+   },
+   {
+    "file": "Tramstop_at_Woodside_-_geograph.org.uk_-_204420.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Peter Craine"
+   }
+  ]
+ },
+ "misto-quente": {
+  "tipo": "comida",
+  "art": "Toast_sandwich",
+  "cand": [
+   {
+    "file": "An_image_of_a_toast_sandwich,_shot_from_the_side.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Qwantz"
+   },
+   {
+    "file": "Two_toast_sandwiches,_the_Fat_Duck,_November_2012.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Mike Fleming"
+   }
+  ]
+ },
+ "suéter": {
+  "tipo": "roupa",
+  "art": "Sweater",
+  "cand": [
+   {
+    "file": "Selburose-sweater.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Nils R. Barth"
+   },
+   {
+    "file": "Hot_dog_sweater_1434172037.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "iluvrhinestones from seattle, oceania, upload by Herrick 07:07, 10 December 2007"
+   },
+   {
+    "file": "Jersei-coll-alt.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Joan Rocaguinard"
+   },
+   {
+    "file": "1940_Trachtenstrickjacke_anagoria.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Anagoria"
+   },
+   {
+    "file": "Islandpullover_004.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Freimut Bahlo"
+   },
+   {
+    "file": "Seaman_jumper.JPG",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Peter Ellis at English Wikipedia"
+   },
+   {
+    "file": "Jersey_(AM_2005.58.3).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "salva-vidas": {
+  "tipo": "pessoa",
+  "art": "Lifeguard",
+  "cand": [
+   {
+    "file": "Lifeguard_jumping_into_action,_Ocean_City,_June_27_,2007.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "flickr user dbking"
+   },
+   {
+    "file": "Lifeguard_warnings.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "AV07071995"
+   },
+   {
+    "file": "Alamoana14.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Drums600 (talk) (Uploads)"
+   },
+   {
+    "file": "Lifeguard_school,_Tramore.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sheila1988"
+   },
+   {
+    "file": "Lifeguard_Emergency_training_at_Shaw_120531-F-IM659-334.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Airman Nicole Sikorski"
+   },
+   {
+    "file": "DLRG-Rettungsschwimmer-Borkum-Lo.JPG",
+    "lic": [
+     "CC BY-SA 2.0 de"
+    ],
+    "autor": "Lorenz Teschner"
+   },
+   {
+    "file": "No_Lifeguard_On_Duty_(4310570522).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Benson Kua from Toronto, Canada"
+   },
+   {
+    "file": "BelgianLifeguards.jpg",
+    "lic": [
+     "CC BY-SA 2.0",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Wouter van Erve"
+   },
+   {
+    "file": "RNLI_lifeguards_service,_Treyarnon_Bay.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Rwendland"
+   }
+  ]
+ },
+ "placa do carro": {
+  "tipo": "objeto",
+  "art": "Vehicle_registration_plate",
+  "cand": [
+   {
+    "file": "Two_Fiat_500s_Voltio.png",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Earth605"
+   },
+   {
+    "file": "Letafors._Far_from_home_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Carsten Wiehe"
+   },
+   {
+    "file": "2018_Victoria_registration_plate_2AX_8MH_The_Education_State.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "LuvsMG481"
+   },
+   {
+    "file": "Deutsche_Ausfuhr-Kfz-Kennzeichen_(Export).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Own work"
+   },
+   {
+    "file": "Thai_registration_plate_with_a_Malaysian_plate_at_the_bottom.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "LuvsMG481"
+   },
+   {
+    "file": "1916_Wyoming_License_Plate_3088.jpg",
+    "lic": [
+     "WTFPL"
+    ],
+    "autor": "Mr. Satterly"
+   },
+   {
+    "file": "First_Minnesota_license_plate.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Minnesota Historical Society"
+   },
+   {
+    "file": "Botswana-rear-plate.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Vicbrumby"
+   },
+   {
+    "file": "Burkina_Faso_passenger_vehicle_plate.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Dvermeirre"
+   }
+  ]
+ },
+ "geleia": {
+  "tipo": "comida",
+  "art": "Fruit_preserves",
+  "cand": [
+   {
+    "file": "Fruits_jam_variants.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "毒島みるく"
+   },
+   {
+    "file": "Colmar_(6710880299).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Michal Osmenda from Brussels, Belgium"
+   },
+   {
+    "file": "Yujacha_(yuja_tea).jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "croxriver"
+   },
+   {
+    "file": "Az-Strawberry_jam,_making_by_e-citizen_(moonsun1981).JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Moonsun1981"
+   },
+   {
+    "file": "LingonberryJam.jpeg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "The original uploader was Hephaestos at English Wikipedia."
+   },
+   {
+    "file": "Homemade_marmalade,_England.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Amanda Slater"
+   },
+   {
+    "file": "Bubbling_Jam.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Baryonic Being"
+   },
+   {
+    "file": "Pan,_preserving_(AM_1969.85-2).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Délices_de_Paris.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Julie Kertesz from Paris neighbourhood, France"
+   }
+  ]
+ },
+ "açougue": {
+  "tipo": "lugar",
+  "art": "Butcher",
+  "cand": [
+   {
+    "file": "Wiki_Loves_Mett_P1020898.JPG",
+    "lic": [
+     "CC BY 3.0 de"
+    ],
+    "autor": "Fridolin Freudenfett"
+   },
+   {
+    "file": "Chinese_butcher.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Taro Taylor from Sydney, Australia"
+   },
+   {
+    "file": "Prémices_d'un_succulent_civet.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "JustKeeeN"
+   },
+   {
+    "file": "Algerian_Butcher.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "ZHMDSM"
+   },
+   {
+    "file": "Female_Butcher.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "LauraB1"
+   },
+   {
+    "file": "Cattle_cutting_up_-_Kagemni_Mastaba.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sémhur (talk)"
+   },
+   {
+    "file": "11-alimenti,carni_ovine,Taccuino_Sanitatis,_Casanatense_4182.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "unknown master"
+   },
+   {
+    "file": "Florenz-66-Metzgerei-1983-gje.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Gerd Eichmann"
+   },
+   {
+    "file": "Bill_Tong_being_weighed_ready_for_sale_in_Africa.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "FrogsLegs71"
+   },
+   {
+    "file": "Boucherie_du_Bac,_Paris_10_April_2013.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Derek Key"
+   }
+  ]
+ }
+}

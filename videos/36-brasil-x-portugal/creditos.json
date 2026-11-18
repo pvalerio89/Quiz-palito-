@@ -1,0 +1,265 @@
+{
+ "ônibus": {
+  "file": "(SGP-Singapore)_SBS_Transit_SG3042Y_298_2024-12-23.jpg",
+  "crop": null,
+  "arquivo": "onibus.jpg",
+  "autor": "S5A-0043",
+  "lic": "CC BY 4.0"
+ },
+ "celular": {
+  "file": "Livraria_do_Senado_(22622160063).jpg",
+  "crop": null,
+  "arquivo": "celular.jpg",
+  "autor": "Senado Federal",
+  "lic": "CC BY 2.0"
+ },
+ "geladeira": {
+  "file": "A_Samsung_Refrigerator.jpg",
+  "crop": null,
+  "arquivo": "geladeira.jpg",
+  "autor": "Kskhh",
+  "lic": "CC BY-SA 4.0"
+ },
+ "trem": {
+  "file": "New_Zealand_DX_class_locomotive._(24769239234).jpg",
+  "crop": null,
+  "arquivo": "trem.jpg",
+  "autor": "Bernard Spragg. NZ from Christchurch, New Zealand",
+  "lic": "CC0"
+ },
+ "suco": {
+  "file": "Orange_juice_1.jpg",
+  "crop": null,
+  "arquivo": "suco.jpg",
+  "autor": "Agricultural Research Service",
+  "lic": "Public domain"
+ },
+ "banheiro": {
+  "file": "Barcelonnette_-_Villa_du_Parc_du_Mercantour_-991.jpg",
+  "crop": null,
+  "arquivo": "banheiro.jpg",
+  "autor": "MOSSOT",
+  "lic": "CC BY 3.0"
+ },
+ "sorvete": {
+  "file": "Black_sesame_soft_ice_cream.jpg",
+  "crop": null,
+  "arquivo": "sorvete.jpg",
+  "autor": "Kwekwe",
+  "lic": "CC BY-SA 3.0"
+ },
+ "caminhão": {
+  "file": "Truck_Pakistan.jpg",
+  "crop": null,
+  "arquivo": "caminhao.jpg",
+  "autor": "Lunaloop",
+  "lic": "CC BY-SA 4.0"
+ },
+ "fila": {
+  "file": "Queue_outside_a_soup_kitchen_at_Klostertorv_in_Ålborg_1943.jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ],
+  "arquivo": "fila.jpg",
+  "autor": "National Museum of Denmark from Denmark",
+  "lic": "No restrictions"
+ },
+ "café da manhã": {
+  "file": "Breakfast_at_the_Black_Bear_Diner.jpg",
+  "crop": null,
+  "arquivo": "cafe-da-manha.jpg",
+  "autor": "Kiddo27",
+  "lic": "CC BY-SA 4.0"
+ },
+ "grama": {
+  "file": "The_Lawn_UVa_2007.jpg",
+  "crop": null,
+  "arquivo": "grama.jpg",
+  "autor": "Berglund from Richardson, Texas, USA",
+  "lic": "CC BY 2.0"
+ },
+ "terno": {
+  "file": "Gentleman_in_bowler.JPG",
+  "crop": null,
+  "arquivo": "terno.jpg",
+  "autor": "Fredrik Tersmeden (= User:FredrikT)",
+  "lic": "CC BY-SA 3.0"
+ },
+ "xícara": {
+  "file": "Five_Piece_Tea_Service_with_Chrysanthemum_Design_LACMA_M.2006.132.10a-i.jpg",
+  "crop": null,
+  "arquivo": "xicara.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "Public domain"
+ },
+ "garçom": {
+  "file": "Servitris_-_Ystad-2012.jpg",
+  "crop": null,
+  "arquivo": "garcom.jpg",
+  "autor": "Foto: Jonn Leffmann",
+  "lic": "CC BY 3.0"
+ },
+ "mouse": {
+  "file": "A_computer_mouse,_black_and_white,_retouched,_keyboard_visible_in_background.jpg",
+  "crop": null,
+  "arquivo": "mouse.jpg",
+  "autor": "Charlie Smith FDTB",
+  "lic": "Public domain"
+ },
+ "tela": {
+  "file": "LG_Flatron_W2486_(1).jpg",
+  "crop": null,
+  "arquivo": "tela.jpg",
+  "autor": "LG전자",
+  "lic": "CC BY 2.0"
+ },
+ "cardápio": {
+  "file": "Menu_of_Fatto_a_Mano_Pizzeria,_North_Laine_(desserts).jpg",
+  "crop": null,
+  "arquivo": "cardapio.jpg",
+  "autor": "Andy Li",
+  "lic": "CC0"
+ },
+ "pedestre": {
+  "file": "CrossWalk_(5465840138).jpg",
+  "crop": null,
+  "arquivo": "pedestre.jpg",
+  "autor": "Alex Proimos from Sydney, Australia",
+  "lic": "CC BY 2.0"
+ },
+ "faixa de pedestres": {
+  "file": "Abbey_Road_Zebra.jpg",
+  "crop": null,
+  "arquivo": "faixa-de-pedestres.jpg",
+  "autor": "Misterweiss at English Wikipedia",
+  "lic": "Public domain"
+ },
+ "goleiro": {
+  "file": "Belgium_goalkeeper_Thibaut_Courtois_making_a_save_during_the_match_against_Brazil,_6_July_2018.jpg",
+  "crop": null,
+  "arquivo": "goleiro.jpg",
+  "autor": "Эдгар Брещанов",
+  "lic": "CC BY-SA 3.0"
+ },
+ "bala": {
+  "file": "HardCandy.jpg",
+  "crop": null,
+  "arquivo": "bala.jpg",
+  "autor": "Adam Zivner",
+  "lic": "CC BY-SA 3.0"
+ },
+ "presunto": {
+  "file": "Schinken-gekocht.jpg",
+  "crop": null,
+  "arquivo": "presunto.jpg",
+  "autor": "Rainer Zenz",
+  "lic": "CC BY-SA 3.0"
+ },
+ "curativo": {
+  "file": "Sparadrap_2.jpg",
+  "crop": null,
+  "arquivo": "curativo.jpg",
+  "autor": "Photograph by Rama",
+  "lic": "CeCILL"
+ },
+ "abacaxi": {
+  "file": "Ananas_01.JPG",
+  "crop": null,
+  "arquivo": "abacaxi.jpg",
+  "autor": "Dinkum",
+  "lic": "CC0"
+ },
+ "chiclete": {
+  "file": "Blowing_bubble_gum.jpg",
+  "crop": null,
+  "arquivo": "chiclete.jpg",
+  "autor": "Jim McCluskey from Everett, Washington, United States",
+  "lic": "CC BY 2.0"
+ },
+ "fita adesiva": {
+  "file": "Adhesive_tapes_clear.JPG",
+  "crop": null,
+  "arquivo": "fita-adesiva.jpg",
+  "autor": "BarberJP",
+  "lic": "Public domain"
+ },
+ "aeromoça": {
+  "file": "Aeroflot_flight_attendant_(hostess).jpg",
+  "crop": null,
+  "arquivo": "aeromoca.jpg",
+  "autor": "Petar Milošević",
+  "lic": "CC BY-SA 4.0"
+ },
+ "vaso sanitário": {
+  "file": "Toilet_370x580.jpg",
+  "crop": null,
+  "arquivo": "vaso-sanitario.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "Public domain"
+ },
+ "grampeador": {
+  "file": "2017_Zszywacz_biurowy.jpg",
+  "crop": null,
+  "arquivo": "grampeador.jpg",
+  "autor": "Jacek Halicki",
+  "lic": "CC BY-SA 4.0"
+ },
+ "encanador": {
+  "file": "Plumber_at_work.jpg",
+  "crop": null,
+  "arquivo": "encanador.jpg",
+  "autor": "photo taken by flickr user rick",
+  "lic": "CC BY 2.0"
+ },
+ "fone de ouvido": {
+  "file": "Słuchawki_referencyjne_K-701_firmy_AKG.jpg",
+  "crop": null,
+  "arquivo": "fone-de-ouvido.jpg",
+  "autor": "http://muzyczny.pl",
+  "lic": "CC BY-SA 4.0"
+ },
+ "ponto de ônibus": {
+  "file": "Yorkshire_bus_stop.jpg",
+  "crop": null,
+  "arquivo": "ponto-de-onibus.jpg",
+  "autor": "Cameron Butler",
+  "lic": "CC BY-SA 4.0"
+ },
+ "bonde": {
+  "file": "Lisbon_3.jpg",
+  "crop": null,
+  "arquivo": "bonde.jpg",
+  "autor": "Travelinho",
+  "lic": "CC BY-SA 3.0"
+ },
+ "suéter": {
+  "file": "Selburose-sweater.jpg",
+  "crop": null,
+  "arquivo": "sueter.jpg",
+  "autor": "Nils R. Barth",
+  "lic": "Public domain"
+ },
+ "salva-vidas": {
+  "file": "Lifeguard_jumping_into_action,_Ocean_City,_June_27_,2007.jpg",
+  "crop": null,
+  "arquivo": "salva-vidas.jpg",
+  "autor": "flickr user dbking",
+  "lic": "CC BY 2.0"
+ },
+ "placa do carro": {
+  "file": "Botswana-rear-plate.jpg",
+  "crop": "fit",
+  "arquivo": "placa-do-carro.jpg",
+  "autor": "Vicbrumby",
+  "lic": "Public domain"
+ },
+ "açougue": {
+  "file": "Wiki_Loves_Mett_P1020898.JPG",
+  "crop": null,
+  "arquivo": "acougue.jpg",
+  "autor": "Fridolin Freudenfett",
+  "lic": "CC BY 3.0 de"
+ }
+}
