@@ -17,6 +17,11 @@ A miniatura por código continua sendo feita pela rotina diária e sobe junto co
    grosso, cabeça redonda, olhos arregalados, boca aberta em PÂNICO, as duas mãos na cabeça."
    Espere ~40 s e confira por screenshot: tem que ter o Palito grande, o título certo escrito sem erro e
    "VOCÊ CONSEGUE?". Se faltar algo, peça a correção no mesmo chat (no máximo 2 tentativas).
+4b. **Cena de abertura** (2026-11-17, só quando a linha do passo 1 diz `cena`): no mesmo projeto, mande o texto de
+   `<pasta>/youtube/prompt-flow-cena.txt` começando com "Gere uma cena 16:9 colorida, sem nenhum texto escrito:" e
+   reforçando o Palito (mesmo desenho do passo 4, mas animado/feliz, não em pânico). Confira que não tem texto nem
+   logo de outra marca. Baixe do mesmo jeito do passo 5 e grave como `<pasta>/abertura.jpg` (JPG 1920x1080, PIL
+   `ImageOps.fit`, quality 88). O build usa sozinho como fundo da intro (`op.intro_rapida(..., abertura=...)`).
 5. Baixe a melhor por JavaScript na aba do Flow (as `<img>` de 1376x768 cujo `alt` começa pelo prompt):
    `fetch(img.src)` → blob → `<a download="flow-<nome-da-pasta>.webp">` → click.
    O Chrome salva em `C:\Users\pvale\OneDrive\Desktop\Videos de IA\QuizPalito\zapi-img`.

@@ -4,7 +4,8 @@ Uso: py -3 automacao/miniaturas_pendentes.py
   Olha os itens 'pronto' e os 'publicado' que ainda não entraram no ar (no_ar_em no futuro) do fila/fila.json.
   Pendente = <video>/youtube/ tem prompt-flow.txt mas NÃO tem thumbnail-codigo.jpg
   (quando a miniatura do Flow entra, a de código vira thumbnail-codigo.jpg).
-  Imprime uma pasta por linha: "<pasta> <status> <no_ar_em>". Nada impresso = nada a fazer.
+  Cena (2026-11-17): item 'pronto' cujo <video>/youtube/ tem prompt-flow-cena.txt e a pasta não tem abertura.jpg.
+  Imprime uma pasta por linha: "<pasta> <status> <no_ar_em> <o que falta: miniatura,cena>". Nada impresso = nada a fazer.
 """
 import datetime, json, os, sys
 
@@ -22,8 +23,14 @@ def main():
         if st == "publicado" and (not quando or quando <= agora):
             continue
         yt = os.path.join(RAIZ, pasta, "youtube")
+        falta = []
         if os.path.exists(os.path.join(yt, "prompt-flow.txt")) and not os.path.exists(os.path.join(yt, "thumbnail-codigo.jpg")):
-            print(pasta, st, quando or "-")
+            falta.append("miniatura")
+        if st == "pronto" and os.path.exists(os.path.join(yt, "prompt-flow-cena.txt")) \
+                and not os.path.exists(os.path.join(RAIZ, pasta, "abertura.jpg")):
+            falta.append("cena")
+        if falta:
+            print(pasta, st, quando or "-", ",".join(falta))
 
 
 if __name__ == "__main__":

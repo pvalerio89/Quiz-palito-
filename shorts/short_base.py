@@ -19,7 +19,7 @@ BAR = (90, 1090, 990, 1150)
 MUSICA_VOL = 0.14
 
 # Frases de chamada da abertura/título. Variar entre Shorts (Patrick, 2026-11-09): não repetir as dos
-# últimos 3 Shorts (títulos em publicados.json); "SÓ 1% ACERTA" só de vez em quando.
+# últimos 3 Shorts (títulos em publicados.json). "SÓ 1% ACERTA" saiu da lista (análise do canal, 2026-11-17).
 CHAMADAS = [
     "DUVIDO VOCÊ ACERTAR TODAS!",
     "QUASE NINGUÉM ACERTA A ÚLTIMA!",
@@ -30,7 +30,8 @@ CHAMADAS = [
     "A ÚLTIMA É MUITO DIFÍCIL!",
     "SEU AMIGO NÃO ACERTA ESSA!",
     "ACERTOU TODAS? COMENTA!",
-    "SÓ 1% ACERTA TODAS!",
+    "SE ACERTAR 4, VOCÊ É FERA!",
+    "SEU PAI ACERTA ESSAS?",
 ]
 
 

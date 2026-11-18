@@ -2,7 +2,7 @@
 
 Uso:
   py -3 automacao/fila.py proximo            -> escolhe o 1º item 'pronto' e o próximo horário livre
-                                                (HORARIOS) e escreve id/video/short/agendar
+                                                (HORARIOS) e escreve id/video/short/agendar/agendar_short
                                                 (no GitHub vai para GITHUB_OUTPUT)
   py -3 automacao/fila.py fechar <id> <ok|erro> [motivo]
                                              -> marca o item como publicado ou erro e põe o link
@@ -20,7 +20,11 @@ MARCA = "LINK_DO_VIDEO_LONGO"
 
 # Horários em que os vídeos entram no ar (Brasília, UTC-3, sem horário de verão).
 # O workflow sobe o vídeo antes e o YouTube solta na hora certa (publishAt), então o atraso do GitHub não importa.
-HORARIOS = ((12, 9), (17, 30), (20, 30))  # 3 por dia (Patrick, 2026-11-13)
+# 2026-11-17 (Patrick): 2 por dia, 1 vídeo longo + 1 Short em horários DIFERENTES, nos picos do canal
+# (Studio > Público > "Quando seus espectadores estão no YouTube": pico todo dia das 18h às 21h).
+# HORARIOS = horário do vídeo longo; o Short do mesmo item sai SHORT_DEPOIS mais tarde.
+HORARIOS = ((18, 0),)
+SHORT_DEPOIS = datetime.timedelta(hours=2, minutes=30)  # Short às 20h30
 BRASILIA = datetime.timezone(datetime.timedelta(hours=-3))
 MARGEM = datetime.timedelta(hours=2)  # tempo para gerar e subir antes do horário
 JANELA = datetime.timedelta(hours=24)  # só agenda horários das próximas 24 h
@@ -68,6 +72,14 @@ def liberar_adiantados(doc, reg, ref=None):
             it.pop("no_ar_brasilia", None)
             it["foi_ao_ar_antes"] = True
     return livres
+
+
+def horario_short(quando):
+    """Horário do Short (UTC, ISO) a partir do horário do vídeo longo. Vazio = publicar já."""
+    if not quando:
+        return ""
+    t = datetime.datetime.fromisoformat(quando.replace("Z", "+00:00")) + SHORT_DEPOIS
+    return t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def horario_livre(doc, ref=None):
@@ -121,7 +133,7 @@ def proximo():
                  for i in doc["itens"])
     if not quando and not sem_agendar and not ja_tem:
         print("Os horários das próximas 24 h já têm vídeo agendado. Nada a fazer agora.")
-        saida(id="", video="", short="", video_feito="false", short_feito="false", agendar="")
+        saida(id="", video="", short="", video_feito="false", short_feito="false", agendar="", agendar_short="")
         return
     for it in doc["itens"]:
         if it.get("status") != "pronto":
@@ -136,11 +148,11 @@ def proximo():
         antes = it.get("agendar_em", "")
         if antes and not sem_agendar and datetime.datetime.fromisoformat(antes.replace("Z", "+00:00")) >= agora() + MARGEM:
             quando = antes
-        saida(id=it["id"], video=video, short=short, agendar=quando,
+        saida(id=it["id"], video=video, short=short, agendar=quando, agendar_short=horario_short(quando),
               video_feito=str(feito(reg, video)).lower(), short_feito=str(feito(reg, short)).lower())
         return
     print("Nenhum item 'pronto' na fila. Nada para publicar agora.")
-    saida(id="", video="", short="", video_feito="false", short_feito="false", agendar="")
+    saida(id="", video="", short="", video_feito="false", short_feito="false", agendar="", agendar_short="")
 
 
 def trocar_link(pasta_short, url):

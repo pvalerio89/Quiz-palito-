@@ -37,6 +37,7 @@ jobs:
       video_feito: ${{ steps.f.outputs.video_feito }}
       short_feito: ${{ steps.f.outputs.short_feito }}
       agendar: ${{ steps.f.outputs.agendar }}
+      agendar_short: ${{ steps.f.outputs.agendar_short }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -57,7 +58,7 @@ jobs:
           if [ -z "${{ steps.f.outputs.id }}" ]; then
             echo "Nada a fazer agora (horários já agendados ou fila sem item pronto)." >> "$GITHUB_STEP_SUMMARY"
           else
-            echo "**${{ steps.f.outputs.id }}** — ${{ steps.f.outputs.video }} + ${{ steps.f.outputs.short }}, no ar em ${{ steps.f.outputs.agendar }} (UTC)" >> "$GITHUB_STEP_SUMMARY"
+            echo "**${{ steps.f.outputs.id }}** — ${{ steps.f.outputs.video }} + ${{ steps.f.outputs.short }}, longo no ar em ${{ steps.f.outputs.agendar }}, Short em ${{ steps.f.outputs.agendar_short }} (UTC)" >> "$GITHUB_STEP_SUMMARY"
           fi
 
   gerar_video:
@@ -99,7 +100,7 @@ jobs:
       pasta: ${{ needs.escolher.outputs.short }}
       privacidade: publico
       longo: ${{ needs.escolher.outputs.video }}
-      agendar: ${{ needs.escolher.outputs.agendar }}
+      agendar: ${{ needs.escolher.outputs.agendar_short }}   # Short em outro horário (fila.SHORT_DEPOIS)
     secrets: inherit
 
   # Short vai também para a caixa de entrada do TikTok (rascunho): o Patrick abre a notificação no
