@@ -1,0 +1,886 @@
+[
+ {
+  "n": 1,
+  "nivel": 1,
+  "pergunta": "NATURAL OU CULTURAL?",
+  "cartao": [
+   "RIO"
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Natural",
+   "Cultural",
+   "Nenhum dos dois"
+  ],
+  "certa": 0,
+  "fala_q": "Primeira questão da prova: rio é elemento natural ou cultural?",
+  "fala_r": "Natural! O rio já estava lá, ninguém construiu.",
+  "count": 5.0
+ },
+ {
+  "n": 2,
+  "nivel": 1,
+  "pergunta": "NATURAL OU CULTURAL?",
+  "cartao": [
+   "PRÉDIO"
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "Natural",
+   "Nenhum dos dois",
+   "Cultural"
+  ],
+  "certa": 2,
+  "fala_q": "E prédio? Natural ou cultural?",
+  "fala_r": "Cultural! Quem construiu foi o ser humano.",
+  "count": 6.0
+ },
+ {
+  "n": 3,
+  "nivel": 1,
+  "pergunta": "QUE POLUIÇÃO É ESSA?",
+  "cartao": [
+   "Uma fábrica solta",
+   "fumaça o dia",
+   "inteiro."
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Da água",
+   "Sonora",
+   "Do ar"
+  ],
+  "certa": 2,
+  "fala_q": "Uma fábrica solta fumaça o dia inteiro. Que poluição é essa? Da água, Sonora ou Do ar?",
+  "fala_r": "Poluição do ar! A fumaça suja o ar que a gente respira.",
+  "count": 8.0
+ },
+ {
+  "n": 4,
+  "nivel": 1,
+  "pergunta": "O QUE É PAISAGEM?",
+  "cartao": [
+   "Paisagem",
+   "é..."
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Só lugar bonito",
+   "Só cidade grande",
+   "Tudo que se vê"
+  ],
+  "certa": 2,
+  "fala_q": "O que é paisagem? Tudo que se vê, só lugar bonito ou só cidade grande?",
+  "fala_r": "Tudo o que vemos e percebemos num local, em determinado momento!",
+  "count": 8.0,
+  "sabia": "As palavras-chave são local e momento: a paisagem é sempre de um lugar e de um instante."
+ },
+ {
+  "n": 5,
+  "nivel": 1,
+  "pergunta": "QUEM MUDOU A PAISAGEM?",
+  "cartao": [
+   "Construíram uma",
+   "ponte sobre",
+   "o rio."
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "Ser humano",
+   "Natureza",
+   "Ninguém"
+  ],
+  "certa": 0,
+  "fala_q": "Construíram uma ponte sobre o rio. Quem mudou a paisagem? Ser humano, Natureza ou Ninguém?",
+  "fala_r": "O ser humano! Ponte é construção.",
+  "count": 8.0
+ },
+ {
+  "n": 6,
+  "nivel": 1,
+  "pergunta": "QUEM MUDOU A PAISAGEM?",
+  "cartao": [
+   "Um terremoto",
+   "rachou a estrada",
+   "ao meio."
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Ser humano",
+   "Natureza",
+   "Ninguém"
+  ],
+  "certa": 1,
+  "fala_q": "Um terremoto rachou a estrada ao meio. Quem mudou a paisagem? Ser humano, Natureza ou Ninguém?",
+  "fala_r": "A natureza! Ninguém manda no terremoto.",
+  "count": 8.0
+ },
+ {
+  "n": 7,
+  "nivel": 1,
+  "pergunta": "QUE POLUIÇÃO É ESSA?",
+  "cartao": [
+   "Esgoto sem",
+   "tratamento jogado",
+   "no rio."
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "Do ar",
+   "Da água",
+   "Visual"
+  ],
+  "certa": 1,
+  "fala_q": "Esgoto sem tratamento é jogado no rio. Que poluição é essa? Do ar, Da água ou Visual?",
+  "fala_r": "Poluição da água! O rio fica sujo.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "nivel": 1,
+  "pergunta": "AJUDA OU PREJUDICA?",
+  "cartao": [
+   "Jogar lixo",
+   "no rio"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "Prejudica",
+   "Ajuda",
+   "Tanto faz"
+  ],
+  "certa": 0,
+  "fala_q": "Jogar lixo no rio ajuda ou prejudica o ambiente?",
+  "fala_r": "Prejudica! Suja a água e faz mal aos peixes.",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 1,
+  "pergunta": "AJUDA OU PREJUDICA?",
+  "cartao": [
+   "Fechar a torneira",
+   "ao escovar",
+   "os dentes"
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Prejudica",
+   "Tanto faz",
+   "Ajuda"
+  ],
+  "certa": 2,
+  "fala_q": "Fechar a torneira ao escovar os dentes ajuda ou prejudica o ambiente?",
+  "fala_r": "Ajuda! Economiza muita água.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "nivel": 1,
+  "pergunta": "NATURAL OU CULTURAL?",
+  "cartao": [
+   "LUZ SOLAR"
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "Cultural",
+   "Natural",
+   "Nenhum dos dois"
+  ],
+  "certa": 1,
+  "fala_q": "Luz solar é elemento natural ou cultural?",
+  "fala_r": "Natural! O Sol ninguém fabricou.",
+  "count": 8.0
+ },
+ {
+  "n": 11,
+  "nivel": 1,
+  "pergunta": "RÁPIDA OU LENTA?",
+  "cartao": [
+   "Começou",
+   "a chover."
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Rápida",
+   "Lenta",
+   "Não muda nada"
+  ],
+  "certa": 0,
+  "fala_q": "Começou a chover. Essa mudança na paisagem é rápida ou lenta?",
+  "fala_r": "Rápida! Acontece no mesmo dia, em minutos.",
+  "count": 8.0,
+  "fala_d": "Dica: isso muda no mesmo dia ou leva anos?",
+  "dica_txt": "MESMO DIA?"
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "NATURAL OU CULTURAL?",
+  "cartao": [
+   "PLANTAÇÃO"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Natural",
+   "Nenhum dos dois",
+   "Cultural"
+  ],
+  "certa": 2,
+  "fala_q": "Nível médio, valendo! Plantação é elemento natural ou cultural?",
+  "fala_r": "Cultural! Tem planta, mas quem plantou foi o ser humano.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "QUE POLUIÇÃO É ESSA?",
+  "cartao": [
+   "Som do vizinho",
+   "alto a noite",
+   "toda."
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "Sonora",
+   "Do ar",
+   "Visual"
+  ],
+  "certa": 0,
+  "fala_q": "O som do vizinho fica muito alto a noite toda. Que poluição é essa? Sonora, Do ar ou Visual?",
+  "fala_r": "Poluição sonora! Barulho demais também é poluição.",
+  "count": 8.0
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "QUE POLUIÇÃO É ESSA?",
+  "cartao": [
+   "Rua coberta de",
+   "cartazes, letreiros",
+   "e faixas."
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "Visual",
+   "Do solo",
+   "Sonora"
+  ],
+  "certa": 0,
+  "fala_q": "A rua está coberta de cartazes, letreiros e faixas. Que poluição é essa? Visual, Do solo ou Sonora?",
+  "fala_r": "Poluição visual! Cansa a vista.",
+  "count": 8.0,
+  "sabia": "Poluição sonora é o barulho que atrapalha. Poluição visual é o excesso de cartazes e letreiros que cansa a vista."
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "QUEM MUDOU A PAISAGEM?",
+  "cartao": [
+   "A floresta foi",
+   "derrubada para",
+   "virar pasto."
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "Natureza",
+   "Ninguém",
+   "Ser humano"
+  ],
+  "certa": 2,
+  "fala_q": "A floresta foi derrubada para virar pasto. Quem mudou a paisagem? Natureza, Ninguém ou Ser humano?",
+  "fala_r": "O ser humano! Foi gente que derrubou a mata.",
+  "count": 8.0
+ },
+ {
+  "n": 16,
+  "nivel": 2,
+  "pergunta": "QUEM MUDOU A PAISAGEM?",
+  "cartao": [
+   "No inverno, a cidade",
+   "amanheceu coberta",
+   "de neve."
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "Natureza",
+   "Ser humano",
+   "Ninguém"
+  ],
+  "certa": 0,
+  "fala_q": "No inverno, a cidade amanheceu coberta de neve. Quem mudou a paisagem? Natureza, Ser humano ou Ninguém?",
+  "fala_r": "A natureza! A neve cai sozinha.",
+  "count": 8.0
+ },
+ {
+  "n": 17,
+  "nivel": 2,
+  "pergunta": "RÁPIDA OU LENTA?",
+  "cartao": [
+   "A cidade cresceu",
+   "e ganhou",
+   "prédios altos."
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "Rápida",
+   "Não muda nada",
+   "Lenta"
+  ],
+  "certa": 2,
+  "fala_q": "A cidade cresceu e ganhou prédios altos. Mudança rápida ou lenta?",
+  "fala_r": "Lenta! Prédio e bairro novo levam anos.",
+  "count": 8.0
+ },
+ {
+  "n": 18,
+  "nivel": 2,
+  "pergunta": "PAISAGEM NATURAL OU CULTURAL?",
+  "cartao": [
+   "Centro da cidade:",
+   "prédios, carros",
+   "e lojas"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "Natural",
+   "Cultural",
+   "Nenhuma"
+  ],
+  "certa": 1,
+  "fala_q": "O centro de uma cidade, cheio de prédios, carros e lojas. É paisagem natural ou cultural?",
+  "fala_r": "Cultural! Quase tudo ali foi feito pelo ser humano.",
+  "count": 8.0
+ },
+ {
+  "n": 19,
+  "nivel": 2,
+  "pergunta": "PAISAGEM NATURAL OU CULTURAL?",
+  "cartao": [
+   "Cachoeira no meio",
+   "da mata, sem",
+   "construções"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "Cultural",
+   "Natural",
+   "Nenhuma"
+  ],
+  "certa": 1,
+  "fala_q": "Uma cachoeira no meio da mata, sem nenhuma construção por perto. Paisagem natural ou cultural?",
+  "fala_r": "Natural! Só tem elementos da natureza.",
+  "count": 8.0
+ },
+ {
+  "n": 20,
+  "nivel": 2,
+  "pergunta": "GOVERNO OU TODOS NÓS?",
+  "cartao": [
+   "Multar empresas",
+   "que poluem o ar",
+   "ou a água"
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "Governo",
+   "Todos nós",
+   "Ninguém"
+  ],
+  "certa": 0,
+  "fala_q": "Multar empresas que poluem o ar ou a água. Isso é ação do governo ou de todos nós?",
+  "fala_r": "Do governo! Só o governo pode multar.",
+  "count": 8.0
+ },
+ {
+  "n": 21,
+  "nivel": 2,
+  "pergunta": "GOVERNO OU TODOS NÓS?",
+  "cartao": [
+   "Comprar só",
+   "o necessário"
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Governo",
+   "Ninguém",
+   "Todos nós"
+  ],
+  "certa": 2,
+  "fala_q": "E comprar só o necessário? Governo ou todos nós?",
+  "fala_r": "Todos nós! Cada um pode fazer isso em casa.",
+  "count": 8.0
+ },
+ {
+  "n": 22,
+  "nivel": 2,
+  "pergunta": "QUANTO ECONOMIZA?",
+  "cartao": [
+   "Banho com",
+   "desperdício: 45 L",
+   "sem: 15 L"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "60 litros",
+   "30 litros",
+   "20 litros"
+  ],
+  "certa": 1,
+  "fala_q": "Tomar banho com desperdício gasta quarenta e cinco litros. Sem desperdício, quinze. Quanto economiza? 60 litros, 30 litros ou 20 litros?",
+  "fala_r": "Trinta litros! Quarenta e cinco menos quinze.",
+  "count": 10.0,
+  "fala_d": "Dica: é conta de menos!",
+  "dica_txt": "CONTA DE MENOS!"
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "NATURAL OU CULTURAL?",
+  "cartao": [
+   "ÁRVORE NATIVA"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "Cultural",
+   "Natural",
+   "Nenhum dos dois"
+  ],
+  "certa": 1,
+  "fala_q": "Agora complica! Árvore nativa é natural ou cultural?",
+  "fala_r": "Natural! A árvore nativa nasceu sozinha, ninguém plantou.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "QUE POLUIÇÃO É ESSA?",
+  "cartao": [
+   "Produtos químicos",
+   "contaminam a terra",
+   "da plantação."
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Da água",
+   "Do solo",
+   "Do ar"
+  ],
+  "certa": 1,
+  "fala_q": "Produtos químicos contaminam a terra da plantação. Que poluição é essa? Da água, Do solo ou Do ar?",
+  "fala_r": "Poluição do solo! A terra fica contaminada.",
+  "count": 8.0
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "QUEM MUDOU A PAISAGEM?",
+  "cartao": [
+   "Faltou chuva",
+   "e o rio secou."
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "Ser humano",
+   "Ninguém",
+   "Natureza"
+  ],
+  "certa": 2,
+  "fala_q": "Faltou chuva e o rio secou. Quem mudou a paisagem? Ser humano, Ninguém ou Natureza?",
+  "fala_r": "A natureza! A seca é da natureza, mesmo que o ser humano possa piorar.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "ONDE ESTÃO AS PAISAGENS?",
+  "cartao": [
+   "Todas as paisagens",
+   "se encontram",
+   "na..."
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "Superfície",
+   "Embaixo da terra",
+   "Lua"
+  ],
+  "certa": 0,
+  "fala_q": "Complete: todas as paisagens se encontram na o quê? Superfície, Embaixo da terra ou Lua?",
+  "fala_r": "Na superfície terrestre! É onde o ser humano vive e faz suas atividades.",
+  "count": 8.0
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "VERDADEIRO OU FALSO?",
+  "cartao": [
+   "O ambiente é",
+   "formado só pelos",
+   "seres vivos."
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "Verdadeiro",
+   "Depende",
+   "Falso"
+  ],
+  "certa": 2,
+  "fala_q": "Verdadeiro ou falso: o ambiente é formado só pelos seres vivos.",
+  "fala_r": "Falso! O ambiente tem muito mais coisa.",
+  "count": 8.0,
+  "sabia": "Ambiente é tudo junto: seres vivos, ar, água, solo, luz do Sol, o que o ser humano constrói e as relações entre eles."
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "VERDADEIRO OU FALSO?",
+  "cartao": [
+   "A água de beber",
+   "é inesgotável e",
+   "nunca vai acabar."
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "Falso",
+   "Verdadeiro",
+   "Depende"
+  ],
+  "certa": 0,
+  "fala_q": "Verdadeiro ou falso: a água boa para beber é inesgotável e nunca vai acabar.",
+  "fala_r": "Falso! Ela pode acabar. A maior parte da água do planeta é salgada.",
+  "count": 8.0
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "COMO SE CHAMA ISSO?",
+  "cartao": [
+   "Pessoas do mesmo",
+   "lugar vivendo em",
+   "condições diferentes"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Paisagem natural",
+   "Desigualdade",
+   "Poluição visual"
+  ],
+  "certa": 1,
+  "fala_q": "Quando as pessoas de um mesmo lugar vivem em condições muito diferentes, como se chama isso? Paisagem natural, Desigualdade ou Poluição visual?",
+  "fala_r": "Desigualdade social! Dá até para perceber olhando a paisagem.",
+  "count": 8.0
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "QUANTO ECONOMIZA?",
+  "cartao": [
+   "Lavar o carro com",
+   "desperdício: 216 L",
+   "sem: 40 L"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "176 litros",
+   "186 litros",
+   "256 litros"
+  ],
+  "certa": 0,
+  "fala_q": "Lavar o carro com desperdício gasta duzentos e dezesseis litros. Sem desperdício, quarenta. Quanto economiza? 176 litros, 186 litros ou 256 litros?",
+  "fala_r": "Cento e setenta e seis litros! Usa balde, não mangueira.",
+  "count": 10.0
+ },
+ {
+  "n": 31,
+  "nivel": 3,
+  "pergunta": "AJUDA OU PREJUDICA?",
+  "cartao": [
+   "Trocar brinquedos",
+   "em vez de",
+   "comprar novos"
+  ],
+  "foto": "q31.png",
+  "opcoes": [
+   "Prejudica",
+   "Tanto faz",
+   "Ajuda"
+  ],
+  "certa": 2,
+  "fala_q": "Trocar brinquedos em vez de comprar novos ajuda ou prejudica o ambiente?",
+  "fala_r": "Ajuda! Reaproveitar gera menos lixo.",
+  "count": 8.0
+ },
+ {
+  "n": 32,
+  "nivel": 3,
+  "pergunta": "AJUDA OU PREJUDICA?",
+  "cartao": [
+   "Lavar a calçada",
+   "com mangueira"
+  ],
+  "foto": "q32.png",
+  "opcoes": [
+   "Prejudica",
+   "Ajuda",
+   "Tanto faz"
+  ],
+  "certa": 0,
+  "fala_q": "Lavar a calçada com mangueira ajuda ou prejudica o ambiente?",
+  "fala_r": "Prejudica! Desperdiça muita água. Melhor vassoura e balde.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 33,
+  "nivel": 3,
+  "pergunta": "COMO OLHAR A MAQUETE?",
+  "cartao": [
+   "Pra desenhar a",
+   "maquete no papel,",
+   "olhe de..."
+  ],
+  "foto": "q33.png",
+  "opcoes": [
+   "Lado",
+   "Cima para baixo",
+   "Baixo para cima"
+  ],
+  "certa": 1,
+  "fala_q": "Para desenhar a representação plana de uma maquete, a gente olha de onde? Lado, Cima para baixo ou Baixo para cima?",
+  "fala_r": "De cima para baixo! Como um pássaro voando sobre o bairro.",
+  "count": 8.0
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "COMO SE CHAMA?",
+  "cartao": [
+   "Quadrinho que",
+   "explica cada",
+   "símbolo do desenho"
+  ],
+  "foto": "q34.png",
+  "opcoes": [
+   "Título",
+   "Legenda",
+   "Escala"
+  ],
+  "certa": 1,
+  "fala_q": "Agora a parte que reprova! Como se chama o quadrinho que explica o que cada símbolo do desenho representa? Título, Legenda ou Escala?",
+  "fala_r": "Legenda! É ela que diz, por exemplo, que o quadradinho verde é uma praça.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "O QUE MAIS TEM HOJE?",
+  "cartao": [
+   "No planeta, hoje,",
+   "a maioria das",
+   "paisagens é..."
+  ],
+  "foto": "q35.png",
+  "opcoes": [
+   "Natural",
+   "Cultural",
+   "Metade de cada"
+  ],
+  "certa": 1,
+  "fala_q": "No planeta, hoje, a maioria das paisagens é natural, cultural ou metade de cada?",
+  "fala_r": "Cultural! O ser humano já mudou quase todos os lugares. Paisagem natural virou coisa rara.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "GOVERNO OU TODOS NÓS?",
+  "cartao": [
+   "Implantar a",
+   "coleta seletiva",
+   "na cidade"
+  ],
+  "foto": "q36.png",
+  "opcoes": [
+   "Todos nós",
+   "Ninguém",
+   "Governo"
+  ],
+  "certa": 2,
+  "fala_q": "Implantar a coleta seletiva na cidade. Governo ou todos nós?",
+  "fala_r": "Governo! Separar o lixo é com a gente, mas implantar a coleta na cidade só o governo consegue.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "QUANTO ECONOMIZA?",
+  "cartao": [
+   "Lavar a louça com",
+   "desperdício: 117 L",
+   "sem: 20 L"
+  ],
+  "foto": "q37.png",
+  "opcoes": [
+   "107 litros",
+   "97 litros",
+   "87 litros"
+  ],
+  "certa": 1,
+  "fala_q": "Lavar a louça com desperdício gasta cento e dezessete litros. Sem desperdício, vinte. Quanto economiza? 107 litros, 97 litros ou 87 litros?",
+  "fala_r": "Noventa e sete litros! Cento e dezessete menos vinte.",
+  "count": 10.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "E OS PEIXES?",
+  "cartao": [
+   "Uma fábrica jogou",
+   "esgoto sem",
+   "tratamento no rio."
+  ],
+  "foto": "q38.png",
+  "opcoes": [
+   "Ficam maiores",
+   "Nada muda",
+   "Podem morrer"
+  ],
+  "certa": 2,
+  "fala_q": "Uma fábrica jogou esgoto sem tratamento no rio. O que acontece com os peixes? Ficam maiores, Nada muda ou Podem morrer?",
+  "fala_r": "Podem morrer, ou ter que procurar outro lugar para viver!",
+  "count": 8.0,
+  "sabia": "Na natureza tudo depende de tudo, como as peças de um quebra-cabeça: mexeu numa peça, as outras sentem."
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "E AS AVES?",
+  "cartao": [
+   "A vegetação da",
+   "floresta foi",
+   "destruída."
+  ],
+  "foto": "q39.png",
+  "opcoes": [
+   "Ficam felizes",
+   "Perdem a casa",
+   "Nada muda"
+  ],
+  "certa": 1,
+  "fala_q": "A vegetação de uma floresta foi destruída. O que pode acontecer com as aves? Ficam felizes, Perdem a casa ou Nada muda?",
+  "fala_r": "Perdem a casa e a comida! Podem ir embora ou até desaparecer.",
+  "count": 8.0
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "QUAL NÃO É CULTURAL?",
+  "cartao": [
+   "Ponte, asfalto",
+   "ou cachoeira?"
+  ],
+  "foto": "q40.png",
+  "opcoes": [
+   "Cachoeira",
+   "Ponte",
+   "Asfalto"
+  ],
+  "certa": 0,
+  "fala_q": "Ponte, asfalto ou cachoeira: qual desses não é elemento cultural?",
+  "fala_r": "Cachoeira! Ela é natural. Ponte e asfalto o ser humano fez.",
+  "count": 8.0
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "O QUE NÃO PODE FALTAR?",
+  "cartao": [
+   "Seres vivos, ar,",
+   "água, solo e as",
+   "___ entre eles"
+  ],
+  "foto": "q41.png",
+  "opcoes": [
+   "Relações",
+   "Estrelas",
+   "Placas"
+  ],
+  "certa": 0,
+  "fala_q": "O ambiente é formado pelos seres vivos, o ar, a água, o solo e as o quê entre eles? Relações, Estrelas ou Placas?",
+  "fala_r": "Relações! O ambiente não é só a lista de coisas, é como tudo se liga.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "RÁPIDA OU LENTA?",
+  "cartao": [
+   "A mata virou",
+   "plantação."
+  ],
+  "foto": "q42.png",
+  "opcoes": [
+   "Rápida",
+   "Não muda nada",
+   "Lenta"
+  ],
+  "certa": 2,
+  "fala_q": "A mata virou plantação. Mudança rápida ou lenta?",
+  "fala_r": "Lenta! Derrubar, preparar a terra e plantar leva meses.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "VERDADEIRO OU FALSO?",
+  "cartao": [
+   "Mexer numa parte",
+   "do ambiente afeta",
+   "as outras partes."
+  ],
+  "foto": "q43.png",
+  "opcoes": [
+   "Verdadeiro",
+   "Falso",
+   "Depende"
+  ],
+  "certa": 0,
+  "fala_q": "Verdadeiro ou falso: mexer numa parte do ambiente afeta as outras partes.",
+  "fala_r": "Verdadeiro! Tudo está ligado.",
+  "count": 8.0
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "QUANTO ECONOMIZA NO TOTAL?",
+  "cartao": [
+   "Dentes: 12 L → 1 L",
+   "Banho: 45 L → 15 L",
+   "Total?"
+  ],
+  "foto": "q44.png",
+  "opcoes": [
+   "31 litros",
+   "41 litros",
+   "57 litros"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo a nota da prova! Escovar os dentes: de doze para um litro. Banho: de quarenta e cinco para quinze. Quanto economiza juntando os dois? 31 litros, 41 litros ou 57 litros?",
+  "fala_r": "Quarenta e um litros! Onze dos dentes mais trinta do banho. Se acertou essa, tirou dez na prova!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]
