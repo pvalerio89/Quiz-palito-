@@ -1,0 +1,72 @@
+{
+ "Urso-pardo": {
+  "file": "2010-kodiak-bear-1.jpg"
+ },
+ "Panda-gigante": {
+  "file": "Grosser_Panda.JPG"
+ },
+ "Sabiá-laranjeira": {
+  "file": "Turdus_rufiventris-standing.jpg"
+ },
+ "Condor-andino": {
+  "file": "Condor_Andino_de_perfil.jpg"
+ },
+ "Kiwi": {
+  "file": "20180703_kiwi-sonya9_959_DxO.jpg"
+ },
+ "Galo": {
+  "file": "Red_Junglefowl.jpg"
+ },
+ "Quetzal": {
+  "file": "Male_Resplendent_Quetzal.jpg"
+ },
+ "João-de-barro": {
+  "file": "Rufous_hornero_(Furnarius_rufus)_Colonia_(cropped).jpg"
+ },
+ "Vicunha": {
+  "file": "Vicuna_(89163948)_(cropped).jpg"
+ },
+ "Takin": {
+  "file": "Thimphu-Takin-Reservat-06-2015-gje.jpg",
+  "crop": [
+   0.22,
+   0.6,
+   0.62
+  ]
+ },
+ "Faisão-verde": {
+  "file": "Phasianus_versicolor_-Japan_-male-8.jpg"
+ },
+ "Springbok": {
+  "file": "174_Male_Springbok_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+ },
+ "Zebra": {
+  "file": "Equus_quagga.jpg"
+ },
+ "Cisne-branco": {
+  "file": "CygneVaires.jpg"
+ },
+ "Markhor": {
+  "file": "Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg"
+ },
+ "Emu": {
+  "file": "Emu_1_-_Tidbinbilla.jpg"
+ },
+ "Águia-real": {
+  "file": "Orel_skalní_2.jpg"
+ },
+ "Ave-do-paraíso": {
+  "file": "Raggiana_Bird-of-Paradise_wild_5.jpg"
+ },
+ "Grou-coroado": {
+  "file": "Grey_crowned_crane_(Balearica_regulorum_gibbericeps).jpg"
+ },
+ "Órix-da-arábia": {
+  "file": "Arabian_Oryx_(8454554499).jpg",
+  "crop": [
+   0.62,
+   0.68,
+   0.55
+  ]
+ }
+}
