@@ -1020,6 +1020,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/palito-1": {
+      "titulo": "MOVA 1 PALITO e conserte a conta! 5+7=2 🔥 Você consegue? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "mRkL4ydM1P4",
+        "url": "https://youtu.be/mRkL4ydM1P4",
+        "data": "2026-11-18",
+        "origem": "github-actions",
+        "sha256": "8fdefd61bef10d99689e055f8c56f720652df294a4d64ab1c26d223bcf8b471c",
+        "no_ar_em": "2026-11-18T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
