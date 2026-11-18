@@ -24,7 +24,12 @@
   "file": "Truck_Pakistan.jpg"
  },
  "fila": {
-  "file": "Queue_outside_a_soup_kitchen_at_Klostertorv_in_Ålborg_1943.jpg"
+  "file": "Queue_outside_a_soup_kitchen_at_Klostertorv_in_Ålborg_1943.jpg",
+  "crop": [
+   0.6,
+   0.5,
+   1.0
+  ]
  },
  "café da manhã": {
   "file": "Breakfast_at_the_Black_Bear_Diner.jpg"
@@ -105,7 +110,8 @@
   "file": "Lifeguard_jumping_into_action,_Ocean_City,_June_27_,2007.jpg"
  },
  "placa do carro": {
-  "file": "Botswana-rear-plate.jpg"
+  "file": "Botswana-rear-plate.jpg",
+  "crop": "fit"
  },
  "açougue": {
   "file": "Wiki_Loves_Mett_P1020898.JPG"
