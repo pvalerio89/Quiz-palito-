@@ -1,0 +1,568 @@
+[
+ {
+  "n": 1,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "ÔNIBUS",
+  "foto": "onibus.jpg",
+  "opcoes": [
+   "COMBOIO",
+   "ELÉTRICO",
+   "AUTOCARRO"
+  ],
+  "certa": 2,
+  "fala_q": "Pra começar, uma fácil! Ônibus, em Portugal, é... comboio, elétrico ou autocarro?",
+  "fala_r": "Autocarro! Em Portugal, o ônibus é o autocarro!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "TREM",
+  "foto": "trem.jpg",
+  "opcoes": [
+   "COMBOIO",
+   "AUTOCARRO",
+   "CAMIÃO"
+  ],
+  "certa": 0,
+  "fala_q": "Agora mais um transporte! Trem, em Portugal, é... comboio, autocarro ou camião?",
+  "fala_r": "Comboio! Lá ninguém pega o trem, pega o comboio!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "CELULAR",
+  "foto": "celular.jpg",
+  "opcoes": [
+   "ECRÃ",
+   "TELEMÓVEL",
+   "AUSCULTADOR"
+  ],
+  "certa": 1,
+  "fala_q": "Essa todo mundo usa! Celular, em Portugal, é... ecrã, telemóvel ou auscultador?",
+  "fala_r": "Telemóvel! O celular em Portugal é o telemóvel!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "GELADEIRA",
+  "foto": "geladeira.jpg",
+  "opcoes": [
+   "FRIGORÍFICO",
+   "ARCA",
+   "DESPENSA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma da cozinha! Geladeira, em Portugal, é... frigorífico, arca ou despensa?",
+  "fala_r": "Frigorífico! Em Portugal a geladeira é o frigorífico!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "SORVETE",
+  "foto": "sorvete.jpg",
+  "opcoes": [
+   "GELADO",
+   "NATAS",
+   "GELATINA"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pra sobremesa! Sorvete, em Portugal, é... gelado, natas ou gelatina?",
+  "fala_r": "Gelado! Em Portugal você pede um gelado!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "SUCO",
+  "foto": "suco.jpg",
+  "opcoes": [
+   "BATIDO",
+   "SUMO",
+   "NÉCTAR"
+  ],
+  "certa": 1,
+  "fala_q": "Agora uma bebida! Suco, em Portugal, é... batido, sumo ou néctar?",
+  "fala_r": "Sumo! E batido lá é o nosso milk-shake!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "CAFÉ DA MANHÃ",
+  "foto": "cafe-da-manha.jpg",
+  "opcoes": [
+   "LANCHE",
+   "MERENDA",
+   "PEQUENO-ALMOÇO"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é a primeira refeição do dia! Café da manhã, em Portugal, é... lanche, merenda ou pequeno-almoço?",
+  "fala_r": "Pequeno-almoço! O almoço deles é o almoço mesmo, e o café da manhã é o pequeno-almoço!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "BANHEIRO",
+  "foto": "banheiro.jpg",
+  "opcoes": [
+   "LAVABO",
+   "CASA DE BANHO",
+   "SANITA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um cômodo da casa! Banheiro, em Portugal, é... lavabo, casa de banho ou sanita?",
+  "fala_r": "Casa de banho! Lá você pergunta: onde fica a casa de banho?",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "CAMINHÃO",
+  "foto": "caminhao.jpg",
+  "opcoes": [
+   "CARRINHA",
+   "CAMIÃO",
+   "CAMIONETA"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa engana! Caminhão, em Portugal, é... carrinha, camião ou camioneta?",
+  "fala_r": "Camião! E camioneta lá é ônibus de viagem!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 10,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "MOUSE",
+  "foto": "mouse.jpg",
+  "opcoes": [
+   "CURSOR",
+   "TECLA",
+   "RATO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma do computador! Mouse, em Portugal, é... cursor, tecla ou rato?",
+  "fala_r": "Rato! Em Portugal o mouse virou rato mesmo!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "TELA",
+  "foto": "tela.jpg",
+  "opcoes": [
+   "VISOR",
+   "ECRÃ",
+   "PAINEL"
+  ],
+  "certa": 1,
+  "fala_q": "Mais uma do computador! Tela, em Portugal, é... visor, ecrã ou painel?",
+  "fala_r": "Ecrã! Tela de computador ou de televisão, lá é ecrã!",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "GRAMA",
+  "foto": "grama.jpg",
+  "opcoes": [
+   "PASTO",
+   "RELVA",
+   "MATO"
+  ],
+  "certa": 1,
+  "fala_q": "Essa tem em todo campo de futebol! Grama, em Portugal, é... pasto, relva ou mato?",
+  "fala_r": "Relva! O gramado do estádio lá é o relvado!",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "XÍCARA",
+  "foto": "xicara.jpg",
+  "opcoes": [
+   "TAÇA",
+   "CHÁVENA",
+   "CANECA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora uma da hora do café! Xícara, em Portugal, é... taça, chávena ou caneca?",
+  "fala_r": "Chávena! Uma chávena de café, por favor!",
+  "count": 7.0,
+  "fala_d": "Dica: começa com a letra C!",
+  "dica_txt": "COMEÇA COM C"
+ },
+ {
+  "n": 14,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "CARDÁPIO",
+  "foto": "cardapio.jpg",
+  "opcoes": [
+   "RECEITA",
+   "EMENTA",
+   "TABELA"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pro restaurante! Cardápio, em Portugal, é... receita, ementa ou tabela?",
+  "fala_r": "Ementa! No restaurante, você pede a ementa!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "GARÇOM",
+  "foto": "garcom.jpg",
+  "opcoes": [
+   "MORDOMO",
+   "PAQUETE",
+   "EMPREGADO DE MESA"
+  ],
+  "certa": 2,
+  "fala_q": "Ainda no restaurante! Garçom, em Portugal, é... mordomo, paquete ou empregado de mesa?",
+  "fala_r": "Empregado de mesa! E paquete lá é navio grande!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "TERNO",
+  "foto": "terno.jpg",
+  "opcoes": [
+   "CASACO",
+   "BLAZER",
+   "FATO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma roupa chique! Terno, em Portugal, é... casaco, blazer ou fato?",
+  "fala_r": "Fato! Em Portugal o noivo casa de fato!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "SUÉTER",
+  "foto": "sueter.jpg",
+  "opcoes": [
+   "CAMISA DE LÃ",
+   "CAMISOLA",
+   "BLUSÃO"
+  ],
+  "certa": 1,
+  "fala_q": "Essa aqui confunde muito brasileiro! Suéter, em Portugal, é... camisa de lã, camisola ou blusão?",
+  "fala_r": "Camisola! Aqui camisola é roupa de dormir, mas lá é o nosso suéter!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "CAMISOLA LÁ É BLUSA DE FRIO",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 18,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "FILA",
+  "foto": "fila.jpg",
+  "opcoes": [
+   "CAUDA",
+   "BICHA",
+   "RENQUE"
+  ],
+  "certa": 1,
+  "fala_q": "Essa aqui é famosa! Fila, em Portugal, é... cauda, bicha ou renque?",
+  "fala_r": "Bicha! Em Portugal você entra na bicha do autocarro!",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "PEDESTRE",
+  "foto": "pedestre.jpg",
+  "opcoes": [
+   "ANDARILHO",
+   "CAMINHANTE",
+   "PEÃO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma da rua! Pedestre, em Portugal, é... andarilho, caminhante ou peão?",
+  "fala_r": "Peão! Quem anda a pé lá é peão, igual no xadrez!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "FAIXA DE PEDESTRES",
+  "foto": "faixa-de-pedestres.jpg",
+  "opcoes": [
+   "ZEBRA",
+   "PASSADEIRA",
+   "TRAVESSIA"
+  ],
+  "certa": 1,
+  "fala_q": "Ainda na rua! Faixa de pedestres, em Portugal, é... zebra, passadeira ou travessia?",
+  "fala_r": "Passadeira! O peão atravessa na passadeira!",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "PONTO DE ÔNIBUS",
+  "foto": "ponto-de-onibus.jpg",
+  "opcoes": [
+   "APEADEIRO",
+   "PARAGEM",
+   "ESTAÇÃO"
+  ],
+  "certa": 1,
+  "fala_q": "Onde você espera o autocarro? Ponto de ônibus, em Portugal, é... apeadeiro, paragem ou estação?",
+  "fala_r": "Paragem! E apeadeiro é uma paradinha pequena de comboio!",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "BONDE",
+  "foto": "bonde.jpg",
+  "opcoes": [
+   "ELÉTRICO",
+   "FUNICULAR",
+   "COMBOIO"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é famoso em Lisboa! Bonde, em Portugal, é... elétrico, funicular ou comboio?",
+  "fala_r": "Elétrico! O amarelinho de Lisboa é o elétrico!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "GOLEIRO",
+  "foto": "goleiro.jpg",
+  "opcoes": [
+   "GUARDA-REDES",
+   "DEFESA",
+   "GUARDA-BALIZA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma de futebol! Goleiro, em Portugal, é... guarda-redes, defesa ou guarda-baliza?",
+  "fala_r": "Guarda-redes! E o gol, lá, é a baliza!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "ABACAXI",
+  "foto": "abacaxi.jpg",
+  "opcoes": [
+   "ANANÁS",
+   "PAPAIA",
+   "MARACUJÁ"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma fruta! Abacaxi, em Portugal, é... ananás, papaia ou maracujá?",
+  "fala_r": "Ananás! Em Portugal o abacaxi é ananás!",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "BALA",
+  "foto": "bala.jpg",
+  "opcoes": [
+   "GOMA",
+   "REBUÇADO",
+   "PASTILHA"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pros doces! Bala, em Portugal, é... goma, rebuçado ou pastilha?",
+  "fala_r": "Rebuçado! A bala lá é rebuçado!",
+  "count": 7.0,
+  "fala_d": "Dica: começa com a letra R!",
+  "dica_txt": "COMEÇA COM R"
+ },
+ {
+  "n": 26,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "CHICLETE",
+  "foto": "chiclete.jpg",
+  "opcoes": [
+   "REBUÇADO",
+   "GOMA DOCE",
+   "PASTILHA ELÁSTICA"
+  ],
+  "certa": 2,
+  "fala_q": "Mais um doce! Chiclete, em Portugal, é... rebuçado, goma doce ou pastilha elástica?",
+  "fala_r": "Pastilha elástica! O chiclete lá estica até no nome!",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "PRESUNTO",
+  "foto": "presunto.jpg",
+  "opcoes": [
+   "CHOURIÇO",
+   "PAIO",
+   "FIAMBRE"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma do lanche! Presunto, em Portugal, é... chouriço, paio ou fiambre?",
+  "fala_r": "Fiambre! O presunto do sanduíche lá é fiambre!",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "AÇOUGUE",
+  "foto": "acougue.jpg",
+  "opcoes": [
+   "MERCEARIA",
+   "TASCA",
+   "TALHO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma loja! Açougue, em Portugal, é... mercearia, tasca ou talho?",
+  "fala_r": "Talho! Em Portugal a carne se compra no talho!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "VASO SANITÁRIO",
+  "foto": "vaso-sanitario.jpg",
+  "opcoes": [
+   "LAVATÓRIO",
+   "BIDÉ",
+   "SANITA"
+  ],
+  "certa": 2,
+  "fala_q": "De volta pra casa de banho! Vaso sanitário, em Portugal, é... lavatório, bidé ou sanita?",
+  "fala_r": "Sanita! E lavatório lá é a pia!",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "CURATIVO",
+  "foto": "curativo.jpg",
+  "opcoes": [
+   "LIGADURA",
+   "ADESIVO",
+   "PENSO RÁPIDO"
+  ],
+  "certa": 2,
+  "fala_q": "Machucou? Usa um... Curativo, em Portugal, é... ligadura, adesivo ou penso rápido?",
+  "fala_r": "Penso rápido! O band-aid lá é penso rápido!",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "GRAMPEADOR",
+  "foto": "grampeador.jpg",
+  "opcoes": [
+   "FURADOR",
+   "AGRAFADOR",
+   "CLIPE"
+  ],
+  "certa": 1,
+  "fala_q": "Agora uma da escola! Grampeador, em Portugal, é... furador, agrafador ou clipe?",
+  "fala_r": "Agrafador! O grampo lá é agrafo!",
+  "count": 7.0
+ },
+ {
+  "n": 32,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "FITA ADESIVA",
+  "foto": "fita-adesiva.jpg",
+  "opcoes": [
+   "FITA-COLA",
+   "FITA-GOMA",
+   "DUREX"
+  ],
+  "certa": 0,
+  "fala_q": "Mais uma do material escolar! Fita adesiva, em Portugal, é... fita-cola, fita-goma ou durex?",
+  "fala_r": "Fita-cola! Lá ela cola até no nome!",
+  "count": 7.0
+ },
+ {
+  "n": 33,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "FONE DE OUVIDO",
+  "foto": "fone-de-ouvido.jpg",
+  "opcoes": [
+   "ESCUTADORES",
+   "OUVIDEIROS",
+   "AUSCULTADORES"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é bem difícil! Fone de ouvido, em Portugal, é... escutadores, ouvideiros ou auscultadores?",
+  "fala_r": "Auscultadores! Parece coisa de médico, mas é o fone!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 34,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "ENCANADOR",
+  "foto": "encanador.jpg",
+  "opcoes": [
+   "CANALIZADOR",
+   "TUBISTA",
+   "CANOEIRO"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma profissão! Encanador, em Portugal, é... canalizador, tubista ou canoeiro?",
+  "fala_r": "Canalizador! Quem conserta o cano lá é o canalizador!",
+  "count": 7.0
+ },
+ {
+  "n": 35,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "AEROMOÇA",
+  "foto": "aeromoca.jpg",
+  "opcoes": [
+   "GUIA DE BORDO",
+   "AJUDANTE DE VOO",
+   "HOSPEDEIRA DE BORDO"
+  ],
+  "certa": 2,
+  "fala_q": "Mais uma profissão! Aeromoça, em Portugal, é... guia de bordo, ajudante de voo ou hospedeira de bordo?",
+  "fala_r": "Hospedeira de bordo! É a aeromoça de Portugal!",
+  "count": 7.0
+ },
+ {
+  "n": 36,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "SALVA-VIDAS",
+  "foto": "salva-vidas.jpg",
+  "opcoes": [
+   "BANHISTA",
+   "GUARDA-MAR",
+   "NADADOR-SALVADOR"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pra praia! Salva-vidas, em Portugal, é... banhista, guarda-mar ou nadador-salvador?",
+  "fala_r": "Nadador-salvador! E banhista é quem vai tomar banho de mar!",
+  "count": 7.0
+ },
+ {
+  "n": 37,
+  "pergunta": "COMO SE DIZ EM PORTUGAL?",
+  "br": "PLACA DO CARRO",
+  "foto": "placa-do-carro.jpg",
+  "opcoes": [
+   "MATRÍCULA",
+   "CHAPA",
+   "ALVARÁ"
+  ],
+  "certa": 0,
+  "fala_q": "Valendo o título de mestre da língua: como se diz placa do carro em Portugal? matrícula, chapa ou alvará?",
+  "fala_r": "Matrícula! Em Portugal o carro tem matrícula! Se acertou essa, você é fera!",
+  "count": 7.0,
+  "final": true,
+  "fala_s": "Valendo o título... a resposta é..."
+ }
+]
