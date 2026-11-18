@@ -1,1 +1,1 @@
-buscar videos/36-brasil-x-portugal/candidatas/lista.tsv videos/36-brasil-x-portugal/candidatas
+baixar videos/36-brasil-x-portugal/candidatas/escolhas.json videos/36-brasil-x-portugal
