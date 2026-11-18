@@ -23,7 +23,7 @@ D = pb.Desafio(
         "dica": "Dica: o sinal também é palito!",
         "comenta": "Comenta tua resposta antes de ver!",
         "r1": "Tira o palito do mais e põe no cinco! Nove menos sete, dois!",
-        "final": "Acertou? Comenta eu!",
+        "final": "Comenta tua resposta! A certa tá nos comentários!",
     },
     dica_txt="O SINAL TAMBÉM CONTA!",
     count=8.0,

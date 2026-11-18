@@ -23,7 +23,7 @@ D = pb.Desafio(
         "dica": "Dica: o resultado tá certo!",
         "comenta": "Comenta tua resposta antes de ver!",
         "r1": "O palito do três muda de lado e vira cinco! Dois mais cinco, sete!",
-        "final": "Acertou? Comenta eu!",
+        "final": "Comenta como você resolveu! A resposta tá nos comentários!",
     },
     dica_txt='O 7 ESTÁ CERTO!',
     count=8.0,

@@ -23,7 +23,7 @@ D = pb.Desafio(
         "dica": "Dica: olha o oito!",
         "comenta": "Comenta qual palito você tira!",
         "r1": "Tira o palito de baixo do oito! Vira nove! Nove menos sete, dois!",
-        "final": "Acertou? Comenta eu!",
+        "final": "Qual palito você tira? Comenta! A resposta tá nos comentários!",
     },
     dica_txt='OLHE O OITO!',
     count=8.0,

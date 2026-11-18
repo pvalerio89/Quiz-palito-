@@ -12,7 +12,11 @@ de Brasília (pico do canal no Studio: 18h–21h todo dia). O workflow **Publica
 ## NOVO RITMO (análise do Studio, 2026-11-17 — vale mais que as regras antigas abaixo)
 
 **Série DESAFIO DO PALITO** (Shorts de palitos de fósforo: `shorts/palito_base.py`, exemplos `shorts/palito-1..5`): um enigma
-por Short ("mova 1 palito" / "tire 1 palito" / "tem 2 respostas"), 20 a 35 s. O build confere sozinho a resposta. Quando
+por Short ("mova 1 palito" / "tire 1 palito" / "tem 2 respostas"), ~18 s. O build confere sozinho a resposta.
+O Short **NÃO mostra a resposta** (termina com "A CERTA ESTÁ NOS COMENTÁRIOS"; quem quer saber assiste de novo e
+comenta). Cada pasta tem `youtube/comentario.txt` com a resposta: o job `comentar_resposta` do "Publicar do dia"
+(`automacao/comentar_resposta.py`) posta esse texto como comentário do canal quando o Short fica público
+(registro em `comentarios/respostas-shorts.json`). Fixar o comentário é manual no app (a API não fixa). Quando
 os 5 primeiros saírem, compare as views do feed com os Shorts de tema; se ganharem, continue a série (palito-6 em diante,
 contas novas, fundo variado) como Short dos próximos itens.
 
