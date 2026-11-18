@@ -11,6 +11,11 @@ de Brasília (pico do canal no Studio: 18h–21h todo dia). O workflow **Publica
 
 ## NOVO RITMO (análise do Studio, 2026-11-17 — vale mais que as regras antigas abaixo)
 
+**Série DESAFIO DO PALITO** (Shorts de palitos de fósforo: `shorts/palito_base.py`, exemplos `shorts/palito-1..5`): um enigma
+por Short ("mova 1 palito" / "tire 1 palito" / "tem 2 respostas"), 20 a 35 s. O build confere sozinho a resposta. Quando
+os 5 primeiros saírem, compare as views do feed com os Shorts de tema; se ganharem, continue a série (palito-6 em diante,
+contas novas, fundo variado) como Short dos próximos itens.
+
 Desde 11/11 os vídeos novos quase não são mostrados (Shorts com 6–86 views; antes 900–1.800). Hipótese: muitos
 vídeos por dia no mesmo molde ("produzido em massa"). Análise completa: doc "Quiz Palito: análise do canal e o que
 copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
@@ -47,6 +52,8 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
    escreva em `obs` com qual vídeo ele se parece, avise o Patrick (ver "Avisos") e siga para o próximo item.
    Se já produziu e só percebeu depois, avise do mesmo jeito.
 6. **Produzir** o 1º item `aguardando` (um por rodada; se o estoque estiver em 0 ou 1, faça mais um):
+   - Item que já tem `short` preenchido (série **Desafio do Palito**, `shorts/palito-N`, 2026-11-17): faça **só o vídeo longo**;
+     não crie Short do tema e não mexa no `short` do item.
    - Item `esperando` = falta o Patrick explicar algo (ver `obs`): **pule**. Item com `"so_short": true` = faça só o Short
      (sem vídeo longo; no item só `short`, `titulo` do Short e `status` = `pronto`).
    - Veja a referência leve: título pelo oembed, storyboard/miniaturas com `yt-dlp` (`-f sb0`), sem baixar o vídeo.
