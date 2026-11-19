@@ -1,1 +1,1 @@
-buscar videos/45-historia-transportes/candidatas/lista.tsv videos/45-historia-transportes/candidatas
+baixar videos/45-historia-transportes/candidatas/escolhas.json videos/45-historia-transportes
