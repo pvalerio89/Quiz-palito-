@@ -1080,6 +1080,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/alimentacao-1": {
+      "titulo": "COMIDA EM INGLÊS! 🥦 Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "YQv1H7mslTI",
+        "url": "https://youtu.be/YQv1H7mslTI",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "f0ae2bacfa76bb9b30e7d305d5054a520319827a64e33cab8a250e28a21c991a"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
