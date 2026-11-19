@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/46-ingles-review": {
+      "youtube": {
+        "status": "publicado",
+        "id": "AW5p7qFabXI",
+        "url": "https://youtu.be/AW5p7qFabXI",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "59da0e61d2a2fb726ef2dedd2813ef8b0c19d82913239e8650bc25a0772f437b"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
