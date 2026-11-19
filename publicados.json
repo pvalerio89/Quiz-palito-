@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/48-ela-fazenda": {
+      "youtube": {
+        "status": "publicado",
+        "id": "dOImhkT4tSw",
+        "url": "https://youtu.be/dOImhkT4tSw",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "d1643e1c8ec7edadd8059539cb182cfff0410a815f73279a2eeaa52807dc0a35"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
