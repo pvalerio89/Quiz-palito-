@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/42-prova-historia": {
+      "youtube": {
+        "status": "publicado",
+        "id": "coK3jodkgU8",
+        "url": "https://youtu.be/coK3jodkgU8",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "eaa6eba37d0149163cd6559a7a77647efdecfebd0c9ce872937aae6c6f4c34bb"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
