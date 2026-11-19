@@ -55,7 +55,9 @@ def thumb():
     d.line([(0, 935), (1130, 915)], fill=b.WHITE, width=10)
     b.text_outline(d, (560, 1000), "VOCÊ CONSEGUE?", b.font(b.F_BLACK, 112), b.WHITE, outline=(15, 15, 30), w=10)
     b.selo(img, 1755, 1025, 0.62)
-    img.convert("RGB").resize((1280, 720), Image.LANCZOS).save(os.path.join(OUT, "thumbnail.jpg"), quality=92)
+    # a miniatura do Google Flow (thumbnail.jpg) manda; a feita aqui fica como reserva (thumbnail-codigo.jpg)
+    nome = "thumbnail-codigo.jpg" if os.path.exists(os.path.join(OUT, "thumbnail-codigo.jpg")) else "thumbnail.jpg"
+    img.convert("RGB").resize((1280, 720), Image.LANCZOS).save(os.path.join(OUT, nome), quality=92)
 
 
 def textos():
