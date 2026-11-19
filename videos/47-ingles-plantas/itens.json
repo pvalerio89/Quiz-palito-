@@ -1,0 +1,778 @@
+[
+ {
+  "n": 1,
+  "nivel": 1,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Cherry",
+   "Berry",
+   "Grape"
+  ],
+  "certa": 0,
+  "fala_q": "Pra começar: como se diz essa fruta em inglês?",
+  "fala_r": "Cherry! Cereja em inglês é cherry. Começou bem?",
+  "count": 5.0,
+  "foto": "cereja.jpg"
+ },
+ {
+  "n": 2,
+  "nivel": 1,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Potato",
+   "Pumpkin",
+   "Pepper"
+  ],
+  "certa": 1,
+  "fala_q": "E essa, que aparece muito no Halloween?",
+  "fala_r": "Pumpkin! A abóbora do Halloween.",
+  "count": 6.0,
+  "foto": "abobora.jpg"
+ },
+ {
+  "n": 3,
+  "nivel": 1,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Bean",
+   "Pea",
+   "Corn"
+  ],
+  "certa": 2,
+  "fala_q": "Agora essa aqui, que vira pipoca!",
+  "fala_r": "Corn! Milho em inglês é corn. E pipoca é popcorn!",
+  "count": 8.0,
+  "foto": "milho.jpg"
+ },
+ {
+  "n": 4,
+  "nivel": 1,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Maduro",
+   "Podre",
+   "Verde"
+  ],
+  "certa": 0,
+  "fala_q": "O que significa ripe? Maduro, podre ou verde?",
+  "fala_r": "Maduro! Fruta ripe tá pronta pra comer.",
+  "count": 8.0,
+  "cartao": [
+   "RIPE"
+  ],
+  "foto": "q4.png"
+ },
+ {
+  "n": 5,
+  "nivel": 1,
+  "pergunta": "DESEMBARALHE A PALAVRA!",
+  "opcoes": [
+   "Beans",
+   "Bones",
+   "Beets"
+  ],
+  "certa": 0,
+  "fala_q": "Desembaralha essas cinco letras! Que palavra é?",
+  "fala_r": "Beans! Feijões. O prato do brasileiro em inglês!",
+  "count": 8.0,
+  "cartao": [
+   "S N A E B"
+  ],
+  "foto": "q5.png"
+ },
+ {
+  "n": 6,
+  "nivel": 1,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Cabbage",
+   "Lettuce",
+   "Broccoli"
+  ],
+  "certa": 0,
+  "fala_q": "Essa verdura redondinha, como é que se fala em inglês?",
+  "fala_r": "Cabbage! Repolho. Cuidado pra não confundir com lettuce, que é alface.",
+  "count": 8.0,
+  "foto": "repolho.jpg"
+ },
+ {
+  "n": 7,
+  "nivel": 1,
+  "pergunta": "QUAL É O PLURAL?",
+  "opcoes": [
+   "Cabbagies",
+   "Cabbages",
+   "Cabbagees"
+  ],
+  "certa": 1,
+  "fala_q": "Um repolho é one cabbage. E dois?",
+  "fala_r": "Cabbages! É só colocar o s.",
+  "count": 8.0,
+  "cartao": [
+   "ONE CABBAGE",
+   "TWO ..."
+  ],
+  "foto": "q7.png"
+ },
+ {
+  "n": 8,
+  "nivel": 1,
+  "pergunta": "QUE PARTE DA PLANTA A GENTE COME?",
+  "opcoes": [
+   "Stem",
+   "Root",
+   "Leaf"
+  ],
+  "certa": 1,
+  "fala_q": "Mandioca! Que parte da planta a gente come: root, stem ou leaf?",
+  "fala_r": "Root! A mandioca é a raiz da planta.",
+  "count": 8.0,
+  "foto": "mandioca.jpg"
+ },
+ {
+  "n": 9,
+  "nivel": 1,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Útil",
+   "Usado",
+   "Inútil"
+  ],
+  "certa": 0,
+  "fala_q": "O que significa useful?",
+  "fala_r": "Útil! Plants are useful: as plantas são úteis.",
+  "count": 8.0,
+  "cartao": [
+   "USEFUL"
+  ],
+  "foto": "q9.png"
+ },
+ {
+  "n": 10,
+  "nivel": 1,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Strawberry",
+   "Blueberry",
+   "Raspberry"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado que tem três berries! Qual é essa?",
+  "fala_r": "Raspberry! Framboesa. Strawberry é o morango.",
+  "count": 8.0,
+  "foto": "framboesa.jpg",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 11,
+  "nivel": 1,
+  "pergunta": "QUAL É O ACTION VERB?",
+  "opcoes": [
+   "Dad",
+   "Apples",
+   "Picks"
+  ],
+  "certa": 2,
+  "fala_q": "Ache o action verb, a palavra da ação: my dad picks the apples.",
+  "fala_r": "Picks! Colhe. É o que o pai está fazendo.",
+  "count": 8.0,
+  "cartao": [
+   "MY DAD PICKS",
+   "THE APPLES."
+  ],
+  "foto": "q11.png"
+ },
+ {
+  "n": 12,
+  "nivel": 1,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Beet",
+   "Bean",
+   "Radish"
+  ],
+  "certa": 0,
+  "fala_q": "Essa raiz roxinha, como é em inglês?",
+  "fala_r": "Beet! Beterraba é beet.",
+  "count": 8.0,
+  "foto": "beterraba.jpg"
+ },
+ {
+  "n": 13,
+  "nivel": 1,
+  "pergunta": "QUAL É O PLURAL?",
+  "opcoes": [
+   "Bunchs",
+   "Bunchies",
+   "Bunches"
+  ],
+  "certa": 2,
+  "fala_q": "Um cacho de uvas é a bunch of grapes. E dois cachos?",
+  "fala_r": "Bunches! Palavra que termina em ch ganha es.",
+  "count": 8.0,
+  "cartao": [
+   "ONE BUNCH",
+   "TWO ..."
+  ],
+  "foto": "q13.png"
+ },
+ {
+  "n": 14,
+  "nivel": 1,
+  "pergunta": "PARA QUE SERVE?",
+  "opcoes": [
+   "Glass",
+   "Clothes",
+   "Metal"
+  ],
+  "certa": 1,
+  "fala_q": "A planta do algodão, cotton, serve pra fazer o quê?",
+  "fala_r": "Clothes! Roupas. A sua camiseta pode ter vindo de uma planta!",
+  "count": 8.0,
+  "cartao": [
+   "COTTON",
+   "(algodão)"
+  ],
+  "foto": "q14.png"
+ },
+ {
+  "n": 15,
+  "nivel": 1,
+  "pergunta": "DESEMBARALHE A PALAVRA!",
+  "opcoes": [
+   "Planets",
+   "Pants",
+   "Plants"
+  ],
+  "certa": 2,
+  "fala_q": "Desembaralha essa! Seis letras.",
+  "fala_r": "Plants! Plantas. Planets tem uma letra a mais.",
+  "count": 8.0,
+  "cartao": [
+   "T L A N P S"
+  ],
+  "foto": "q15.png"
+ },
+ {
+  "n": 16,
+  "nivel": 2,
+  "pergunta": "DESEMBARALHE A PALAVRA!",
+  "opcoes": [
+   "Napkins",
+   "Muffins",
+   "Pumpkins"
+  ],
+  "certa": 2,
+  "fala_q": "Agora complica! Oito letras embaralhadas.",
+  "fala_r": "Pumpkins! Abóboras.",
+  "count": 10.0,
+  "cartao": [
+   "K P M U N I P S"
+  ],
+  "foto": "q16.png"
+ },
+ {
+  "n": 17,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Inverno",
+   "Outono",
+   "Primavera"
+  ],
+  "certa": 1,
+  "fala_q": "Fall é uma estação do ano. Qual?",
+  "fala_r": "Outono! Fall também quer dizer cair, porque é quando as folhas caem.",
+  "count": 10.0,
+  "cartao": [
+   "FALL"
+  ],
+  "foto": "q17.png",
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Nos Estados Unidos o outono é fall porque é quando as folhas caem das árvores."
+ },
+ {
+  "n": 18,
+  "nivel": 2,
+  "pergunta": "QUE PARTE DA PLANTA A GENTE COME?",
+  "opcoes": [
+   "Root",
+   "Seed",
+   "Stem"
+  ],
+  "certa": 2,
+  "fala_q": "Salsão, que em inglês é celery. A gente come qual parte?",
+  "fala_r": "Stem! O talo do salsão é o caule.",
+  "count": 10.0,
+  "foto": "salsao.jpg"
+ },
+ {
+  "n": 19,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Walnut",
+   "Coconut",
+   "Peanut"
+  ],
+  "certa": 1,
+  "fala_q": "Essa é peluda! Como é em inglês?",
+  "fala_r": "Coconut! Coco. Peanut é amendoim.",
+  "count": 10.0,
+  "foto": "coco.jpg"
+ },
+ {
+  "n": 20,
+  "nivel": 2,
+  "pergunta": "QUAL É O PLURAL?",
+  "opcoes": [
+   "Daisys",
+   "Daisies",
+   "Daisyes"
+  ],
+  "certa": 1,
+  "fala_q": "Daisy é a margarida, uma flor. E duas margaridas?",
+  "fala_r": "Daisies! O y vira i e ganha es.",
+  "count": 10.0,
+  "cartao": [
+   "ONE DAISY",
+   "TWO ..."
+  ],
+  "foto": "q20.png",
+  "fala_d": "Dica: o y some!",
+  "dica_txt": "O Y SOME!"
+ },
+ {
+  "n": 21,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Semente",
+   "Folha",
+   "Caule"
+  ],
+  "certa": 0,
+  "fala_q": "O que significa seed?",
+  "fala_r": "Semente! Tudo começa com uma seed.",
+  "count": 10.0,
+  "cartao": [
+   "SEED"
+  ],
+  "foto": "q21.png"
+ },
+ {
+  "n": 22,
+  "nivel": 2,
+  "pergunta": "QUAL É O ACTION VERB?",
+  "opcoes": [
+   "Girls",
+   "Water",
+   "Garden"
+  ],
+  "certa": 1,
+  "fala_q": "The girls water the garden. Qual é o action verb?",
+  "fala_r": "Water! Aqui water é regar: as meninas regam o jardim.",
+  "count": 10.0,
+  "cartao": [
+   "THE GIRLS WATER",
+   "THE GARDEN."
+  ],
+  "foto": "q22.png",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 23,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Prune",
+   "Plum",
+   "Pear"
+  ],
+  "certa": 1,
+  "fala_q": "E essa fruta roxa?",
+  "fala_r": "Plum! Ameixa fresca. Prune é a ameixa seca!",
+  "count": 10.0,
+  "foto": "ameixa.jpg",
+  "sabia": "Prune é a ameixa seca, aquela escurinha. A fresca é plum."
+ },
+ {
+  "n": 24,
+  "nivel": 2,
+  "pergunta": "DESEMBARALHE A PALAVRA!",
+  "opcoes": [
+   "Sausages",
+   "Bandages",
+   "Cabbages"
+  ],
+  "certa": 2,
+  "fala_q": "Oito letras de novo! Que palavra é essa?",
+  "fala_r": "Cabbages! Repolhos.",
+  "count": 10.0,
+  "cartao": [
+   "G A B C A S E B"
+  ],
+  "foto": "q24.png"
+ },
+ {
+  "n": 25,
+  "nivel": 2,
+  "pergunta": "QUE PARTE DA PLANTA A GENTE COME?",
+  "opcoes": [
+   "Leaf",
+   "Root",
+   "Flower"
+  ],
+  "certa": 2,
+  "fala_q": "Couve-flor! A gente come qual parte da planta?",
+  "fala_r": "Flower! A flor. Tá até no nome: cauliflower!",
+  "count": 10.0,
+  "foto": "couve-flor.jpg"
+ },
+ {
+  "n": 26,
+  "nivel": 2,
+  "pergunta": "PARA QUE SERVE?",
+  "opcoes": [
+   "Wood",
+   "Glass",
+   "Stone"
+  ],
+  "certa": 0,
+  "fala_q": "Trees give us... O que as árvores dão pra gente?",
+  "fala_r": "Wood! Madeira, pra fazer mesa, cadeira e casa.",
+  "count": 10.0,
+  "cartao": [
+   "TREES",
+   "GIVE US..."
+  ],
+  "foto": "q26.png"
+ },
+ {
+  "n": 27,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Blueberry",
+   "Blackberry",
+   "Cranberry"
+  ],
+  "certa": 1,
+  "fala_q": "Mais uma berry! Qual é essa pretinha?",
+  "fala_r": "Blackberry! Amora. Black é preto.",
+  "count": 10.0,
+  "foto": "amora.jpg"
+ },
+ {
+  "n": 28,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Casa verde",
+   "Jardim",
+   "Estufa"
+  ],
+  "certa": 2,
+  "fala_q": "O que significa greenhouse?",
+  "fala_r": "Estufa! Aquela casa de vidro onde as plantas crescem.",
+  "count": 10.0,
+  "cartao": [
+   "GREENHOUSE"
+  ],
+  "foto": "q28.png",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 29,
+  "nivel": 2,
+  "pergunta": "QUAL É O PLURAL?",
+  "opcoes": [
+   "Radishes",
+   "Radishs",
+   "Radishies"
+  ],
+  "certa": 0,
+  "fala_q": "Radish é rabanete. E dois rabanetes?",
+  "fala_r": "Radishes! Termina em sh, ganha es.",
+  "count": 10.0,
+  "cartao": [
+   "ONE RADISH",
+   "TWO ..."
+  ],
+  "foto": "q29.png"
+ },
+ {
+  "n": 30,
+  "nivel": 2,
+  "pergunta": "QUAL É O ACTION VERB?",
+  "opcoes": [
+   "Grow",
+   "Tomatoes",
+   "Home"
+  ],
+  "certa": 0,
+  "fala_q": "We grow tomatoes at home. Cadê o action verb?",
+  "fala_r": "Grow! Plantar, cultivar. A gente cultiva tomates em casa.",
+  "count": 10.0,
+  "cartao": [
+   "WE GROW TOMATOES",
+   "AT HOME."
+  ],
+  "foto": "q30.png"
+ },
+ {
+  "n": 31,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Comestível",
+   "Venenosa",
+   "Cozida"
+  ],
+  "certa": 0,
+  "fala_q": "Muito difícil agora! Edible plants. O que é edible?",
+  "fala_r": "Comestível! Edible plants são as plantas que a gente pode comer.",
+  "count": 10.0,
+  "cartao": [
+   "EDIBLE"
+  ],
+  "foto": "q31.png"
+ },
+ {
+  "n": 32,
+  "nivel": 3,
+  "pergunta": "QUE PARTE DA PLANTA A GENTE COME?",
+  "opcoes": [
+   "Stem",
+   "Seed",
+   "Root"
+  ],
+  "certa": 1,
+  "fala_q": "Ervilha, que é pea. A gente come qual parte?",
+  "fala_r": "Seed! A ervilha é a semente da planta.",
+  "count": 10.0,
+  "foto": "ervilha.jpg"
+ },
+ {
+  "n": 33,
+  "nivel": 3,
+  "pergunta": "DESEMBARALHE A PALAVRA!",
+  "opcoes": [
+   "Tomatoes",
+   "Teapots",
+   "Potatoes"
+  ],
+  "certa": 2,
+  "fala_q": "Oito letras. Cuidado, que tem pegadinha!",
+  "fala_r": "Potatoes! Tomatoes tem um m, e teapots tem uma letra a menos.",
+  "count": 10.0,
+  "cartao": [
+   "S T O P A E T O"
+  ],
+  "foto": "q33.png",
+  "aviso": "CONFERE AS LETRAS!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 34,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Blackberry",
+   "Gooseberry",
+   "Blueberry"
+  ],
+  "certa": 2,
+  "fala_q": "Essa bolinha azul, como é em inglês?",
+  "fala_r": "Blueberry! Mirtilo. Blue é azul.",
+  "count": 10.0,
+  "foto": "mirtilo.jpg"
+ },
+ {
+  "n": 35,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Plantio",
+   "Colheita",
+   "Rega"
+  ],
+  "certa": 1,
+  "fala_q": "O que significa harvest?",
+  "fala_r": "Colheita! Harvest é quando se colhe o que plantou.",
+  "count": 10.0,
+  "cartao": [
+   "HARVEST"
+  ],
+  "foto": "q35.png"
+ },
+ {
+  "n": 36,
+  "nivel": 3,
+  "pergunta": "PARA QUE SERVE?",
+  "opcoes": [
+   "Medicine",
+   "Wood",
+   "Glass"
+  ],
+  "certa": 0,
+  "fala_q": "A babosa, aloe vera, é usada como o quê?",
+  "fala_r": "Medicine! Remédio, por exemplo pra queimadura.",
+  "count": 10.0,
+  "cartao": [
+   "ALOE VERA",
+   "IS USED AS..."
+  ],
+  "foto": "q36.png"
+ },
+ {
+  "n": 37,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "opcoes": [
+   "Bushs",
+   "Bushies",
+   "Bushes"
+  ],
+  "certa": 2,
+  "fala_q": "Bush é arbusto. E dois arbustos?",
+  "fala_r": "Bushes! Sh ganha es.",
+  "count": 10.0,
+  "cartao": [
+   "ONE BUSH",
+   "TWO ..."
+  ],
+  "foto": "q37.png"
+ },
+ {
+  "n": 38,
+  "nivel": 3,
+  "pergunta": "QUE PARTE DA PLANTA A GENTE COME?",
+  "opcoes": [
+   "Root",
+   "Stem",
+   "Seed"
+  ],
+  "certa": 1,
+  "fala_q": "Essa derruba muita gente! A batata é qual parte da planta?",
+  "fala_r": "Stem! A batata é um caule que cresce debaixo da terra. Muita gente acha que é raiz!",
+  "count": 10.0,
+  "foto": "batata.jpg",
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "A batata é um caule que cresce debaixo da terra, chamado tubérculo. Não é raiz!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 39,
+  "nivel": 3,
+  "pergunta": "QUAL É O ACTION VERB?",
+  "opcoes": [
+   "Helps",
+   "Sun",
+   "Plants"
+  ],
+  "certa": 0,
+  "fala_q": "The sun helps plants. Qual é o action verb?",
+  "fala_r": "Helps! Ajuda. O sol ajuda as plantas.",
+  "count": 10.0,
+  "cartao": [
+   "THE SUN HELPS",
+   "PLANTS."
+  ],
+  "foto": "q39.png"
+ },
+ {
+  "n": 40,
+  "nivel": 3,
+  "pergunta": "QUAL É O SINGULAR?",
+  "opcoes": [
+   "Berry",
+   "Berrie",
+   "Berrys"
+  ],
+  "certa": 0,
+  "fala_q": "Agora ao contrário: berries é plural. Qual é o singular?",
+  "fala_r": "Berry! O ies volta a ser y.",
+  "count": 10.0,
+  "cartao": [
+   "BERRIES"
+  ],
+  "foto": "q40.png"
+ },
+ {
+  "n": 41,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "opcoes": [
+   "Murchar",
+   "Florescer",
+   "Brotar"
+  ],
+  "certa": 2,
+  "fala_q": "O que significa sprout?",
+  "fala_r": "Brotar! É quando a semente começa a crescer.",
+  "count": 10.0,
+  "cartao": [
+   "SPROUT"
+  ],
+  "foto": "q41.png",
+  "fala_d": "Dica: acontece com a semente!",
+  "dica_txt": "SEMENTE!"
+ },
+ {
+  "n": 42,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "opcoes": [
+   "Peanuts",
+   "Walnuts",
+   "Brazil nuts"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é brasileira! Como se diz em inglês?",
+  "fala_r": "Brazil nuts! Castanha-do-pará. Tem até Brasil no nome!",
+  "count": 10.0,
+  "foto": "castanha-do-para.jpg"
+ },
+ {
+  "n": 43,
+  "nivel": 3,
+  "pergunta": "QUAL ESTÁ ESCRITO CERTO?",
+  "opcoes": [
+   "Broccoli",
+   "Brocoli",
+   "Brocolli"
+  ],
+  "certa": 0,
+  "fala_q": "Como se escreve brócolis em inglês? Olha bem as letras!",
+  "fala_r": "Broccoli! Com dois c e um l só.",
+  "count": 10.0,
+  "cartao": [
+   "BRÓCOLIS",
+   "EM INGLÊS"
+  ],
+  "foto": "q43.png",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 44,
+  "nivel": 3,
+  "pergunta": "DESEMBARALHE A PALAVRA!",
+  "opcoes": [
+   "Beanstalks",
+   "Vegetables",
+   "Greenhouse"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo tudo! Dez letras embaralhadas. Que palavra é essa?",
+  "fala_r": "Vegetables! Legumes e verduras. Se acertou essa, seu inglês é de primeira!",
+  "count": 12.0,
+  "cartao": [
+   "S E B L A T",
+   "G E V E"
+  ],
+  "foto": "q44.png",
+  "final": true,
+  "fala_s": "Valendo tudo... a resposta é..."
+ }
+]
