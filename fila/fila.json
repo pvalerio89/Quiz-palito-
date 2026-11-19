@@ -541,8 +541,11 @@
       "id": "2026-11-17-pais-2-letras",
       "referencia": "",
       "tema": "Adivinhe o PAÍS só com as 2 primeiras letras",
-      "status": "aguardando",
-      "obs": "Longo + Short. Mostra 'BR _ _ _ _ _' com as 2 primeiras letras e o número de letras; dica (continente) no meio da contagem nas difíceis; resposta com bandeira + mapa (Natural Earth, como vídeo 23). Título ex.: 'Adivinhe o PAÍS só com as DUAS primeiras letras!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+      "status": "pronto",
+      "obs": "Longo + Short. Mostra 'BR _ _ _ _ _' com as 2 primeiras letras e o número de letras; dica (continente) no meio da contagem nas difíceis; resposta com bandeira + mapa (Natural Earth, como vídeo 23). Título ex.: 'Adivinhe o PAÍS só com as DUAS primeiras letras!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | FEITO (2026-11-19): vídeo 41, 36 países; cartão tipo forca (2 letras + quadradinhos, conta as letras) e 3 alternativas que são só BANDEIRAS (o nome aparece na resposta); pegadinhas com mesmo começo (Argentina/Argélia/Armênia, Austrália/Áustria, Coreia do Sul/Norte) e bandeiras parecidas (Irlanda/Costa do Marfim, Luxemburgo/Holanda); fundo azul e magenta, ~13 min. Short duas-letras-1 (4 perguntas, 49 s, sem abertura).",
+      "video": "videos/41-pais-duas-letras",
+      "short": "shorts/duas-letras-1",
+      "titulo": "Adivinhe o PAÍS só com as 2 PRIMEIRAS LETRAS! 🌎 As últimas são impossíveis | Quiz Palito"
     },
     {
       "id": "2026-11-15-jogadores-a-z-parte-2",
