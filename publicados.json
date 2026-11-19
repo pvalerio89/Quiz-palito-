@@ -1080,6 +1080,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/historia-2": {
+      "titulo": "REVISÃO DE HISTÓRIA DO 3º ANO! 🏰 Se acertar 4, você é fera! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "ZJNzhSKcgek",
+        "url": "https://youtu.be/ZJNzhSKcgek",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "d3f73b9f3e312178ecb6c9a84ece018e32cd0f3886e2ec8f67aa5725c1301053"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
