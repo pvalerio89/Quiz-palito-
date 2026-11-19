@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/47-ingles-plantas": {
+      "youtube": {
+        "status": "publicado",
+        "id": "oWsgkH5Dxjc",
+        "url": "https://youtu.be/oWsgkH5Dxjc",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "2525af1ede6601576964de41379bf9869e60030151997bb04d97bd185be64e99"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
