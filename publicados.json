@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/45-historia-transportes": {
+      "youtube": {
+        "status": "publicado",
+        "id": "8tw29KbsHRU",
+        "url": "https://youtu.be/8tw29KbsHRU",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "13bbc019b0fadbbc4df4f9237e184993e4bef3b98d590e1e8a3c08ad1a485207"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
