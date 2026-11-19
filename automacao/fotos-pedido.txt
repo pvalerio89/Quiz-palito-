@@ -1,1 +1,1 @@
-buscar videos/43-revisao-historia/candidatas/lista.tsv videos/43-revisao-historia/candidatas
+baixar videos/43-revisao-historia/candidatas/escolhas.json videos/43-revisao-historia
