@@ -159,7 +159,7 @@ def duracao():
 
 
 def intro_frames(d):
-    return op.intro_rapida("QUIZ DE INGLÊS", "ALL ABOUT PLANTS!", d, fotos=INTRO,
+    return op.intro_rapida("QUIZ DE INGLÊS", "PLANTS!", d, fotos=INTRO,
                           abertura=os.path.join(HERE, "abertura.jpg"))
 
 
