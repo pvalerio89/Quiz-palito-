@@ -1,1 +1,1 @@
-baixar videos/36-brasil-x-portugal/candidatas/escolhas.json videos/36-brasil-x-portugal 
+buscar videos/45-historia-transportes/candidatas/lista.tsv videos/45-historia-transportes/candidatas
