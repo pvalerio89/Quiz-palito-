@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/49-grammar-travel": {
+      "youtube": {
+        "status": "publicado",
+        "id": "mUOI4xPq4DQ",
+        "url": "https://youtu.be/mUOI4xPq4DQ",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "7772a62952ae3ed1e4fb506f7e67addab7584e667ad5936646f96fb5ca7b5e2d"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
