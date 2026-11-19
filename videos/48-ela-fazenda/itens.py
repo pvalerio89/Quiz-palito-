@@ -125,9 +125,9 @@ P = [
     (3, PONT, t("Where do eggs", "come from___"), PONT_OPS[0], PONT_OPS[1:],
      "Where do eggs come from. Qual sinal vai no final?",
      "Ponto de interrogação! Começa com where, onde: é uma pergunta.", {"falar_ops": False}),
-    (3, CERTA, t("Qual está", "escrita certa?"), "I can't wait!", ["i can't wait!", "I Can't Wait!"],
-     "Qual dessas está escrita certinho? Olha bem as letras maiúsculas!",
-     "I can't wait! O I, que quer dizer eu, é sempre maiúsculo em inglês.", {"falar_ops": False, "count": 9.0}),
+    (3, CERTA, t(), "I can't wait!", ["i can't wait!", "I Can't Wait!"],
+     "Qual dessas frases está escrita certinho? Olha bem as letras maiúsculas!",
+     "I can't wait! O I, que quer dizer eu, é sempre maiúsculo em inglês.", {"falar_ops": False, "count": 9.0, "frases": True}),
     (3, VEM, f("w:geleia", "STRAWBERRY JAM"), "Strawberry farm", ["Orange grove", "Cotton farm"],
      "Strawberry jam, geleia de morango. De onde vêm os morangos?",
      "Strawberry farm! A fazenda de morangos.", {}),
@@ -160,9 +160,9 @@ P = [
     (4, PRON, t("Do you want", "to go to the", "farmers market?"), "you", ["market", "want"],
      "Do you want to go to the farmers market? Qual é o pronoun?",
      "You! Você. Market é substantivo e want é verbo.", {"falar_ops": False}),
-    (4, CERTA, t("Qual está", "escrita certa?"), "Farmers bring fruits.", ["farmers bring fruits.", "Farmers bring fruits"],
+    (4, CERTA, t(), "Farmers bring fruits.", ["farmers bring fruits.", "Farmers bring fruits"],
      "Qual dessas está escrita certinho? Olha o começo e o fim!",
-     "A que começa com maiúscula e termina com ponto final!", {"falar_ops": False, "count": 9.0}),
+     "A que começa com maiúscula e termina com ponto final!", {"falar_ops": False, "count": 9.0, "frases": True}),
     (4, TRAD, t("gardener"), "Jardineiro", ["Jardim", "Garagem"],
      "Gardener. O que significa?",
      "Jardineiro! Garden é o jardim, e gardener é quem cuida dele.", {"falar_ops": False}),
@@ -178,11 +178,11 @@ P = [
     (4, CERTA, t("______ artist"), "an", ["a", "the an"],
      "Blank artist. Qual palavra vem antes de artist: an, a ou the an?",
      "An! Antes de som de vogal, usa an: an artist, an apple.", {"falar_ops": False, "suspense": True}),
-    (4, "QUAL ESTÁ 100% CERTA?", t("Qual frase", "está 100%", "certa?"), "Which baker sells cakes?",
+    (4, "QUAL ESTÁ 100% CERTA?", t(), "Which baker sells cakes?",
      ["which baker sells cakes?", "Which baker sells cakes."],
      "Qual dessas frases está cem por cento certa?",
      "Which baker sells cakes, com W maiúsculo e ponto de interrogação! Se acertou, você é fera!",
-     {"falar_ops": False, "count": 10.0, "final": True, "suspense": True}),
+     {"falar_ops": False, "count": 10.0, "final": True, "suspense": True, "frases": True}),
 ]
 
 INTRO_FOTOS = ["w:celeiro", "w:fazenda", "14:trator"]   # intro e miniatura (não estão nas perguntas)
@@ -217,6 +217,9 @@ def main():
         if ex.get("falar_ops", True):
             fq = f"{fq} {ops[0]}, {ops[1]} ou {ops[2]}?"
         img = dict(img)
+        if ex.get("frases"):   # as opções ficam em MAIÚSCULAS no botão: a frase vai no cartão, o botão diz qual
+            img["cartao"] = [f"{'ABC'[i]}) {o}" for i, o in enumerate(ops)]
+            ops = [f"FRASE {'ABC'[i]}" for i in range(3)]
         if "foto" in img:
             img["foto"] = copiar(img["foto"], cred, img.get("rotulo") or certa)[:-4]
         r = {"n": n, "nivel": nivel, "pergunta": perg, **img, "img": f"q{n}.png",

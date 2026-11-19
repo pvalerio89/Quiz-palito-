@@ -483,17 +483,18 @@
   "nivel": 3,
   "pergunta": "QUAL ESTÁ CERTA?",
   "cartao": [
-   "Qual está",
-   "escrita certa?"
+   "A) i can't wait!",
+   "B) I Can't Wait!",
+   "C) I can't wait!"
   ],
   "img": "q28.png",
   "opcoes": [
-   "i can't wait!",
-   "I Can't Wait!",
-   "I can't wait!"
+   "FRASE A",
+   "FRASE B",
+   "FRASE C"
   ],
   "certa": 2,
-  "fala_q": "Qual dessas está escrita certinho? Olha bem as letras maiúsculas!",
+  "fala_q": "Qual dessas frases está escrita certinho? Olha bem as letras maiúsculas!",
   "fala_r": "I can't wait! O I, que quer dizer eu, é sempre maiúsculo em inglês.",
   "count": 9.0
  },
@@ -669,14 +670,15 @@
   "nivel": 4,
   "pergunta": "QUAL ESTÁ CERTA?",
   "cartao": [
-   "Qual está",
-   "escrita certa?"
+   "A) Farmers bring fruits.",
+   "B) farmers bring fruits.",
+   "C) Farmers bring fruits"
   ],
   "img": "q38.png",
   "opcoes": [
-   "Farmers bring fruits.",
-   "farmers bring fruits.",
-   "Farmers bring fruits"
+   "FRASE A",
+   "FRASE B",
+   "FRASE C"
   ],
   "certa": 0,
   "fala_q": "Qual dessas está escrita certinho? Olha o começo e o fim!",
@@ -781,15 +783,15 @@
   "nivel": 4,
   "pergunta": "QUAL ESTÁ 100% CERTA?",
   "cartao": [
-   "Qual frase",
-   "está 100%",
-   "certa?"
+   "A) which baker sells cakes?",
+   "B) Which baker sells cakes.",
+   "C) Which baker sells cakes?"
   ],
   "img": "q44.png",
   "opcoes": [
-   "which baker sells cakes?",
-   "Which baker sells cakes.",
-   "Which baker sells cakes?"
+   "FRASE A",
+   "FRASE B",
+   "FRASE C"
   ],
   "certa": 2,
   "fala_q": "Qual dessas frases está cem por cento certa?",
