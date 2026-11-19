@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/43-revisao-historia": {
+      "youtube": {
+        "status": "publicado",
+        "id": "25KlhR3fkyQ",
+        "url": "https://youtu.be/25KlhR3fkyQ",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "85a6282f238f28d1f51858c359f290076e1c77905c3a883eb8e904932ebceaa2"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
