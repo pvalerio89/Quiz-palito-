@@ -1080,6 +1080,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/plantas-1": {
+      "titulo": "QUIZ DE INGLÊS DAS PLANTAS! 🌱 Duvido acertar as 4 #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "DgKdweeITU8",
+        "url": "https://youtu.be/DgKdweeITU8",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "db331d445b3a32bd31a0f19e93cc030e573db15ea38f4fc5ff65d0af40c08645"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
