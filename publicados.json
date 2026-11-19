@@ -1067,6 +1067,19 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/49-ela-alimentacao": {
+      "youtube": {
+        "status": "publicado",
+        "id": "bHq2AGvhIU0",
+        "url": "https://youtu.be/bHq2AGvhIU0",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "63847405e5ab873167b4735ad4e6d4c9a8acd0e5e2d606f8eb8cb740522ba654"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
