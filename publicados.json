@@ -1080,6 +1080,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/historia-1": {
+      "titulo": "PROVA DE HISTÓRIA DO 3º ANO! 🚂 Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "b72pz4aRxpQ",
+        "url": "https://youtu.be/b72pz4aRxpQ",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "aaf5bf18f12917b742d5e8465d140d19720c649ba8a7aad1749265f50d2716c8"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
