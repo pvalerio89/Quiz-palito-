@@ -15,8 +15,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 INTRO = "Prepara o olho: só duas letras e a bandeira!"      # intro rapidinha (2 a 3 s), saudação variada
 Q1 = "Trinta e seis países: eu mostro as duas primeiras letras, você conta os quadradinhos e acha a bandeira certa. E no fim fica impossível! "
-CURTIR = "Ei, antes do próximo país... se tá gostando, deixa o like e o coraçãozinho aí!"
-ESPERO = "Tô esperando, hein!"
+CURTIR = "Rapidinho, antes do próximo país: se inscreva no canal e deixe seu like!"
+ESPERO = "Vai lá, eu espero!"
 PLACAR = {
     10: "Dez países! Quantas bandeiras você acertou?",
     20: "Vinte! Agora as bandeiras ficam parecidas de verdade!",

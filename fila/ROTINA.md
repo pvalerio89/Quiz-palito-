@@ -82,9 +82,10 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
        **AVISO** na faixa do topo (`q["aviso"] = "TEM PEGADINHA!"`) quando a pergunta for pegadinha/difícil;
        **SUSPENSE** antes de revelar (`q["suspense"] = voz "A resposta é..."`) nas mais difíceis;
        **"VOCÊ SABIA?"** de 1 frase curta (`q["sabia"]`, a fala da resposta conta a mesma curiosidade).
-     - **PEDIDO DE CURTIDA** uma vez, depois da 2ª ou 3ª resposta: `hu.curtir(tl, sfx, voz_pede, voz_espero)`.
-       O narrador pede o coraçãozinho/curtida, tem uma pausa curta e fala "Eu espero!" (variar as duas frases, ex.:
-       "Ei, antes da próxima... deixa o coraçãozinho e curte o vídeo aí!" / "Eu espero!" ou "Tô esperando, hein!").
+     - **PEDIDO DE INSCRIÇÃO + LIKE** uma vez, depois da 2ª ou 3ª resposta: `hu.curtir(tl, sfx, voz_pede, voz_espero)`.
+       O narrador fala **"Se inscreva no canal e deixe seu like!"**, pausa curta e **"Vai lá, eu espero!"** (Patrick,
+       2026-11-19). Pode variar só o começo (`hu.frase_curtir()`, listas FRASES_CURTIR / FRASES_ESPERO em `humano.py`),
+       mas sempre inscrição + like + "vai lá, eu espero". **Nunca** falar "coraçãozinho" nem "joinha".
      - **ÚLTIMA PERGUNTA:** antes dela, `hu.ultima(tl, sfx, voz)` (tela vermelha + coração) com a fala
        "Atenção... essa é a última pergunta! E é a mais difícil!" (variar); a pergunta tem `q["final"] = True`.
      - **FIM só com "se inscreva no canal":** `hu.inscreva(tl, sfx, voz)` com fala curta ("Gostou do quiz? Então se
@@ -150,7 +151,7 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
      ligada ao tema (ex.: "Ei, você aí! Será que conhece mesmo os bichos?", "Atenção, que hoje o desafio é diferente:",
      "Prepara o cérebro:", "Bora testar seu olho?", "Desafio rápido:", "Chegou mais um Quiz Palito!").
    - **Vídeo de anotar/escolher** (monte o seu clube, escolha 1 de cada, etc.; Patrick, 2026-11-12): logo no começo,
-     antes da 1ª etapa, a fala chama para **clicar no coração e abrir os comentários para ir anotando; assim que
+     antes da 1ª etapa, a fala chama para **deixar o like e abrir os comentários para ir anotando; assim que
      terminar o vídeo, é só enviar**. Use `engaja.chamada_anotar(usadas=...)` (`videos/modelo-opcoes/engaja.py`),
      variando a frase em relação ao último vídeo desse tipo. Vale também para o Short (versão curta da frase).
    - Voz: Edge TTS pt-BR-AntonioNeural rate +20% pitch +2Hz. Música só do `musicas/` com o crédito de 1 linha.

@@ -15,8 +15,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 INTRO = "Chama a família! Hoje é pais contra filhos!"      # intro rapidinha (2 a 3 s), saudação variada
 Q1 = "São trinta e duas questões do quinto ano. Pais de um lado, filhos do outro, cada um marca os seus pontos! "
-CURTIR = "Pera aí, antes da próxima! Quem tá ganhando aí no sofá deixa o like e o coraçãozinho!"
-ESPERO = "Tô esperando, hein!"
+CURTIR = "Pera aí, antes da próxima! Se inscreva no canal e deixe seu like!"
+ESPERO = "Vai lá, eu espero!"
 PLACAR = {
     10: "Dez questões! E aí, pais ou filhos, quem tá na frente?",
     20: "Vinte! Agora vem a rodada que derruba até adulto!",
