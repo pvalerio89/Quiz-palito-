@@ -1,0 +1,107 @@
+{
+ "ganso": {
+  "file": "Anser_cygnoides-Beijing.jpg",
+  "crop": null,
+  "arquivo": "ganso.jpg",
+  "autor": "Shizhao",
+  "lic": "CC BY-SA 2.5"
+ },
+ "guaxinim": {
+  "file": "Raccoon_Cudjoe_Key_Florida.jpg",
+  "crop": null,
+  "arquivo": "guaxinim.jpg",
+  "autor": "[2]",
+  "lic": "CC BY 2.0"
+ },
+ "alpaca": {
+  "file": "Corazon_Full.jpg",
+  "crop": null,
+  "arquivo": "alpaca.jpg",
+  "autor": "Notnoisy",
+  "lic": "CC BY 3.0"
+ },
+ "peru": {
+  "file": "Black_Spanish_toms_and_hen.jpg",
+  "crop": null,
+  "arquivo": "peru.jpg",
+  "autor": "Hunter Desportes",
+  "lic": "CC BY 2.0"
+ },
+ "gamba": {
+  "file": "Opossum_2.jpg",
+  "crop": null,
+  "arquivo": "gamba.jpg",
+  "autor": "Cody Pope",
+  "lic": "CC BY-SA 2.5"
+ },
+ "ovos": {
+  "file": "Eggs_in_basket_2020_G1.jpg",
+  "crop": null,
+  "arquivo": "ovos.jpg",
+  "autor": "George Chernilevsky",
+  "lic": "CC BY-SA 4.0"
+ },
+ "leite": {
+  "file": "Glass_of_Milk_(33657535532).jpg",
+  "crop": null,
+  "arquivo": "leite.jpg",
+  "autor": "NIAID",
+  "lic": "CC BY 2.0"
+ },
+ "feira": {
+  "file": "Farmers_and_Artisans_Market_at_Farmington_-_Michigan.jpg",
+  "crop": null,
+  "arquivo": "feira.jpg",
+  "autor": "Sstevenson24 assumed (based on copyright cl",
+  "lic": "CC BY-SA 2.5"
+ },
+ "padeiro": {
+  "file": "USS_John_C._Stennis_baker.jpg",
+  "crop": null,
+  "arquivo": "padeiro.jpg",
+  "autor": "Petty Officer 3rd Class Paul J. Perkins, U.S. Navy",
+  "lic": "Public domain"
+ },
+ "meias": {
+  "file": "HandKnittedWhiteLaceSock.jpg",
+  "crop": null,
+  "arquivo": "meias.jpg",
+  "autor": "Loggie-log",
+  "lic": "Public domain"
+ },
+ "queijo": {
+  "file": "Cheese,_wine_and_bread_in_a_sidewalk_cafe_in_Paris,_June_2015.jpg",
+  "crop": null,
+  "arquivo": "queijo.jpg",
+  "autor": "Joe deSousa",
+  "lic": "CC0"
+ },
+ "geleia": {
+  "file": "Az-Strawberry_jam,_making_by_e-citizen_(moonsun1981).JPG",
+  "crop": null,
+  "arquivo": "geleia.jpg",
+  "autor": "Moonsun1981",
+  "lic": "CC BY-SA 3.0"
+ },
+ "mel": {
+  "file": "Creamed_honey_Maillard_reaction_after_aging.jpg",
+  "crop": null,
+  "arquivo": "mel.jpg",
+  "autor": "Zaereth",
+  "lic": "CC BY-SA 4.0"
+ },
+ "celeiro": {
+  "file": "Zalmon_Read_Barn_back_view.jpg",
+  "crop": null,
+  "arquivo": "celeiro.jpg",
+  "autor": "Swroche",
+  "lic": "CC BY-SA 3.0"
+ },
+ "fazenda": {
+  "file": "Farming_near_Klingerstown,_Pennsylvania.jpg",
+  "crop": null,
+  "arquivo": "fazenda.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "Public domain"
+ }
+}
