@@ -1080,6 +1080,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/travel-1": {
+      "titulo": "INGLÊS NA VIAGEM ✈️ Acerta os 4 verbos? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "Ab68bszQCP4",
+        "url": "https://youtu.be/Ab68bszQCP4",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "3eb15db5f55c5c4e441ecc0d4959137ca60dbe207772947c31736201011fb861"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
