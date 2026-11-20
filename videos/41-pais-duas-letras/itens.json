@@ -1,0 +1,857 @@
+[
+ {
+  "n": 1,
+  "pais": "BRASIL",
+  "inicio": "BR",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q1.png",
+  "foto_resposta": "r1.png",
+  "bandeiras": [
+   "ar",
+   "br",
+   "pt"
+  ],
+  "opcoes": [
+   "ARGENTINA",
+   "BRASIL",
+   "PORTUGAL"
+  ],
+  "certa": 1,
+  "fala_q": "Começando fácil! Começa com bê, érre... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Brasil! Começou bem?",
+  "count": 5.0
+ },
+ {
+  "n": 2,
+  "pais": "JAPÃO",
+  "inicio": "JA",
+  "letras": 5,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q2.png",
+  "foto_resposta": "r2.png",
+  "bandeiras": [
+   "cn",
+   "kr",
+   "jp"
+  ],
+  "opcoes": [
+   "CHINA",
+   "COREIA DO SUL",
+   "JAPÃO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma da Ásia. Começa com jota, á... e tem cinco letras. Qual é a bandeira?",
+  "fala_r": "Japão! A bolinha vermelha é o sol nascente.",
+  "count": 5.0
+ },
+ {
+  "n": 3,
+  "pais": "ITÁLIA",
+  "inicio": "IT",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q3.png",
+  "foto_resposta": "r3.png",
+  "bandeiras": [
+   "ie",
+   "mx",
+   "it"
+  ],
+  "opcoes": [
+   "IRLANDA",
+   "MÉXICO",
+   "ITÁLIA"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é de comer pizza! Começa com i, tê... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Itália! Verde, branco e vermelho, em pé.",
+  "count": 6.0
+ },
+ {
+  "n": 4,
+  "pais": "PORTUGAL",
+  "inicio": "PO",
+  "letras": 8,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q4.png",
+  "foto_resposta": "r4.png",
+  "bandeiras": [
+   "pt",
+   "pl",
+   "es"
+  ],
+  "opcoes": [
+   "PORTUGAL",
+   "POLÔNIA",
+   "ESPANHA"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pra Europa. Começa com pê, ó... e tem oito letras. Qual é a bandeira?",
+  "fala_r": "Portugal! O nosso irmão do outro lado do mar.",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pais": "ARGENTINA",
+  "inicio": "AR",
+  "letras": 9,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q5.png",
+  "foto_resposta": "r5.png",
+  "bandeiras": [
+   "dz",
+   "ar",
+   "am"
+  ],
+  "opcoes": [
+   "ARGÉLIA",
+   "ARGENTINA",
+   "ARMÊNIA"
+  ],
+  "certa": 1,
+  "fala_q": "Olha aí três países com as mesmas letras! Começa com á, érre... e tem nove letras. Qual é a bandeira?",
+  "fala_r": "Argentina! Argélia e Armênia têm só sete letras.",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pais": "CANADÁ",
+  "inicio": "CA",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q6.png",
+  "foto_resposta": "r6.png",
+  "bandeiras": [
+   "qa",
+   "ca",
+   "cm"
+  ],
+  "opcoes": [
+   "CATAR",
+   "CANADÁ",
+   "CAMARÕES"
+  ],
+  "certa": 1,
+  "fala_q": "Conta os quadradinhos nessa! Começa com cê, á... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Canadá! A da folha de bordo.",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pais": "ESTADOS UNIDOS",
+  "inicio": "ES",
+  "letras": 13,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q7.png",
+  "foto_resposta": "r7.png",
+  "bandeiras": [
+   "us",
+   "gb",
+   "ca"
+  ],
+  "opcoes": [
+   "ESTADOS UNIDOS",
+   "REINO UNIDO",
+   "CANADÁ"
+  ],
+  "certa": 0,
+  "fala_q": "Agora tem duas palavras! Começa com é, ésse... e tem treze letras, em duas palavras. Qual é a bandeira?",
+  "fala_r": "Estados Unidos! Cinquenta estrelas, uma por estado.",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pais": "ALEMANHA",
+  "inicio": "AL",
+  "letras": 8,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q8.png",
+  "foto_resposta": "r8.png",
+  "bandeiras": [
+   "al",
+   "de",
+   "at"
+  ],
+  "opcoes": [
+   "ALBÂNIA",
+   "ALEMANHA",
+   "ÁUSTRIA"
+  ],
+  "certa": 1,
+  "fala_q": "Mais uma da Europa. Começa com á, éle... e tem oito letras. Qual é a bandeira?",
+  "fala_r": "Alemanha! Preto, vermelho e amarelo.",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pais": "MÉXICO",
+  "inicio": "MÉ",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q9.png",
+  "foto_resposta": "r9.png",
+  "bandeiras": [
+   "ir",
+   "mx",
+   "it"
+  ],
+  "opcoes": [
+   "IRÃ",
+   "MÉXICO",
+   "ITÁLIA"
+  ],
+  "certa": 1,
+  "fala_q": "Atenção nas cores! Começa com ême, é... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "México! Parecida com a Itália, mas com a águia no meio.",
+  "count": 7.0,
+  "aviso": "OLHA AS CORES!"
+ },
+ {
+  "n": 10,
+  "pais": "FRANÇA",
+  "inicio": "FR",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q10.png",
+  "foto_resposta": "r10.png",
+  "bandeiras": [
+   "nl",
+   "fr",
+   "ru"
+  ],
+  "opcoes": [
+   "HOLANDA",
+   "FRANÇA",
+   "RÚSSIA"
+  ],
+  "certa": 1,
+  "fala_q": "Três bandeiras azul, branco e vermelho... Começa com éfe, érre... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "França! A dela é em pé, as outras deitadas.",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "pais": "CHINA",
+  "inicio": "CH",
+  "letras": 5,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q11.png",
+  "foto_resposta": "r11.png",
+  "bandeiras": [
+   "cn",
+   "cl",
+   "vn"
+  ],
+  "opcoes": [
+   "CHINA",
+   "CHILE",
+   "VIETNÃ"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado, que essa tem pegadinha! Começa com cê, agá... e tem cinco letras. Qual é a bandeira?",
+  "fala_r": "China! Chile também tem cinco letras, mas fica na América.",
+  "count": 7.0,
+  "fala_d": "Dica: fica na Ásia!",
+  "dica_txt": "FICA NA ÁSIA!",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 12,
+  "pais": "EGITO",
+  "inicio": "EG",
+  "letras": 5,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q12.png",
+  "foto_resposta": "r12.png",
+  "bandeiras": [
+   "iq",
+   "ye",
+   "eg"
+  ],
+  "opcoes": [
+   "IRAQUE",
+   "IÊMEN",
+   "EGITO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma da África. Começa com é, gê... e tem cinco letras. Qual é a bandeira?",
+  "fala_r": "Egito! A águia dourada no meio é a de Saladino.",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "pais": "AUSTRÁLIA",
+  "inicio": "AU",
+  "letras": 9,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q13.png",
+  "foto_resposta": "r13.png",
+  "bandeiras": [
+   "au",
+   "nz",
+   "at"
+  ],
+  "opcoes": [
+   "AUSTRÁLIA",
+   "NOVA ZELÂNDIA",
+   "ÁUSTRIA"
+  ],
+  "certa": 0,
+  "fala_q": "Essa derruba muita gente! Começa com á, u... e tem nove letras. Qual é a bandeira?",
+  "fala_r": "Austrália! Áustria tem só sete letras. E a da Nova Zelândia tem estrelas vermelhas.",
+  "count": 7.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 14,
+  "pais": "COLÔMBIA",
+  "inicio": "CO",
+  "letras": 8,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q14.png",
+  "foto_resposta": "r14.png",
+  "bandeiras": [
+   "ec",
+   "co",
+   "ve"
+  ],
+  "opcoes": [
+   "EQUADOR",
+   "COLÔMBIA",
+   "VENEZUELA"
+  ],
+  "certa": 1,
+  "fala_q": "Três vizinhos com as mesmas cores! Começa com cê, ó... e tem oito letras. Qual é a bandeira?",
+  "fala_r": "Colômbia! Sem estrelas e sem brasão.",
+  "count": 7.0,
+  "sabia": "A faixa amarela da Colômbia ocupa metade da bandeira."
+ },
+ {
+  "n": 15,
+  "pais": "PERU",
+  "inicio": "PE",
+  "letras": 4,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q15.png",
+  "foto_resposta": "r15.png",
+  "bandeiras": [
+   "ca",
+   "at",
+   "pe"
+  ],
+  "opcoes": [
+   "CANADÁ",
+   "ÁUSTRIA",
+   "PERU"
+  ],
+  "certa": 2,
+  "fala_q": "Uma curtinha agora. Começa com pê, é... e tem quatro letras. Qual é a bandeira?",
+  "fala_r": "Peru! Vermelho, branco e vermelho, em pé.",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "pais": "GRÉCIA",
+  "inicio": "GR",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q16.png",
+  "foto_resposta": "r16.png",
+  "bandeiras": [
+   "uy",
+   "il",
+   "gr"
+  ],
+  "opcoes": [
+   "URUGUAI",
+   "ISRAEL",
+   "GRÉCIA"
+  ],
+  "certa": 2,
+  "fala_q": "Listras azuis e brancas... Começa com gê, érre... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Grécia! Nove listras e uma cruz no canto.",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pais": "RÚSSIA",
+  "inicio": "RÚ",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q17.png",
+  "foto_resposta": "r17.png",
+  "bandeiras": [
+   "si",
+   "sk",
+   "ru"
+  ],
+  "opcoes": [
+   "ESLOVÊNIA",
+   "ESLOVÁQUIA",
+   "RÚSSIA"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é de gente grande! Começa com érre, u... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Rússia! Sem brasão. As outras duas têm escudo.",
+  "count": 7.0,
+  "aviso": "OLHA O BRASÃO!"
+ },
+ {
+  "n": 18,
+  "pais": "MARROCOS",
+  "inicio": "MA",
+  "letras": 8,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q18.png",
+  "foto_resposta": "r18.png",
+  "bandeiras": [
+   "ml",
+   "ma",
+   "mg"
+  ],
+  "opcoes": [
+   "MALI",
+   "MARROCOS",
+   "MADAGASCAR"
+  ],
+  "certa": 1,
+  "fala_q": "Mais três com as mesmas letras! Começa com ême, á... e tem oito letras. Qual é a bandeira?",
+  "fala_r": "Marrocos! Mali tem quatro letras, Madagascar tem dez.",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "pais": "NIGÉRIA",
+  "inicio": "NI",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q19.png",
+  "foto_resposta": "r19.png",
+  "bandeiras": [
+   "ng",
+   "ne",
+   "ni"
+  ],
+  "opcoes": [
+   "NIGÉRIA",
+   "NÍGER",
+   "NICARÁGUA"
+  ],
+  "certa": 0,
+  "fala_q": "Vai, conta os quadradinhos! Começa com êne, i... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Nigéria! Verde, branco e verde.",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "pais": "SUÉCIA",
+  "inicio": "SU",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q20.png",
+  "foto_resposta": "r20.png",
+  "bandeiras": [
+   "ch",
+   "se",
+   "sd"
+  ],
+  "opcoes": [
+   "SUÍÇA",
+   "SUÉCIA",
+   "SUDÃO"
+  ],
+  "certa": 1,
+  "fala_q": "Agora uma lá do norte. Começa com ésse, u... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Suécia! Azul com a cruz amarela.",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "pais": "IRLANDA",
+  "inicio": "IR",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q21.png",
+  "foto_resposta": "r21.png",
+  "bandeiras": [
+   "ci",
+   "ie",
+   "it"
+  ],
+  "opcoes": [
+   "COSTA DO MARFIM",
+   "IRLANDA",
+   "ITÁLIA"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, essa tem pegadinha! Começa com i, érre... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Irlanda! A da Costa do Marfim é igualzinha, mas com as cores ao contrário.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Na bandeira da Irlanda, o verde fica do lado do mastro.",
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 22,
+  "pais": "TURQUIA",
+  "inicio": "TU",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q22.png",
+  "foto_resposta": "r22.png",
+  "bandeiras": [
+   "tr",
+   "tn",
+   "cn"
+  ],
+  "opcoes": [
+   "TURQUIA",
+   "TUNÍSIA",
+   "CHINA"
+  ],
+  "certa": 0,
+  "fala_q": "Essa é difícil, olha a dica! Começa com tê, u... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Turquia! A Tunísia tem o mesmo número de letras, mas fica na África.",
+  "count": 7.0,
+  "fala_d": "Dica: fica entre a Europa e a Ásia!",
+  "dica_txt": "ENTRE A EUROPA E A ÁSIA!",
+  "aviso": "MESMO NÚMERO DE LETRAS!"
+ },
+ {
+  "n": 23,
+  "pais": "JAMAICA",
+  "inicio": "JA",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q23.png",
+  "foto_resposta": "r23.png",
+  "bandeiras": [
+   "jm",
+   "za",
+   "ke"
+  ],
+  "opcoes": [
+   "JAMAICA",
+   "ÁFRICA DO SUL",
+   "QUÊNIA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma do Caribe! Começa com jota, á... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Jamaica! A única bandeira sem vermelho, branco ou azul.",
+  "count": 7.0,
+  "sabia": "A Jamaica é uma das poucas bandeiras sem vermelho, branco ou azul."
+ },
+ {
+  "n": 24,
+  "pais": "CUBA",
+  "inicio": "CU",
+  "letras": 4,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q24.png",
+  "foto_resposta": "r24.png",
+  "bandeiras": [
+   "cl",
+   "pa",
+   "cu"
+  ],
+  "opcoes": [
+   "CHILE",
+   "PANAMÁ",
+   "CUBA"
+  ],
+  "certa": 2,
+  "fala_q": "Mais uma curtinha. Começa com cê, u... e tem quatro letras. Qual é a bandeira?",
+  "fala_r": "Cuba! Listras azuis e o triângulo vermelho.",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "pais": "NORUEGA",
+  "inicio": "NO",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q25.png",
+  "foto_resposta": "r25.png",
+  "bandeiras": [
+   "no",
+   "is",
+   "dk"
+  ],
+  "opcoes": [
+   "NORUEGA",
+   "ISLÂNDIA",
+   "DINAMARCA"
+  ],
+  "certa": 0,
+  "fala_q": "Três cruzes parecidas... cuidado! Começa com êne, ó... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Noruega! Vermelha com a cruz azul.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 26,
+  "pais": "HUNGRIA",
+  "inicio": "HU",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q26.png",
+  "foto_resposta": "r26.png",
+  "bandeiras": [
+   "it",
+   "bg",
+   "hu"
+  ],
+  "opcoes": [
+   "ITÁLIA",
+   "BULGÁRIA",
+   "HUNGRIA"
+  ],
+  "certa": 2,
+  "fala_q": "Faixas deitadas agora. Começa com agá, u... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Hungria! Vermelho, branco e verde.",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "pais": "VIETNÃ",
+  "inicio": "VI",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q27.png",
+  "foto_resposta": "r27.png",
+  "bandeiras": [
+   "cn",
+   "ma",
+   "vn"
+  ],
+  "opcoes": [
+   "CHINA",
+   "MARROCOS",
+   "VIETNÃ"
+  ],
+  "certa": 2,
+  "fala_q": "Uma estrela só... Começa com vê, i... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Vietnã! Vermelha com uma estrela amarela.",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "pais": "QUÊNIA",
+  "inicio": "QU",
+  "letras": 6,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q28.png",
+  "foto_resposta": "r28.png",
+  "bandeiras": [
+   "ke",
+   "kg",
+   "mw"
+  ],
+  "opcoes": [
+   "QUÊNIA",
+   "QUIRGUISTÃO",
+   "MALAWI"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pra África! Começa com quê, u... e tem seis letras. Qual é a bandeira?",
+  "fala_r": "Quênia! Com o escudo e as duas lanças.",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pais": "TAILÂNDIA",
+  "inicio": "TA",
+  "letras": 9,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q29.png",
+  "foto_resposta": "r29.png",
+  "bandeiras": [
+   "cr",
+   "th",
+   "tj"
+  ],
+  "opcoes": [
+   "COSTA RICA",
+   "TAILÂNDIA",
+   "TADJIQUISTÃO"
+  ],
+  "certa": 1,
+  "fala_q": "Faixas parecidas nessa! Começa com tê, á... e tem nove letras. Qual é a bandeira?",
+  "fala_r": "Tailândia! Na da Costa Rica, a faixa do meio é vermelha.",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "pais": "CROÁCIA",
+  "inicio": "CR",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q30.png",
+  "foto_resposta": "r30.png",
+  "bandeiras": [
+   "rs",
+   "hr",
+   "py"
+  ],
+  "opcoes": [
+   "SÉRVIA",
+   "CROÁCIA",
+   "PARAGUAI"
+  ],
+  "certa": 1,
+  "fala_q": "Essa tem xadrez! Começa com cê, érre... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Croácia! O xadrez vermelho e branco tá no escudo.",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "pais": "NEPAL",
+  "inicio": "NE",
+  "letras": 5,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q31.png",
+  "foto_resposta": "r31.png",
+  "bandeiras": [
+   "np",
+   "bt",
+   "in"
+  ],
+  "opcoes": [
+   "NEPAL",
+   "BUTÃO",
+   "ÍNDIA"
+  ],
+  "certa": 0,
+  "fala_q": "Uma bem diferente agora. Começa com êne, é... e tem cinco letras. Qual é a bandeira?",
+  "fala_r": "Nepal! A única bandeira do mundo que não é retangular.",
+  "count": 7.0,
+  "sabia": "O Nepal tem a única bandeira nacional que não é retângulo."
+ },
+ {
+  "n": 32,
+  "pais": "COREIA DO SUL",
+  "inicio": "CO",
+  "letras": 11,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q32.png",
+  "foto_resposta": "r32.png",
+  "bandeiras": [
+   "kp",
+   "jp",
+   "kr"
+  ],
+  "opcoes": [
+   "COREIA DO NORTE",
+   "JAPÃO",
+   "COREIA DO SUL"
+  ],
+  "certa": 2,
+  "fala_q": "Pegadinha! Olha quantas palavras! Começa com cê, ó... e tem onze letras, em três palavras. Qual é a bandeira?",
+  "fala_r": "Coreia do Sul! A do Norte tem treze letras. Se acertou essa, você é fera!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 33,
+  "pais": "UZBEQUISTÃO",
+  "inicio": "UZ",
+  "letras": 11,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q33.png",
+  "foto_resposta": "r33.png",
+  "bandeiras": [
+   "kz",
+   "uz",
+   "tm"
+  ],
+  "opcoes": [
+   "CAZAQUISTÃO",
+   "UZBEQUISTÃO",
+   "TURCOMENISTÃO"
+  ],
+  "certa": 1,
+  "fala_q": "Agora as impossíveis! Três países da Ásia Central. Começa com u, zê... e tem onze letras. Qual é a bandeira?",
+  "fala_r": "Uzbequistão! A lua branca e as estrelas no azul.",
+  "count": 7.0,
+  "aviso": "AGORA SÓ AS DIFÍCEIS!"
+ },
+ {
+  "n": 34,
+  "pais": "LUXEMBURGO",
+  "inicio": "LU",
+  "letras": 10,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q34.png",
+  "foto_resposta": "r34.png",
+  "bandeiras": [
+   "nl",
+   "ru",
+   "lu"
+  ],
+  "opcoes": [
+   "HOLANDA",
+   "RÚSSIA",
+   "LUXEMBURGO"
+  ],
+  "certa": 2,
+  "fala_q": "Essa derruba quase todo mundo! Começa com éle, u... e tem dez letras. Qual é a bandeira?",
+  "fala_r": "Luxemburgo! O azul dele é mais clarinho que o da Holanda.",
+  "count": 7.0,
+  "aviso": "QUASE IGUAIS!",
+  "sabia": "Luxemburgo e Holanda têm bandeiras quase iguais: só muda o tom do azul.",
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 35,
+  "pais": "SENEGAL",
+  "inicio": "SE",
+  "letras": 7,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q35.png",
+  "foto_resposta": "r35.png",
+  "bandeiras": [
+   "sn",
+   "ml",
+   "gn"
+  ],
+  "opcoes": [
+   "SENEGAL",
+   "MALI",
+   "GUINÉ"
+  ],
+  "certa": 0,
+  "fala_q": "Três bandeiras verde, amarelo e vermelho! Começa com ésse, é... e tem sete letras. Qual é a bandeira?",
+  "fala_r": "Senegal! A dele tem a estrela verde no meio.",
+  "count": 7.0,
+  "fala_d": "Dica: a certa tem uma estrela!",
+  "dica_txt": "A CERTA TEM ESTRELA!"
+ },
+ {
+  "n": 36,
+  "pais": "MOÇAMBIQUE",
+  "inicio": "MO",
+  "letras": 10,
+  "pergunta": "QUE PAÍS É? ACHE A BANDEIRA!",
+  "foto": "q36.png",
+  "foto_resposta": "r36.png",
+  "bandeiras": [
+   "mz",
+   "zw",
+   "ao"
+  ],
+  "opcoes": [
+   "MOÇAMBIQUE",
+   "ZIMBÁBUE",
+   "ANGOLA"
+  ],
+  "certa": 0,
+  "fala_q": "Valendo o título de mestre das bandeiras! Começa com ême, ó... e tem dez letras. Qual é a bandeira?",
+  "fala_r": "Moçambique! A única bandeira com um fuzil. Se acertou, você manja muito de bandeira!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Valendo o título... a resposta é..."
+ }
+]

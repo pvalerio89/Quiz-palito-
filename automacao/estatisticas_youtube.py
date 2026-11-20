@@ -69,7 +69,7 @@ def main():
 
     # Analytics (opcional): por dia nos últimos 28 dias + retenção por vídeo
     hoje = datetime.date.today()
-    ini = (hoje - datetime.timedelta(days=28)).isoformat()
+    ini = (hoje - datetime.timedelta(days=90)).isoformat()
     diario, por_video, aviso = [], {}, None
     r, erro = get(ANALYTICS, tk, {"ids": "channel==MINE", "startDate": ini, "endDate": hoje.isoformat(),
                                   "metrics": "views,estimatedMinutesWatched,subscribersGained,subscribersLost",
@@ -79,11 +79,11 @@ def main():
     else:
         diario = r.get("rows", [])
         r2, e2 = get(ANALYTICS, tk, {"ids": "channel==MINE", "startDate": "2020-01-01", "endDate": hoje.isoformat(),
-                                     "metrics": "views,averageViewDuration,averageViewPercentage,subscribersGained",
+                                     "metrics": "views,averageViewDuration,averageViewPercentage,subscribersGained,estimatedMinutesWatched",
                                      "dimensions": "video", "sort": "-views", "maxResults": 200})
         if not e2:
             for row in r2.get("rows", []):
-                por_video[row[0]] = {"dur_media": row[2], "pct_media": row[3], "inscritos": row[4]}
+                por_video[row[0]] = {"dur_media": row[2], "pct_media": row[3], "inscritos": row[4], "minutos": row[5]}
     for v in vids:
         v.update(por_video.get(v["id"], {}))
 
@@ -112,17 +112,17 @@ def main():
     if aviso:
         L += [f"_{aviso}_", ""]
     if diario:
-        L += ["## Últimos 28 dias (por dia)", "", "| dia | views | min assistidos | +insc | -insc |", "|---|---|---|---|---|"]
+        L += ["## Últimos 90 dias (por dia)", "", "| dia | views | min assistidos | +insc | -insc |", "|---|---|---|---|---|"]
         L += [f"| {d[0]} | {d[1]} | {d[2]} | {d[3]} | {d[4]} |" for d in diario]
         L += [""]
     for tipo in ("longo", "short"):
         g = sorted([v for v in vids if v["tipo"] == tipo], key=lambda v: -v["views"])
         L += [f"## {'Vídeos longos' if tipo == 'longo' else 'Shorts'} ({len(g)})", "",
-              "| views | likes | coment. | % assistido | publicado | título |", "|---|---|---|---|---|---|"]
+              "| views | horas | +insc | likes | coment. | % assistido | publicado | título |", "|---|---|---|---|---|---|---|---|"]
         for v in g:
             pct = f"{v['pct_media']:.0f}%" if "pct_media" in v else "-"
             priv = "" if v["privacidade"] == "public" else f" ({v['privacidade']})"
-            L.append(f"| {v['views']} | {v['likes']} | {v['comentarios']} | {pct} | {v['publicado']} | "
+            L.append(f"| {v['views']} | {v.get('minutos', 0)/60:.1f} | {v.get('inscritos', '-')} | {v['likes']} | {v['comentarios']} | {pct} | {v['publicado']} | "
                      f"[{v['titulo']}](https://youtu.be/{v['id']}){priv} |")
         L += [""]
     if curvas:
