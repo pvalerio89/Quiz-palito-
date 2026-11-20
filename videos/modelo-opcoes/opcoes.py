@@ -399,7 +399,7 @@ def fundo_abertura(caminho, escurecer=0.35):
         z = 1.0 + 0.04 * min(t / 3.0, 1.0)
         w, h = int(W / z), int(H / z)
         x, y = (W - w) // 2, (H - h) // 2
-        return base.crop((x, y, x + w, y + h)).resize((W, H)).convert("RGBA")
+        return base.crop((x, y, x + w, y + h)).resize((W, H)).convert("RGBA")  # intro cola fotos com alpha_composite
     return f
 
 
