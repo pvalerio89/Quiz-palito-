@@ -1094,7 +1094,10 @@
         "no_ar_em": "2026-11-20T23:30:00Z"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7710163938205288468",
+        "data": "2026-11-20",
+        "origem": "github-actions"
       }
     }
   }
