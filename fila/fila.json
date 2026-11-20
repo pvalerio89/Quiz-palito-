@@ -526,11 +526,14 @@
       "id": "2026-11-17-pais-contra-filhos-5-ano",
       "referencia": "",
       "tema": "Pais contra filhos: prova do 5º ano (público TV/família; Short do 5º ano é o 2º melhor do canal)",
-      "status": "pronto",
+      "status": "erro",
       "obs": "Longo + Short. 30 perguntas do 5º ano (português, matemática, ciências, geografia, história) com placar 'PAIS x FILHOS' na tela para a família marcar (letras grandes: 61% do tempo é na TV). Título ex.: 'PAIS contra FILHOS: quem passa na prova do 5º ano?'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #3 (shorts/palito-3); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 38, 32 questões do 5º ano (português, matemática, ciências, geografia, história) em 3 rodadas, cartões de caderno com a matéria, placar PAIS x FILHOS a cada 10, fundo roxo, ~11:50. Short = palito-3.",
       "short": "shorts/palito-3",
       "video": "videos/38-pais-contra-filhos",
-      "titulo": "PAIS contra FILHOS 📚 Quem passa na PROVA DO 5º ANO? Quiz em família | Quiz Palito"
+      "titulo": "PAIS contra FILHOS 📚 Quem passa na PROVA DO 5º ANO? Quiz em família | Quiz Palito",
+      "erro": "2026-11-19: gerar_video=failure gerar_short=success enviar_video=skipped enviar_short=skipped",
+      "agendar_em": "2026-11-20T21:00:00Z",
+      "links": {}
     },
     {
       "id": "2026-11-17-selecoes-a-z",
@@ -563,6 +566,20 @@
       "titulo": "Adivinhe o PAÍS só com as 2 PRIMEIRAS LETRAS! 🌎 As últimas são impossíveis | Quiz Palito"
     },
     {
+      "id": "2026-11-20-quiz-brasil-2",
+      "referencia": "",
+      "tema": "QUIZ DO BRASIL parte 2 (o longo que mais deu horas: 35 h, 41% retido)",
+      "status": "aguardando",
+      "obs": "Longo 10–15 min + Short do mesmo tema. 30–36 perguntas NOVAS sobre o Brasil (geografia, história, cultura, comidas, símbolos), nenhuma igual ao vídeo 06 (videos/06*). Fotos reais (Wikimedia) quando for coisa real. Short = nova versão de 'Você sabe tudo do BRASIL?' (8,7 h, +4 insc): 4–5 perguntas, 30–50 s, com link do longo na descrição. Título ex.: 'QUIZ DO BRASIL 2: se você acertar 25 de 30, é brasileiro de verdade'. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+    },
+    {
+      "id": "2026-11-20-bandeiras-niveis",
+      "referencia": "",
+      "tema": "Bandeiras: fácil, médio, difícil e impossível (Short campeão 6 bandeiras: +10 insc, 1.835 views)",
+      "status": "aguardando",
+      "obs": "Longo 10–15 min + Short do mesmo tema. 4 níveis com placa de nível na tela, ~36 bandeiras, alternativas com bandeiras parecidas no nível difícil (Chade x Romênia, Indonésia x Mônaco...). Bandeiras SVG PD como no vídeo 24/39. Ordem e escolhas diferentes do vídeo 03 (195 bandeiras). Short = '6 BANDEIRAS parte 2': mesmo molde do campeão (53 s, a última é a mais difícil), bandeiras novas, link do longo na descrição. NÃO publicar no mesmo dia/seguido do item 'acaba-quando-errar' (também é bandeira). Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+    },
+    {
       "id": "2026-11-15-jogadores-a-z-parte-2",
       "referencia": "https://youtu.be/T2r5EybNMjo",
       "tema": "Duvido você acertar jogadores de A a Z! PARTE 2 (NaTraveQuiz)",
@@ -570,11 +587,11 @@
       "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros jogadores."
     },
     {
-      "id": "2026-11-17-acaba-quando-errar",
+      "id": "2026-11-20-nao-diga-2",
       "referencia": "",
-      "tema": "O vídeo acaba quando você errar a bandeira (TIAGO fez 711 mil)",
+      "tema": "NÃO DIGA O MESMO QUE O PALITO parte 2 (Short +9 insc, 55% retido)",
       "status": "aguardando",
-      "obs": "Longo + Short. Formato sobrevivência: bandeiras cada vez mais difíceis, contador de 'SEQUÊNCIA' na tela, 'Errou? Fim de jogo pra você! Comenta até onde chegou'. Bandeiras diferentes das do vídeo 03 quando der (ou ordem bem diferente). Título ex.: 'O vídeo ACABA quando você ERRAR a bandeira!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+      "obs": "Longo 10–15 min + Short do mesmo tema. Mesmo jogo do vídeo 05 (o Palito escolhe uma resposta escondida; quem disser igual perde vida), com perguntas NOVAS e mais curtas, contador de VIDAS grande (TV). Short = 'NÃO DIGA O MESMO QUE O PALITO 2: você tem só 3 vidas', 30–50 s, link do longo na descrição. Ver videos/05* e o Short nao-diga-1. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
     },
     {
       "id": "2026-11-15-alfabeto-times-parte-2",
@@ -582,6 +599,20 @@
       "tema": "2% acertam o alfabeto de TIMES de A a Z! Parte 2 (NaTraveQuiz)",
       "status": "aguardando",
       "obs": "Miniatura: 'TIME COM A LETRA P' (escudo do Palmeiras). Mesmo formato do vídeo 16 (alfabeto dos times A-Z, publicado). Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros times."
+    },
+    {
+      "id": "2026-11-20-animal-foto-2",
+      "referencia": "",
+      "tema": "Adivinhe o ANIMAL pela FOTO parte 2 (Short +9 insc, 1.335 views)",
+      "status": "aguardando",
+      "obs": "Longo 10–15 min + Short do mesmo tema. Fotos reais (automacao/fotos_wiki.py, Wikimedia PD/CC0), animais NOVOS (não repetir os do vídeo 13 zoom), formato diferente do zoom: foto inteira com 3 alternativas e níveis fácil→impossível (filhotes, animais raros no fim). Short = 'Adivinhe o ANIMAL pela FOTO 2', 4–5 animais, 30–50 s, link do longo na descrição. Créditos das fotos só numa tela curta no fim. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+    },
+    {
+      "id": "2026-11-17-acaba-quando-errar",
+      "referencia": "",
+      "tema": "O vídeo acaba quando você errar a bandeira (TIAGO fez 711 mil)",
+      "status": "aguardando",
+      "obs": "Longo + Short. Formato sobrevivência: bandeiras cada vez mais difíceis, contador de 'SEQUÊNCIA' na tela, 'Errou? Fim de jogo pra você! Comenta até onde chegou'. Bandeiras diferentes das do vídeo 03 quando der (ou ordem bem diferente). Título ex.: 'O vídeo ACABA quando você ERRAR a bandeira!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
     }
   ]
 }
