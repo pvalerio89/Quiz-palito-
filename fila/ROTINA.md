@@ -9,6 +9,22 @@ de Brasília (pico do canal no Studio: 18h–21h todo dia). O workflow **Publica
 (longo no horário de `HORARIOS`, Short `SHORT_DEPOIS` mais tarde, em `automacao/fila.py`). Esta rotina só deixa itens prontos.
 (Antes, de 13/11 a 17/11, eram 3 longos + 3 Shorts por dia, e os vídeos novos pararam de ser distribuídos: ver "NOVO RITMO".)
 
+## PLANO DE MONETIZAÇÃO (Patrick aprovou em 2026-11-20 — vale mais que tudo abaixo)
+
+Meta: 500 inscritos + 3.000 h de longos (hoje 82 e 133 h). Análise: `estatisticas/analise-2026-11-19.md`.
+Os Shorts trouxeram 78% dos inscritos; só os longos contam horas. Por isso:
+1. **Cada item = 1 longo de tema amplo + 1 Short do MESMO tema.** O Short é a porta de entrada do longo:
+   link do longo na descrição do Short (já é automático) e fala/tela final "o quiz completo está no canal".
+   A série Desafio do Palito vira exceção (só quando o item não tiver Short do tema).
+2. **Longo de 10 a 15 min** (não mais), temas amplos que deram horas: Brasil, bandeiras, conhecimentos gerais,
+   geografia, animais. Placar e letras grandes (TV).
+3. **Shorts campeões em parte 2, 3...** (mesmo molde que funcionou, conteúdo novo): 6 BANDEIRAS (+10 insc),
+   NÃO DIGA O MESMO QUE O PALITO (+9), ANIMAL PELA FOTO (+9); depois Português 5º ano (+6) e Qual desses joga no time (+6).
+4. **Variar o formato** (o YouTube recusa monetizar conteúdo repetitivo/produzido em massa): dois itens seguidos
+   NUNCA no mesmo formato (ex.: múltipla escolha → jogo de vidas → letra/A a Z → fotos com níveis → sobrevivência).
+   Mude também cor de fundo, abertura, frases e a saudação. Se o próximo `aguardando` tiver o mesmo formato do último
+   publicado, produza o seguinte e deixe esse para depois.
+
 ## NOVO RITMO (análise do Studio, 2026-11-17 — vale mais que as regras antigas abaixo)
 
 **Série DESAFIO DO PALITO** (Shorts de palitos de fósforo: `shorts/palito_base.py`, exemplos `shorts/palito-1..5`): um enigma
@@ -29,7 +45,7 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
   "Nenhum adulto passa…", "Pais contra filhos…", "Ninguém acerta a letra W", "O vídeo acaba quando você errar".
 - **Cada vídeo com cara própria:** varie cor de fundo, ordem das telas, tipo de pergunta e frases. Dois vídeos
   seguidos não podem parecer o mesmo molde com outro tema.
-- **Pensado para a TV** (61% do tempo assistido é na TV, família no sofá): letras grandes, placar na tela, 10 a 15 min.
+- **Pensado para a TV** (61% do tempo assistido é na TV, família no sofá): letras grandes, placar na tela, 10 a 15 min (nunca mais que 15, Patrick 2026-11-20).
 - A regra "mais de 8 min por causa do anúncio" só vale depois da monetização (canal com 81/500 inscritos):
   a duração é escolhida pela retenção.
 - **Google Flow (Patrick, 2026-11-17: "use o Flow para melhorar os vídeos"):** além da miniatura, grave em
