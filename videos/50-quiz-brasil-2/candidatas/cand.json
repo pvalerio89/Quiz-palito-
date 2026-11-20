@@ -1,0 +1,2407 @@
+{
+ "brigadeiro": {
+  "tipo": "comida",
+  "art": "Brigadeiro",
+  "cand": [
+   {
+    "file": "Brigadeiro.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "User Mayra (Maych) on Flickr"
+   },
+   {
+    "file": "Brazilian_food,_Quebec_city_06.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "BrigadeiroBrazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "VitorTo"
+   },
+   {
+    "file": "Brigadeiro_-_Flickr_-_Rod_Senna.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Rodrigo Senna from Brasília, DF, Brasil"
+   },
+   {
+    "file": "Brigadeiro_de_chocolate_branco_20190209.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Londonjackbooks"
+   },
+   {
+    "file": "Brigadeiros_decorados.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Keijuu"
+   },
+   {
+    "file": "(2014-11-22)_Brigadeiro_Real_-_Fernandópolis_-_Brigadeiro_de_banana_Romerito_Pontes_(15684235667).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Romerito Pontes from São Carlos"
+   },
+   {
+    "file": "Brigadeiros.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rodrigogomesonetwo"
+   }
+  ]
+ },
+ "maracana": {
+  "tipo": "lugar",
+  "art": "Maracanã_Stadium",
+  "cand": [
+   {
+    "file": "Maracana_2022.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "©&nbsp;Arne Müseler Arne Müseler&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Selo_da_Copa_de_1950_Cr_1,20.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Brasil Correio"
+   },
+   {
+    "file": "Maracanã_Stadium_in_Rio_de_Janeiro.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Arthur Boppré"
+   },
+   {
+    "file": "Maracana_L.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Tomasz Miłkoś"
+   },
+   {
+    "file": "Operation_Maracana_(8532710).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "U.S. Army National Guard photo by Spc. Joseph Liggio"
+   },
+   {
+    "file": "Stadion_Rio_de_Janeiro_Finale_WM_2014_(22117945206).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "dronepicr"
+   },
+   {
+    "file": "Estádio_Maracanã_1_by_Diego_Baravelli.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Diego Baravelli"
+   },
+   {
+    "file": "The_Maracanã_Stadium_during_a_Clássico_dos_Gigantes_between_Fluminense_and_Vasco_da_Gama_in_May_2023.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Vincenzo.togni"
+   },
+   {
+    "file": "Ravens_vs_Cowboys_2026.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Coltsfan"
+   },
+   {
+    "file": "Abertura_Jogos_Panamericanos_1_13072007.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Ricardo Stuckert/PR"
+   }
+  ]
+ },
+ "cristo": {
+  "tipo": "lugar",
+  "art": "Christ_the_Redeemer_(statue)",
+  "cand": [
+   {
+    "file": "Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "©&nbsp;Arne Müseler Arne Müseler&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Marc_Ferrez_-_IMS_007A6P4FP15-015.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Cristo_Redentor_em_construção_(013RJ009013)_(cropped).jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Núcleo de digitalização / IMS"
+   },
+   {
+    "file": "Visita_de_estudantes_ao_Cristo_Redentor,_Acervo_do_Instituto_Moreira_Salles.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923",
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Núcleo de digitalização / IMS"
+   },
+   {
+    "file": "Estátua_do_Cristo_Redentor_nas_cores_da_Bandeira_do_Brasil.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Isac Nóbrega/PR"
+   },
+   {
+    "file": "Christ_on_Corcovado_mountain.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Artyominc"
+   },
+   {
+    "file": "Rio_Larson_3.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Usrotors"
+   },
+   {
+    "file": "Morro_do_Corcovado.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ulysses Rj"
+   },
+   {
+    "file": "Cristo_Redentor_Rio_de_Janeiro_Dezembro_de_2020.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Yeuxpapilon"
+   },
+   {
+    "file": "O_Cristo_Redentor.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "KátiaLira"
+   }
+  ]
+ },
+ "tucano": {
+  "tipo": "animal",
+  "art": "Toco_toucan",
+  "cand": [
+   {
+    "file": "006_Toco_toucan_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "Glauco_area.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Webbotwill"
+   },
+   {
+    "file": "Tucan_toto.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ludwinsiles"
+   },
+   {
+    "file": "Ramphastos_toco_(Riesentukan_-_Toco_Toucan)_-_Weltvogelpark_Walsrode_2013-06.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Olaf Oliviero Riemer"
+   },
+   {
+    "file": "Leucismo_parcial_em_Ramphastos_toco_(cropped).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Eduardo Guimarães Santos, William Sousa De Paula"
+   },
+   {
+    "file": "Toco_toucan_(Ramphastos_toco)_in_flight_composite.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Toco_toucan_or_Tucanuçu_(Ramphastos_toco)_(20142718649).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Under the same moon..."
+   },
+   {
+    "file": "Toco_Toucan_(Ramphastos_toco)_-_48153967707.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bernard DUPONT"
+   },
+   {
+    "file": "Toco_Toucan_(Ramphastos_toco)_eating_Papaya_(Carica_papaya)_(28378476504).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bernard DUPONT from FRANCE"
+   },
+   {
+    "file": "138_Toco_toucan_drinking_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   }
+  ]
+ },
+ "pao-de-queijo": {
+  "tipo": "comida",
+  "art": "Pão_de_queijo",
+  "cand": [
+   {
+    "file": "Cheesebread.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Murilo manzini"
+   },
+   {
+    "file": "Pao_de_queijo_com_cafe.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 3.0"
+    ],
+    "autor": "nwerneck"
+   },
+   {
+    "file": "Casa_do_Pão_de_Queijo_-_São_José_dos_Pinhais.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Eduardo P"
+   }
+  ]
+ },
+ "onca": {
+  "tipo": "animal",
+  "art": "Jaguar",
+  "cand": [
+   {
+    "file": "Standing_jaguar.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "USFWS"
+   },
+   {
+    "file": "Panthera_onca_augusta.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ghedoghedo"
+   },
+   {
+    "file": "Felis_torquata_-_1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Felis_leo_-_1818-1842_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-(White_Background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jacques Christophe Werner&nbsp;(1798–1856)&nbsp;&nbsp; &nbsp; Alternative names "
+   },
+   {
+    "file": "Felis_onca_-_1818-1842_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jacques Christophe Werner&nbsp;(1798–1856)&nbsp;&nbsp; &nbsp; Alternative names "
+   },
+   {
+    "file": "Felis_pardus_-_1818-1842_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jacques Christophe Werner&nbsp;(1798–1856)&nbsp;&nbsp; &nbsp; Alternative names "
+   },
+   {
+    "file": "Stamp-russia2014-save-russian-cats-(tiger).png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Почта России"
+   },
+   {
+    "file": "Stamp-russia2014-save-russian-cats-(snow_leopard).png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Почта России"
+   },
+   {
+    "file": "Studienblatt_Felis_macroscelis_Nebelparder_(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "AnonymousUnknown author"
+   },
+   {
+    "file": "Description_iconographique_comparée_du_squelette_et_du_système_dentaire_des_mammifères_récents_et_fossiles_(Panthera_onca_skull).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Blainville, H.-M. Ducrotay de (Henri-Marie Ducrotay)"
+   }
+  ]
+ },
+ "capivara": {
+  "tipo": "animal",
+  "art": "Capybara",
+  "cand": [
+   {
+    "file": "Capybaracropped.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "Hydrochoeris_hydrochaeris_in_Brazil_in_Petrópolis,_Rio_de_Janeiro,_Brazil_09.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Wilfredor"
+   },
+   {
+    "file": "Capybara_skeleton.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Museum of Veterinary Anatomy FMVZ USP / Wagner Souza e Silva"
+   },
+   {
+    "file": "055_Capybara_swimming_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "Capybaras_(Hydrochoerus_hydrochaeris)_grazing_in_the_evening.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bernard DUPONT"
+   },
+   {
+    "file": "Parque_estadual_encontro_das_aguas_-_Gustavo_Gaspari_03,_auto_white_balance_i.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Gustavo Gaspari"
+   },
+   {
+    "file": "Yellow-headed_caracara_(Milvago_chimachima)_on_capybara_(Hydrochoeris_hydrochaeris).JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Cattle_tyrant_(Machetornis_rixosa)_on_Capybara.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Hydrochoerus_hydrochaeris_222765566.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Ezequiel Racker"
+   },
+   {
+    "file": "Capybara_(Hydrochoerus_hydrochaeris)_alpha_male.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   }
+  ]
+ },
+ "cataratas": {
+  "tipo": "lugar",
+  "art": "Iguazu_Falls",
+  "cand": [
+   {
+    "file": "Aerial_Foz_de_Iguaçu_26_Nov_2005.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mariordo (Mario Roberto Durán Ortiz)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Relief_Map_of_Argentina.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Argentina_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Iguazu_National_Park_Falls.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Tomfriedel"
+   },
+   {
+    "file": "Parque_Nacional_do_Iguaçú_-_Iguaçu_National_Park_-_Bilheterias_-_Ticket_toll_(13932942577).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Deni Williams from São Paulo, Brasil"
+   },
+   {
+    "file": "Iguazu_Décembre_2007_-_Panorama_7.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Martin St-Amant (S23678)"
+   },
+   {
+    "file": "Cataratas_Iguazu_vista_general.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "DINOCBA"
+   },
+   {
+    "file": "CATARATAS_DEL_IGUAZU._GARGANTA_DEL_DIABLO.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Nataliaeconomia2008"
+   },
+   {
+    "file": "Iguazu_Décembre_2007_-_Panorama_1.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Martin St-Amant (S23678)"
+   }
+  ]
+ },
+ "chimarrao": {
+  "tipo": "comida",
+  "art": "Mate_(drink)",
+  "cand": [
+   {
+    "file": "Mate_en_calabaza.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. Jorgealfonso assumed (based on copyright cl"
+   },
+   {
+    "file": "Dr_francia.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Gina Manfredi ocampo"
+   },
+   {
+    "file": "Pope_Francis_with_Cristina_Fernandez_de_Kirchner_4.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Casa Rosada"
+   },
+   {
+    "file": "Mate_tradicional_con_pava.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "seretide"
+   },
+   {
+    "file": "Mate_moderno_con_pava_electrica.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "seretide"
+   },
+   {
+    "file": "Straw_mate.jpg",
+    "lic": [
+     "CeCILL"
+    ],
+    "autor": "Rama"
+   },
+   {
+    "file": "Bambusové_bombilly.JPG",
+    "lic": [
+     "GFDL"
+    ],
+    "autor": "T.Pivecka"
+   },
+   {
+    "file": "Bombilla.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "13:10, 21 November 2004"
+   },
+   {
+    "file": "Matero_en_Posadas.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Pablo D. Flores"
+   }
+  ]
+ },
+ "tiradentes": {
+  "tipo": "pessoa",
+  "art": "Tiradentes",
+  "cand": [
+   {
+    "file": "José_da_Silva_Xavier,_o_Tiradentes.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Roque Gameiro&nbsp;(1864–1935)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Fazenda_do_Pombal-ruinas.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Glauco Umbelino"
+   },
+   {
+    "file": "Alferes_Tiradentes_01.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "José Wasth Rodrigues"
+   },
+   {
+    "file": "Sentença_proferida_contra_os_réus_do_levante_e_conjuração_de_Minas_Gerais._Autos_da_Devassa_da_Conjuração_Mineira.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "5_Centavos_(2022)_-_Rückseite.jpg",
+    "lic": [
+     "Public domain",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Cerdded41"
+   }
+  ]
+ },
+ "frevo": {
+  "tipo": "cultura",
+  "art": "Frevo",
+  "cand": [
+   {
+    "file": "Passistas_de_Frevo.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Prefeitura de Olinda"
+   },
+   {
+    "file": "Stamp_of_Brazil_-_1975_-_Colnect_263939_-_Folklore_-_Frevo_-_PE.jpeg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Post of Brazil"
+   },
+   {
+    "file": "Balafon_Jamie.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Jamie Price"
+   }
+  ]
+ },
+ "acai": {
+  "tipo": "comida",
+  "art": "Açaí_palm",
+  "cand": [
+   {
+    "file": "Euterpe_oleracea_salu.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Vihelik"
+   },
+   {
+    "file": "Acai_Rio_20070416.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "JLB1965"
+   },
+   {
+    "file": "Banca_de_açai_na_rua_Belem.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Decio Horita Yokota"
+   },
+   {
+    "file": "Açaí.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Gervásio Baptista/ABr"
+   },
+   {
+    "file": "Acai_oil.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "P. S. Sena"
+   },
+   {
+    "file": "Acapalms.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Frank Krämer"
+   },
+   {
+    "file": "Despolpando_açai.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Decio Horita Yokota"
+   },
+   {
+    "file": "Cosecha_de_Naidí.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Guapi-Tecnologies"
+   },
+   {
+    "file": "Sansei_açaí!_açaí_ame.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nissy-KITAQ"
+   }
+  ]
+ },
+ "pelourinho": {
+  "tipo": "lugar",
+  "art": "Pelourinho",
+  "cand": [
+   {
+    "file": "Centro_Histórico_Salvador_Vista_Aérea_2021-0933.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley"
+   },
+   {
+    "file": "Salvador_0_Centro_Histórico.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "André Koehne"
+   },
+   {
+    "file": "Salvador_1_detalhe_Porto_Centro_Histórico.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "André Koehne"
+   },
+   {
+    "file": "Anchieta_Pelourinho_Cyark.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CyArk"
+   },
+   {
+    "file": "View_over_Harbour_Area_from_Hotel_Arthemis_-_Salvador_-_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Adam Jones Adam63"
+   },
+   {
+    "file": "Cyark_salvador_cross.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CyArk (http://archive.cyark.org)"
+   },
+   {
+    "file": "Catedral_Basílica_Salvador_2019-6527.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley&nbsp;(1970–)&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Birth nam"
+   },
+   {
+    "file": "Salvador-CamaraVereadores.jpg",
+    "lic": [
+     "CC BY-SA 2.0",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Amadeu Júnior from Rio de Janeiro, Brasil"
+   },
+   {
+    "file": "Ruínas_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ian Storni Machado"
+   }
+  ]
+ },
+ "lencois": {
+  "tipo": "lugar",
+  "art": "Lençóis_Maranhenses_National_Park",
+  "cand": [
+   {
+    "file": "Lençóis_Maranhenses_2018.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Julius Dadalti"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Parque_Nacional_dos_Lençóis_Maranhenses_Paulo_Cattelan_(03).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paulo Cattelan"
+   },
+   {
+    "file": "LENCOIS_01.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "AUGUSTO PESSOA"
+   },
+   {
+    "file": "Ruínas_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ian Storni Machado"
+   }
+  ]
+ },
+ "taca": {
+  "tipo": "objeto",
+  "art": "FIFA_World_Cup_Trophy",
+  "cand": [
+   {
+    "file": "FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Djuradj Vujcic"
+   },
+   {
+    "file": "Jules_Rimet_trophy_replica.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "CC BY 2.0"
+    ],
+    "autor": "Abel Lafleur&nbsp;(1875–1953)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Jules_Rimet_presents_1930_FIFA_Cup_to_Raúl_Jude_1974_stamp_of_Nicaragua.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Post of Nicaragua"
+   },
+   {
+    "file": "Maradona-Mundial_86_con_la_copa.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Antoine_Griezmann_2018_FIFA_World_Cup_Trophy_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Антон Зайцев"
+   },
+   {
+    "file": "Nuvola_apps_kbackgammon.png",
+    "lic": [
+     "LGPL"
+    ],
+    "autor": "David Vignoni / ICON KING"
+   }
+  ]
+ },
+ "pedro-i": {
+  "tipo": "pessoa",
+  "art": "Pedro_I_of_Brazil",
+  "cand": [
+   {
+    "file": "DpedroI-brasil-full_(cropped).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Simplício Rodrigues de Sá&nbsp;(1785–1839)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Signature_of_Emperor_Pedro_I_of_Brazil.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Signature_of_Emperor_Pedro_I_of_Brazil.jpg: Emperor Dom Pedro I of Brazil (1798-"
+   },
+   {
+    "file": "Dom_Pedro_I_1800.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Agustín Esteve&nbsp;(1753–1830)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Dom_Pedro_I_1809c.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Dom_Pedro_I_1809c.jpg: Francesco Bartolozzi (1725 – 1815) derivative work: Giann"
+   },
+   {
+    "file": "Emperor_Pedro_I_1816.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jean-Baptiste Debret&nbsp;(1768–1848)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Oath_of_obedience_by_Prince_Pedro_1821.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Félix Taunay, Baron of Taunay&nbsp;(1795–1881)&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Emperor_Dom_Pedro_I_1822.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Simplício Rodrigues de Sá&nbsp;(1785–1839)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Pedro_I_Imperador_1823_(crop).png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Pedro_I_Imperador_1823.jpg: Jean-Baptiste Debret&nbsp;(1768–1848)&nbsp;&nbsp; &n"
+   },
+   {
+    "file": "Antônio_Joaquim_Franco_Velasco_-_Dom_Pedro_I,_Imperador_do_Brasil.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Antônio Joaquim Franco Velasco&nbsp;(1780–1833)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Celebration_for_the_return_of_Emperor_Pedro_I_1826.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jean-Baptiste Debret&nbsp;(1768–1848)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "encontro-aguas": {
+  "tipo": "lugar",
+  "art": "Meeting_of_Waters",
+  "cand": [
+   {
+    "file": "Encontro_das_Águas_-_Manaus.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Portal da Copa"
+   },
+   {
+    "file": "City_of_Carauari,_the_Juruá_River_and_its_tributaries,_taken_from_the_International_Space_Station.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Image Science and Analysis Laboratory, NASA-Johnson Space Center. \"The Gateway t"
+   }
+  ]
+ },
+ "ouro-preto": {
+  "tipo": "lugar",
+  "art": "Ouro_Preto",
+  "cand": [
+   {
+    "file": "Conjunto_arquitetônico_e_urbanístico_de_Ouro_Preto.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Raquel Mendes Silva"
+   },
+   {
+    "file": "Igreja_de_Nossa_Senhora_do_Rosário_(Ouro_Preto)_por_Rodrigo_Tetsuo_Argenton_(02).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rodrigo.Argenton"
+   },
+   {
+    "file": "Deniseramalho.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Denise Ramalho"
+   },
+   {
+    "file": "Ouro_Preto_ao_amanhecer.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Elvécio Fernandes"
+   },
+   {
+    "file": "Museu_da_inconfidencia.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ricardotakamura"
+   },
+   {
+    "file": "PedroVilela_Igreja_de_S.Francisco_de_Assis_Ouro_Preto_MG_(25993838767).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Ouro_Preto_01_2016_MG_5083.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mariordo (Mario Roberto Durán Ortiz)"
+   },
+   {
+    "file": "Brasao_ouro_preto.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "D. João V"
+   },
+   {
+    "file": "BRAZIL_-_Villa_Rica_de_Ouro_Preto.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Panorâmica_de_Ouro_Preto.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Marcos Guerra"
+   }
+  ]
+ },
+ "pantanal": {
+  "tipo": "lugar",
+  "art": "Pantanal",
+  "cand": [
+   {
+    "file": "Pantanal,_south-central_South_America_5170.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Alicia Yo"
+   },
+   {
+    "file": "Pantanal,_Mato_Grosso,_Brasil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Filipefrazao"
+   },
+   {
+    "file": "Tapir_Pantanal.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Bill McDavid"
+   },
+   {
+    "file": "Anodorhynchus_hyacinthinus_wild.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Myrmecophaga_tridactyla,_Pantanal_region,_Brazil.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Anagoria"
+   },
+   {
+    "file": "4987_Pantanal_jaguar_JF.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Wolves201"
+   },
+   {
+    "file": "Hydrochoerus_hydrochaeris_(1).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Arthur Chapman"
+   },
+   {
+    "file": "Blastoceros_dichotomus_by_anagoria_.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Anagoria"
+   },
+   {
+    "file": "Black_Howler,_Pantanal.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Arturo de Frias Marques"
+   }
+  ]
+ },
+ "guarana": {
+  "tipo": "planta",
+  "art": "Guarana",
+  "cand": [
+   {
+    "file": "Guarana_-_Paullinia_cupana.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Guaranà_original_do_Brasil.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "A C Moraes from Brasília, Brasil"
+   },
+   {
+    "file": "Guaraná_02.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "AnitaFortis"
+   }
+  ]
+ },
+ "pau-brasil": {
+  "tipo": "planta",
+  "art": "Paubrasilia",
+  "cand": [
+   {
+    "file": "Caesalpinia-echinata.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Der Kolonist"
+   },
+   {
+    "file": "Caesalpinia_echinata_Taub95.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Paul Taubert&nbsp;(1862–1897)&nbsp;&nbsp; &nbsp; Alternative names Taub.; P. H. "
+   },
+   {
+    "file": "Bow_Cello2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "ClosedeflordePaubrasil.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mauroguanandi"
+   },
+   {
+    "file": "Caesalpinia_echinata_-_Paubrasil.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mauroguanandi"
+   },
+   {
+    "file": "Brazilwoodspinylegumens.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mauroguanandi"
+   },
+   {
+    "file": "PAUBRASILjbsp.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mauroguanandi"
+   },
+   {
+    "file": "Brazilwood_Paubrasilia_echinata_square_blank.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fopseh"
+   },
+   {
+    "file": "Brazilwoodriobotanicgarden.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mauroguanandi"
+   }
+  ]
+ },
+ "machado": {
+  "tipo": "pessoa",
+  "art": "Machado_de_Assis",
+  "cand": [
+   {
+    "file": "Machado_de_Assis_by_Marc_Ferrez.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Marc Ferrez&nbsp;(1843–1923)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Morro_do_Livramento,_onde_Machado_nasceu.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Machado_de_Assis_25_anos.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Joaquim Insley Pacheco&nbsp;(1830–1912)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Brazil_1958_Machado_de_Assis.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Empresa Brasileira de Correios e Telégrafos (Correios)"
+   },
+   {
+    "file": "Enterro_de_Machado_de_Assis_2_(1908).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Memorias_Posthumas_de_Braz_Cubas.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "The original uploader was Lupo at English Wikipedia."
+   },
+   {
+    "file": "Machado_de_Assis_aos_57_anos.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Poetisized_(35715707801).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mike Steinhoff"
+   },
+   {
+    "file": "Estatua_de_Machado_de_Assis,_Madrid.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Asqueladd"
+   }
+  ]
+ },
+ "senna": {
+  "tipo": "pessoa",
+  "art": "Ayrton_Senna",
+  "cand": [
+   {
+    "file": "Ayrton_Senna_Pesawat_RC_Cropped.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "File:Ayrton Senna 2.jpg: Instituto Ayrton Senna derivative work: F1fans"
+   },
+   {
+    "file": "Ayrton_Senna_-_3_Years_Old.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Instituto Ayrton Senna"
+   },
+   {
+    "file": "Ayrton_Senna_Karting.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Instituto Ayrton Senna"
+   },
+   {
+    "file": "Ayrton_Senna_Beginning_-_Formula_Ford_1981,_Van_Diemen.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Instituto Ayrton Senna"
+   },
+   {
+    "file": "Ayrton_Senna_(close_3x4_cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Instituto Ayrton Senna"
+   },
+   {
+    "file": "Toleman_TG184.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "John Chapman (Pyrope)"
+   },
+   {
+    "file": "1985_European_GP_Senna.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Jerry Lewis-Evans"
+   },
+   {
+    "file": "Senna_Brands_1986.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Peterhanna"
+   },
+   {
+    "file": "Lotus_99T_front-left_2012_Autosport_International.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tony Hisgett"
+   },
+   {
+    "file": "Senna_1988.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Instituto Ayrton Senna derivative work: Karpouzi"
+   }
+  ]
+ },
+ "isabel": {
+  "tipo": "pessoa",
+  "art": "Isabel,_Princess_Imperial_of_Brazil",
+  "cand": [
+   {
+    "file": "Isabel,_Princesa_do_Brasil,_1846-1921_(cropped).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Joaquim Insley Pacheco"
+   },
+   {
+    "file": "Isabel_princess_imperial_signature.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Isabel_princess_imperial_signature.jpg: Isabel, Princess Imperial of Brazil (184"
+   },
+   {
+    "file": "Princesa_Isabel_cerca_1851_frame_removed.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Princesa_Isabel_cerca_1851.jpg: Abram-Louis Buvelot (1814-1888) derivative work:"
+   },
+   {
+    "file": "Isabel_princess_imperial_1858.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Victor Frond (1821 - 1881)"
+   },
+   {
+    "file": "Princesses_leopoldina_isabel_and_friend_(cropped).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Revert Henrique Klumb (183? — c. 1886)"
+   },
+   {
+    "file": "Isabel_circa_1865_01.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Augusto Stahl (1828-1877)"
+   },
+   {
+    "file": "Alberto_Henschel_-_A_Familia_Imperial.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Alberto Henschel&nbsp;(1827–1882)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Victor_Meirelles_-_Casamento_da_Princesa_Isabel_e_Gastão_de_Orléans.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Victor Meirelles&nbsp;(1832–1903)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Juramento_Isabel.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Victor Meirelles&nbsp;(1832–1903)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Isabel_e_Pedro_II_1870.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Joaquim Insley Pacheco&nbsp;(1830–1912)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "republica": {
+  "tipo": "historia",
+  "art": "Proclamation_of_the_Republic_(Brazil)",
+  "cand": [
+   {
+    "file": "Proclamação_da_República_by_Benedito_Calixto_1893.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Benedito Calixto&nbsp;(1853–1927)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Rodrigues-republica-mab.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Manuel Lopes Rodrigues&nbsp;(1860–1917)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Republica_no_brasil.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Possibly Angelo Agostini&nbsp;(1843–1910)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "A-republica-3-12-1870.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jornal \"A República\""
+   },
+   {
+    "file": "Henrique_Bernardelli_-_Proclamação_da_República.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Henrique Bernardelli&nbsp;(1858–1936)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Attentat_contre_le_Baron_de_Ladario,_ancien_ministre_de_la_marine._—_(Dessin_de_M._Parys.).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "M. Parys"
+   },
+   {
+    "file": "Capa_do_Diário_Popular.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "UnknownUnknown"
+   },
+   {
+    "file": "La_Revolution_au_Brésil._—_Débarquement_de_Dom_Pedro,_a_Lisbonne._—_Le_canot_impérial_abordant_a_l'Arsenal_de_la_Marine.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Gérardin, d'après la photographie instantanée de M. Bobone. Auguste Gérardin&nbs"
+   },
+   {
+    "file": "1894-Juan-Gutierrez-Revolta-da-Armada.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Juan Gutierrez"
+   },
+   {
+    "file": "BRÉSIL._—_La_guerre_civile_a_Rio-de-Janeiro._—_Un_combat_aux_fortifications_de_la_Mortena,_a_la_Gamboa._—_(Dessin_de_M._L._Tinayre,_d'après_les_documents_communiqués_par_M._R...,_notre_correspondant.).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Louis Tinayre&nbsp;(1861–1942)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "congresso": {
+  "tipo": "lugar",
+  "art": "National_Congress_of_Brazil",
+  "cand": [
+   {
+    "file": "Brasilia_Congresso_Nacional_05_2007_221.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mario Roberto Duran Ortiz"
+   },
+   {
+    "file": "Chamber_of_Deputies_of_Brazil_2.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "José Cruz/ABr"
+   },
+   {
+    "file": "Senado2006.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Wilson Dias/ABr"
+   },
+   {
+    "file": "AmorimSenate.JPG",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "José Cruz/ABr"
+   },
+   {
+    "file": "Presidência_do_Senado_(28428236574).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Senado Federal"
+   },
+   {
+    "file": "Congresso_Nacional_durante_o_nascer_do_sol.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Joe Espindola"
+   },
+   {
+    "file": "Brasilia-Congresso.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "DlauriniJr"
+   },
+   {
+    "file": "Senat_de_Brasilia.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "JL1996"
+   },
+   {
+    "file": "Congresso_Nacional_do_Brasil_em_noite_de_lua_cheia.jpg",
+    "lic": [
+     "CC BY 3.0",
+     "CC BY 3.0"
+    ],
+    "autor": "Rodolfo Stuckert"
+   },
+   {
+    "file": "National_Congress_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Marcelo Jorge Vieira from Brazil"
+   }
+  ]
+ },
+ "sao-francisco": {
+  "tipo": "lugar",
+  "art": "São_Francisco_River",
+  "cand": [
+   {
+    "file": "Canindé_de_São_Francisco-002.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Cleferson Comarela"
+   },
+   {
+    "file": "São_Francisco_basin_map.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Shannon1"
+   },
+   {
+    "file": "Rio_Sao_Francisco_próximo_a_Paulo_Afonso_divisa_BAHIA-ALAGOAS.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "marinelson"
+   },
+   {
+    "file": "Ponte_que_faz_a_divisa_entre_os_Estados_de_Alagoas_e_Bahia.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "marinelson"
+   },
+   {
+    "file": "Canindé_de_São_Francisco-001.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Cleferson Comarela"
+   },
+   {
+    "file": "Lophiosilurus_alexandri.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Hypsolebias_magnificus_male.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Andrew Bogott"
+   },
+   {
+    "file": "Ponte_sobre_o_Rio_São_Francisco_em_Ibotirama.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Fotos GOVBA from Bahia/Brasil"
+   },
+   {
+    "file": "Rio_São_Francisco_-_Sergipe-Alagoas.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Nicolas de Camaret from São Paulo, Brazil"
+   }
+  ]
+ },
+ "mandacaru": {
+  "tipo": "planta",
+  "art": "Cereus_jamacaru",
+  "cand": [
+   {
+    "file": "Blühender_Cereus_jamacaru_(Säulenkaktus).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Siam 07"
+   },
+   {
+    "file": "Fruto_de_cactus.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Josenildo Bezerra da Silva"
+   },
+   {
+    "file": "Inhotim_Rosangela_C._Magalhães_9.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rosangela C. Magalhães"
+   },
+   {
+    "file": "Espinhos_de_cacto.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Paulocavalc"
+   },
+   {
+    "file": "Cereus_jamacaru_flower.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Smailtn"
+   },
+   {
+    "file": "Flor_de_Mandacaru,_Guarujá,_São_Paulo.jpg",
+    "lic": [
+     "CC BY 3.0",
+     "GFDL"
+    ],
+    "autor": "Jurema Oliveira"
+   },
+   {
+    "file": "Babão,_o_fruto_do_mandacaru.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hans Christopher Saegesser Santos"
+   },
+   {
+    "file": "Mandacaru_(Cereus_jamacaru)_02.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sabrinafelicia"
+   },
+   {
+    "file": "Mandacaru_(Cereus_jamacaru)_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sabrinafelicia"
+   },
+   {
+    "file": "Jericoacoara_(2007)_07.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "LBM1948"
+   }
+  ]
+ },
+ "neblina": {
+  "tipo": "lugar",
+  "art": "Pico_da_Neblina",
+  "cand": [
+   {
+    "file": "Pico_da_Neblina_(FAB).jpg",
+    "lic": [
+     "Attribution",
+     "CC BY 3.0"
+    ],
+    "autor": "Força Aérea do Brasil"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Imagem_de_satélite_da_Serra_do_Imeri.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Landsat 8 / OLI"
+   },
+   {
+    "file": "Pico_31_de_Março.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Michellblind"
+   },
+   {
+    "file": "Pico_da_Neblina.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Robson Esteves Czaban (robson.czaban@hotmail.com)"
+   },
+   {
+    "file": "A_vista_de_cima_do_Pico.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Andre zumak"
+   },
+   {
+    "file": "Heliamphora_tatei.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Petr Dlouhý"
+   },
+   {
+    "file": "Anoura_geoffroyi_13224366.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Juan Carlos Caicedo Hernández"
+   },
+   {
+    "file": "26_05_2021_Foto_do_Dia_(51206670030).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Palácio do Planalto from Brasilia, Brasil"
+   },
+   {
+    "file": "Alfred_R._Wallace_Map_of_Amazon_river_1853.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Alfred Russel Wallace"
+   }
+  ]
+ },
+ "noronha": {
+  "tipo": "lugar",
+  "art": "Fernando_de_Noronha",
+  "cand": [
+   {
+    "file": "Parque_Nacional_Marinho_de_Fernando_de_Noronha_por_Fernandoantoniofotos_(01)_(cropped2).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fernandoantoniofotos"
+   },
+   {
+    "file": "EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-(recorte).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Eduardo Muruci"
+   },
+   {
+    "file": "BRUNO_LIMA_PALACIO_DE_SAO_MIGUEL_FERNANDO_DE_NORONHA_PE_(40934087472).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "MTur Destinos"
+   },
+   {
+    "file": "Igreja_Nossa_Senhora_dos_Remédios.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ednei Fialho Lopes"
+   },
+   {
+    "file": "Fernando_de_Noronha-Praia_do_Sancho.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hansfotos"
+   },
+   {
+    "file": "Raia_da_Atalaia_Fernando_de_Noronha_05.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Hughes Leglise, Paris, France (Hugo*)"
+   },
+   {
+    "file": "Amphisbaena_ridleyi_distribution.png",
+    "lic": [
+     "CC BY-SA 3.0",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "compiled by rbrausse with Quantum GIS Map data: Made with Natural Earth. Free ve"
+   },
+   {
+    "file": "Fernando_de_Noronha_-_vista_aera.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "The_Two_Brothers_Rock_in_Brazil's_Fernando_de_Noronha_archipelago.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Rosanetur"
+   },
+   {
+    "file": "ISS020-E-25198.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "NASA"
+   }
+  ]
+ },
+ "profetas": {
+  "tipo": "arte",
+  "art": "Aleijadinho",
+  "cand": [
+   {
+    "file": "Suposto_retrato_de_Aleijadinho_(cropped).png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Euclásio Ventura"
+   },
+   {
+    "file": "100_2345_OP.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Brasilka2"
+   },
+   {
+    "file": "Recibo_autógrafo_de_Aleijadinho_-_1802.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Aleijadinho&nbsp;(1730–1814)&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "H_Bernardelli_-_O_Aleijadinho_em_Vila_Rica.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Henrique Bernardelli&nbsp;(1858–1936)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "H_Bernardelli_-_Retrato_de_Aleijadinho.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Henrique Bernardelli&nbsp;(1858–1936)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Aleijadinho-anjo.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Tetraktys"
+   },
+   {
+    "file": "Aleijadinho_-_Crucificação_de_Jesus_-_Santuário_do_Bom_Jesus_de_Matosinhos_-_Congonhas.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ricardo André Frantz - Tetraktys"
+   },
+   {
+    "file": "Igreja_de_São_Francisco_de_Assis_em_São_João_del-Rei_-_Fachada.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Halley Pacheco de Oliveira"
+   },
+   {
+    "file": "Aleijadinho_-_Senhor_dos_Passos.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Ricardo André Frantz"
+   },
+   {
+    "file": "Aleijadinho_-_Jesus_é_escarnecido_-_Santuário_do_Bom_Jesus_de_Matosinhos_-_Congonhas.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ricardo André Frantz - Tetraktys"
+   }
+  ]
+ },
+ "roraima": {
+  "tipo": "lugar",
+  "art": "Mount_Roraima",
+  "cand": [
+   {
+    "file": "Roraima3_(79).JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Paolo Costa Baldi"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "Abismo_com_fim.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rubens de Camargo Vianna Filho"
+   },
+   {
+    "file": "Triple_Point,_Mount_Roraima.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Photo by Yosemite."
+   },
+   {
+    "file": "Roraima_Tripoint1.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gérard Vigo"
+   },
+   {
+    "file": "Mount_Roraima,_Venezuela_(12371474504).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "M M from Switzerland"
+   },
+   {
+    "file": "Panorámica_del_Tepuy_Roraima.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Carlos Santos Colorado"
+   },
+   {
+    "file": "Schomburgk_Twelve_Views_Roraima.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Charles Bentley (painter)(1806-1854), George Barnard (engraver) (fl.1832-90)"
+   },
+   {
+    "file": "BritGY_p149_-_RORAIMA.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "intro-carnaval": {
+  "tipo": "intro",
+  "art": "Brazilian_Carnival",
+  "cand": [
+   {
+    "file": "Mangueira_2013_130211.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Agência Brasil/Marco Antonio Cavalcanti"
+   },
+   {
+    "file": "Rio_de_Janeiro-_Carnival_2015_2F5A4155.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Terry George from United States"
+   },
+   {
+    "file": "Desfile-Mangueira-Carnaval_2015-Rio_de_Janeiro-10.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Magerson Bilibio from São Paulo - SP, Brasil"
+   },
+   {
+    "file": "Desfile_Salgueiro_2016_(dsc8678).jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Tomaz Silva/Agência Brasil"
+   },
+   {
+    "file": "Praia_da_Barra_na_véspera_do_Carnaval_2008_de_Salvador.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Fabio Pozzebom/ABr"
+   },
+   {
+    "file": "Bloco_da_camisinha_circuito_Campo_Grande_Salvador.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Foto:Antônio Cruz/ABr"
+   },
+   {
+    "file": "Galo_da_Madrugada,_Carnival_2014_-_Recife,_Pernambuco,_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "governadoreduardocampos"
+   },
+   {
+    "file": "Gaviões_da_Fiel.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Sérgio (Savaman) Savarese"
+   },
+   {
+    "file": "Carnaval_OP_Bloco_Diretoria.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Cid Costa Neto"
+   },
+   {
+    "file": "Rio2009-2.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Јакша at Serbian Wikipedia"
+   }
+  ]
+ },
+ "intro-arara": {
+  "tipo": "intro",
+  "art": "Hyacinth_macaw",
+  "cand": [
+   {
+    "file": "008_Hyacinth_macaw_couple_kissing_under_Pink_Ipê_tree_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "Hyacinth_macaw_(Anodorhynchus_hyacinthinus)_in_flight.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Arara_Azul_no_Pantanal.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Leonardo Ramos"
+   },
+   {
+    "file": "107_Hyacinth_macaw_eating_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "Anodorhynchus_hyacinthinus_-Mato_Grosso_do_Sul,_Brazil_-nest-8_(3).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Geoff Gallice from Gainesville, FL, USA"
+   },
+   {
+    "file": "Desenvolvimento_dos_filhotes_Anodorhynchus_hyacinthinus.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Neiva Maria Robaldo Guedes, Maria Cecília Barbosa Toledo, Fernanda Mussi Fontour"
+   },
+   {
+    "file": "106_Hyacinth_macaw_in_flight_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "Anodorhynchus_hyacinthinus_-zoo_de_La_Palmyre-8a.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Alex_LG"
+   },
+   {
+    "file": "Anodorhynchus_hyacinthinus_ZOO_Dvur_Kralove.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "MOs810"
+   },
+   {
+    "file": "India_Post_2016_Hyacinth_macaw_10r.jpg",
+    "lic": [
+     "GODL-India"
+    ],
+    "autor": "India Post, Government of India"
+   }
+  ]
+ },
+ "intro-sugarloaf": {
+  "tipo": "intro",
+  "art": "Sugarloaf_Mountain",
+  "cand": [
+   {
+    "file": "Pão_de_Açucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "©&nbsp;Arne Müseler Arne Müseler&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Pao-de-acucar-2.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Raphael de Siqueira Ferreira"
+   },
+   {
+    "file": "Sugarloaf_Sunrise_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Donatas Dabravolskas"
+   },
+   {
+    "file": "Rio_de_Janeiro_Panoramic_from_Pão_de_Açúcar_crop.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "photos by Wolfhardt - stitch by Klaus with K"
+   },
+   {
+    "file": "Palácio_Pedro_Ernesto_-_Fundação_da_Cidade.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Halley Pacheco de Oliveira"
+   },
+   {
+    "file": "Nicolas-Antoine_Taunay.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Nicolas-Antoine Taunay&nbsp;(1755–1830)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Vista_do_Pão_de_Açúcar_tomada_da_Estrada_do_Silvestre_(atribuído),_da_Coleção_Brasiliana_Iconográfica.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Charles Landseer&nbsp;(1799–1879)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Pedro_I_por_Henrique_José_da_Silva.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Henrique José da Silva (1792-1834)"
+   },
+   {
+    "file": "A_Glória,_Rio_de_Janeiro_by_Eduard_Hildebrandt.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Eduard Hildebrandt&nbsp;(1818–1868)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Forty_years_in_Brazil_(1914)_(14775856642).jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Internet Archive Book Images"
+   }
+  ]
+ }
+}
