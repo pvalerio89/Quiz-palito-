@@ -1,0 +1,247 @@
+{
+ "brigadeiro": {
+  "file": "Brazilian_food,_Quebec_city_06.jpg",
+  "crop": null,
+  "arquivo": "brigadeiro.jpg",
+  "autor": "Wilfredor",
+  "lic": "CC0"
+ },
+ "maracana": {
+  "file": "Operation_Maracana_(8532710).jpg",
+  "crop": null,
+  "arquivo": "maracana.jpg",
+  "autor": "U.S. Army National Guard photo by Spc. Joseph Liggio",
+  "lic": "Public domain"
+ },
+ "cristo": {
+  "file": "O_Cristo_Redentor.JPG",
+  "crop": null,
+  "arquivo": "cristo.jpg",
+  "autor": "KátiaLira",
+  "lic": "CC BY-SA 3.0"
+ },
+ "tucano": {
+  "file": "Toco_toucan_or_Tucanuçu_(Ramphastos_toco)_(20142718649).jpg",
+  "crop": null,
+  "arquivo": "tucano.jpg",
+  "autor": "Under the same moon...",
+  "lic": "CC BY 2.0"
+ },
+ "pao-de-queijo": {
+  "file": "Cheesebread.jpg",
+  "crop": null,
+  "arquivo": "pao-de-queijo.jpg",
+  "autor": "Murilo manzini",
+  "lic": "CC BY-SA 4.0"
+ },
+ "onca": {
+  "file": "Standing_jaguar.jpg",
+  "crop": null,
+  "arquivo": "onca.jpg",
+  "autor": "USFWS",
+  "lic": "Public domain"
+ },
+ "capivara": {
+  "file": "Hydrochoeris_hydrochaeris_in_Brazil_in_Petrópolis,_Rio_de_Janeiro,_Brazil_09.jpg",
+  "crop": null,
+  "arquivo": "capivara.jpg",
+  "autor": "Wilfredor",
+  "lic": "CC0"
+ },
+ "cataratas": {
+  "file": "Iguazu_National_Park_Falls.jpg",
+  "crop": null,
+  "arquivo": "cataratas.jpg",
+  "autor": "Tomfriedel",
+  "lic": "CC BY 3.0"
+ },
+ "chimarrao": {
+  "file": "Mate_tradicional_con_pava.jpg",
+  "crop": null,
+  "arquivo": "chimarrao.jpg",
+  "autor": "seretide",
+  "lic": "CC BY 2.0"
+ },
+ "tiradentes": {
+  "file": "José_da_Silva_Xavier,_o_Tiradentes.jpg",
+  "crop": null,
+  "arquivo": "tiradentes.jpg",
+  "autor": "Roque Gameiro (1864–1935)",
+  "lic": "Public domain"
+ },
+ "frevo": {
+  "file": "Passistas_de_Frevo.jpg",
+  "crop": null,
+  "arquivo": "frevo.jpg",
+  "autor": "Prefeitura de Olinda",
+  "lic": "CC BY 2.0"
+ },
+ "acai": {
+  "file": "Acai_Rio_20070416.jpg",
+  "crop": null,
+  "arquivo": "acai.jpg",
+  "autor": "JLB1965",
+  "lic": "CC0"
+ },
+ "pelourinho": {
+  "file": "Centro_Histórico_Salvador_Vista_Aérea_2021-0933.jpg",
+  "crop": null,
+  "arquivo": "pelourinho.jpg",
+  "autor": "Paul R. Burley",
+  "lic": "CC BY-SA 4.0"
+ },
+ "lencois": {
+  "file": "Lençóis_Maranhenses_2018.jpg",
+  "crop": null,
+  "arquivo": "lencois.jpg",
+  "autor": "Julius Dadalti",
+  "lic": "CC BY-SA 4.0"
+ },
+ "taca": {
+  "file": "FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg",
+  "crop": null,
+  "arquivo": "taca.jpg",
+  "autor": "Djuradj Vujcic",
+  "lic": "CC BY 2.0"
+ },
+ "pedro-i": {
+  "file": "Emperor_Dom_Pedro_I_1822.png",
+  "crop": null,
+  "arquivo": "pedro-i.jpg",
+  "autor": "Simplício Rodrigues de Sá (1785–1839)",
+  "lic": "Public domain"
+ },
+ "encontro-aguas": {
+  "file": "Encontro_das_Águas_-_Manaus.jpg",
+  "crop": null,
+  "arquivo": "encontro-aguas.jpg",
+  "autor": "Portal da Copa",
+  "lic": "CC BY 3.0 br"
+ },
+ "ouro-preto": {
+  "file": "PedroVilela_Igreja_de_S.Francisco_de_Assis_Ouro_Preto_MG_(25993838767).jpg",
+  "crop": null,
+  "arquivo": "ouro-preto.jpg",
+  "autor": "MTur Destinos",
+  "lic": "Public domain"
+ },
+ "pantanal": {
+  "file": "Pantanal,_Mato_Grosso,_Brasil.jpg",
+  "crop": null,
+  "arquivo": "pantanal.jpg",
+  "autor": "Filipefrazao",
+  "lic": "CC BY-SA 3.0"
+ },
+ "guarana": {
+  "file": "Guaraná_02.jpg",
+  "crop": null,
+  "arquivo": "guarana.jpg",
+  "autor": "AnitaFortis",
+  "lic": "CC BY-SA 3.0"
+ },
+ "pau-brasil": {
+  "file": "PAUBRASILjbsp.jpg",
+  "crop": null,
+  "arquivo": "pau-brasil.jpg",
+  "autor": "Mauroguanandi",
+  "lic": "Public domain"
+ },
+ "machado": {
+  "file": "Machado_de_Assis_aos_57_anos.jpg",
+  "crop": null,
+  "arquivo": "machado.jpg",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain"
+ },
+ "senna": {
+  "file": "Ayrton_Senna_Pesawat_RC_Cropped.jpg",
+  "crop": null,
+  "arquivo": "senna.jpg",
+  "autor": "File:Ayrton Senna 2.jpg: Instituto Ayrton Senna derivative w",
+  "lic": "CC BY 2.0"
+ },
+ "isabel": {
+  "file": "Isabel,_Princesa_do_Brasil,_1846-1921_(cropped).jpg",
+  "crop": null,
+  "arquivo": "isabel.jpg",
+  "autor": "Joaquim Insley Pacheco",
+  "lic": "Public domain"
+ },
+ "republica": {
+  "file": "Proclamação_da_República_by_Benedito_Calixto_1893.jpg",
+  "crop": null,
+  "arquivo": "republica.jpg",
+  "autor": "Benedito Calixto (1853–1927)",
+  "lic": "Public domain"
+ },
+ "congresso": {
+  "file": "Brasilia_Congresso_Nacional_05_2007_221.jpg",
+  "crop": null,
+  "arquivo": "congresso.jpg",
+  "autor": "Mario Roberto Duran Ortiz",
+  "lic": "Public domain"
+ },
+ "sao-francisco": {
+  "file": "Rio_Sao_Francisco_próximo_a_Paulo_Afonso_divisa_BAHIA-ALAGOAS.jpg",
+  "crop": null,
+  "arquivo": "sao-francisco.jpg",
+  "autor": "marinelson",
+  "lic": "CC BY 2.0"
+ },
+ "mandacaru": {
+  "file": "Inhotim_Rosangela_C._Magalhães_9.jpg",
+  "crop": null,
+  "arquivo": "mandacaru.jpg",
+  "autor": "Rosangela C. Magalhães",
+  "lic": "CC BY-SA 4.0"
+ },
+ "neblina": {
+  "file": "Pico_da_Neblina_(FAB).jpg",
+  "crop": null,
+  "arquivo": "neblina.jpg",
+  "autor": "Força Aérea do Brasil",
+  "lic": "Attribution"
+ },
+ "noronha": {
+  "file": "EDUARDO_MURUCI_-_BAIA_DOS_PORCOS-(recorte).jpg",
+  "crop": null,
+  "arquivo": "noronha.jpg",
+  "autor": "Eduardo Muruci",
+  "lic": "CC BY-SA 3.0"
+ },
+ "profetas": {
+  "file": "Aleijadinho_-_Jesus_é_escarnecido_-_Santuário_do_Bom_Jesus_de_Matosinhos_-_Congonhas.jpg",
+  "crop": null,
+  "arquivo": "profetas.jpg",
+  "autor": "Ricardo André Frantz - Tetraktys",
+  "lic": "CC BY-SA 4.0"
+ },
+ "roraima": {
+  "file": "Abismo_com_fim.jpg",
+  "crop": null,
+  "arquivo": "roraima.jpg",
+  "autor": "Rubens de Camargo Vianna Filho",
+  "lic": "CC BY-SA 4.0"
+ },
+ "intro-carnaval": {
+  "file": "Mangueira_2013_130211.jpg",
+  "crop": null,
+  "arquivo": "intro-carnaval.jpg",
+  "autor": "Agência Brasil/Marco Antonio Cavalcanti",
+  "lic": "CC BY 3.0 br"
+ },
+ "intro-arara": {
+  "file": "Anodorhynchus_hyacinthinus_-Mato_Grosso_do_Sul,_Brazil_-nest-8_(3).jpg",
+  "crop": null,
+  "arquivo": "intro-arara.jpg",
+  "autor": "Geoff Gallice from Gainesville, FL, USA",
+  "lic": "CC BY 2.0"
+ },
+ "intro-sugarloaf": {
+  "file": "Pao-de-acucar-2.jpg",
+  "crop": null,
+  "arquivo": "intro-sugarloaf.jpg",
+  "autor": "Raphael de Siqueira Ferreira",
+  "lic": "CC BY-SA 3.0"
+ }
+}
