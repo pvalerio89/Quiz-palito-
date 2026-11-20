@@ -1,5 +1,5 @@
 {
- "data": "2026-11-19",
+ "data": "2026-11-20",
  "canal": {
   "viewCount": "19959",
   "subscriberCount": "82",
@@ -16,7 +16,7 @@
    "duracao": 21,
    "views": 0,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 1
   },
   {
    "id": "0pUbPHDmF4Q",
@@ -59,8 +59,8 @@
    "tipo": "longo",
    "duracao": 995,
    "views": 1,
-   "likes": 0,
-   "comentarios": 0
+   "likes": 1,
+   "comentarios": 1
   },
   {
    "id": "Ab68bszQCP4",
@@ -69,7 +69,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 59,
-   "views": 4,
+   "views": 5,
    "likes": 0,
    "comentarios": 0
   },
@@ -80,7 +80,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 969,
-   "views": 0,
+   "views": 1,
    "likes": 0,
    "comentarios": 0
   },
@@ -91,8 +91,8 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 721,
-   "views": 0,
-   "likes": 0,
+   "views": 2,
+   "likes": 1,
    "comentarios": 0
   },
   {
@@ -113,7 +113,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 978,
-   "views": 3,
+   "views": 5,
    "likes": 0,
    "comentarios": 0
   },
@@ -301,7 +301,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 63,
-   "views": 17,
+   "views": 18,
    "likes": 1,
    "comentarios": 0,
    "dur_media": 4,
@@ -361,7 +361,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 61,
-   "views": 31,
+   "views": 33,
    "likes": 1,
    "comentarios": 0,
    "dur_media": 35,
@@ -391,7 +391,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 70,
-   "views": 109,
+   "views": 112,
    "likes": 1,
    "comentarios": 0,
    "dur_media": 39,
@@ -406,7 +406,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 635,
-   "views": 26,
+   "views": 27,
    "likes": 1,
    "comentarios": 0,
    "dur_media": 142,
@@ -421,7 +421,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 57,
-   "views": 47,
+   "views": 49,
    "likes": 2,
    "comentarios": 0,
    "dur_media": 39,
@@ -436,7 +436,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 655,
-   "views": 31,
+   "views": 33,
    "likes": 2,
    "comentarios": 0,
    "dur_media": 252,
@@ -496,7 +496,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 61,
-   "views": 72,
+   "views": 73,
    "likes": 0,
    "comentarios": 0,
    "dur_media": 24,
@@ -541,7 +541,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 72,
-   "views": 132,
+   "views": 136,
    "likes": 5,
    "comentarios": 0,
    "dur_media": 39,
@@ -856,7 +856,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 82,
-   "views": 877,
+   "views": 878,
    "likes": 14,
    "comentarios": 3,
    "dur_media": 36,
@@ -946,7 +946,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 74,
-   "views": 1335,
+   "views": 1336,
    "likes": 35,
    "comentarios": 1,
    "dur_media": 37,
@@ -1286,13 +1286,6 @@
   }
  ],
  "diario": [
-  [
-   "2026-08-21",
-   0,
-   0,
-   0,
-   0
-  ],
   [
    "2026-08-22",
    0,
