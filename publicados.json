@@ -1067,6 +1067,20 @@
         "data": "2026-11-18",
         "origem": "github-actions"
       }
+    },
+    "videos/38-pais-contra-filhos": {
+      "youtube": {
+        "status": "publicado",
+        "id": "hgDygRhl9sE",
+        "url": "https://youtu.be/hgDygRhl9sE",
+        "data": "2026-11-20",
+        "origem": "github-actions",
+        "sha256": "2721f28b328901b5b4e4588e629549834a43eeffdfef2625719db52120d0f6e0",
+        "no_ar_em": "2026-11-20T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
