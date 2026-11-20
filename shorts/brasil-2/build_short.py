@@ -24,20 +24,20 @@ CRED = json.load(open(os.path.join(FOTOS, "creditos.json"), encoding="utf-8"))
 CHAMADA = "DUVIDO VOCÊ ACERTAR TODAS!"   # s.CHAMADAS; diferente dos últimos 3 Shorts
 MUSICA = os.path.join(QP, "musicas", "Carefree.mp3")
 EMOJI = "C:/Windows/Fonts/seguiemj.ttf"
-COUNT = 4.0
+COUNT = 3.5
 N = 5
 
 # pergunta (tela), fala, foto (nome em creditos.json), opções A-C, índice certo, resposta falada, fundo (topo, base)
 PERG = [
-    ("Onde fica?\nCRISTO REDENTOR", "Valendo! Onde fica o Cristo Redentor?", "cristo",
+    ("Onde fica?\nCRISTO REDENTOR", "Onde fica o Cristo Redentor?", "cristo",
      ["Salvador", "Rio de Janeiro", "São Paulo"], 1, "Rio de Janeiro!", ((20, 150, 70), (5, 80, 40))),
-    ("Que bicho é esse?\nMAIOR ROEDOR", "E esse bicho, o maior roedor do mundo?", "capivara",
+    ("Que bicho é esse?\nMAIOR ROEDOR", "E o maior roedor do mundo?", "capivara",
      ["Capivara", "Paca", "Cutia"], 0, "Capivara!", ((30, 90, 200), (10, 35, 120))),
-    ("Em qual estado?\nCATARATAS DO IGUAÇU", "As Cataratas do Iguaçu ficam em qual estado?", "cataratas",
+    ("Em qual estado?\nCATARATAS DO IGUAÇU", "Cataratas do Iguaçu: qual estado?", "cataratas",
      ["Santa Catarina", "Mato Grosso do Sul", "Paraná"], 2, "Paraná!", ((225, 165, 10), (150, 95, 0))),
     ("Quem proclamou a\nINDEPENDÊNCIA?", "Cuidado! Quem proclamou a Independência?", "pedro-i",
      ["Dom Pedro II", "Dom Pedro I", "Tiradentes"], 1, "Dom Pedro primeiro!", ((20, 150, 70), (5, 80, 40))),
-    ("De qual estado é?\nFERNANDO DE NORONHA", "A última! Fernando de Noronha é de qual estado?", "noronha",
+    ("De qual estado é?\nFERNANDO DE NORONHA", "A última! Noronha é de qual estado?", "noronha",
      ["Pernambuco", "Rio Grande do Norte", "Bahia"], 0, "Pernambuco!", ((235, 60, 50), (120, 15, 30))),
 ]
 FALAS = {
@@ -223,9 +223,10 @@ def pergunta_frames(k, p, fala):
         t = n / FPS
         frac = 1.0 if t < fala else 1 - (t - fala) / COUNT
         img = base(k, p)
-        colar(img, cartao_sprite(k, p), CCX, CCY + 5 * math.sin(t * 2.2), pula(t / 0.4))
+        te = t + (1.0 if k == 1 else 0.0)   # 1ª pergunta já inteira no 1º quadro (sem abertura)
+        colar(img, cartao_sprite(k, p), CCX, CCY + 5 * math.sin(t * 2.2), pula(te / 0.4))
         for i, op in enumerate(p[3]):
-            ent = pula((t - 0.25 - 0.14 * i) / 0.35)
+            ent = pula((te - 0.25 - 0.14 * i) / 0.35)
             dx = 4 * math.sin(t * 40 + i) if frac < 0.3 else 0
             colar(img, opcao_sprite(i, op), 540 + dx, OPT_Y[i] + 4 * math.sin(t * 3 + i), ent)
         barra(img, frac)

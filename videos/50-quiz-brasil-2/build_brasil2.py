@@ -99,7 +99,7 @@ def duracao():
 
 
 def intro_frames(d):
-    return op.intro_rapida("QUIZ DO BRASIL 2", "VOCÊ CONHECE O BRASIL?", d, fotos=INTRO_FOTOS, abertura=os.path.join(HERE, "abertura.jpg"))
+    return op.intro_rapida("QUIZ DO BRASIL 2", "VOCÊ CONHECE?", d, fotos=INTRO_FOTOS, abertura=os.path.join(HERE, "abertura.jpg"))
 
 
 def previa():
