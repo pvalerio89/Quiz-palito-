@@ -1068,6 +1068,38 @@
         "origem": "github-actions"
       }
     },
+    "videos/38-pais-contra-filhos": {
+      "youtube": {
+        "status": "publicado",
+        "id": "hgDygRhl9sE",
+        "url": "https://youtu.be/hgDygRhl9sE",
+        "data": "2026-11-20",
+        "origem": "github-actions",
+        "sha256": "2721f28b328901b5b4e4588e629549834a43eeffdfef2625719db52120d0f6e0",
+        "no_ar_em": "2026-11-20T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/palito-3": {
+      "titulo": "Essa conta tem DUAS respostas! Mova 1 palito e ache as duas 🤯 #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "NiUC4bTejVs",
+        "url": "https://youtu.be/NiUC4bTejVs",
+        "data": "2026-11-20",
+        "origem": "github-actions",
+        "sha256": "c1a8eb14eb77be42e911279e95eac7700329707007f39210f6bfe71206dbdfc6",
+        "no_ar_em": "2026-11-20T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7710163938205288468",
+        "data": "2026-11-20",
+        "origem": "github-actions"
+      }
+    },
     "videos/49-ela-alimentacao": {
       "youtube": {
         "status": "publicado",
