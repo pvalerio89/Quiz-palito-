@@ -1,55 +1,808 @@
 {
- "data": "2026-11-12",
+ "data": "2026-11-19",
  "canal": {
-  "viewCount": "18380",
-  "subscriberCount": "75",
+  "viewCount": "19959",
+  "subscriberCount": "82",
   "hiddenSubscriberCount": false,
-  "videoCount": "32"
+  "videoCount": "91"
  },
  "videos": [
   {
-   "id": "CPSGdkqcVys",
-   "titulo": "QUIZ DE INGLÊS RAPIDINHO! 🇺🇸 Será que você gabarita? #shorts",
-   "publicado": "2026-11-12",
-   "privacidade": "private",
+   "id": "bRDjuQARPd0",
+   "titulo": "Só UM palito e 7+1=0 fica CERTO! Você consegue? 🔥 #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
    "tipo": "short",
-   "duracao": 80,
+   "duracao": 21,
    "views": 0,
    "likes": 0,
    "comentarios": 0
+  },
+  {
+   "id": "0pUbPHDmF4Q",
+   "titulo": "INGLÊS NA FAZENDA! 🐑 Seu pai acerta essas? #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 54,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "dOImhkT4tSw",
+   "titulo": "QUIZ DE INGLÊS DO 3º ANO 🐑 44 Questões da Fazenda: Sheep, Geese e Cattle! Você Passa? | Quiz Palito",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 925,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "NPgi_73JATw",
+   "titulo": "PROVA DE HISTÓRIA DO 3º ANO! ⛵ Seu pai acerta essas? #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 48,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "coK3jodkgU8",
+   "titulo": "PROVA DE HISTÓRIA DO 3º ANO ⛵ 42 Questões: Invasões Europeias no Brasil! Você Passaria? | Quiz Palit",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 995,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "Ab68bszQCP4",
+   "titulo": "INGLÊS NA VIAGEM ✈️ Acerta os 4 verbos? #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 59,
+   "views": 4,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "mUOI4xPq4DQ",
+   "titulo": "QUIZ DE INGLÊS ✈️ 44 Questões de Passado, Presente e Futuro! Você Consegue? | Quiz Palito",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 969,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "a8jdj8bjsRQ",
+   "titulo": "De qual PAÍS é esse JOGADOR? ⚽ Fácil, médio, difícil e impossível! | Quiz Palito",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 721,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "YQv1H7mslTI",
+   "titulo": "COMIDA EM INGLÊS! 🥦 Seu pai acerta essas? #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 54,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "bHq2AGvhIU0",
+   "titulo": "QUIZ DE INGLÊS: COMIDAS E CORES 🥦🍅 44 Questões do Médio ao Muito Difícil! Você Consegue? | Quiz Pali",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 978,
+   "views": 3,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "DgKdweeITU8",
+   "titulo": "QUIZ DE INGLÊS DAS PLANTAS! 🌱 Duvido acertar as 4 #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 50,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "oWsgkH5Dxjc",
+   "titulo": "QUIZ DE INGLÊS: AS PLANTAS 🌱 44 Perguntas do Médio ao Muito Difícil! Você Consegue? | Quiz Palito",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 900,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "b72pz4aRxpQ",
+   "titulo": "PROVA DE HISTÓRIA DO 3º ANO! 🚂 Seu pai acerta essas? #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 48,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "8tw29KbsHRU",
+   "titulo": "PROVA DE HISTÓRIA DO 3º ANO 🚂 44 Questões de Transportes, do Médio ao Difícil! | Quiz Palito",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 1100,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "ZJNzhSKcgek",
+   "titulo": "REVISÃO DE HISTÓRIA DO 3º ANO! 🏰 Se acertar 4, você é fera! #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 52,
+   "views": 4,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "25KlhR3fkyQ",
+   "titulo": "Quiz Revisão: Avaliação de Processo de História 3º Ano 🏰 45 Questões! Você Passaria? | Quiz Palito",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 1023,
+   "views": 3,
+   "likes": 1,
+   "comentarios": 0
+  },
+  {
+   "id": "5al6GOYA740",
+   "titulo": "REVISÃO DE INGLÊS DO 3º ANO! 📚 Se acertar 4, você é fera! #shorts",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 57,
+   "views": 9,
+   "likes": 1,
+   "comentarios": 0
+  },
+  {
+   "id": "AW5p7qFabXI",
+   "titulo": "REVISÃO DE INGLÊS DO 3º ANO 📚 44 Questões do Médio ao Muito Difícil! Você Passaria? | Quiz Palito",
+   "publicado": "2026-11-19",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 912,
+   "views": 7,
+   "likes": 1,
+   "comentarios": 0
+  },
+  {
+   "id": "mRkL4ydM1P4",
+   "titulo": "MOVA 1 PALITO e conserte a conta! 5+7=2 🔥 Você consegue? #shorts",
+   "publicado": "2026-11-18",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 19,
+   "views": 8,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "Ufos9ipgwys",
+   "titulo": "PROVA DE GEOGRAFIA DO 3º ANO! 🌎 Será que você gabarita? #shorts",
+   "publicado": "2026-11-18",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 52,
+   "views": 14,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "S2X5K-jEREg",
+   "titulo": "PROVA DE GEOGRAFIA DO 3º ANO 🌎 44 Questões: Paisagens e Ambiente! Você Passaria? | Quiz Palito",
+   "publicado": "2026-11-18",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 976,
+   "views": 26,
+   "likes": 4,
+   "comentarios": 0
+  },
+  {
+   "id": "Cd9k7MYRHXE",
+   "titulo": "Você FALA PORTUGUÊS DE PORTUGAL? 🇧🇷🇵🇹 37 palavras que mudam tudo! | Quiz Palito",
+   "publicado": "2026-11-18",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 780,
+   "views": 8,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "TgzYRttPyBE",
+   "titulo": "DE QUEM É ESSA CARREIRA? ⚽ Adivinhe 36 Jogadores pelos Clubes, do Fácil ao Impossível! | Quiz Palito",
+   "publicado": "2026-11-17",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 735,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 115,
+   "pct_media": 15.65,
+   "inscritos": 0,
+   "minutos": 1
+  },
+  {
+   "id": "qj88KDcYg8M",
+   "titulo": "DE QUEM É ESSA CARREIRA? ⚽ Duvido você acertar todas! #shorts",
+   "publicado": "2026-11-17",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 67,
+   "views": 4,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 64,
+   "pct_media": 96.91,
+   "inscritos": 0,
+   "minutos": 1
+  },
+  {
+   "id": "tCy6IZaQGG0",
+   "titulo": "VOCÊ JÁ FEZ ISSO NA ESCOLA? 🏫 EU JÁ ou EU NUNCA? 50 Frases e NÃO VALE MENTIR! | Quiz Palito",
+   "publicado": "2026-11-17",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 723,
+   "views": 3,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 26,
+   "pct_media": 3.72,
+   "inscritos": 0,
+   "minutos": 1
+  },
+  {
+   "id": "o4ScKd6o8UI",
+   "titulo": "VOCÊ JÁ FEZ ISSO NA ESCOLA? 🏫 Eu já ou eu nunca? #shorts",
+   "publicado": "2026-11-17",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 63,
+   "views": 17,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 4,
+   "pct_media": 6.54,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "RuhsgkfRDQk",
+   "titulo": "O ÚLTIMO PRATO É O MAIS DIFÍCIL! 🍽️ De que país ele é? #shorts",
+   "publicado": "2026-11-17",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 35,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 12,
+   "pct_media": 34.87,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "Tq2y8ao4Bq4",
+   "titulo": "TESTE SEU RACIOCÍNIO 🧠 A última é muito difícil! #shorts",
+   "publicado": "2026-11-17",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 64,
+   "views": 9,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 29,
+   "pct_media": 46.78,
+   "inscritos": 0,
+   "minutos": 1
+  },
+  {
+   "id": "7JmybQ2r0bE",
+   "titulo": "QUIZ DE ESPANHOL 🇪🇸 36 Perguntas do Fácil ao Impossível! Você Fala Espanhol? | Quiz Palito",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 710,
+   "views": 13,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 90,
+   "pct_media": 12.770000000000001,
+   "inscritos": 0,
+   "minutos": 12
+  },
+  {
+   "id": "CHBirk8FIH4",
+   "titulo": "QUIZ DE ESPANHOL RAPIDINHO! 🇪🇸 Teste rápido: você passa? #shorts",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 61,
+   "views": 31,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 35,
+   "pct_media": 58.599999999999994,
+   "inscritos": 0,
+   "minutos": 7
+  },
+  {
+   "id": "G_49n9y62-A",
+   "titulo": "#bug",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 61,
+   "views": 3,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 16,
+   "pct_media": 27.699999999999996,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "v8-23OoLFjI",
+   "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO, PARTE 2! ✏️ Duvido você acertar todas! #shorts",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 70,
+   "views": 109,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 39,
+   "pct_media": 56.87,
+   "inscritos": 1,
+   "minutos": 21
+  },
+  {
+   "id": "SjNnNrhzQHM",
+   "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO PARTE 2 ✏️ 30 Perguntas Novas do Fácil ao Impossível! | Quiz Palito",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 635,
+   "views": 26,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 142,
+   "pct_media": 22.37,
+   "inscritos": 0,
+   "minutos": 37
+  },
+  {
+   "id": "XANyHGQugNY",
+   "titulo": "PROVA DE PORTUGUÊS DO 3º ANO! ✏️ Quantas você acerta? #shorts",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 57,
+   "views": 47,
+   "likes": 2,
+   "comentarios": 0,
+   "dur_media": 39,
+   "pct_media": 69.83,
+   "inscritos": 0,
+   "minutos": 6
+  },
+  {
+   "id": "D5ml1lS-29k",
+   "titulo": "PROVA DE PORTUGUÊS DO 3º ANO ✏️ 30 Questões do Fácil ao Impossível! Você Tiraria 10? | Quiz Palito",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 655,
+   "views": 31,
+   "likes": 2,
+   "comentarios": 0,
+   "dur_media": 252,
+   "pct_media": 38.51,
+   "inscritos": 0,
+   "minutos": 71
+  },
+  {
+   "id": "-QGDe5CO_No",
+   "titulo": "QUEM JOGOU AQUI? ⚽ Seu amigo não acerta essa! #shorts",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 69,
+   "views": 16,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 53,
+   "pct_media": 77.1,
+   "inscritos": 0,
+   "minutos": 4
+  },
+  {
+   "id": "kd0--pAZPWU",
+   "titulo": "QUEM JOGOU AQUI? ⚽ Adivinhe 36 Jogadores pelo PAÍS e pelo CLUBE! 99% Erram no Final | Quiz Palito",
+   "publicado": "2026-11-16",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 809,
+   "views": 3,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 2,
+   "pct_media": 0.36,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "0LZRUHYRpPo",
+   "titulo": "EU JÁ ou EU NUNCA? ✅❌ 50 Perguntas: Escolha um Botão e NÃO VALE MENTIR! | Quiz Palito",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 707,
+   "views": 4,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 280,
+   "pct_media": 39.63,
+   "inscritos": 0,
+   "minutos": 14
+  },
+  {
+   "id": "1NSP_WJMLgk",
+   "titulo": "EU JÁ ou EU NUNCA? ✅❌ Não vale mentir! #shorts",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 61,
+   "views": 72,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 24,
+   "pct_media": 39.83,
+   "inscritos": 0,
+   "minutos": 12
+  },
+  {
+   "id": "Ywul1HDF6dQ",
+   "titulo": "ADIVINHE O PAÍS PELA COMIDA! 🍕 Será que você gabarita? #shorts",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 74,
+   "views": 11,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 27,
+   "pct_media": 37.3,
+   "inscritos": 0,
+   "minutos": 2
+  },
+  {
+   "id": "BFnHzEz5fX0",
+   "titulo": "ADIVINHE O PAÍS PELA COMIDA 🍕 36 Pratos Famosos do Mundo, do Fácil ao Impossível! | Quiz Palito",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 719,
+   "views": 6,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 225,
+   "pct_media": 31.33,
+   "inscritos": 0,
+   "minutos": 30
+  },
+  {
+   "id": "1HPCgpRWACA",
+   "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO! ✏️ Será que você gabarita? #shorts",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 72,
+   "views": 132,
+   "likes": 5,
+   "comentarios": 0,
+   "dur_media": 39,
+   "pct_media": 54.510000000000005,
+   "inscritos": 0,
+   "minutos": 34
+  },
+  {
+   "id": "BfhCt2SxGyE",
+   "titulo": "QUIZ DE PORTUGUÊS DO 3º ANO ✏️ 30 Perguntas do Fácil ao Impossível! Você Passaria de Ano? | Quiz Pal",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 643,
+   "views": 45,
+   "likes": 3,
+   "comentarios": 0,
+   "dur_media": 207,
+   "pct_media": 32.24,
+   "inscritos": 0,
+   "minutos": 131
+  },
+  {
+   "id": "mHz-g3_7Ek4",
+   "titulo": "ADIVINHE O PAÍS PELO MONUMENTO 🌍 32 Lugares Famosos do Fácil ao Impossível! Quiz de Geografia | Quiz",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 681,
+   "views": 5,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 391,
+   "pct_media": 57.47,
+   "inscritos": 0,
+   "minutos": 32
+  },
+  {
+   "id": "Hh90h87fvAc",
+   "titulo": "ADIVINHE O PAÍS PELO MONUMENTO! 🌍 Seu amigo não acerta essa! #shorts",
+   "publicado": "2026-11-15",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 79,
+   "views": 7,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 31,
+   "pct_media": 39.49,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "5n2rhoWXfrA",
+   "titulo": "BANDEIRAS DOS ESTADOS DO BRASIL 🇧🇷 28 Bandeiras do Fácil ao Impossível! Quantas Você Acerta? | Quiz",
+   "publicado": "2026-11-14",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 601,
+   "views": 7,
+   "likes": 2,
+   "comentarios": 1,
+   "dur_media": 240,
+   "pct_media": 39.95,
+   "inscritos": 0,
+   "minutos": 20
+  },
+  {
+   "id": "fUpyh2FbCjA",
+   "titulo": "BANDEIRAS DOS ESTADOS DO BRASIL! 🇧🇷 Quase ninguém acerta a última! #shorts",
+   "publicado": "2026-11-14",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 74,
+   "views": 30,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 36,
+   "pct_media": 49.08,
+   "inscritos": 0,
+   "minutos": 10
+  },
+  {
+   "id": "elyYbkuLwlg",
+   "titulo": "ADIVINHE O PAÍS PELO MAPA 🗺️ 36 Países do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito",
+   "publicado": "2026-11-14",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 747,
+   "views": 3,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 4,
+   "pct_media": 0.66,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "OaceklMaaA4",
+   "titulo": "ADIVINHE O PAÍS PELO MAPA! 🗺️ Duvido você acertar todas! #shorts",
+   "publicado": "2026-11-14",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 76,
+   "views": 78,
+   "likes": 3,
+   "comentarios": 1,
+   "dur_media": 54,
+   "pct_media": 71.12,
+   "inscritos": 1,
+   "minutos": 15
+  },
+  {
+   "id": "WclJ-RcaemE",
+   "titulo": "QUIZ DE MATEMÁTICA RAPIDINHO! 🧮 Só gênio acerta todas! #shorts",
+   "publicado": "2026-11-14",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 80,
+   "views": 20,
+   "likes": 3,
+   "comentarios": 0,
+   "dur_media": 43,
+   "pct_media": 53.949999999999996,
+   "inscritos": 0,
+   "minutos": 6
+  },
+  {
+   "id": "elyYbkuLwlg",
+   "titulo": "ADIVINHE O PAÍS PELO MAPA 🗺️ 36 Países do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito",
+   "publicado": "2026-11-14",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 747,
+   "views": 3,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 4,
+   "pct_media": 0.66,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "1bNvLqwGcIc",
+   "titulo": "ADIVINHE O JOGADOR PELA FOTO ⚽ 38 Craques do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito",
+   "publicado": "2026-11-13",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 670,
+   "views": 2,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 3,
+   "pct_media": 0.57,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "jBv0WL4e1NU",
+   "titulo": "ADIVINHE O JOGADOR PELA FOTO! ⚽ Valendo! Quantas você acerta? #shorts",
+   "publicado": "2026-11-13",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 71,
+   "views": 7,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 28,
+   "pct_media": 39.88,
+   "inscritos": 0,
+   "minutos": 1
+  },
+  {
+   "id": "3r2_m3LNvuA",
+   "titulo": "CAPITAIS DO BRASIL E DO MUNDO! 🌎 Acertou todas? Comenta! #shorts",
+   "publicado": "2026-11-13",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 75,
+   "views": 32,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 40,
+   "pct_media": 53.90999999999999,
+   "inscritos": 0,
+   "minutos": 10
+  },
+  {
+   "id": "jIJR6RKwvTc",
+   "titulo": "CAPITAIS DO BRASIL E DO MUNDO 🌎 36 Perguntas do Fácil ao Impossível! Quantas Você Acerta? | Quiz Pal",
+   "publicado": "2026-11-13",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 675,
+   "views": 5,
+   "likes": 3,
+   "comentarios": 0,
+   "dur_media": 387,
+   "pct_media": 57.4,
+   "inscritos": 0,
+   "minutos": 32
   },
   {
    "id": "-_mZQhLOJAI",
    "titulo": "QUIZ DE INGLÊS DO 5º AO 9º ANO 🇺🇸 65 Perguntas: Até Que Série Você Chega? | Quiz Palito",
    "publicado": "2026-11-12",
-   "privacidade": "private",
+   "privacidade": "public",
    "tipo": "longo",
    "duracao": 641,
-   "views": 0,
+   "views": 5,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 295,
+   "pct_media": 46.17,
+   "inscritos": 0,
+   "minutos": 24
   },
   {
-   "id": "KlFpT9yZA3o",
-   "titulo": "MONTE O SEU TIME EM 6 ESCOLHAS! ⚽ Qual é o seu time? #shorts",
+   "id": "CPSGdkqcVys",
+   "titulo": "QUIZ DE INGLÊS RAPIDINHO! 🇺🇸 Será que você gabarita? #shorts",
    "publicado": "2026-11-12",
-   "privacidade": "private",
+   "privacidade": "public",
    "tipo": "short",
-   "duracao": 89,
-   "views": 0,
+   "duracao": 80,
+   "views": 16,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 49,
+   "pct_media": 62.16,
+   "inscritos": 0,
+   "minutos": 8
   },
   {
    "id": "rM5UmVdt4xs",
    "titulo": "MONTE O SEU CLUBE ⚽ Escolha Estádio, Técnico, Craques e Lendas! Qual é o Seu Time? | Quiz Palito",
    "publicado": "2026-11-12",
-   "privacidade": "private",
+   "privacidade": "public",
    "tipo": "longo",
    "duracao": 548,
    "views": 2,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 207,
+   "pct_media": 37.8,
+   "inscritos": 0,
+   "minutos": 6
+  },
+  {
+   "id": "KlFpT9yZA3o",
+   "titulo": "MONTE O SEU TIME EM 6 ESCOLHAS! ⚽ Qual é o seu time? #shorts",
+   "publicado": "2026-11-12",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 89,
+   "views": 23,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 40,
+   "pct_media": 45.35,
+   "inscritos": 0,
+   "minutos": 6
   },
   {
    "id": "9thukvLDoy0",
@@ -58,9 +811,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 709,
-   "views": 6,
-   "likes": 1,
-   "comentarios": 0
+   "views": 31,
+   "likes": 2,
+   "comentarios": 0,
+   "dur_media": 220,
+   "pct_media": 31.11,
+   "inscritos": 0,
+   "minutos": 62
   },
   {
    "id": "OyevAvYqlKg",
@@ -69,9 +826,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 90,
-   "views": 4,
+   "views": 15,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 45,
+   "pct_media": 50,
+   "inscritos": 0,
+   "minutos": 6
   },
   {
    "id": "K1-zv9LEvyo",
@@ -80,9 +841,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 91,
-   "views": 9,
+   "views": 19,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 35,
+   "pct_media": 38.83,
+   "inscritos": 0,
+   "minutos": 5
   },
   {
    "id": "3Y_nZBWz8_o",
@@ -91,9 +856,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 82,
-   "views": 865,
+   "views": 877,
    "likes": 14,
-   "comentarios": 2
+   "comentarios": 3,
+   "dur_media": 36,
+   "pct_media": 44.58,
+   "inscritos": 1,
+   "minutos": 333
   },
   {
    "id": "qtmgQ5WgqDU",
@@ -102,9 +871,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 633,
-   "views": 67,
+   "views": 101,
    "likes": 4,
-   "comentarios": 1
+   "comentarios": 1,
+   "dur_media": 163,
+   "pct_media": 25.88,
+   "inscritos": 2,
+   "minutos": 258
   },
   {
    "id": "rTmECoKfflk",
@@ -113,9 +886,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 79,
-   "views": 958,
-   "likes": 20,
-   "comentarios": 0
+   "views": 960,
+   "likes": 21,
+   "comentarios": 0,
+   "dur_media": 39,
+   "pct_media": 50.57000000000001,
+   "inscritos": 1,
+   "minutos": 402
   },
   {
    "id": "zLwBKyVbyS4",
@@ -124,9 +901,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 637,
-   "views": 88,
+   "views": 97,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 114,
+   "pct_media": 18.03,
+   "inscritos": 0,
+   "minutos": 168
   },
   {
    "id": "CGOP3Jfeh_k",
@@ -135,12 +916,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 83,
-   "views": 866,
+   "views": 867,
    "likes": 19,
    "comentarios": 0,
-   "dur_media": 37,
-   "pct_media": 45.76,
-   "inscritos": 1
+   "dur_media": 36,
+   "pct_media": 44.25,
+   "inscritos": 1,
+   "minutos": 308
   },
   {
    "id": "EE9ShTGX9Sc",
@@ -149,12 +931,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 518,
-   "views": 43,
+   "views": 50,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 61,
-   "pct_media": 11.96,
-   "inscritos": 0
+   "dur_media": 68,
+   "pct_media": 13.269999999999998,
+   "inscritos": 0,
+   "minutos": 42
   },
   {
    "id": "jIr_cgaqj7g",
@@ -163,12 +946,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 74,
-   "views": 1325,
-   "likes": 36,
+   "views": 1335,
+   "likes": 35,
    "comentarios": 1,
    "dur_media": 37,
-   "pct_media": 51.28,
-   "inscritos": 8
+   "pct_media": 50.68,
+   "inscritos": 9,
+   "minutos": 518
   },
   {
    "id": "iotE51SoaZY",
@@ -177,12 +961,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 676,
-   "views": 89,
-   "likes": 2,
+   "views": 167,
+   "likes": 3,
    "comentarios": 0,
-   "dur_media": 231,
-   "pct_media": 34.24,
-   "inscritos": 0
+   "dur_media": 221,
+   "pct_media": 32.78,
+   "inscritos": 0,
+   "minutos": 451
   },
   {
    "id": "bmG1ZBSVdEw",
@@ -191,12 +976,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 75,
-   "views": 929,
+   "views": 933,
    "likes": 20,
    "comentarios": 1,
    "dur_media": 40,
-   "pct_media": 53.56000000000001,
-   "inscritos": 3
+   "pct_media": 54.02,
+   "inscritos": 3,
+   "minutos": 399
   },
   {
    "id": "jInQIa_bmXc",
@@ -205,12 +991,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 523,
-   "views": 46,
-   "likes": 3,
+   "views": 147,
+   "likes": 4,
    "comentarios": 0,
-   "dur_media": 89,
-   "pct_media": 17.2,
-   "inscritos": 0
+   "dur_media": 215,
+   "pct_media": 41.28,
+   "inscritos": 1,
+   "minutos": 265
   },
   {
    "id": "vFdT0O4_dUk",
@@ -222,9 +1009,10 @@
    "views": 941,
    "likes": 25,
    "comentarios": 1,
-   "dur_media": 40,
-   "pct_media": 54.620000000000005,
-   "inscritos": 3
+   "dur_media": 45,
+   "pct_media": 60.809999999999995,
+   "inscritos": 4,
+   "minutos": 401
   },
   {
    "id": "uHskqFbgyNQ",
@@ -233,12 +1021,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 231,
-   "views": 51,
-   "likes": 1,
+   "views": 67,
+   "likes": 2,
    "comentarios": 0,
-   "dur_media": 73,
-   "pct_media": 32,
-   "inscritos": 1
+   "dur_media": 81,
+   "pct_media": 35.34,
+   "inscritos": 1,
+   "minutos": 65
   },
   {
    "id": "uNeMIzgXpqk",
@@ -251,8 +1040,9 @@
    "likes": 24,
    "comentarios": 0,
    "dur_media": 50,
-   "pct_media": 54.89999999999999,
-   "inscritos": 2
+   "pct_media": 55.21,
+   "inscritos": 2,
+   "minutos": 443
   },
   {
    "id": "keMRIYfyBrA",
@@ -261,12 +1051,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1235,
-   "views": 402,
-   "likes": 3,
+   "views": 480,
+   "likes": 5,
    "comentarios": 0,
-   "dur_media": 242,
-   "pct_media": 19.62,
-   "inscritos": 0
+   "dur_media": 344,
+   "pct_media": 27.9,
+   "inscritos": 2,
+   "minutos": 1359
   },
   {
    "id": "fXWaihJ3bkc",
@@ -279,8 +1070,9 @@
    "likes": 13,
    "comentarios": 4,
    "dur_media": 38,
-   "pct_media": 43.04,
-   "inscritos": 2
+   "pct_media": 42.99,
+   "inscritos": 2,
+   "minutos": 250
   },
   {
    "id": "hEYGr_g9aLs",
@@ -289,12 +1081,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1208,
-   "views": 49,
+   "views": 69,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 231,
-   "pct_media": 19.19,
-   "inscritos": 0
+   "dur_media": 198,
+   "pct_media": 16.4,
+   "inscritos": 0,
+   "minutos": 149
   },
   {
    "id": "_RpXAWiE3nA",
@@ -303,12 +1096,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 100,
-   "views": 1298,
+   "views": 1300,
    "likes": 20,
    "comentarios": 6,
-   "dur_media": 45,
-   "pct_media": 45.97,
-   "inscritos": 2
+   "dur_media": 46,
+   "pct_media": 46.21,
+   "inscritos": 2,
+   "minutos": 607
   },
   {
    "id": "Ce-N3icMHZk",
@@ -317,12 +1111,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 691,
-   "views": 106,
-   "likes": 3,
-   "comentarios": 0,
-   "dur_media": 290,
-   "pct_media": 42.03,
-   "inscritos": 0
+   "views": 141,
+   "likes": 5,
+   "comentarios": 2,
+   "dur_media": 333,
+   "pct_media": 48.33,
+   "inscritos": 0,
+   "minutos": 535
   },
   {
    "id": "pKpsE98dNyw",
@@ -331,12 +1126,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 95,
-   "views": 1233,
+   "views": 1236,
    "likes": 22,
    "comentarios": 0,
    "dur_media": 50,
-   "pct_media": 53.26,
-   "inscritos": 4
+   "pct_media": 53.31,
+   "inscritos": 4,
+   "minutos": 522
   },
   {
    "id": "EPc7AoX6Yw8",
@@ -345,12 +1141,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 761,
-   "views": 632,
-   "likes": 10,
-   "comentarios": 0,
-   "dur_media": 314,
-   "pct_media": 41.33,
-   "inscritos": 3
+   "views": 784,
+   "likes": 15,
+   "comentarios": 2,
+   "dur_media": 313,
+   "pct_media": 41.18,
+   "inscritos": 5,
+   "minutos": 2100
   },
   {
    "id": "SZjsj-f28r0",
@@ -363,8 +1160,9 @@
    "likes": 37,
    "comentarios": 24,
    "dur_media": 59,
-   "pct_media": 55.230000000000004,
-   "inscritos": 9
+   "pct_media": 55.28999999999999,
+   "inscritos": 9,
+   "minutos": 679
   },
   {
    "id": "ja33SUJEO9c",
@@ -373,12 +1171,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 743,
-   "views": 160,
-   "likes": 2,
+   "views": 211,
+   "likes": 3,
    "comentarios": 0,
-   "dur_media": 215,
-   "pct_media": 29.04,
-   "inscritos": 0
+   "dur_media": 238,
+   "pct_media": 32.08,
+   "inscritos": 0,
+   "minutos": 617
   },
   {
    "id": "qrEwJDnbYZA",
@@ -387,12 +1186,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 87,
-   "views": 1315,
-   "likes": 33,
+   "views": 1401,
+   "likes": 36,
    "comentarios": 4,
    "dur_media": 56,
-   "pct_media": 65.46,
-   "inscritos": 6
+   "pct_media": 65.49,
+   "inscritos": 6,
+   "minutos": 697
   },
   {
    "id": "wxpJen34tis",
@@ -405,8 +1205,9 @@
    "likes": 28,
    "comentarios": 1,
    "dur_media": 53,
-   "pct_media": 58.63,
-   "inscritos": 6
+   "pct_media": 58.67,
+   "inscritos": 6,
+   "minutos": 550
   },
   {
    "id": "y9B1OhTqz0w",
@@ -415,12 +1216,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 581,
-   "views": 135,
+   "views": 175,
    "likes": 2,
    "comentarios": 0,
-   "dur_media": 116,
-   "pct_media": 20.12,
-   "inscritos": 1
+   "dur_media": 149,
+   "pct_media": 25.69,
+   "inscritos": 1,
+   "minutos": 359
   },
   {
    "id": "lk_Mx26kdkg",
@@ -433,8 +1235,9 @@
    "likes": 32,
    "comentarios": 12,
    "dur_media": 31,
-   "pct_media": 59.77,
-   "inscritos": 10
+   "pct_media": 59.75,
+   "inscritos": 10,
+   "minutos": 522
   },
   {
    "id": "Aw_7QnJjBy8",
@@ -443,12 +1246,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1207,
-   "views": 207,
+   "views": 234,
    "likes": 2,
    "comentarios": 2,
-   "dur_media": 355,
-   "pct_media": 29.45,
-   "inscritos": 2
+   "dur_media": 381,
+   "pct_media": 31.629999999999995,
+   "inscritos": 3,
+   "minutos": 1255
   },
   {
    "id": "M4DKSfvhr4o",
@@ -457,12 +1261,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 561,
-   "views": 21,
-   "likes": 1,
+   "views": 22,
+   "likes": 2,
    "comentarios": 0,
-   "dur_media": 153,
-   "pct_media": 27.310000000000002,
-   "inscritos": 0
+   "dur_media": 125,
+   "pct_media": 22.45,
+   "inscritos": 0,
+   "minutos": 27
   },
   {
    "id": "hO9dj79-Y60",
@@ -471,15 +1276,401 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 895,
-   "views": 135,
+   "views": 149,
    "likes": 3,
    "comentarios": 3,
-   "dur_media": 408,
-   "pct_media": 45.6,
-   "inscritos": 1
+   "dur_media": 417,
+   "pct_media": 46.59,
+   "inscritos": 1,
+   "minutos": 842
   }
  ],
  "diario": [
+  [
+   "2026-08-21",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-22",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-23",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-24",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-25",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-26",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-27",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-28",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-29",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-30",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-08-31",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-01",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-02",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-03",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-04",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-05",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-06",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-07",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-08",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-09",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-10",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-11",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-12",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-13",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-14",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-15",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-16",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-17",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-18",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-19",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-20",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-21",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-22",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-23",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-24",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-25",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-26",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-27",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-28",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-29",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-09-30",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-01",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-02",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-03",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-04",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-05",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-06",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-07",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-08",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-09",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-10",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-11",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-12",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-13",
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-14",
+   0,
+   0,
+   0,
+   0
+  ],
   [
    "2026-10-15",
    0,
@@ -643,24 +1834,80 @@
   ],
   [
    "2026-11-07",
-   1437,
+   1430,
    1868,
    4,
    0
   ],
   [
    "2026-11-08",
-   504,
+   499,
    828,
    0,
    0
   ],
   [
    "2026-11-09",
-   3188,
-   2036,
-   19,
+   3170,
+   2028,
+   18,
    3
+  ],
+  [
+   "2026-11-10",
+   3062,
+   2003,
+   6,
+   1
+  ],
+  [
+   "2026-11-11",
+   577,
+   716,
+   3,
+   1
+  ],
+  [
+   "2026-11-12",
+   266,
+   572,
+   3,
+   0
+  ],
+  [
+   "2026-11-13",
+   274,
+   745,
+   2,
+   0
+  ],
+  [
+   "2026-11-14",
+   286,
+   742,
+   2,
+   0
+  ],
+  [
+   "2026-11-15",
+   256,
+   618,
+   0,
+   0
+  ],
+  [
+   "2026-11-16",
+   230,
+   367,
+   0,
+   0
+  ],
+  [
+   "2026-11-17",
+   199,
+   114,
+   1,
+   0
   ]
  ],
  "aviso": null
