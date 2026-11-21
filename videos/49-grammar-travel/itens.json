@@ -1,0 +1,920 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "cristo-redentor",
+  "lugar": "RIO DE JANEIRO",
+  "cartao": [
+   "Every summer, we",
+   "______ to Rio.",
+   "(travel)"
+  ],
+  "img": "q1.png",
+  "opcoes": [
+   "travel",
+   "traveled",
+   "will travel"
+  ],
+  "certa": 0,
+  "fala_q": "Primeira, valendo! Every summer, we... travel... to Rio. Qual a forma certa?",
+  "fala_r": "Travel! Every summer é todo verão: é algo que se repete, então é presente.",
+  "count": 8.0
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "QUE TEMPO VERBAL É ESSE?",
+  "cartao": [
+   "swam"
+  ],
+  "img": "q2.png",
+  "opcoes": [
+   "Presente",
+   "Passado",
+   "Futuro"
+  ],
+  "certa": 1,
+  "fala_q": "Swam. Que tempo verbal é esse? Presente, passado ou futuro?",
+  "fala_r": "Passado! Swam é o passado de swim, nadar. Não tem E D, mas é passado!",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "piramides-de-gize",
+  "lugar": "EGITO",
+  "cartao": [
+   "Last year, Leo",
+   "______ the pyramids.",
+   "(see)"
+  ],
+  "img": "q3.png",
+  "opcoes": [
+   "seed",
+   "saw",
+   "sees"
+  ],
+  "certa": 1,
+  "fala_q": "Last year, Leo... see... the pyramids. Qual a forma certa?",
+  "fala_r": "Saw! O passado de see é saw. Last year é ano passado.",
+  "count": 8.0
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "QUAL É O TÍTULO? (O QUE SE SUBLINHA)",
+  "cartao": [
+   "We watched the",
+   "movie Lost in",
+   "the Jungle."
+  ],
+  "img": "q4.png",
+  "opcoes": [
+   "We watched",
+   "the movie",
+   "Lost in the Jungle"
+  ],
+  "certa": 2,
+  "fala_q": "We watched the movie Lost in the Jungle. Qual é o título do filme?",
+  "fala_r": "Lost in the Jungle! É o nome do filme, então é o que a gente sublinha.",
+  "count": 8.0
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "QUE TEMPO VERBAL É ESSE?",
+  "cartao": [
+   "will pack"
+  ],
+  "img": "q5.png",
+  "opcoes": [
+   "Futuro",
+   "Presente",
+   "Passado"
+  ],
+  "certa": 0,
+  "fala_q": "Will pack. Que tempo verbal é esse?",
+  "fala_r": "Futuro! Will na frente do verbo: vai arrumar a mala.",
+  "count": 8.0
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "torre-de-pisa",
+  "lugar": "ITÁLIA",
+  "cartao": [
+   "Tomorrow, Bia",
+   "______ the tower.",
+   "(climb)"
+  ],
+  "img": "q6.png",
+  "opcoes": [
+   "climbed",
+   "will climb",
+   "climbs"
+  ],
+  "certa": 1,
+  "fala_q": "Tomorrow, Bia... climb... the tower. Qual a forma certa?",
+  "fala_r": "Will climb! Tomorrow é amanhã: futuro é will mais o verbo.",
+  "count": 8.0
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "cartao": [
+   "MALA",
+   "(de viagem)"
+  ],
+  "img": "q7.png",
+  "opcoes": [
+   "Backpack",
+   "Ticket",
+   "Suitcase"
+  ],
+  "certa": 2,
+  "fala_q": "Mala de viagem. Como se diz em inglês? Backpack, Ticket ou Suitcase?",
+  "fala_r": "Suitcase! Backpack é mochila e ticket é passagem.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "coliseu",
+  "lugar": "ROMA",
+  "cartao": [
+   "Yesterday, they",
+   "______ photos.",
+   "(take)"
+  ],
+  "img": "q8.png",
+  "opcoes": [
+   "taked",
+   "took",
+   "takes"
+  ],
+  "certa": 1,
+  "fala_q": "Yesterday, they... take... photos in Rome. Qual a forma certa?",
+  "fala_r": "Took! Take é irregular: o passado é took. Taked não existe!",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "QUE TEMPO VERBAL É ESSE?",
+  "cartao": [
+   "travels"
+  ],
+  "img": "q9.png",
+  "opcoes": [
+   "Presente",
+   "Passado",
+   "Futuro"
+  ],
+  "certa": 0,
+  "fala_q": "Travels. Que tempo verbal é esse?",
+  "fala_r": "Presente! O S no fim é do he, she e it: ela viaja.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "QUAL PALAVRA COMPLETA?",
+  "foto": "petra",
+  "lugar": "JORDÂNIA",
+  "cartao": [
+   "______, I will",
+   "ride a camel."
+  ],
+  "img": "q10.png",
+  "opcoes": [
+   "Next week",
+   "Last week",
+   "Yesterday"
+  ],
+  "certa": 0,
+  "fala_q": "Qual palavra completa a frase: blank, I will ride a camel?",
+  "fala_r": "Next week! Will ride é futuro, então é semana que vem.",
+  "count": 8.0,
+  "fala_d": "Dica: olha o will...",
+  "dica_txt": "WILL = FUTURO"
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "big-ben",
+  "lugar": "LONDRES",
+  "cartao": [
+   "Before every trip,",
+   "Dad ______ a map.",
+   "(read)"
+  ],
+  "img": "q11.png",
+  "opcoes": [
+   "readed",
+   "will reads",
+   "reads"
+  ],
+  "certa": 2,
+  "fala_q": "Before every trip, Dad... read... a map. Qual a forma certa?",
+  "fala_r": "Reads! Antes de toda viagem é algo que se repete: presente, e com he ganha S.",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "QUAL É O TÍTULO? (O QUE SE SUBLINHA)",
+  "cartao": [
+   "My favorite book",
+   "is The Secret Map."
+  ],
+  "img": "q12.png",
+  "opcoes": [
+   "The Secret Map",
+   "My favorite book",
+   "favorite"
+  ],
+  "certa": 0,
+  "fala_q": "My favorite book is The Secret Map. Qual é o título do livro?",
+  "fala_r": "The Secret Map! O mapa secreto. Nome de livro é título.",
+  "count": 8.0
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "cartao": [
+   "PASSAPORTE"
+  ],
+  "img": "q13.png",
+  "opcoes": [
+   "Passport",
+   "Luggage",
+   "Airport"
+  ],
+  "certa": 0,
+  "fala_q": "Passaporte. Como se diz em inglês? Passport, Luggage ou Airport?",
+  "fala_r": "Passport! Luggage é bagagem e airport é aeroporto.",
+  "count": 8.0
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "muralha-da-china",
+  "lugar": "CHINA",
+  "cartao": [
+   "Next month, my class",
+   "______ the Great Wall.",
+   "(explore)"
+  ],
+  "img": "q14.png",
+  "opcoes": [
+   "will explore",
+   "explored",
+   "explores"
+  ],
+  "certa": 0,
+  "fala_q": "Next month, my class... explore... the Great Wall. Qual a forma certa?",
+  "fala_r": "Will explore! Next month é mês que vem: futuro.",
+  "count": 8.0
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "O VERBO ESTÁ NO TEMPO ERRADO! QUAL CORRIGE?",
+  "cartao": [
+   "Yesterday, Mom",
+   "WILL BUY",
+   "the tickets."
+  ],
+  "img": "q15.png",
+  "opcoes": [
+   "bought",
+   "buys",
+   "buyed"
+  ],
+  "certa": 0,
+  "fala_q": "Yesterday, Mom will buy the tickets. Essa frase está errada! Qual verbo corrige?",
+  "fala_r": "Bought! Yesterday é ontem, então é passado. E o passado de buy é bought.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "QUAL É O PASSADO?",
+  "cartao": [
+   "make",
+   "(fazer)"
+  ],
+  "img": "q16.png",
+  "opcoes": [
+   "maked",
+   "makes",
+   "made"
+  ],
+  "certa": 2,
+  "fala_q": "Nível difícil, valendo! Qual é o passado de make?",
+  "fala_r": "Made! Make é irregular. Maked não existe.",
+  "count": 8.0,
+  "sabia": "Verbo irregular não ganha E D no passado: swim vira swam, see vira saw, make vira made.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "opera-de-sydney",
+  "lugar": "AUSTRÁLIA",
+  "cartao": [
+   "Last week, we",
+   "______ in the ocean.",
+   "(swim)"
+  ],
+  "img": "q17.png",
+  "opcoes": [
+   "swimmed",
+   "swam",
+   "swims"
+  ],
+  "certa": 1,
+  "fala_q": "Last week, we... swim... in the ocean. Como fica?",
+  "fala_r": "Swam! O passado de swim é swam. Swimmed é o erro mais comum!",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "O VERBO ESTÁ NO TEMPO ERRADO! QUAL CORRIGE?",
+  "cartao": [
+   "Tomorrow, Zoe",
+   "RODE",
+   "a horse."
+  ],
+  "img": "q18.png",
+  "opcoes": [
+   "rides",
+   "will ride",
+   "rided"
+  ],
+  "certa": 1,
+  "fala_q": "Tomorrow, Zoe rode a horse. Tá errado! Qual verbo corrige?",
+  "fala_r": "Will ride! Tomorrow pede futuro. Rode é o passado de ride.",
+  "count": 8.0
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "QUAL É O TÍTULO? (O QUE SE SUBLINHA)",
+  "cartao": [
+   "Let's watch",
+   "Ocean Friends",
+   "on TV tonight!"
+  ],
+  "img": "q19.png",
+  "opcoes": [
+   "Ocean Friends",
+   "Let's watch",
+   "on TV tonight"
+  ],
+  "certa": 0,
+  "fala_q": "Let's watch Ocean Friends on TV tonight! Qual parte a gente sublinha?",
+  "fala_r": "Ocean Friends! É o nome do programa de TV.",
+  "count": 8.0,
+  "sabia": "Quando a gente escreve à mão, sublinha o título de livro, filme e programa de TV. No computador, usa itálico."
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "QUAL É O PASSADO?",
+  "cartao": [
+   "plan",
+   "(planejar)"
+  ],
+  "img": "q20.png",
+  "opcoes": [
+   "planed",
+   "planned",
+   "planied"
+  ],
+  "certa": 1,
+  "fala_q": "Qual é o passado de plan, planejar? Como se escreve?",
+  "fala_r": "Planned, com dois N! Plan dobra o N antes do E D.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "sabia": "Verbo curto que termina em consoante, vogal, consoante dobra a última letra: plan, planned. Stop, stopped."
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "machu-picchu",
+  "lugar": "PERU",
+  "cartao": [
+   "Next summer, my",
+   "cousins ______",
+   "to Peru.",
+   "(fly)"
+  ],
+  "img": "q21.png",
+  "opcoes": [
+   "flew",
+   "will fly",
+   "flies"
+  ],
+  "certa": 1,
+  "fala_q": "Next summer, my cousins... fly... to Peru. Qual a forma certa?",
+  "fala_r": "Will fly! Next summer é o verão que vem: futuro.",
+  "count": 8.0
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "QUE TEMPO VERBAL É ESSE?",
+  "cartao": [
+   "made"
+  ],
+  "img": "q22.png",
+  "opcoes": [
+   "Presente",
+   "Futuro",
+   "Passado"
+  ],
+  "certa": 2,
+  "fala_q": "Made. Que tempo verbal é esse?",
+  "fala_r": "Passado! Made é o passado de make: fez.",
+  "count": 8.0
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "DESEMBARALHE O VERBO:",
+  "cartao": [
+   "D • E • K",
+   "A • P • C"
+  ],
+  "img": "q23.png",
+  "opcoes": [
+   "PICKED",
+   "PACKS",
+   "PACKED"
+  ],
+  "certa": 2,
+  "fala_q": "Desembaralha essas letras! D, E, K, A, P, C. Que verbo forma?",
+  "fala_r": "Packed! Arrumou a mala. Picked tem I, e packs não tem D nem E.",
+  "count": 10.0
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "torre-de-belem",
+  "lugar": "LISBOA",
+  "cartao": [
+   "Every morning, Grandpa",
+   "______ the bus.",
+   "(catch)"
+  ],
+  "img": "q24.png",
+  "opcoes": [
+   "catches",
+   "catchs",
+   "caught"
+  ],
+  "certa": 0,
+  "fala_q": "Every morning, Grandpa... catch... the bus. Como se escreve?",
+  "fala_r": "Catches, com E S! Termina em C H, então ganha E S.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "O VERBO ESTÁ NO TEMPO ERRADO! QUAL CORRIGE?",
+  "cartao": [
+   "Last Sunday, we",
+   "WILL DRIVE",
+   "to the lake."
+  ],
+  "img": "q25.png",
+  "opcoes": [
+   "drove",
+   "drives",
+   "drived"
+  ],
+  "certa": 0,
+  "fala_q": "Last Sunday, we will drive to the lake. Tá errado! Qual verbo corrige?",
+  "fala_r": "Drove! Last Sunday é domingo passado. O passado de drive é drove.",
+  "count": 8.0
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "QUAL É O PRESENTE?",
+  "cartao": [
+   "went  →  he ______"
+  ],
+  "img": "q26.png",
+  "opcoes": [
+   "gos",
+   "go",
+   "goes"
+  ],
+  "certa": 2,
+  "fala_q": "Went é o passado de go. E no presente, com he, como fica?",
+  "fala_r": "Goes! Go termina em O, então ganha E S: he goes.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "QUAL É O TÍTULO? (O QUE SE SUBLINHA)",
+  "cartao": [
+   "I watch Tiny Chefs",
+   "every Friday",
+   "on TV."
+  ],
+  "img": "q27.png",
+  "opcoes": [
+   "Tiny Chefs",
+   "every Friday",
+   "on TV"
+  ],
+  "certa": 0,
+  "fala_q": "I watch Tiny Chefs every Friday on TV. Qual é o título?",
+  "fala_r": "Tiny Chefs! O nome do programa.",
+  "count": 8.0
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "sushi",
+  "lugar": "JAPÃO",
+  "cartao": [
+   "On our trip, we",
+   "______ sushi.",
+   "(eat)"
+  ],
+  "img": "q28.png",
+  "opcoes": [
+   "eated",
+   "ate",
+   "eats"
+  ],
+  "certa": 1,
+  "fala_q": "On our trip, we... eat... sushi in Japan. Já foi! Qual a forma certa?",
+  "fala_r": "Ate! O passado de eat é ate. Eated não existe.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "QUAL É O FUTURO?",
+  "cartao": [
+   "relaxes  →  ______"
+  ],
+  "img": "q29.png",
+  "opcoes": [
+   "will relaxes",
+   "will relax",
+   "relaxed"
+  ],
+  "certa": 1,
+  "fala_q": "Relaxes. Como fica no futuro?",
+  "fala_r": "Will relax! Depois do will, o verbo puro, sem o E S.",
+  "count": 8.0,
+  "sabia": "Depois do will, o verbo fica puro: sem S e sem E D. Will relax, will ride, will fly."
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "QUANTOS ESTÃO NO FUTURO?",
+  "cartao": [
+   "will hike • swam",
+   "flies • will pack",
+   "will eat • made"
+  ],
+  "img": "q30.png",
+  "opcoes": [
+   "2",
+   "3",
+   "4"
+  ],
+  "certa": 1,
+  "fala_q": "Will hike, swam, flies, will pack, will eat e made. Quantos estão no futuro? 2, 3 ou 4?",
+  "fala_r": "Três! Will hike, will pack e will eat.",
+  "count": 10.0
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "QUAL É O PASSADO?",
+  "cartao": [
+   "read",
+   "(ler)"
+  ],
+  "img": "q31.png",
+  "opcoes": [
+   "read",
+   "readed",
+   "reed"
+  ],
+  "certa": 0,
+  "fala_q": "Agora é o nível que derruba até adulto! Qual é o passado de read, ler?",
+  "fala_r": "Read! Escreve igual, mas no passado se fala réd. Readed não existe!",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "estatua-da-liberdade",
+  "lugar": "NOVA YORK",
+  "cartao": [
+   "Last winter, Dad",
+   "______ us to New York.",
+   "(bring)"
+  ],
+  "img": "q32.png",
+  "opcoes": [
+   "bringed",
+   "brang",
+   "brought"
+  ],
+  "certa": 2,
+  "fala_q": "Last winter, Dad... bring... us to New York. Qual a forma certa?",
+  "fala_r": "Brought! O passado de bring é brought. Bringed e brang não existem.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "O VERBO ESTÁ NO TEMPO ERRADO! QUAL CORRIGE?",
+  "cartao": [
+   "Next year, my sister",
+   "DROVE",
+   "to Canada."
+  ],
+  "img": "q33.png",
+  "opcoes": [
+   "will drive",
+   "drives",
+   "drived"
+  ],
+  "certa": 0,
+  "fala_q": "Next year, my sister drove to Canada. Qual verbo corrige?",
+  "fala_r": "Will drive! Next year é ano que vem: futuro.",
+  "count": 8.0
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "QUAL É O PASSADO?",
+  "cartao": [
+   "stop",
+   "(parar)"
+  ],
+  "img": "q34.png",
+  "opcoes": [
+   "stoped",
+   "stopt",
+   "stopped"
+  ],
+  "certa": 2,
+  "fala_q": "Qual é o passado de stop? Como se escreve?",
+  "fala_r": "Stopped, com dois P! Igual planned.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "QUAL É O TÍTULO? (O QUE SE SUBLINHA)",
+  "cartao": [
+   "My brother read",
+   "The Dragon and Me",
+   "on the plane."
+  ],
+  "img": "q35.png",
+  "opcoes": [
+   "The Dragon and Me",
+   "The Dragon",
+   "on the plane"
+  ],
+  "certa": 0,
+  "fala_q": "My brother read The Dragon and Me on the plane. Qual é o título inteiro?",
+  "fala_r": "The Dragon and Me! O título é o nome todo do livro, não só a primeira parte.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "taj-mahal",
+  "lugar": "ÍNDIA",
+  "cartao": [
+   "Every year, many",
+   "tourists ______",
+   "the Taj Mahal.",
+   "(visit)"
+  ],
+  "img": "q36.png",
+  "opcoes": [
+   "visits",
+   "visited",
+   "visit"
+  ],
+  "certa": 2,
+  "fala_q": "Every year, many tourists... visit... the Taj Mahal. Qual a forma certa?",
+  "fala_r": "Visit, sem S! Tourists é plural, e com they o verbo não ganha S.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "O VERBO ESTÁ NO TEMPO ERRADO! QUAL CORRIGE?",
+  "cartao": [
+   "Yesterday, the kids",
+   "CARRY",
+   "their bags."
+  ],
+  "img": "q37.png",
+  "opcoes": [
+   "carryed",
+   "carries",
+   "carried"
+  ],
+  "certa": 2,
+  "fala_q": "Yesterday, the kids carry their bags. Qual verbo corrige?",
+  "fala_r": "Carried! Consoante mais Y: troca por I E D.",
+  "count": 8.0,
+  "sabia": "Consoante mais Y no fim: troca o Y por I E S no presente e por I E D no passado. Fly, flies. Carry, carried."
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "QUAL É O PASSADO?",
+  "cartao": [
+   "write",
+   "(escrever)"
+  ],
+  "img": "q38.png",
+  "opcoes": [
+   "wrote",
+   "writed",
+   "writes"
+  ],
+  "certa": 0,
+  "fala_q": "Qual é o passado de write, escrever?",
+  "fala_r": "Wrote! Ontem eu escrevi um cartão-postal: I wrote a postcard.",
+  "count": 8.0
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "golden-gate",
+  "lugar": "SÃO FRANCISCO",
+  "cartao": [
+   "Tomorrow, we",
+   "______ across",
+   "the bridge.",
+   "(ride)"
+  ],
+  "img": "q39.png",
+  "opcoes": [
+   "rode",
+   "will rode",
+   "will ride"
+  ],
+  "certa": 2,
+  "fala_q": "Tomorrow, we... ride... across the bridge. Qual a forma certa?",
+  "fala_r": "Will ride! Will rode não existe: depois do will, o verbo puro.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "QUANTOS TÍTULOS TEM?",
+  "cartao": [
+   "I read Space Cats",
+   "and watched",
+   "Pizza Planet on TV."
+  ],
+  "img": "q40.png",
+  "opcoes": [
+   "1",
+   "3",
+   "2"
+  ],
+  "certa": 2,
+  "fala_q": "I read Space Cats and watched Pizza Planet on TV. Quantos títulos tem nessa frase?",
+  "fala_r": "Dois! Space Cats, o livro, e Pizza Planet, o programa de TV.",
+  "count": 8.0
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "foto": "ponte-da-torre",
+  "lugar": "LONDRES",
+  "cartao": [
+   "The pilot ______",
+   "to London",
+   "every Monday.",
+   "(fly)"
+  ],
+  "img": "q41.png",
+  "opcoes": [
+   "flys",
+   "flew",
+   "flies"
+  ],
+  "certa": 2,
+  "fala_q": "The pilot... fly... to London every Monday. Como se escreve?",
+  "fala_r": "Flies! Consoante mais Y: troca o Y por I E S.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "QUAL FRASE ESTÁ ERRADA?",
+  "cartao": [
+   "Uma dessas",
+   "frases está",
+   "ERRADA!"
+  ],
+  "img": "q42.png",
+  "opcoes": [
+   "They made tea.",
+   "We swimmed.",
+   "She will hike."
+  ],
+  "certa": 1,
+  "fala_q": "Uma dessas frases está errada! Qual?",
+  "fala_r": "We swimmed! O certo é we swam.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "Eu vou",
+   "viajar."
+  ],
+  "img": "q43.png",
+  "opcoes": [
+   "I will traveled.",
+   "I traveled.",
+   "I will travel."
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz: eu vou viajar? Qual está certa?",
+  "fala_r": "I will travel! Will mais o verbo puro. Traveled já é passado.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "QUANTOS ESTÃO NO PASSADO?",
+  "cartao": [
+   "made • will swim",
+   "rode • flies",
+   "saw • packs"
+  ],
+  "img": "q44.png",
+  "opcoes": [
+   "2",
+   "3",
+   "4"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo a nota! Made, will swim, rode, flies, saw e packs. Quantos estão no passado? 2, 3 ou 4?",
+  "fala_r": "Três! Made, rode e saw, todos irregulares. Se acertou essa, tirou dez em inglês!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]
