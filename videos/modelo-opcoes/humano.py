@@ -211,7 +211,11 @@ def make_sfx(tmp):
 def pergunta(tl, sfx, q, total, ultimo, voz_q, voz_r, count=7.0, gancho=None):
     """Transição + pergunta falada (com dica/aviso) + suspense opcional + resposta falada."""
     fala = dur(voz_q) + 0.3
-    tl.sound(sfx["whoosh"], vol=0.7)
+    if op.TRANSICAO and "splash" in sfx:
+        import motion
+        motion.sons(tl, sfx, op.TRANSICAO)
+    else:
+        tl.sound(sfx["whoosh"], vol=0.7)
     for f in op.transicao_frames(ultimo, q, total):
         yield f
     t0 = tl.t

@@ -336,7 +336,20 @@ def primeiro_quadro(q, total):
     return img.convert("RGB")
 
 
+TRANSICAO = "splash"   # motion graphics aprovado pelo Patrick (2026-11-21); None = faixa diagonal antiga
+
+
 def transicao_frames(antes, q, total, dur=0.6):
+    """Transição para a pergunta q. Padrão: SPLASH (respingos de tinta, motion.py). Os sons vêm de
+    `motion.sons(tl, sfx, op.TRANSICAO)` (humano.pergunta já faz; em build antigo o whoosh continua)."""
+    if TRANSICAO:
+        import motion
+        yield from motion.transicao(antes, primeiro_quadro(q, total), TRANSICAO, n=q.get("n"), total=total)
+        return
+    yield from _faixa_frames(antes, q, total, dur)
+
+
+def _faixa_frames(antes, q, total, dur=0.6):
     """Faixa diagonal amarela com o selo varre a tela da esquerda para a direita, trocando de pergunta."""
     depois = primeiro_quadro(q, total)
     larg, incl = 520, 420                      # largura da faixa e inclinação
@@ -371,7 +384,8 @@ def make_sfx(tmp):
     for k, src in novos.items():
         sfx[k] = os.path.join(tmp, k + ".wav")
         b.run(["ffmpeg", "-y", "-f", "lavfi", "-i", src, sfx[k]])
-    return sfx
+    import motion
+    return motion.make_sfx(tmp, sfx)          # + splash e boom (transição)
 
 
 def sons_pergunta(tl, sfx, t0, fala=0.0, count=COUNT, entrada=True):
