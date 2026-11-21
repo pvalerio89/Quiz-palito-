@@ -542,21 +542,35 @@
       "id": "2026-11-17-selecoes-a-z",
       "referencia": "",
       "tema": "Nomeie uma SELEÇÃO de A a Z - Copa 2026 (FaíscaMente fez 385 mil, 54x)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Para cada letra, a letra gigante + contagem; resposta com a bandeira (SVG PD, como no vídeo 24) e o nome. Letras difíceis (I, K, O, Q, W, X, Y, Z) no fim com aviso 'TEM PEGADINHA!'. Título ex.: 'Diga uma SELEÇÃO para cada LETRA de A a Z! Ninguém acerta a letra W'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #4 (shorts/palito-4); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 39, 32 perguntas (todas as letras, A/C/I/M repetem), letra gigante + pista no cartão, 3 seleções da mesma letra com bandeira; K, O, Q, X, Y, W no fim (X = nenhuma, W = Wales/País de Gales). Short = palito-4.",
       "short": "shorts/palito-4",
       "video": "videos/39-selecoes-a-z",
-      "titulo": "Uma SELEÇÃO para cada LETRA de A a Z! ⚽ Ninguém acerta a letra W | Quiz Palito"
+      "titulo": "Uma SELEÇÃO para cada LETRA de A a Z! ⚽ Ninguém acerta a letra W | Quiz Palito",
+      "publicado_em": "2026-11-21",
+      "no_ar_em": "2026-11-21T21:00:00Z",
+      "no_ar_brasilia": "21/11 18h00",
+      "links": {
+        "video": "https://youtu.be/8f-VKIcxHEQ",
+        "short": "https://youtu.be/LU-rRBvsigM"
+      }
     },
     {
       "id": "2026-11-17-animal-simbolo-pais",
       "referencia": "",
       "tema": "Animal símbolo de cada país (Projeto Trivia fez 2,6 mi, 42x)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Bandeira do país + 3 fotos reais de animais como alternativas (ex.: Austrália canguru, China panda, Brasil onça? conferir na Wikipédia 'national animal'). Só casos com fonte clara. Título ex.: 'Qual é o ANIMAL de cada PAÍS? As últimas são impossíveis!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #5 (shorts/palito-5); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 40, 36 países (bandeira no cartão, 3 fotos reais de animais Wikimedia nas alternativas, foto do animal na resposta), do canguru ao unicórnio da Escócia, fundo cor de savana. Short = palito-5.",
       "short": "shorts/palito-5",
       "video": "videos/40-animal-de-cada-pais",
-      "titulo": "Qual é o ANIMAL de cada PAÍS? 🐼🦘 A última ninguém acerta! | Quiz Palito"
+      "titulo": "Qual é o ANIMAL de cada PAÍS? 🐼🦘 A última ninguém acerta! | Quiz Palito",
+      "publicado_em": "2026-11-21",
+      "no_ar_em": "2026-11-22T21:00:00Z",
+      "no_ar_brasilia": "22/11 18h00",
+      "links": {
+        "video": "https://youtu.be/IovpP-sHcsM",
+        "short": "https://youtu.be/jnnoFR2MNmc"
+      }
     },
     {
       "id": "2026-11-17-pais-2-letras",
@@ -582,8 +596,11 @@
       "id": "2026-11-20-bandeiras-niveis",
       "referencia": "",
       "tema": "Bandeiras: fácil, médio, difícil e impossível (Short campeão 6 bandeiras: +10 insc, 1.835 views)",
-      "status": "aguardando",
-      "obs": "Longo 10–15 min + Short do mesmo tema. 4 níveis com placa de nível na tela, ~36 bandeiras, alternativas com bandeiras parecidas no nível difícil (Chade x Romênia, Indonésia x Mônaco...). Bandeiras SVG PD como no vídeo 24/39. Ordem e escolhas diferentes do vídeo 03 (195 bandeiras). Short = '6 BANDEIRAS parte 2': mesmo molde do campeão (53 s, a última é a mais difícil), bandeiras novas, link do longo na descrição. NÃO publicar no mesmo dia/seguido do item 'acaba-quando-errar' (também é bandeira). Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+      "status": "pronto",
+      "obs": "Longo 10–15 min + Short do mesmo tema. 4 níveis com placa de nível na tela, ~36 bandeiras, alternativas com bandeiras parecidas no nível difícil (Chade x Romênia, Indonésia x Mônaco...). Bandeiras SVG PD como no vídeo 24/39. Ordem e escolhas diferentes do vídeo 03 (195 bandeiras). Short = '6 BANDEIRAS parte 2': mesmo molde do campeão (53 s, a última é a mais difícil), bandeiras novas, link do longo na descrição. NÃO publicar no mesmo dia/seguido do item 'acaba-quando-errar' (também é bandeira). Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-21): vídeo 51, 36 bandeiras em 4 níveis de 9 (placa do nível no cartão + bolinhas, fundo verde/azul/laranja/vermelho por nível, tela de nível antes das perguntas 10, 19 e 28), alternativas com bandeiras parecidas no difícil/impossível (Noruega x Islândia, Mônaco x Indonésia, Guiné x Mali, Haiti x Liechtenstein, Chade x Romênia na última), ~12,5 min. Short bandeiras-2 (6 bandeiras fácil→impossível, mesmo molde do campeão, chamada SEU PAI ACERTA ESSAS?).",
+      "video": "videos/51-bandeiras-niveis",
+      "short": "shorts/bandeiras-2",
+      "titulo": "BANDEIRAS: fácil, médio, difícil e IMPOSSÍVEL 🌎 Até qual nível você chega? | Quiz Palito"
     },
     {
       "id": "2026-11-15-jogadores-a-z-parte-2",
