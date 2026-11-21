@@ -528,11 +528,18 @@
       "id": "2026-11-17-selecoes-a-z",
       "referencia": "",
       "tema": "Nomeie uma SELEÇÃO de A a Z - Copa 2026 (FaíscaMente fez 385 mil, 54x)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Para cada letra, a letra gigante + contagem; resposta com a bandeira (SVG PD, como no vídeo 24) e o nome. Letras difíceis (I, K, O, Q, W, X, Y, Z) no fim com aviso 'TEM PEGADINHA!'. Título ex.: 'Diga uma SELEÇÃO para cada LETRA de A a Z! Ninguém acerta a letra W'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #4 (shorts/palito-4); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 39, 32 perguntas (todas as letras, A/C/I/M repetem), letra gigante + pista no cartão, 3 seleções da mesma letra com bandeira; K, O, Q, X, Y, W no fim (X = nenhuma, W = Wales/País de Gales). Short = palito-4.",
       "short": "shorts/palito-4",
       "video": "videos/39-selecoes-a-z",
-      "titulo": "Uma SELEÇÃO para cada LETRA de A a Z! ⚽ Ninguém acerta a letra W | Quiz Palito"
+      "titulo": "Uma SELEÇÃO para cada LETRA de A a Z! ⚽ Ninguém acerta a letra W | Quiz Palito",
+      "publicado_em": "2026-11-21",
+      "no_ar_em": "2026-11-21T21:00:00Z",
+      "no_ar_brasilia": "21/11 18h00",
+      "links": {
+        "video": "https://youtu.be/8f-VKIcxHEQ",
+        "short": "https://youtu.be/LU-rRBvsigM"
+      }
     },
     {
       "id": "2026-11-17-animal-simbolo-pais",
