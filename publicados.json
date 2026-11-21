@@ -1131,6 +1131,36 @@
         "data": "2026-11-21",
         "origem": "github-actions"
       }
+    },
+    "videos/46-ingles-review": {
+      "youtube": {
+        "status": "publicado",
+        "id": "AW5p7qFabXI",
+        "url": "https://youtu.be/AW5p7qFabXI",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "59da0e61d2a2fb726ef2dedd2813ef8b0c19d82913239e8650bc25a0772f437b"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/ingles-2": {
+      "titulo": "REVISÃO DE INGLÊS DO 3º ANO! 📚 Se acertar 4, você é fera! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "5al6GOYA740",
+        "url": "https://youtu.be/5al6GOYA740",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "83470f959cab8221b60e1f32fce846b6699f0405be1e4b993e48ec5d5fe47459"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7709947917548734484",
+        "data": "2026-11-19",
+        "origem": "github-actions"
+      }
     }
   }
 }
