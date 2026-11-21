@@ -545,11 +545,18 @@
       "id": "2026-11-17-animal-simbolo-pais",
       "referencia": "",
       "tema": "Animal símbolo de cada país (Projeto Trivia fez 2,6 mi, 42x)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Bandeira do país + 3 fotos reais de animais como alternativas (ex.: Austrália canguru, China panda, Brasil onça? conferir na Wikipédia 'national animal'). Só casos com fonte clara. Título ex.: 'Qual é o ANIMAL de cada PAÍS? As últimas são impossíveis!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | SHORT JÁ PRONTO (2026-11-17): o Short deste item é o Desafio do Palito #5 (shorts/palito-5); faça SÓ o vídeo longo, sem Short do tema. | FEITO (2026-11-18): vídeo 40, 36 países (bandeira no cartão, 3 fotos reais de animais Wikimedia nas alternativas, foto do animal na resposta), do canguru ao unicórnio da Escócia, fundo cor de savana. Short = palito-5.",
       "short": "shorts/palito-5",
       "video": "videos/40-animal-de-cada-pais",
-      "titulo": "Qual é o ANIMAL de cada PAÍS? 🐼🦘 A última ninguém acerta! | Quiz Palito"
+      "titulo": "Qual é o ANIMAL de cada PAÍS? 🐼🦘 A última ninguém acerta! | Quiz Palito",
+      "publicado_em": "2026-11-21",
+      "no_ar_em": "2026-11-22T21:00:00Z",
+      "no_ar_brasilia": "22/11 18h00",
+      "links": {
+        "video": "https://youtu.be/IovpP-sHcsM",
+        "short": "https://youtu.be/jnnoFR2MNmc"
+      }
     },
     {
       "id": "2026-11-17-pais-2-letras",
