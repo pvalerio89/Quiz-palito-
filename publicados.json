@@ -1145,6 +1145,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/palito-5": {
+      "titulo": "2+3=7 está ERRADO! Arruma movendo só 1 palito ✏️ #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "jnnoFR2MNmc",
+        "url": "https://youtu.be/jnnoFR2MNmc",
+        "data": "2026-11-21",
+        "origem": "github-actions",
+        "sha256": "6cc31e682c80330d7e5ec50d0bd0f8b04f490229f83948f8ec8f0305b842c375",
+        "no_ar_em": "2026-11-22T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
