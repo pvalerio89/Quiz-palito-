@@ -1131,6 +1131,20 @@
         "data": "2026-11-21",
         "origem": "github-actions"
       }
+    },
+    "videos/40-animal-de-cada-pais": {
+      "youtube": {
+        "status": "publicado",
+        "id": "IovpP-sHcsM",
+        "url": "https://youtu.be/IovpP-sHcsM",
+        "data": "2026-11-21",
+        "origem": "github-actions",
+        "sha256": "0703d1c346296db82282efbf4a8ac953ab71f9fc9ca1df4e256c59bccdee23c1",
+        "no_ar_em": "2026-11-22T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
