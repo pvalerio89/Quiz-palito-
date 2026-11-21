@@ -1099,6 +1099,20 @@
         "data": "2026-11-20",
         "origem": "github-actions"
       }
+    },
+    "videos/39-selecoes-a-z": {
+      "youtube": {
+        "status": "publicado",
+        "id": "8f-VKIcxHEQ",
+        "url": "https://youtu.be/8f-VKIcxHEQ",
+        "data": "2026-11-21",
+        "origem": "github-actions",
+        "sha256": "151a8016e4202552f0a69a3cae0a8fa9c6efa7dfda41d5403a7504032b9d6b0f",
+        "no_ar_em": "2026-11-21T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
