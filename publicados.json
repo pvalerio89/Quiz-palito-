@@ -1131,6 +1131,33 @@
         "data": "2026-11-21",
         "origem": "github-actions"
       }
+    },
+    "videos/49-ela-alimentacao": {
+      "youtube": {
+        "status": "publicado",
+        "id": "bHq2AGvhIU0",
+        "url": "https://youtu.be/bHq2AGvhIU0",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "63847405e5ab873167b4735ad4e6d4c9a8acd0e5e2d606f8eb8cb740522ba654"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/alimentacao-1": {
+      "titulo": "COMIDA EM INGLÊS! 🥦 Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "YQv1H7mslTI",
+        "url": "https://youtu.be/YQv1H7mslTI",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "f0ae2bacfa76bb9b30e7d305d5054a520319827a64e33cab8a250e28a21c991a"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }

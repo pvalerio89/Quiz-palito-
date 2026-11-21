@@ -1,0 +1,827 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "milho",
+  "rotulo": "MILHO",
+  "img": "q1.png",
+  "opcoes": [
+   "Carrot",
+   "Corn",
+   "Pea"
+  ],
+  "certa": 1,
+  "fala_q": "Primeira, valendo! Como se diz milho em inglês? Carrot, Corn, ou Pea?",
+  "fala_r": "Corn! Carrot é cenoura e pea é ervilha.",
+  "count": 8.0
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "healthy"
+  ],
+  "img": "q2.png",
+  "opcoes": [
+   "Pesado",
+   "Saudável",
+   "Feliz"
+  ],
+  "certa": 1,
+  "fala_q": "Healthy. O que essa palavra significa? Pesado, Saudável, ou Feliz?",
+  "fala_r": "Saudável! Healthy é o que faz bem pra você: comida e hábitos bons.",
+  "count": 8.0
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "beterraba",
+  "rotulo": "BEETS",
+  "img": "q3.png",
+  "opcoes": [
+   "Green",
+   "Red",
+   "White"
+  ],
+  "certa": 1,
+  "fala_q": "Beets, a beterraba. No arco-íris da comida, o Food Rainbow, ela fica em qual cor? Green, Red, ou White?",
+  "fala_r": "Red! A beterraba é do grupo vermelho.",
+  "count": 8.0,
+  "sabia": "O Food Rainbow tem 5 grupos: red, orange e yellow, green, blue e purple, e white. Coma um de cada!"
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "ervilha",
+  "rotulo": "ERVILHAS",
+  "img": "q4.png",
+  "opcoes": [
+   "Beans",
+   "Nuts",
+   "Peas"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz ervilhas em inglês? Beans, Nuts, ou Peas?",
+  "fala_r": "Peas! Uma ervilha é one pea, várias são peas.",
+  "count": 8.0
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one cucumber",
+   "two ______"
+  ],
+  "img": "q5.png",
+  "opcoes": [
+   "cucumbers",
+   "cucumberes",
+   "cucumber's"
+  ],
+  "certa": 0,
+  "fala_q": "One cucumber, two... qual é o plural?",
+  "fala_r": "Cucumbers! Só ganha S, sem apóstrofo.",
+  "count": 8.0
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "rainbow"
+  ],
+  "img": "q6.png",
+  "opcoes": [
+   "Chuva",
+   "Arco-íris",
+   "Nuvem"
+  ],
+  "certa": 1,
+  "fala_q": "Rainbow. O que significa? Chuva, Arco-íris, ou Nuvem?",
+  "fala_r": "Arco-íris! Um arco de luz colorida no céu. Rain é chuva, bow é arco.",
+  "count": 8.0
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "abobora",
+  "rotulo": "ABÓBORA",
+  "img": "q7.png",
+  "opcoes": [
+   "Melon",
+   "Orange",
+   "Pumpkin"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz abóbora em inglês? Melon, Orange, ou Pumpkin?",
+  "fala_r": "Pumpkin! Melon é melão e orange é laranja.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "mirtilo",
+  "rotulo": "BLUEBERRIES",
+  "img": "q8.png",
+  "opcoes": [
+   "Green",
+   "Blue/Purple",
+   "Red"
+  ],
+  "certa": 1,
+  "fala_q": "Blueberries, os mirtilos. Qual é a cor deles no Food Rainbow? Green, Blue ou Purple, ou Red?",
+  "fala_r": "Blue e purple! Azul e roxo, no mesmo grupo.",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "QUAL PALAVRA COMPLETA?",
+  "cartao": [
+   "Carrots ______",
+   "good for you."
+  ],
+  "img": "q9.png",
+  "opcoes": [
+   "are",
+   "is",
+   "am"
+  ],
+  "certa": 0,
+  "fala_q": "Carrots... blank... good for you. Qual palavra completa?",
+  "fala_r": "Are! Carrots é plural, mais de uma cenoura, então é are.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "vagem",
+  "rotulo": "VAGENS",
+  "img": "q10.png",
+  "opcoes": [
+   "Green beans",
+   "Green peas",
+   "Green peppers"
+  ],
+  "certa": 0,
+  "fala_q": "Como se dizem as vagens em inglês? Green beans, Green peas, ou Green peppers?",
+  "fala_r": "Green beans! Feijão verde. Green peppers são pimentões verdes.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "couve-flor",
+  "rotulo": "CAULIFLOWER",
+  "img": "q11.png",
+  "opcoes": [
+   "Green",
+   "Orange/Yellow",
+   "White"
+  ],
+  "certa": 2,
+  "fala_q": "Cauliflower, a couve-flor. Fica em qual cor do Food Rainbow? Green, Orange ou Yellow, ou White?",
+  "fala_r": "White! O grupo branco.",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "cartao": [
+   "ROXO"
+  ],
+  "img": "q12.png",
+  "opcoes": [
+   "Purple",
+   "Pink",
+   "Brown"
+  ],
+  "certa": 0,
+  "fala_q": "Como se diz roxo em inglês? Purple, Pink, ou Brown?",
+  "fala_r": "Purple! Pink é rosa e brown é marrom.",
+  "count": 8.0
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "QUAL É HEALTHY?",
+  "cartao": [
+   "Qual faz",
+   "bem pra você?"
+  ],
+  "img": "q13.png",
+  "opcoes": [
+   "Spinach",
+   "Candy",
+   "Soda"
+  ],
+  "certa": 0,
+  "fala_q": "Qual desses é healthy, faz bem pra você? Spinach, Candy, ou Soda?",
+  "fala_r": "Spinach, o espinafre! Candy é bala e soda é refrigerante.",
+  "count": 8.0
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "berinjela",
+  "rotulo": "BERINJELA",
+  "img": "q14.png",
+  "opcoes": [
+   "Eggplant",
+   "Plum",
+   "Pepper"
+  ],
+  "certa": 0,
+  "fala_q": "Como se diz berinjela em inglês? Eggplant, Plum, ou Pepper?",
+  "fala_r": "Eggplant! Planta ovo, porque tem uma berinjela branquinha que parece um ovo!",
+  "count": 8.0
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "DE ONDE VÊM?",
+  "cartao": [
+   "Vegetables",
+   "come from..."
+  ],
+  "img": "q15.png",
+  "opcoes": [
+   "Plants",
+   "Animals",
+   "Rocks"
+  ],
+  "certa": 0,
+  "fala_q": "Vegetables come from... os legumes e verduras vêm de onde?",
+  "fala_r": "Plants! Vegetable é um tipo de comida que vem das plantas.",
+  "count": 8.0,
+  "fala_d": "Dica: o nome da lição é Eating Plants...",
+  "dica_txt": "EATING PLANTS"
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one radish",
+   "two ______"
+  ],
+  "img": "q16.png",
+  "opcoes": [
+   "radishs",
+   "radishies",
+   "radishes"
+  ],
+  "certa": 2,
+  "fala_q": "Nível difícil, valendo! One radish, um rabanete. Two... como se escreve?",
+  "fala_r": "Radishes, com E S! Termina em S H, então ganha E S.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Palavra que termina em S, SH, CH ou X ganha E S no plural: radishes, squashes, boxes.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "salsao",
+  "rotulo": "SALSÃO",
+  "img": "q17.png",
+  "opcoes": [
+   "Lettuce",
+   "Celery",
+   "Leek"
+  ],
+  "certa": 1,
+  "fala_q": "Como se diz salsão, o aipo, em inglês? Lettuce, Celery, ou Leek?",
+  "fala_r": "Celery! Lettuce é alface e leek é alho-poró.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "banana",
+  "rotulo": "BANANA",
+  "img": "q18.png",
+  "opcoes": [
+   "Orange/Yellow",
+   "White",
+   "Green"
+  ],
+  "certa": 1,
+  "fala_q": "Banana! Ela fica em qual cor do Food Rainbow? Orange ou Yellow, White, ou Green?",
+  "fala_r": "White! Pegadinha: a casca é amarela, mas por dentro ela é branca. Na lição, banana está no grupo branco.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "No grupo white estão banana, couve-flor, alho, gengibre, cogumelo, cebola, batata e nabo.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "nutrition"
+  ],
+  "img": "q19.png",
+  "opcoes": [
+   "Comer e usar os nutrientes",
+   "Fazer exercício",
+   "Dormir bem"
+  ],
+  "certa": 0,
+  "fala_q": "Nutrition. O que significa? Comer e usar os nutrientes, Fazer exercício, ou Dormir bem?",
+  "fala_r": "Comer e usar os nutrientes! É o jeito que o corpo usa a comida.",
+  "count": 8.0
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one squash",
+   "two ______"
+  ],
+  "img": "q20.png",
+  "opcoes": [
+   "squashs",
+   "squashes",
+   "squash's"
+  ],
+  "certa": 1,
+  "fala_q": "One squash, uma abóbora menina. Two... como se escreve?",
+  "fala_r": "Squashes! S H no fim: E S.",
+  "count": 8.0
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "ESSE NUTRIENTE É DE QUAL COR?",
+  "cartao": [
+   "LUTEIN",
+   "deixa os olhos",
+   "saudáveis"
+  ],
+  "img": "q21.png",
+  "opcoes": [
+   "Red",
+   "Green",
+   "White"
+  ],
+  "certa": 1,
+  "fala_q": "A lutein, a luteína, ajuda a deixar os olhos saudáveis. Ela está nos alimentos de qual cor? Red, Green, ou White?",
+  "fala_r": "Green! Kiwi, espinafre, ervilha e brócolis.",
+  "count": 8.0
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "rabanete",
+  "rotulo": "RABANETE",
+  "img": "q22.png",
+  "opcoes": [
+   "Beet",
+   "Turnip",
+   "Radish"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz rabanete em inglês? Beet, Turnip, ou Radish?",
+  "fala_r": "Radish! Beet é beterraba e turnip é nabo.",
+  "count": 8.0
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "kiwi",
+  "rotulo": "KIWI",
+  "img": "q23.png",
+  "opcoes": [
+   "Orange/Yellow",
+   "White",
+   "Green"
+  ],
+  "certa": 2,
+  "fala_q": "Kiwi. Fica em qual cor do Food Rainbow? Orange ou Yellow, White, ou Green?",
+  "fala_r": "Green! Por fora é marrom, mas por dentro é verdinho.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "couve-de-bruxelas",
+  "rotulo": "COUVE-DE-BRUXELAS",
+  "img": "q24.png",
+  "opcoes": [
+   "Brussels sprouts",
+   "Cabbage",
+   "Broccoli"
+  ],
+  "certa": 0,
+  "fala_q": "Como se diz couve-de-bruxelas em inglês? Brussels sprouts, Cabbage, ou Broccoli?",
+  "fala_r": "Brussels sprouts! Os brotos de Bruxelas. Cabbage é repolho.",
+  "count": 8.0
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "Como se escreve",
+   "brócolis",
+   "em inglês?"
+  ],
+  "img": "q25.png",
+  "opcoes": [
+   "broccoli",
+   "brocoli",
+   "brocolli"
+  ],
+  "certa": 0,
+  "fala_q": "Como se escreve brócolis em inglês? Qual está certa?",
+  "fala_r": "Broccoli! Dois C e um L só.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "QUAL VITAMINA?",
+  "foto": "laranja",
+  "rotulo": "ORANGE",
+  "img": "q26.png",
+  "opcoes": [
+   "Vitamin A",
+   "Vitamin K",
+   "Vitamin C"
+  ],
+  "certa": 2,
+  "fala_q": "A laranja, orange, é rica em qual vitamina? Vitamin A, Vitamin K, ou Vitamin C?",
+  "fala_r": "Vitamin C! E a lição avisa: laranja não é fonte de vitamina A, mas tem muita vitamina C.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "cogumelo",
+  "rotulo": "MUSHROOMS",
+  "img": "q27.png",
+  "opcoes": [
+   "White",
+   "Green",
+   "Blue/Purple"
+  ],
+  "certa": 0,
+  "fala_q": "Mushrooms, os cogumelos. Qual é a cor deles no Food Rainbow? White, Green, ou Blue ou Purple?",
+  "fala_r": "White! Grupo branco.",
+  "count": 8.0
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "abobrinha",
+  "rotulo": "ABOBRINHA",
+  "img": "q28.png",
+  "opcoes": [
+   "Cucumber",
+   "Zucchini",
+   "Pumpkin"
+  ],
+  "certa": 1,
+  "fala_q": "Como se diz abobrinha em inglês? Cucumber, Zucchini, ou Pumpkin?",
+  "fala_r": "Zucchini! Cucumber é pepino, parece mas não é.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "QUAL PALAVRA COMPLETA?",
+  "cartao": [
+   "Spinach ______",
+   "healthy."
+  ],
+  "img": "q29.png",
+  "opcoes": [
+   "are",
+   "is",
+   "am"
+  ],
+  "certa": 1,
+  "fala_q": "Spinach... blank... healthy. Qual palavra completa?",
+  "fala_r": "Is! Spinach, o espinafre, não tem plural: usa is, igual a broccoli is green.",
+  "count": 8.0
+ },
+ {
+  "n": 30,
+  "nivel": 4,
+  "pergunta": "ESSE NUTRIENTE É DE QUAL COR?",
+  "cartao": [
+   "LYCOPENE",
+   "tomate e",
+   "melancia têm"
+  ],
+  "img": "q30.png",
+  "opcoes": [
+   "Orange/Yellow",
+   "Red",
+   "Green"
+  ],
+  "certa": 1,
+  "fala_q": "Agora é o nível que derruba até adulto! O lycopene, o licopeno, está no tomate e na melancia. É do grupo de qual cor? Orange ou Yellow, Red, ou Green?",
+  "fala_r": "Red! O licopeno é do grupo vermelho.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "alcachofra",
+  "rotulo": "ALCACHOFRA",
+  "img": "q31.png",
+  "opcoes": [
+   "Artichoke",
+   "Asparagus",
+   "Cabbage"
+  ],
+  "certa": 0,
+  "fala_q": "Como se diz alcachofra em inglês? Artichoke, Asparagus, ou Cabbage?",
+  "fala_r": "Artichoke! Asparagus é aspargo.",
+  "count": 8.0
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one green bean",
+   "two ______"
+  ],
+  "img": "q32.png",
+  "opcoes": [
+   "greens bean",
+   "greens beans",
+   "green beans"
+  ],
+  "certa": 2,
+  "fala_q": "One green bean, uma vagem. Two... qual é o plural?",
+  "fala_r": "Green beans! Só o bean ganha S. Green é cor, e cor nunca ganha S em inglês.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "alho",
+  "rotulo": "GARLIC",
+  "img": "q33.png",
+  "opcoes": [
+   "White",
+   "Green",
+   "Orange/Yellow"
+  ],
+  "certa": 0,
+  "fala_q": "Garlic, o alho. Fica em qual cor do Food Rainbow? White, Green, ou Orange ou Yellow?",
+  "fala_r": "White! O alho é do grupo branco.",
+  "count": 8.0
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "ESSE NUTRIENTE É DE QUAL COR?",
+  "cartao": [
+   "ANTHOCYANINS",
+   "protegem a",
+   "memória"
+  ],
+  "img": "q34.png",
+  "opcoes": [
+   "Green",
+   "White",
+   "Blue/Purple"
+  ],
+  "certa": 2,
+  "fala_q": "As anthocyanins, as antocianinas, ajudam a proteger a memória. Estão nos alimentos de qual cor? Green, White, ou Blue ou Purple?",
+  "fala_r": "Blue e purple! Mirtilo, berinjela, ameixa e uva roxa.",
+  "count": 8.0
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ ERRADA?",
+  "cartao": [
+   "Uma dessas",
+   "está ERRADA!"
+  ],
+  "img": "q35.png",
+  "opcoes": [
+   "two squashs",
+   "two peas",
+   "two radishes"
+  ],
+  "certa": 0,
+  "fala_q": "Uma dessas está errada! Qual?",
+  "fala_r": "Two squashs está errado! O certo é squashes, com E S.",
+  "count": 8.0
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "roma",
+  "rotulo": "ROMÃ",
+  "img": "q36.png",
+  "opcoes": [
+   "Grapefruit",
+   "Fig",
+   "Pomegranate"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz romã em inglês? Grapefruit, Fig, ou Pomegranate?",
+  "fala_r": "Pomegranate! Grapefruit é toranja e fig é figo.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "ESSE NUTRIENTE É DE QUAL COR?",
+  "cartao": [
+   "CAROTENOIDS",
+   "dão a",
+   "vitamina A"
+  ],
+  "img": "q37.png",
+  "opcoes": [
+   "Blue/Purple",
+   "White",
+   "Orange/Yellow"
+  ],
+  "certa": 2,
+  "fala_q": "Os carotenoids, os carotenoides, dão a vitamina A e ajudam o sistema imune. São de qual cor? Blue ou Purple, White, ou Orange ou Yellow?",
+  "fala_r": "Orange e yellow! Cenoura, abóbora, manga e batata-doce.",
+  "count": 8.0
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "aspargo",
+  "rotulo": "ASPARGOS",
+  "img": "q38.png",
+  "opcoes": [
+   "Asparagus",
+   "Celery",
+   "Green beans"
+  ],
+  "certa": 0,
+  "fala_q": "Como se diz aspargo em inglês? Asparagus, Celery, ou Green beans?",
+  "fala_r": "Asparagus! E é a mesma palavra pra um ou vários.",
+  "count": 8.0,
+  "sabia": "Na lição, broccoli, asparagus e spinach aparecem sem plural: a gente fala some broccoli."
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "QUANTAS CORES?",
+  "cartao": [
+   "FOOD RAINBOW",
+   "Quantos grupos",
+   "de cor?"
+  ],
+  "img": "q39.png",
+  "opcoes": [
+   "7",
+   "4",
+   "5"
+  ],
+  "certa": 2,
+  "fala_q": "O arco-íris do céu tem sete cores. E o Food Rainbow da lição? Quantos grupos de cor ele tem?",
+  "fala_r": "Cinco! Red, orange e yellow, green, blue e purple, e white.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "Qual frase",
+   "está certa?"
+  ],
+  "img": "q40.png",
+  "opcoes": [
+   "This carrots is healthy.",
+   "These carrots is healthy.",
+   "These carrots are healthy."
+  ],
+  "certa": 2,
+  "fala_q": "Qual dessas frases está certa?",
+  "fala_r": "These carrots are healthy! Carrots é plural: these e are.",
+  "count": 8.0
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "QUAL COR NO FOOD RAINBOW?",
+  "foto": "nabo",
+  "rotulo": "TURNIPS",
+  "img": "q41.png",
+  "opcoes": [
+   "Blue/Purple",
+   "Red",
+   "White"
+  ],
+  "certa": 2,
+  "fala_q": "Turnips, os nabos. Ficam em qual cor do Food Rainbow? Blue ou Purple, Red, ou White?",
+  "fala_r": "White! Tem um pouco de roxo em cima, mas na lição o nabo está no grupo branco.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "QUAL É O CONTRÁRIO?",
+  "cartao": [
+   "healthy",
+   "↔",
+   "?"
+  ],
+  "img": "q42.png",
+  "opcoes": [
+   "unhappy",
+   "unhealthy",
+   "healthier"
+  ],
+  "certa": 1,
+  "fala_q": "Qual é o contrário de healthy?",
+  "fala_r": "Unhealthy! U N na frente faz o contrário: o que não faz bem.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "QUAL NÃO TEM PLURAL?",
+  "cartao": [
+   "Na lição, uma",
+   "dessas fica igual",
+   "no plural!"
+  ],
+  "img": "q43.png",
+  "opcoes": [
+   "carrot",
+   "radish",
+   "broccoli"
+  ],
+  "certa": 2,
+  "fala_q": "Na lição, uma dessas palavras não muda no plural. Qual?",
+  "fala_r": "Broccoli! Carrot vira carrots e radish vira radishes, mas broccoli fica broccoli.",
+  "count": 8.0
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "QUANTOS SÃO WHITE?",
+  "cartao": [
+   "banana • garlic",
+   "kiwi • onion",
+   "corn • mushroom"
+  ],
+  "img": "q44.png",
+  "opcoes": [
+   "3",
+   "4",
+   "5"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo a nota! Banana, garlic, kiwi, onion, corn e mushroom. Quantos são do grupo white? 3, 4, ou 5?",
+  "fala_r": "Quatro! Banana, garlic, onion e mushroom. Kiwi é green e corn é yellow. Se acertou, tirou dez!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]
