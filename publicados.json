@@ -1126,7 +1126,42 @@
         "no_ar_em": "2026-11-21T23:30:00Z"
       },
       "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7710439964530296853",
+        "data": "2026-11-21",
+        "origem": "github-actions"
+      }
+    },
+    "videos/40-animal-de-cada-pais": {
+      "youtube": {
+        "status": "publicado",
+        "id": "IovpP-sHcsM",
+        "url": "https://youtu.be/IovpP-sHcsM",
+        "data": "2026-11-21",
+        "origem": "github-actions",
+        "sha256": "0703d1c346296db82282efbf4a8ac953ab71f9fc9ca1df4e256c59bccdee23c1",
+        "no_ar_em": "2026-11-22T21:00:00Z"
+      },
+      "tiktok": {
         "status": "pendente"
+      }
+    },
+    "shorts/palito-5": {
+      "titulo": "2+3=7 está ERRADO! Arruma movendo só 1 palito ✏️ #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "jnnoFR2MNmc",
+        "url": "https://youtu.be/jnnoFR2MNmc",
+        "data": "2026-11-21",
+        "origem": "github-actions",
+        "sha256": "6cc31e682c80330d7e5ec50d0bd0f8b04f490229f83948f8ec8f0305b842c375",
+        "no_ar_em": "2026-11-22T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7710751039187683336",
+        "data": "2026-11-21",
+        "origem": "github-actions"
       }
     },
     "videos/45-historia-transportes": {
