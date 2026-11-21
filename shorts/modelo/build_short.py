@@ -322,11 +322,15 @@ def main():
     tl.sound(A("intro.mp3"), at=0.1, voz=True)
     for f in intro_frames(s.duracao(A("intro.mp3"))):
         tl.frame(f)
+    ultimo = None
     for k, p in enumerate(PERG, 1):
         q = A(f"q{k}.mp3")
-        tl.sound(sfx["whoosh"], vol=0.6)
-        tl.sound(q, at=tl.t + 0.1, voz=True)
         fala = s.duracao(q) + 0.2
+        if ultimo is None:
+            tl.sound(sfx["whoosh"], vol=0.6)
+        else:   # transição SPLASH entre as perguntas (motion graphics, 2026-11-21)
+            s.transicao(tl, sfx, ultimo, next(pergunta_frames(k, p, fala)), n=k, total=len(PERG))
+        tl.sound(q, at=tl.t + 0.1, voz=True)
         for n in range(int(COUNT)):
             tl.sound(sfx["tick"], at=tl.t + fala + n, vol=0.8)
         for f in pergunta_frames(k, p, fala):
@@ -336,6 +340,7 @@ def main():
         tl.sound(a, at=tl.t + 0.15, voz=True)
         for f in resposta_frames(k, p, s.duracao(a) + 0.7):
             tl.frame(f)
+            ultimo = f
     tl.sound(sfx["whoosh"])
     tl.sound(A("final.mp3"), at=tl.t + 0.2, voz=True)
     for f in final_frames(s.duracao(A("final.mp3")) + 0.7):
