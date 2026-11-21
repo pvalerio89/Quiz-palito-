@@ -1,0 +1,909 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "COMO VIVIAM?",
+  "cartao": [
+   "Antes das cidades,",
+   "os humanos eram..."
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Nômades",
+   "Reis",
+   "Marinheiros"
+  ],
+  "certa": 0,
+  "fala_q": "Primeira questão da revisão! Antes das primeiras cidades, como viviam os seres humanos? Nômades, Reis ou Marinheiros?",
+  "fala_r": "Nômades! Mudavam de lugar o tempo todo, atrás de comida e água.",
+  "count": 8.0,
+  "img": "nomades"
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "O QUE FEZ NASCER AS CIDADES?",
+  "cartao": [
+   "Há mais de",
+   "10 mil anos..."
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "Inventar o carro",
+   "Se fixar num lugar",
+   "Fazer shoppings"
+  ],
+  "certa": 1,
+  "fala_q": "Há mais de dez mil anos, o que permitiu que surgissem as primeiras cidades? Inventar o carro, Se fixar num lugar ou Fazer shoppings?",
+  "fala_r": "Os grupos se fixaram num lugar! Ou seja, deixaram de ser nômades.",
+  "count": 8.0
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "POR QUE PARARAM DE ANDAR?",
+  "cartao": [
+   "Plantar e criar",
+   "animais"
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Televisão",
+   "Eletricidade",
+   "Agricultura"
+  ],
+  "certa": 2,
+  "fala_q": "O que ajudou os grupos a ficarem num lugar só, sem precisar sair atrás de comida? Televisão, Eletricidade ou Agricultura?",
+  "fala_r": "A agricultura! Plantando e criando animais, a comida estava ali pertinho.",
+  "count": 8.0,
+  "img": "agricultura"
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "VERDADEIRO OU FALSO?",
+  "cartao": [
+   "Todas as cidades",
+   "surgiram no",
+   "mesmo período."
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Verdadeiro",
+   "Falso",
+   "Depende"
+  ],
+  "certa": 1,
+  "fala_q": "Verdadeiro ou falso: todas as cidades surgiram no mesmo período.",
+  "fala_r": "Falso! Cada cidade surgiu num tempo diferente, e muitas começaram pequenininhas.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "POR QUE NO LITORAL?",
+  "cartao": [
+   "As primeiras vilas",
+   "do Brasil ficavam",
+   "no litoral"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "Não tinha indígena",
+   "Navios e portos",
+   "Não sabiam fazer casa"
+  ],
+  "certa": 1,
+  "fala_q": "As primeiras vilas do Brasil foram fundadas no litoral. Por quê? Não tinha indígena, Navios e portos ou Não sabiam fazer casa?",
+  "fala_r": "Para facilitar o transporte por navios nos portos! Tudo chegava e saía pelo mar.",
+  "count": 8.0,
+  "img": "caravela"
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "O QUE É ISSO?",
+  "cartao": [
+   "Construção com",
+   "canhões na",
+   "beira do mar"
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Igreja",
+   "Mercado",
+   "Forte"
+  ],
+  "certa": 2,
+  "fala_q": "Olha essa construção na beira do mar, cheia de canhões. O que é? Igreja, Mercado ou Forte?",
+  "fala_r": "Um forte! Era comum no litoral do Brasil na época colonial.",
+  "count": 8.0,
+  "img": "copacabana"
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "PRA QUE SERVIA O FORTE?",
+  "cartao": [
+   "Forte dos",
+   "Reis Magos, Natal"
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "Guardar comida",
+   "Defender a cidade",
+   "Receber turistas"
+  ],
+  "certa": 1,
+  "fala_q": "E pra que serviam os fortes, lá na época colonial? Guardar comida, Defender a cidade ou Receber turistas?",
+  "fala_r": "Para defender a vila e a cidade dos ataques que vinham pelo mar!",
+  "count": 8.0,
+  "img": "reis-magos"
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "POVOADO, VILA OU CIDADE?",
+  "cartao": [
+   "Pequeno grupo",
+   "inicial de",
+   "habitantes"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "Vila",
+   "Povoado",
+   "Cidade"
+  ],
+  "certa": 1,
+  "fala_q": "Pequeno grupo inicial de habitantes. Povoado, vila ou cidade?",
+  "fala_r": "Povoado! É o começo de tudo.",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "POVOADO, VILA OU CIDADE?",
+  "cartao": [
+   "Tem Prefeitura e",
+   "Câmara Municipal"
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Povoado",
+   "Cidade",
+   "Vila"
+  ],
+  "certa": 1,
+  "fala_q": "Tem população maior, Prefeitura e Câmara Municipal. Povoado, vila ou cidade?",
+  "fala_r": "Cidade! Prefeitura e Câmara só a cidade tem.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "QUE CIDADE É ESSA?",
+  "cartao": [
+   "Foi a primeira",
+   "capital do Brasil"
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "Recife",
+   "São Paulo",
+   "Salvador"
+  ],
+  "certa": 2,
+  "fala_q": "Essa cidade foi a primeira capital do Brasil. Qual é? Recife, São Paulo ou Salvador?",
+  "fala_r": "Salvador, na Bahia! Esse é o Elevador Lacerda.",
+  "count": 8.0,
+  "img": "elevador"
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "E A CAPITAL DE HOJE?",
+  "cartao": [
+   "Capital atual",
+   "do Brasil"
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Brasília",
+   "Rio de Janeiro",
+   "São Paulo"
+  ],
+  "certa": 0,
+  "fala_q": "E a capital do Brasil hoje, qual é? Brasília, Rio de Janeiro ou São Paulo?",
+  "fala_r": "Brasília! Esse é o Congresso Nacional.",
+  "count": 8.0,
+  "img": "congresso"
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "PÚBLICO OU PRIVADO?",
+  "cartao": [
+   "Parque"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Privado",
+   "Nenhum dos dois",
+   "Público"
+  ],
+  "certa": 2,
+  "fala_q": "Parque é espaço público ou privado?",
+  "fala_r": "Público! Parque, praça e rua de pedestres pertencem a todos os cidadãos.",
+  "count": 8.0,
+  "img": "ibirapuera"
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "ATITUDE DE BOM CIDADÃO?",
+  "cartao": [
+   "Jogar papel de bala",
+   "no chão da praça"
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "Não",
+   "Sim",
+   "Só se ninguém vê"
+  ],
+  "certa": 0,
+  "fala_q": "Jogar papel de bala no chão da praça é atitude de bom cidadão?",
+  "fala_r": "Não! Lixo vai na lixeira. A praça é de todo mundo.",
+  "count": 8.0,
+  "img": "lixo"
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "EM QUE ANO?",
+  "cartao": [
+   "Salvador foi",
+   "fundada em..."
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "1500",
+   "1822",
+   "1549"
+  ],
+  "certa": 2,
+  "fala_q": "Em que ano a cidade de Salvador foi fundada? 1500, 1822 ou 1549?",
+  "fala_r": "Mil quinhentos e quarenta e nove! Por ordem do rei de Portugal.",
+  "count": 9.0,
+  "img": "salvador"
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "QUEM MANDOU FUNDAR?",
+  "cartao": [
+   "Quem mandou",
+   "fundar Salvador?"
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "O rei de Portugal",
+   "O papa",
+   "Os indígenas"
+  ],
+  "certa": 0,
+  "fala_q": "Salvador foi fundada por ordem de quem? O rei de Portugal, O papa ou Os indígenas?",
+  "fala_r": "Do rei de Portugal!",
+  "count": 8.0,
+  "sabia": "O rei era Dom João Terceiro. Quem veio fundar a cidade foi Tomé de Sousa, o primeiro governador-geral."
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "CIDADE ALTA OU BAIXA?",
+  "cartao": [
+   "Prédios",
+   "públicos"
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "Cidade Baixa",
+   "As duas",
+   "Cidade Alta"
+  ],
+  "certa": 2,
+  "fala_q": "Subindo o nível! Em Salvador, os prédios públicos ficavam na Cidade Alta ou na Cidade Baixa?",
+  "fala_r": "Cidade Alta! Lá ficava o governo.",
+  "count": 8.0,
+  "img": "pelourinho"
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "CIDADE ALTA OU BAIXA?",
+  "cartao": [
+   "Porto e",
+   "armazéns"
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "Cidade Alta",
+   "As duas",
+   "Cidade Baixa"
+  ],
+  "certa": 2,
+  "fala_q": "E o porto e os armazéns? Cidade Alta ou Cidade Baixa?",
+  "fala_r": "Cidade Baixa! Pertinho do mar, onde chegavam os navios.",
+  "count": 8.0
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "CIDADE ALTA OU BAIXA?",
+  "cartao": [
+   "Moradias perto",
+   "da praia"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "Cidade Baixa",
+   "Cidade Alta",
+   "As duas"
+  ],
+  "certa": 0,
+  "fala_q": "E as moradias perto da praia? Cidade Alta ou Cidade Baixa?",
+  "fala_r": "Cidade Baixa! Porto, armazéns e moradias perto da praia.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "O QUE LIGA AS DUAS?",
+  "cartao": [
+   "Liga a Cidade Alta",
+   "à Cidade Baixa"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "Elevador Lacerda",
+   "Ponte Rio-Niterói",
+   "Cristo Redentor"
+  ],
+  "certa": 0,
+  "fala_q": "Em Salvador, o que liga a Cidade Alta à Cidade Baixa até hoje? Elevador Lacerda, Ponte Rio-Niterói ou Cristo Redentor?",
+  "fala_r": "O Elevador Lacerda! Sobe e desce o tempo todo.",
+  "count": 8.0,
+  "img": "elevador2"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "COMPLETE A FRASE!",
+  "cartao": [
+   "Salvador foi a",
+   "primeira ______",
+   "do Brasil."
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "Capital",
+   "Moradia",
+   "Porto"
+  ],
+  "certa": 0,
+  "fala_q": "Complete: Salvador foi a primeira o quê do Brasil? Capital, Moradia ou Porto?",
+  "fala_r": "Capital! A primeira capital do Brasil.",
+  "count": 8.0
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "COMPLETE A FRASE!",
+  "cartao": [
+   "Na Cidade Alta",
+   "ficavam os",
+   "______ públicos."
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Portos",
+   "Prédios",
+   "Armazéns"
+  ],
+  "certa": 1,
+  "fala_q": "Complete: na Cidade Alta ficavam os o quê públicos? Portos, Prédios ou Armazéns?",
+  "fala_r": "Prédios públicos!",
+  "count": 8.0
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "JÁ FOI CAPITAL DO BRASIL?",
+  "cartao": [
+   "São Paulo"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "Nunca foi",
+   "Já foi",
+   "É a de hoje"
+  ],
+  "certa": 0,
+  "fala_q": "São Paulo já foi capital do Brasil?",
+  "fala_r": "Nunca foi! É a maior cidade do Brasil, mas nunca foi capital.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "img": "sao-paulo"
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "JÁ FOI CAPITAL DO BRASIL?",
+  "cartao": [
+   "Rio de Janeiro"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "Nunca foi",
+   "Já foi",
+   "É a de hoje"
+  ],
+  "certa": 1,
+  "fala_q": "E o Rio de Janeiro, já foi capital do Brasil?",
+  "fala_r": "Já foi! O Rio foi capital por quase duzentos anos.",
+  "count": 8.0,
+  "img": "rio"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "JÁ FOI CAPITAL DO BRASIL?",
+  "cartao": [
+   "Curitiba"
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Já foi",
+   "Nunca foi",
+   "É a de hoje"
+  ],
+  "certa": 1,
+  "fala_q": "E Curitiba, já foi capital do Brasil?",
+  "fala_r": "Nunca foi! Curitiba é capital do Paraná, mas não do Brasil.",
+  "count": 8.0,
+  "img": "curitiba"
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "QUAL A ORDEM?",
+  "cartao": [
+   "1ª, 2ª e 3ª",
+   "capital do Brasil"
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "Salvador, Rio, Brasília",
+   "Rio, Salvador, Brasília",
+   "Brasília, Rio, Salvador"
+  ],
+  "certa": 0,
+  "fala_q": "Qual é a ordem das capitais do Brasil, da primeira até a de hoje? Salvador, Rio, Brasília, Rio, Salvador, Brasília ou Brasília, Rio, Salvador?",
+  "fala_r": "Salvador, depois Rio de Janeiro, e agora Brasília!",
+  "count": 10.0
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "POVOADO, VILA OU CIDADE?",
+  "cartao": [
+   "Maior que o povoado,",
+   "com comércio",
+   "e pelourinho"
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "Povoado",
+   "Vila",
+   "Cidade"
+  ],
+  "certa": 1,
+  "fala_q": "Maior que o povoado, com comércio e, na época colonial, com pelourinho. Povoado, vila ou cidade?",
+  "fala_r": "Vila! Na época colonial, toda vila tinha que ter pelourinho.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "O QUE ERA O PELOURINHO?",
+  "cartao": [
+   "Coluna de pedra",
+   "na praça da vila"
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "Poço de água",
+   "Relógio",
+   "Lugar de castigo"
+  ],
+  "certa": 2,
+  "fala_q": "Na época colonial, o que era o pelourinho? Poço de água, Relógio ou Lugar de castigo?",
+  "fala_r": "Uma coluna na praça onde pessoas, principalmente as escravizadas, eram castigadas em público.",
+  "count": 8.0,
+  "sabia": "Era também o símbolo de que o lugar era uma vila. Em Salvador, um bairro inteiro ganhou o nome de Pelourinho.",
+  "img": "pelourinho-coluna"
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "PÚBLICO OU PRIVADO?",
+  "cartao": [
+   "Shopping"
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "Privado",
+   "Público",
+   "Nenhum dos dois"
+  ],
+  "certa": 0,
+  "fala_q": "Shopping é espaço público ou privado?",
+  "fala_r": "Privado! Shopping tem dono. De todos mesmo são a praça, o parque e a rua de pedestres.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "COMPLETE A FRASE!",
+  "cartao": [
+   "Pessoas de diferentes",
+   "idades, etnias e",
+   "condições ______"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Climáticas",
+   "Musicais",
+   "Sociais"
+  ],
+  "certa": 2,
+  "fala_q": "Complete: nas cidades se encontram pessoas de diferentes idades, etnias e condições o quê? Climáticas, Musicais ou Sociais?",
+  "fala_r": "Sociais! A cidade junta todo tipo de gente.",
+  "count": 8.0
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "QUAL É DEVER DO CIDADÃO?",
+  "cartao": [
+   "Passeando com",
+   "o cachorro na praça"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "Recolher o cocô",
+   "Deixar lá mesmo",
+   "Soltar na rua"
+  ],
+  "certa": 0,
+  "fala_q": "Passeando com o cachorro na praça, qual é o dever do bom cidadão? Recolher o cocô, Deixar lá mesmo ou Soltar na rua?",
+  "fala_r": "Recolher o cocô! Assim a praça fica limpa pra todo mundo.",
+  "count": 8.0,
+  "img": "praca"
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "ONDE NASCERAM AS PRIMEIRAS?",
+  "cartao": [
+   "Entre dois rios:",
+   "Tigre e Eufrates"
+  ],
+  "foto": "q31.png",
+  "opcoes": [
+   "Amazônia",
+   "Antártida",
+   "Mesopotâmia"
+  ],
+  "certa": 2,
+  "fala_q": "Agora é a parte que reprova! Algumas das primeiras cidades do mundo nasceram entre os rios Tigre e Eufrates. Que região é essa? Amazônia, Antártida ou Mesopotâmia?",
+  "fala_r": "Mesopotâmia! Quer dizer terra entre rios.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "img": "ur"
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "POR QUE PERTO DOS RIOS?",
+  "cartao": [
+   "As primeiras cidades",
+   "nasciam perto",
+   "de rios"
+  ],
+  "foto": "q32.png",
+  "opcoes": [
+   "Pra nadar",
+   "Água pra plantar",
+   "Pra ver baleia"
+  ],
+  "certa": 1,
+  "fala_q": "Por que as primeiras cidades nasciam perto de rios? Pra nadar, Água pra plantar ou Pra ver baleia?",
+  "fala_r": "Água pra plantar e pra beber! Sem água não tem agricultura.",
+  "count": 8.0,
+  "img": "nilo"
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "UMA DAS MAIS ANTIGAS",
+  "cartao": [
+   "Cidade com mais",
+   "de 10 mil anos"
+  ],
+  "foto": "q33.png",
+  "opcoes": [
+   "Brasília",
+   "Jericó",
+   "Curitiba"
+  ],
+  "certa": 1,
+  "fala_q": "Qual destas é uma das cidades mais antigas do mundo, com mais de dez mil anos? Brasília, Jericó ou Curitiba?",
+  "fala_r": "Jericó! Fica no Oriente Médio, e tem gente morando lá há mais de dez mil anos.",
+  "count": 8.0,
+  "img": "jerico"
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "QUAL FOI A PRIMEIRA VILA?",
+  "cartao": [
+   "Primeira vila",
+   "do Brasil"
+  ],
+  "foto": "q34.png",
+  "opcoes": [
+   "Salvador",
+   "São Vicente",
+   "Brasília"
+  ],
+  "certa": 1,
+  "fala_q": "Qual foi a primeira vila do Brasil? Salvador, São Vicente ou Brasília?",
+  "fala_r": "São Vicente, no litoral de São Paulo, em mil quinhentos e trinta e dois!",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "img": "sao-vicente",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "QUEM FUNDOU SALVADOR?",
+  "cartao": [
+   "Primeiro",
+   "governador-geral"
+  ],
+  "foto": "q35.png",
+  "opcoes": [
+   "Tomé de Sousa",
+   "Pedro Álvares Cabral",
+   "Dom Pedro I"
+  ],
+  "certa": 0,
+  "fala_q": "Quem veio de Portugal para fundar Salvador? Tomé de Sousa, Pedro Álvares Cabral ou Dom Pedro I?",
+  "fala_r": "Tomé de Sousa, o primeiro governador-geral do Brasil!",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "img": "tome"
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "QUANTO TEMPO?",
+  "cartao": [
+   "Salvador foi capital",
+   "por quanto tempo?"
+  ],
+  "foto": "q36.png",
+  "opcoes": [
+   "Só 10 anos",
+   "Uns 50 anos",
+   "Mais de 200 anos"
+  ],
+  "certa": 2,
+  "fala_q": "Salvador foi capital do Brasil por quanto tempo? Só 10 anos, Uns 50 anos ou Mais de 200 anos?",
+  "fala_r": "Mais de duzentos anos! De mil quinhentos e quarenta e nove até mil setecentos e sessenta e três.",
+  "count": 8.0
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "EM QUE ANO?",
+  "cartao": [
+   "Brasília virou",
+   "capital em..."
+  ],
+  "foto": "q37.png",
+  "opcoes": [
+   "1822",
+   "1960",
+   "1900"
+  ],
+  "certa": 1,
+  "fala_q": "Em que ano Brasília virou a capital do Brasil? 1822, 1960 ou 1900?",
+  "fala_r": "Mil novecentos e sessenta!",
+  "count": 9.0,
+  "sabia": "Quem mandou construir Brasília foi o presidente Juscelino Kubitschek. A cidade ficou pronta em menos de quatro anos.",
+  "img": "planalto"
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "POR QUE NO MEIO DO BRASIL?",
+  "cartao": [
+   "Por que levar",
+   "a capital pro",
+   "centro do país?"
+  ],
+  "foto": "q38.png",
+  "opcoes": [
+   "Fugir da praia",
+   "Ocupar o interior",
+   "Ficar perto da neve"
+  ],
+  "certa": 1,
+  "fala_q": "Por que levaram a capital lá pro centro do Brasil? Fugir da praia, Ocupar o interior ou Ficar perto da neve?",
+  "fala_r": "Para ocupar e desenvolver o interior do país! Antes, quase tudo ficava perto do mar.",
+  "count": 8.0,
+  "img": "plano-piloto"
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "PRA ONDE MIRAVAM?",
+  "cartao": [
+   "Os canhões",
+   "do forte",
+   "miravam..."
+  ],
+  "foto": "q39.png",
+  "opcoes": [
+   "A floresta",
+   "O céu",
+   "O mar"
+  ],
+  "certa": 2,
+  "fala_q": "Os canhões dos fortes do litoral miravam pra onde? A floresta, O céu ou O mar?",
+  "fala_r": "O mar! Os ataques de piratas e de outros povos europeus vinham de navio.",
+  "count": 8.0,
+  "img": "farol-barra"
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "ONDE FAZIAM OS FORTES?",
+  "cartao": [
+   "Eram construídos",
+   "em locais..."
+  ],
+  "foto": "q40.png",
+  "opcoes": [
+   "Estratégicos",
+   "Escondidos",
+   "Qualquer um"
+  ],
+  "certa": 0,
+  "fala_q": "Os fortes eram construídos em locais o quê? Estratégicos, Escondidos ou Qualquer um?",
+  "fala_r": "Estratégicos! Num lugar alto ou na entrada da baía, de onde dava pra ver o inimigo chegando.",
+  "count": 8.0
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "QUAL NÃO É DEVER?",
+  "cartao": [
+   "Qual destes",
+   "NÃO é dever",
+   "do cidadão?"
+  ],
+  "foto": "q41.png",
+  "opcoes": [
+   "Cuidar das praças",
+   "Respeitar as pessoas",
+   "Pichar os muros"
+  ],
+  "certa": 2,
+  "fala_q": "Qual destes não é dever do bom cidadão? Cuidar das praças, Respeitar as pessoas ou Pichar os muros?",
+  "fala_r": "Pichar os muros! Isso suja a cidade de todos.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "QUEM FAZ AS LEIS?",
+  "cartao": [
+   "Quem faz as leis",
+   "da cidade?"
+  ],
+  "foto": "q42.png",
+  "opcoes": [
+   "O porto",
+   "O forte",
+   "Câmara Municipal"
+  ],
+  "certa": 2,
+  "fala_q": "Na cidade, quem faz as leis? O porto, O forte ou Câmara Municipal?",
+  "fala_r": "A Câmara Municipal! É lá que trabalham os vereadores. E o prefeito cuida da cidade na Prefeitura.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "QUAL É A ORDEM?",
+  "cartao": [
+   "Do menor",
+   "para o maior"
+  ],
+  "foto": "q43.png",
+  "opcoes": [
+   "Povoado, vila, cidade",
+   "Cidade, vila, povoado",
+   "Vila, povoado, cidade"
+  ],
+  "certa": 0,
+  "fala_q": "Qual é a ordem do crescimento das ocupações humanas, do menor para o maior? Povoado, vila, cidade, Cidade, vila, povoado ou Vila, povoado, cidade?",
+  "fala_r": "Povoado, vila e cidade!",
+  "count": 10.0
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "POR QUE LÁ NO ALTO?",
+  "cartao": [
+   "Por que o governo",
+   "ficava na",
+   "Cidade Alta?"
+  ],
+  "foto": "q44.png",
+  "opcoes": [
+   "Mais fácil defender",
+   "Fugir do calor",
+   "Ver o pôr do sol"
+  ],
+  "certa": 0,
+  "fala_q": "Por que os prédios do governo de Salvador ficavam lá no alto? Mais fácil defender, Fugir do calor ou Ver o pôr do sol?",
+  "fala_r": "Mais fácil de defender! Lá de cima dava pra ver quem chegava pelo mar.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 45,
+  "nivel": 4,
+  "pergunta": "QUANTAS JÁ FORAM?",
+  "cartao": [
+   "São Paulo, Curitiba,",
+   "Salvador, Brasília",
+   "e Rio de Janeiro"
+  ],
+  "foto": "q45.png",
+  "opcoes": [
+   "3",
+   "1",
+   "2"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo a nota da prova! Dessas cinco cidades: São Paulo, Curitiba, Salvador, Brasília e Rio de Janeiro. Quantas já foram capital do Brasil, mas não são mais? 3, 1 ou 2?",
+  "fala_r": "Duas! Salvador e Rio de Janeiro. Brasília é a de hoje, e São Paulo e Curitiba nunca foram. Se acertou essa, tirou dez na prova!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]

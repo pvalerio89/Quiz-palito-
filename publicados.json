@@ -1131,6 +1131,36 @@
         "data": "2026-11-21",
         "origem": "github-actions"
       }
+    },
+    "videos/43-revisao-historia": {
+      "youtube": {
+        "status": "publicado",
+        "id": "25KlhR3fkyQ",
+        "url": "https://youtu.be/25KlhR3fkyQ",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "85a6282f238f28d1f51858c359f290076e1c77905c3a883eb8e904932ebceaa2"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/historia-2": {
+      "titulo": "REVISÃO DE HISTÓRIA DO 3º ANO! 🏰 Se acertar 4, você é fera! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "ZJNzhSKcgek",
+        "url": "https://youtu.be/ZJNzhSKcgek",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "d3f73b9f3e312178ecb6c9a84ece018e32cd0f3886e2ec8f67aa5725c1301053"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7709955953176823814",
+        "data": "2026-11-19",
+        "origem": "github-actions"
+      }
     }
   }
 }
