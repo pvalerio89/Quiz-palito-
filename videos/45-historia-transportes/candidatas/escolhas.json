@@ -1,0 +1,81 @@
+{
+ "tropeiro": {
+  "file": "Tropeiro_de_Minas.jpg"
+ },
+ "mula": {
+  "file": "Pack_Mules_Waiting_(15755930793).jpg"
+ },
+ "mula2": {
+  "file": "Juancito.jpg"
+ },
+ "debret": {
+  "file": "Debretberimbau.jpg"
+ },
+ "liteira": {
+  "file": "Senhora_escravos_1860.jpg"
+ },
+ "maua": {
+  "file": "Baroneza.JPG"
+ },
+ "vapor": {
+  "file": "Flying_Scotsman_in_Doncaster.JPG"
+ },
+ "vapor2": {
+  "file": "The_Stourbridge_Lion.JPG",
+  "crop": "fit"
+ },
+ "diesel": {
+  "file": "Limousin2010RVT01.jpg"
+ },
+ "eletrica": {
+  "file": "AlcoGEClassS1.JPG"
+ },
+ "tgv": {
+  "file": "TGV_original_livery_1987.jpg"
+ },
+ "maglev": {
+  "file": "A_maglev_train_coming_out,_Pudong_International_Airport,_Shanghai.jpg"
+ },
+ "14bis": {
+  "file": "Voo_do_14_bis.jpg"
+ },
+ "dumont": {
+  "file": "Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg"
+ },
+ "jangada": {
+  "file": "Jangada-Tibau.jpg"
+ },
+ "bonde": {
+  "file": "Packed_Rio_tram_02_near_Largo_Guimarães.jpg"
+ },
+ "canoa": {
+  "file": "Dugout_canoe_on_land.jpg"
+ },
+ "pesca": {
+  "file": "Fisherman_Seychelles.jpg"
+ },
+ "paraty": {
+  "file": "Paraty_05.JPG"
+ },
+ "vargas": {
+  "file": "Av._Presidente_Vargas.jpg"
+ },
+ "transito": {
+  "file": "Traffic_jam_Sao_Paulo_09_2006_30.JPG"
+ },
+ "trolebus": {
+  "file": "WYMT_34980_leaving_Wuyang_Community_(20240326134517).jpg"
+ },
+ "onibus_eletrico": {
+  "file": "Electric_buses_in_New_York_(9418).jpg"
+ },
+ "transatlantico": {
+  "file": "Mauretania,1907_on_Tyne.JPG"
+ },
+ "bicicleta": {
+  "file": "Left_side_of_Flying_Pigeon.jpg"
+ },
+ "brt": {
+  "file": "EDSA_Carousel_North_Avenue_stop_4April2025_03.jpg"
+ }
+}

@@ -1131,6 +1131,36 @@
         "data": "2026-11-21",
         "origem": "github-actions"
       }
+    },
+    "videos/45-historia-transportes": {
+      "youtube": {
+        "status": "publicado",
+        "id": "8tw29KbsHRU",
+        "url": "https://youtu.be/8tw29KbsHRU",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "13bbc019b0fadbbc4df4f9237e184993e4bef3b98d590e1e8a3c08ad1a485207"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/historia-1": {
+      "titulo": "PROVA DE HISTÓRIA DO 3º ANO! 🚂 Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "b72pz4aRxpQ",
+        "url": "https://youtu.be/b72pz4aRxpQ",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "aaf5bf18f12917b742d5e8465d140d19720c649ba8a7aad1749265f50d2716c8"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7709964890651543560",
+        "data": "2026-11-19",
+        "origem": "github-actions"
+      }
     }
   }
 }
