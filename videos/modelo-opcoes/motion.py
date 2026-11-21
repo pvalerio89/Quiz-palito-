@@ -23,8 +23,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(HERE), "05-nao-diga-o-mesmo"))
 from build_naodiga import b
 
 FPS = b.FPS
-ESTILOS = ("raios", "faixas", "cartao")
-DUR = {"raios": 1.0, "faixas": 1.0, "cartao": 1.1}
+ESTILOS = ("raios", "faixas", "cartao", "splash")
+DUR = {"raios": 1.0, "faixas": 1.0, "cartao": 1.1, "splash": 1.0}
 AMARELO, LARANJA, AZUL, MARINHO, BRANCO = b.YELLOW, b.ORANGE, b.BLUE, b.NAVY, b.WHITE
 ROSA = (235, 70, 120)
 
@@ -294,10 +294,109 @@ def _cartao_sons(tl, sfx, at):
     tl.sound(sfx["whoosh"], at=at + 0.5, vol=0.6)
 
 
+# ---------- estilo 4: SPLASH (respingo de tinta; pedido do Patrick 2026-11-21) ----------
+
+def _splat_forma(rnd, pontas=9, gotas=14):
+    """Forma de respingo (raio 1): borda ondulada, pontas finas que terminam em gota e gotinhas soltas."""
+    ondas = [(rnd.randint(3, 11), rnd.uniform(0, 6.28), rnd.uniform(0.03, 0.08)) for _ in range(5)]
+    ang_p = [(rnd.uniform(0, 6.28), rnd.uniform(1.25, 1.75), rnd.uniform(0.05, 0.09)) for _ in range(pontas)]
+    soltas = [(rnd.uniform(0, 6.28), rnd.uniform(1.15, 1.9), rnd.uniform(0.025, 0.07)) for _ in range(gotas)]
+    return ondas, ang_p, soltas
+
+
+def _splat(m, cx, cy, R, forma, cor=255, rot=0.0):
+    """Desenha o respingo de raio R em (cx, cy) na máscara/imagem m."""
+    if R < 1:
+        return
+    ondas, pontas, soltas = forma
+    d = ImageDraw.Draw(m)
+    pts = []
+    for k in range(120):
+        a = k * 2 * math.pi / 120
+        r = 1 + sum(amp * math.sin(f * a + ph) for f, ph, amp in ondas)
+        pts.append((cx + R * r * math.cos(a + rot), cy + R * r * math.sin(a + rot)))
+    d.polygon(pts, fill=cor)
+    for a, L, lw in pontas:              # pontas: triângulo fino + gota na ponta
+        a += rot
+        ca, sa = math.cos(a), math.sin(a)
+        px, py = -sa, ca
+        base = R * 0.85
+        bw = R * lw * 2.2
+        tx, ty = cx + R * L * ca, cy + R * L * sa
+        d.polygon([(cx + base * ca + px * bw, cy + base * sa + py * bw),
+                   (cx + base * ca - px * bw, cy + base * sa - py * bw), (tx, ty)], fill=cor)
+        gr = R * lw
+        d.ellipse([tx - gr, ty - gr, tx + gr, ty + gr], fill=cor)
+    for a, L, gr in soltas:
+        a += rot
+        x, y = cx + R * L * math.cos(a), cy + R * L * math.sin(a)
+        d.ellipse([x - R * gr, y - R * gr, x + R * gr, y + R * gr], fill=cor)
+
+
+def _splash_frames(antes, depois, n, total, dur):
+    """3 respingos de tinta (amarelo, laranja, azul) estouram e cobrem a tela, o número pula no meio
+    e a próxima pergunta aparece de dentro de um último respingo que cresce."""
+    w, h = antes.size
+    u = min(w, h) / 1080
+    rnd = random.Random(1000 + (n or 0))
+    D = math.hypot(w, h)
+    horiz = w > h
+    # (cor, centro, início, raio final)
+    # 5 respingos menores, um atrás do outro, em lugares diferentes (cor, centro, início, raio, forma, giro)
+    cent = [(0.22, 0.3), (0.78, 0.7), (0.7, 0.22), (0.28, 0.75), (0.5, 0.5)]
+    if not horiz:
+        cent = [(y, x) for x, y in cent]
+    cores = [AMARELO, ROSA, LARANJA, (0, 190, 200), AZUL]
+    manchas = [(cor, (w * fx, h * fy), 0.06 * k, D * (0.2 + 0.05 * k), _splat_forma(rnd), rnd.uniform(-1, 1))
+               for k, (cor, (fx, fy)) in enumerate(zip(cores, cent))]
+    revela = _splat_forma(rnd, pontas=11, gotas=18)
+    sombra = lambda c: tuple(int(v * 0.6) for v in c)
+    N = int(dur * FPS)
+    for i in range(N):
+        t = (i + 1) / N
+        if t >= 0.999:
+            yield depois.copy()
+            continue
+        img = _zoom(antes, 1 + 0.06 * ease_out(t / 0.4))
+        for cor, (cx, cy), t0, rf, forma, rot in manchas:
+            p = (t - t0) / 0.2
+            if p <= 0:
+                continue
+            R = rf * back_out(p, 1.6)
+            _splat(img, cx + 10 * u, cy + 14 * u, R, forma, sombra(cor), rot)   # sombra (volume)
+            _splat(img, cx, cy, R, forma, cor, rot)
+            hl = R * 0.1                                                       # brilho
+            ImageDraw.Draw(img).ellipse([cx - R * 0.5 - hl, cy - R * 0.5 - hl * 0.6, cx - R * 0.5 + hl,
+                                         cy - R * 0.5 + hl * 0.6], fill=tuple(min(255, v + 70) for v in cor))
+        if t >= 0.52:                          # a próxima pergunta "espirra" por cima, do centro
+            p = (t - 0.52) / 0.44
+            R = D * 0.8 * ease_out(p)
+            borda = Image.new("L", (w, h), 0)
+            _splat(borda, w / 2, h / 2, R * 1.04 + 12 * u, revela, 255, 0.3)
+            img.paste(BRANCO, (0, 0), borda)
+            m = Image.new("L", (w, h), 0)
+            _splat(m, w / 2, h / 2, R, revela, 255, 0.3)
+            img.paste(depois, (0, 0), m.filter(ImageFilter.GaussianBlur(1.2)))
+        sc = back_out((t - 0.22) / 0.2) * (1 - ease_in((t - 0.5) / 0.14))
+        if sc > 0.02:
+            img = img.convert("RGBA")
+            _numero(img, w // 2, int(h / 2 + 40 * u), n, total, sc, u)
+            img = img.convert("RGB")
+        yield img
+
+
+def _splash_sons(tl, sfx, at):
+    for k in range(3):
+        tl.sound(sfx.get("splash", sfx["whoosh"]), at=at + 0.08 * k, vol=0.9 - 0.15 * k)
+    if "pop" in sfx:
+        tl.sound(sfx["pop"], at=at + 0.33, vol=0.8)
+    tl.sound(sfx.get("splash", sfx["whoosh"]), at=at + 0.6, vol=0.7)
+
+
 # ---------- uso ----------
 
-_FRAMES = {"raios": _raios_frames, "faixas": _faixas_frames, "cartao": _cartao_frames}
-_SONS = {"raios": _raios_sons, "faixas": _faixas_sons, "cartao": _cartao_sons}
+_FRAMES = {"raios": _raios_frames, "faixas": _faixas_frames, "cartao": _cartao_frames, "splash": _splash_frames}
+_SONS = {"raios": _raios_sons, "faixas": _faixas_sons, "cartao": _cartao_sons, "splash": _splash_sons}
 
 
 def transicao(antes, depois, estilo="raios", n=None, total=None, dur=None):
@@ -314,7 +413,9 @@ def sons(tl, sfx, estilo="raios", at=None):
 
 def make_sfx(tmp, sfx):
     """Acrescenta 'boom' (impacto grave) e 'pop' ao dicionário de sons, se faltarem."""
-    novos = {"boom": "aevalsrc='0.9*sin(2*PI*(110-60*t)*t)*exp(-7*t)':s=44100:d=0.5"}
+    novos = {"boom": "aevalsrc='0.9*sin(2*PI*(110-60*t)*t)*exp(-7*t)':s=44100:d=0.5",
+             # 'splash': chiado molhado curto + batida grave (respingo de tinta)
+             "splash": "aevalsrc='0.7*(random(0)*2-1)*exp(-14*t)*(0.6+0.4*sin(2*PI*35*t))+0.6*sin(2*PI*(160-90*t)*t)*exp(-18*t)':s=44100:d=0.35"}
     if "pop" not in sfx:
         novos["pop"] = "aevalsrc='0.5*sin(2*PI*(500+2200*t)*t)*exp(-28*t)':s=44100:d=0.14"
     for k, src in novos.items():
