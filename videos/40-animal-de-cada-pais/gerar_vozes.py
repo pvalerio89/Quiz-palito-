@@ -15,8 +15,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 INTRO = "Bora dar a volta ao mundo dos bichos!"      # intro rapidinha, saudação variada
 Q1 = "São trinta e seis países, do fácil ao impossível, e a última ninguém acerta! "   # gancho falado na 1ª pergunta
-CURTIR = "Ei, antes do próximo país... se você tá curtindo, deixa o coraçãozinho e dá aquele like!"
-ESPERO = "Eu espero!"
+CURTIR = "Ei, antes do próximo país... se inscreva no canal e deixe seu like!"
+ESPERO = "Vai lá, que eu espero!"
 PLACAR = {
     10: "Dez países já foram! Quantos bichos você acertou?",
     20: "Vinte! Agora vem bicho que quase ninguém conhece!",
