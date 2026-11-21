@@ -1100,6 +1100,35 @@
         "origem": "github-actions"
       }
     },
+    "videos/39-selecoes-a-z": {
+      "youtube": {
+        "status": "publicado",
+        "id": "8f-VKIcxHEQ",
+        "url": "https://youtu.be/8f-VKIcxHEQ",
+        "data": "2026-11-21",
+        "origem": "github-actions",
+        "sha256": "151a8016e4202552f0a69a3cae0a8fa9c6efa7dfda41d5403a7504032b9d6b0f",
+        "no_ar_em": "2026-11-21T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/palito-4": {
+      "titulo": "TIRE só 1 PALITO e conserte a conta! 🧠 Parece fácil... #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "LU-rRBvsigM",
+        "url": "https://youtu.be/LU-rRBvsigM",
+        "data": "2026-11-21",
+        "origem": "github-actions",
+        "sha256": "127b1b64ce320790cf20b8e2b29f3cfc160fc49258cfc28bcc227298e4e0a2b9",
+        "no_ar_em": "2026-11-21T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
     "videos/49-grammar-travel": {
       "youtube": {
         "status": "publicado",
