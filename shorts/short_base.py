@@ -157,6 +157,19 @@ def duracao(p):
     return b.duration(p) if os.path.exists(p) else 1.5
 
 
+def transicao(tl, sfx, antes, depois, n=None, total=None, estilo="splash"):
+    """Transição em motion graphics entre perguntas (SPLASH aprovado pelo Patrick, 2026-11-21):
+    agenda os sons e grava os quadros. antes = último quadro da resposta; depois = 1º quadro da próxima
+    pergunta (ex.: next(pergunta_frames(k, p, fala))). Não usar antes da 1ª pergunta (Short começa nela)."""
+    sys.path.insert(0, os.path.join(QP, "videos", "modelo-opcoes"))
+    import motion
+    if "splash" not in sfx:
+        motion.make_sfx(os.path.dirname(sfx["whoosh"]), sfx)
+    motion.sons(tl, sfx, estilo)
+    for f in motion.transicao(antes, depois, estilo, n=n, total=total):
+        tl.frame(f)
+
+
 def mixar(tl, video, musica, out):
     """Narração + efeitos + música que abaixa quando o narrador fala."""
     import numpy as np

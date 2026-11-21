@@ -87,6 +87,11 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
      preferência) e baixe com `automacao/fotos_wiki.py clipes` pelo workflow "Fotos Wikimedia" (crédito vai na tela final).
      Alternativas erradas plausíveis e do mesmo tipo; a certa em posição variada. Exemplo completo: `previa.py` (`video()`).
      Só se o tema não couber em alternativas, use o modelo mais recente de `videos/`.
+   - **TRANSIÇÃO SPLASH (motion graphics, Patrick aprovou 2026-11-21; longos e Shorts novos):** entre uma pergunta e
+     outra, respingos de tinta coloridos cobrem a tela, o número da pergunta pula e a próxima sai de um respingo
+     (`videos/modelo-opcoes/motion.py`, som "splash"). Longo: já é automático em `humano.pergunta` / `op.transicao_frames`
+     (`op.TRANSICAO = "splash"`). Short: entre as perguntas use `s.transicao(tl, sfx, ultimo, next(pergunta_frames(k, p, fala)),
+     n=k, total=len(PERG))` no lugar do whoosh (exemplo em `shorts/modelo/build_short.py`); a 1ª pergunta continua sem transição.
    - **ESTILO MAIS HUMANO (Patrick, 2026-11-13; vale para todo vídeo longo novo): `videos/modelo-opcoes/humano.py`**
      (amostra aprovada: `videos/amostra-humano/build_amostra.py`). Monte cada pergunta com `hu.pergunta(...)` em vez
      de chamar `pergunta_frames`/`resposta_frames` direto. Ele achou o formato antigo "muito robótico". Regras:
