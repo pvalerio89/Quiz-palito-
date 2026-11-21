@@ -1,0 +1,464 @@
+[
+ {
+  "n": 1,
+  "pergunta": "ONDE FICA ESSE MONUMENTO?",
+  "foto": "cristo.jpg",
+  "opcoes": [
+   "SÃO PAULO",
+   "RIO DE JANEIRO",
+   "SALVADOR"
+  ],
+  "certa": 1,
+  "fala_q": "Pra esquentar! Em qual cidade fica o Cristo Redentor? são paulo, rio de janeiro ou salvador?",
+  "fala_r": "Rio de Janeiro! Lá no alto do Corcovado. Começou bem?",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "pergunta": "QUAL É O NOME DESSE DOCE?",
+  "foto": "brigadeiro.jpg",
+  "opcoes": [
+   "BEIJINHO",
+   "CAJUZINHO",
+   "BRIGADEIRO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma de festa de aniversário! Qual é o nome desse docinho? beijinho, cajuzinho ou brigadeiro?",
+  "fala_r": "Brigadeiro! O rei da festa!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "pergunta": "QUE AVE É ESSA?",
+  "foto": "tucano.jpg",
+  "opcoes": [
+   "TUCANO",
+   "ARARA",
+   "PAPAGAIO"
+  ],
+  "certa": 0,
+  "fala_q": "Olha esse bico! Que ave é essa? tucano, arara ou papagaio?",
+  "fala_r": "Tucano! Aquele bico enorme é levinho, viu?",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "pergunta": "QUE ESTÁDIO É ESSE?",
+  "foto": "maracana.jpg",
+  "opcoes": [
+   "MINEIRÃO",
+   "MARACANÃ",
+   "MORUMBI"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pro futebol! Que estádio famoso é esse, no Rio? mineirão, maracanã ou morumbi?",
+  "fala_r": "Maracanã! Palco de duas finais de Copa do Mundo!",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "pergunta": "MAIOR FELINO DAS AMÉRICAS?",
+  "foto": "onca.jpg",
+  "opcoes": [
+   "JAGUATIRICA",
+   "ONÇA-PINTADA",
+   "PUMA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um bicho bravo! Qual é o maior felino das Américas? jaguatirica, onça-pintada ou puma?",
+  "fala_r": "Onça-pintada! E ela adora nadar!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "pergunta": "MAIOR ROEDOR DO MUNDO?",
+  "foto": "capivara.jpg",
+  "opcoes": [
+   "PACA",
+   "CUTIA",
+   "CAPIVARA"
+  ],
+  "certa": 2,
+  "fala_q": "Esse aqui é o queridinho da internet! Qual é o maior roedor do mundo? paca, cutia ou capivara?",
+  "fala_r": "Capivara! A mais tranquila do Brasil!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "pergunta": "DE QUAL ESTADO É ESSE PETISCO?",
+  "foto": "pao-de-queijo.jpg",
+  "opcoes": [
+   "MINAS GERAIS",
+   "GOIÁS",
+   "PARANÁ"
+  ],
+  "certa": 0,
+  "fala_q": "Hora do lanche! O pão de queijo é típico de qual estado? minas gerais, goiás ou paraná?",
+  "fala_r": "Minas Gerais! Com um cafezinho, uai!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "pergunta": "ONDE FICAM AS CATARATAS?",
+  "foto": "cataratas.jpg",
+  "opcoes": [
+   "SANTA CATARINA",
+   "MATO GROSSO DO SUL",
+   "PARANÁ"
+  ],
+  "certa": 2,
+  "fala_q": "Olha que lugar lindo! As Cataratas do Iguaçu ficam em qual estado? santa catarina, mato grosso do sul ou paraná?",
+  "fala_r": "Paraná! Lá em Foz do Iguaçu, na divisa com a Argentina!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "pergunta": "DE QUAL REGIÃO É ESSA TRADIÇÃO?",
+  "foto": "chimarrao.jpg",
+  "opcoes": [
+   "NORDESTE",
+   "NORTE",
+   "SUL"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma tradição! O chimarrão é a cara de qual região? nordeste, norte ou sul?",
+  "fala_r": "Sul! O gaúcho não larga a cuia, tchê!",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "pergunta": "DE ONDE VEM O AÇAÍ?",
+  "foto": "acai.jpg",
+  "opcoes": [
+   "REGIÃO SUL",
+   "CENTRO-OESTE",
+   "REGIÃO NORTE"
+  ],
+  "certa": 2,
+  "fala_q": "E o açaí, vem de qual região do Brasil? região sul, centro-oeste ou região norte?",
+  "fala_r": "Região Norte! Lá no Pará se come açaí com peixe!",
+  "count": 7.0,
+  "sabia": "NO PARÁ, AÇAÍ SE COME COM PEIXE"
+ },
+ {
+  "n": 11,
+  "pergunta": "PRIMEIRA CAPITAL DO BRASIL?",
+  "foto": "pelourinho.jpg",
+  "opcoes": [
+   "SALVADOR",
+   "RIO DE JANEIRO",
+   "RECIFE"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma de história! Qual foi a primeira capital do Brasil? salvador, rio de janeiro ou recife?",
+  "fala_r": "Salvador! Foi capital por mais de duzentos anos!",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "pergunta": "QUANDO É O FERIADO DELE?",
+  "foto": "tiradentes.jpg",
+  "opcoes": [
+   "21 DE ABRIL",
+   "7 DE SETEMBRO",
+   "15 DE NOVEMBRO"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é o Tiradentes! Em que dia cai o feriado de Tiradentes? 21 de abril, 7 de setembro ou 15 de novembro?",
+  "fala_r": "Vinte e um de abril! Quem acertou merece um dia de folga!",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "pergunta": "DE QUAL ESTADO É O FREVO?",
+  "foto": "frevo.jpg",
+  "opcoes": [
+   "BAHIA",
+   "CEARÁ",
+   "PERNAMBUCO"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pro Carnaval! O frevo, com essas sombrinhas coloridas, é de qual estado? bahia, ceará ou pernambuco?",
+  "fala_r": "Pernambuco! O frevo nasceu em Recife!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "pergunta": "ONDE FICA ESSE PARQUE?",
+  "foto": "lencois.jpg",
+  "opcoes": [
+   "CEARÁ",
+   "MARANHÃO",
+   "PIAUÍ"
+  ],
+  "certa": 1,
+  "fala_q": "Parece deserto, mas tem lagoa! Os Lençóis Maranhenses ficam em qual estado? ceará, maranhão ou piauí?",
+  "fala_r": "Maranhão! Tava até no nome, hein?",
+  "count": 7.0,
+  "aviso": "TÁ NA CARA!"
+ },
+ {
+  "n": 15,
+  "pergunta": "QUEM PROCLAMOU A INDEPENDÊNCIA?",
+  "foto": "pedro-i.jpg",
+  "opcoes": [
+   "DOM PEDRO II",
+   "DOM PEDRO I",
+   "TIRADENTES"
+  ],
+  "certa": 1,
+  "fala_q": "Cuidado, que essa engana! Quem proclamou a Independência do Brasil? dom pedro ii, dom pedro i ou tiradentes?",
+  "fala_r": "Dom Pedro primeiro! O segundo era o filho dele!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 16,
+  "pergunta": "QUANTAS COPAS O BRASIL TEM?",
+  "foto": "taca.jpg",
+  "opcoes": [
+   "5",
+   "4",
+   "6"
+  ],
+  "certa": 0,
+  "fala_q": "Essa todo brasileiro tem que saber! Quantas Copas do Mundo o Brasil já ganhou? 5, 4 ou 6?",
+  "fala_r": "Cinco! Ninguém ganhou mais que o Brasil!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "pergunta": "EM QUAL ESTADO FICA OURO PRETO?",
+  "foto": "ouro-preto.jpg",
+  "opcoes": [
+   "GOIÁS",
+   "MINAS GERAIS",
+   "BAHIA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora uma cidade histórica! Ouro Preto fica em qual estado? goiás, minas gerais ou bahia?",
+  "fala_r": "Minas Gerais! Cheia de igrejas da época do ouro!",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "pergunta": "ONDE FICA O PANTANAL?",
+  "foto": "pantanal.jpg",
+  "opcoes": [
+   "GO E TO",
+   "PA E AM",
+   "MT E MS"
+  ],
+  "certa": 2,
+  "fala_q": "Bora pro Centro-Oeste! O Pantanal fica principalmente em quais estados? Goiás e Tocantins, Pará e Amazonas ou Mato Grosso e Mato Grosso do Sul?",
+  "fala_r": "Mato Grosso e Mato Grosso do Sul! A maior planície alagada do mundo!",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "pergunta": "ONDE É O ENCONTRO DAS ÁGUAS?",
+  "foto": "encontro-aguas.jpg",
+  "opcoes": [
+   "BELÉM",
+   "PORTO VELHO",
+   "MANAUS"
+  ],
+  "certa": 2,
+  "fala_q": "Olha essa água de duas cores! Em qual cidade acontece o Encontro das Águas? belém, porto velho ou manaus?",
+  "fala_r": "Manaus! Os rios correm lado a lado por quilômetros sem se misturar!",
+  "count": 7.0,
+  "sabia": "RIOS LADO A LADO POR KM SEM MISTURAR"
+ },
+ {
+  "n": 20,
+  "pergunta": "QUAL É A ÁRVORE SÍMBOLO DO BRASIL?",
+  "foto": "pau-brasil.jpg",
+  "opcoes": [
+   "PAU-BRASIL",
+   "IPÊ-AMARELO",
+   "JABUTICABEIRA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora uma árvore! Qual é a árvore símbolo nacional do Brasil? pau-brasil, ipê-amarelo ou jabuticabeira?",
+  "fala_r": "Pau-brasil! Foi ela que deu nome ao país!",
+  "count": 7.0,
+  "fala_d": "Dica: tem o nome do país!",
+  "dica_txt": "TEM O NOME DO PAÍS"
+ },
+ {
+  "n": 21,
+  "pergunta": "QUEM ESCREVEU DOM CASMURRO?",
+  "foto": "machado.jpg",
+  "opcoes": [
+   "JOSÉ DE ALENCAR",
+   "MONTEIRO LOBATO",
+   "MACHADO DE ASSIS"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma de escola! Quem escreveu o livro Dom Casmurro? josé de alencar, monteiro lobato ou machado de assis?",
+  "fala_r": "Machado de Assis! O da Capitu!",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "pergunta": "DE ONDE VEM O GUARANÁ?",
+  "foto": "guarana.jpg",
+  "opcoes": [
+   "CAATINGA",
+   "AMAZÔNIA",
+   "PAMPA"
+  ],
+  "certa": 1,
+  "fala_q": "Essa fruta parece um olho! O guaraná é nativo de qual bioma? caatinga, amazônia ou pampa?",
+  "fala_r": "Amazônia! E o refrigerante veio dela!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "pergunta": "QUANTOS TÍTULOS ELE GANHOU?",
+  "foto": "senna.jpg",
+  "opcoes": [
+   "2",
+   "3",
+   "4"
+  ],
+  "certa": 1,
+  "fala_q": "Esse é o Ayrton Senna! Quantos títulos de Fórmula 1 ele ganhou? 2, 3 ou 4?",
+  "fala_r": "Três! Em oitenta e oito, noventa e noventa e um!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "pergunta": "QUE LEI ELA ASSINOU EM 1888?",
+  "foto": "isabel.jpg",
+  "opcoes": [
+   "LEI ÁUREA",
+   "VENTRE LIVRE",
+   "SEXAGENÁRIOS"
+  ],
+  "certa": 0,
+  "fala_q": "Essa é a Princesa Isabel! Qual lei ela assinou em 1888, acabando com a escravidão? lei áurea, ventre livre ou sexagenários?",
+  "fala_r": "Lei Áurea! Treze de maio de 1888!",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "pergunta": "QUEM PROJETOU ESSE PRÉDIO?",
+  "foto": "congresso.jpg",
+  "opcoes": [
+   "OSCAR NIEMEYER",
+   "LÚCIO COSTA",
+   "BURLE MARX"
+  ],
+  "certa": 0,
+  "fala_q": "Essa aqui derruba muita gente! Quem foi o arquiteto desse prédio, o Congresso Nacional? oscar niemeyer, lúcio costa ou burle marx?",
+  "fala_r": "Oscar Niemeyer! O Lúcio Costa fez o plano da cidade!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "pergunta": "QUANDO O BRASIL VIROU REPÚBLICA?",
+  "foto": "republica.jpg",
+  "opcoes": [
+   "1822",
+   "1889",
+   "1888"
+  ],
+  "certa": 1,
+  "fala_q": "Mais uma de história! Em que ano o Brasil virou República? 1822, 1889 ou 1888?",
+  "fala_r": "1889! Quinze de novembro!",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "pergunta": "RIO DA INTEGRAÇÃO NACIONAL?",
+  "foto": "sao-francisco.jpg",
+  "opcoes": [
+   "TIETÊ",
+   "PARANÁ",
+   "SÃO FRANCISCO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um rio! Qual é o maior rio que nasce e corre só dentro do Brasil? tietê, paraná ou são francisco?",
+  "fala_r": "São Francisco! O Velho Chico, rio da integração nacional!",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "pergunta": "QUAL É O NOME DESSE CACTO?",
+  "foto": "mandacaru.jpg",
+  "opcoes": [
+   "CARNAÚBA",
+   "MANDACARU",
+   "BABAÇU"
+  ],
+  "certa": 1,
+  "fala_q": "Bora pro sertão! Qual é o nome desse cacto? carnaúba, mandacaru ou babaçu?",
+  "fala_r": "Mandacaru! Quando ele floresce, dizem que vem chuva!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "pergunta": "NORONHA É DE QUAL ESTADO?",
+  "foto": "noronha.jpg",
+  "opcoes": [
+   "RIO GRANDE DO NORTE",
+   "BAHIA",
+   "PERNAMBUCO"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado! Fernando de Noronha pertence a qual estado? rio grande do norte, bahia ou pernambuco?",
+  "fala_r": "Pernambuco! Mesmo ficando mais perto do Rio Grande do Norte!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 30,
+  "pergunta": "PONTO MAIS ALTO DO BRASIL?",
+  "foto": "neblina.jpg",
+  "opcoes": [
+   "PICO DA BANDEIRA",
+   "PICO DA NEBLINA",
+   "MONTE RORAIMA"
+  ],
+  "certa": 1,
+  "fala_q": "Lá em cima! Qual é o ponto mais alto do Brasil? pico da bandeira, pico da neblina ou monte roraima?",
+  "fala_r": "Pico da Neblina! Quase três mil metros, no Amazonas!",
+  "count": 7.0,
+  "fala_d": "Dica: fica na Amazônia!",
+  "dica_txt": "FICA NA AMAZÔNIA"
+ },
+ {
+  "n": 31,
+  "pergunta": "QUEM ESCULPIU ESSAS FIGURAS?",
+  "foto": "profetas.jpg",
+  "opcoes": [
+   "ALEIJADINHO",
+   "MESTRE VALENTIM",
+   "BRECHERET"
+  ],
+  "certa": 0,
+  "fala_q": "Essa é pra quem manja de arte! Quem esculpiu essas figuras famosas de Congonhas, em Minas? aleijadinho, mestre valentim ou brecheret?",
+  "fala_r": "Aleijadinho! Ele também fez os doze Profetas de lá!",
+  "count": 7.0
+ },
+ {
+  "n": 32,
+  "pergunta": "ESTADO COM MENOS GENTE?",
+  "foto": "roraima.jpg",
+  "opcoes": [
+   "RORAIMA",
+   "AMAPÁ",
+   "ACRE"
+  ],
+  "certa": 0,
+  "fala_q": "Qual é o estado brasileiro com menos habitantes? roraima, amapá ou acre?",
+  "fala_r": "Roraima! Se você acertou essa, você é brasileiro de verdade!",
+  "count": 7.0,
+  "final": true,
+  "fala_s": "Valendo o título de brasileiro raiz... a resposta é..."
+ }
+]
