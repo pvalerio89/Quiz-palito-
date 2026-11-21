@@ -1131,6 +1131,33 @@
         "data": "2026-11-21",
         "origem": "github-actions"
       }
+    },
+    "videos/47-ingles-plantas": {
+      "youtube": {
+        "status": "publicado",
+        "id": "oWsgkH5Dxjc",
+        "url": "https://youtu.be/oWsgkH5Dxjc",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "2525af1ede6601576964de41379bf9869e60030151997bb04d97bd185be64e99"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/plantas-1": {
+      "titulo": "QUIZ DE INGLÊS DAS PLANTAS! 🌱 Duvido acertar as 4 #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "DgKdweeITU8",
+        "url": "https://youtu.be/DgKdweeITU8",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "db331d445b3a32bd31a0f19e93cc030e573db15ea38f4fc5ff65d0af40c08645"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
