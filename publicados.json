@@ -1164,6 +1164,35 @@
         "origem": "github-actions"
       }
     },
+    "videos/41-pais-duas-letras": {
+      "youtube": {
+        "status": "publicado",
+        "id": "XC-1ZEyG9Vg",
+        "url": "https://youtu.be/XC-1ZEyG9Vg",
+        "data": "2026-11-22",
+        "origem": "github-actions",
+        "sha256": "3d7dfd3a1229b3b1721d3203f7b7d54c98e67fd3d2d40e859435a3331e1486d3",
+        "no_ar_em": "2026-11-23T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/duas-letras-1": {
+      "titulo": "ADIVINHE O PAÍS SÓ COM 2 LETRAS! 🌎 Só gênio acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "JvQbQjQZuoo",
+        "url": "https://youtu.be/JvQbQjQZuoo",
+        "data": "2026-11-22",
+        "origem": "github-actions",
+        "sha256": "6530f9be385e0971339beb52335f26f42c083dc6e3811db0c8964ab1e291fb63",
+        "no_ar_em": "2026-11-23T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
     "videos/49-ela-alimentacao": {
       "youtube": {
         "status": "publicado",
