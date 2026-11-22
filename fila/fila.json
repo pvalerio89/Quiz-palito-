@@ -577,11 +577,18 @@
       "id": "2026-11-17-pais-2-letras",
       "referencia": "",
       "tema": "Adivinhe o PAÍS só com as 2 primeiras letras",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Mostra 'BR _ _ _ _ _' com as 2 primeiras letras e o número de letras; dica (continente) no meio da contagem nas difíceis; resposta com bandeira + mapa (Natural Earth, como vídeo 23). Título ex.: 'Adivinhe o PAÍS só com as DUAS primeiras letras!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | FEITO (2026-11-19): vídeo 41, 36 países; cartão tipo forca (2 letras + quadradinhos, conta as letras) e 3 alternativas que são só BANDEIRAS (o nome aparece na resposta); pegadinhas com mesmo começo (Argentina/Argélia/Armênia, Austrália/Áustria, Coreia do Sul/Norte) e bandeiras parecidas (Irlanda/Costa do Marfim, Luxemburgo/Holanda); fundo azul e magenta, ~13 min. Short duas-letras-1 (4 perguntas, 49 s, sem abertura).",
       "video": "videos/41-pais-duas-letras",
       "short": "shorts/duas-letras-1",
-      "titulo": "Adivinhe o PAÍS só com as 2 PRIMEIRAS LETRAS! 🌎 As últimas são impossíveis | Quiz Palito"
+      "titulo": "Adivinhe o PAÍS só com as 2 PRIMEIRAS LETRAS! 🌎 As últimas são impossíveis | Quiz Palito",
+      "publicado_em": "2026-11-22",
+      "no_ar_em": "2026-11-23T21:00:00Z",
+      "no_ar_brasilia": "23/11 18h00",
+      "links": {
+        "video": "https://youtu.be/XC-1ZEyG9Vg",
+        "short": "https://youtu.be/JvQbQjQZuoo"
+      }
     },
     {
       "id": "2026-11-20-quiz-brasil-2",
@@ -607,8 +614,11 @@
       "id": "2026-11-15-jogadores-a-z-parte-2",
       "referencia": "https://youtu.be/T2r5EybNMjo",
       "tema": "Duvido você acertar jogadores de A a Z! PARTE 2 (NaTraveQuiz)",
-      "status": "aguardando",
-      "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros jogadores."
+      "status": "pronto",
+      "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros jogadores. | FEITO (2026-11-22): vídeo 52, 32 perguntas (letra + pista, 3 nomes com a mesma letra), resposta com foto real do craque (fotos do vídeo 19, Wikimedia; I/X/Y sem foto livre = cartão com o nome), nenhuma resposta repete o vídeo 02, fundo roxo de estádio à noite, ~11,8 min. Short craques-1 (5 perguntas, 51 s, sem abertura, splash).",
+      "video": "videos/52-jogadores-a-z-2",
+      "short": "shorts/craques-1",
+      "titulo": "JOGADORES de A a Z – PARTE 2 ⚽ Um craque por letra: a última ninguém acerta! | Quiz Palito"
     },
     {
       "id": "2026-11-20-nao-diga-2",
