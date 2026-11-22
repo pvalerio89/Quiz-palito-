@@ -32,7 +32,32 @@ CHAMADAS = [
     "ACERTOU TODAS? COMENTA!",
     "SE ACERTAR 4, VOCÊ É FERA!",
     "SEU PAI ACERTA ESSAS?",
+    # 2026-11-22 (Patrick pediu Shorts mais variados):
+    "APOSTO QUE VOCÊ ERRA UMA!",
+    "VOCÊ CHEGA NO 5 DE 5?",
+    "3 SEGUNDOS PRA CADA!",
+    "MARCA QUEM ERRARIA ESSA!",
+    "PAIS OU FILHOS: QUEM GANHA?",
+    "A 3ª ENGANA TODO MUNDO!",
+    "SÓ QUEM PRESTA ATENÇÃO ACERTA!",
 ]
+
+
+def usadas_recentes(n=3):
+    """Frases CHAMADA dos últimos `n` Shorts da fila (itens pronto/publicado, na ordem da fila), para não repetir."""
+    import json, re
+    try:
+        itens = json.load(open(os.path.join(QP, "fila", "fila.json"), encoding="utf-8"))["itens"]
+    except (OSError, ValueError, KeyError):
+        return []
+    usadas = []
+    for it in itens:
+        if it.get("status") in ("pronto", "publicado") and it.get("short"):
+            f = os.path.join(QP, it["short"], "build_short.py")
+            m = re.search(r'chamada="([^"]+)"|CHAMADA = "([^"]+)"', open(f, encoding="utf-8").read()) if os.path.exists(f) else None
+            if m:
+                usadas.append(m.group(1) or m.group(2))
+    return usadas[-n:]
 
 
 def chamada(usadas=(), seed=None):

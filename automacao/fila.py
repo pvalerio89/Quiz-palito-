@@ -25,6 +25,9 @@ MARCA = "LINK_DO_VIDEO_LONGO"
 # HORARIOS = horário do vídeo longo; o Short do mesmo item sai SHORT_DEPOIS mais tarde.
 HORARIOS = ((18, 0),)
 SHORT_DEPOIS = datetime.timedelta(hours=2, minutes=30)  # Short às 20h30
+# 2026-11-22 (Patrick: "tem que fazer o Short do vídeo longo"): item SÓ SHORT ("so_short", ex.: Short tirado de um
+# longo que já saiu sem Short do tema) não gasta o horário do longo: sai num horário EXTRA, 1 por dia no máximo.
+HORARIOS_EXTRA = ((12, 0),)
 BRASILIA = datetime.timezone(datetime.timedelta(hours=-3))
 MARGEM = datetime.timedelta(hours=2)  # tempo para gerar e subir antes do horário
 JANELA = datetime.timedelta(hours=24)  # só agenda horários das próximas 24 h
@@ -82,14 +85,14 @@ def horario_short(quando):
     return t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def horario_livre(doc, ref=None):
-    """Próximo horário de HORARIOS (>= agora + MARGEM, dentro da JANELA) que nenhum item já ocupa."""
+def horario_livre(doc, ref=None, horarios=HORARIOS):
+    """Próximo horário de `horarios` (HORARIOS; HORARIOS_EXTRA para item só Short) (>= agora + MARGEM, dentro da JANELA) que nenhum item já ocupa."""
     ref = ref or agora()
     # agendar_em = item que falhou no meio (o longo já subiu agendado nesse horário): também ocupa
     ocupados = {i[k] for i in doc["itens"] for k in ("no_ar_em", "agendar_em") if i.get(k)}
     dia = ref.astimezone(BRASILIA).date()
     for d in range(3):
-        for h, m in HORARIOS:
+        for h, m in horarios:
             t = datetime.datetime.combine(dia + datetime.timedelta(days=d), datetime.time(h, m), BRASILIA)
             iso = t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             if ref + MARGEM <= t <= ref + JANELA and iso not in ocupados:
@@ -126,7 +129,8 @@ def proximo():
     sem_agendar = os.environ.get("SEM_AGENDAR") == "true"  # "Publicar JÁ" pedido à mão
     if not sem_agendar:
         liberar_adiantados(doc, reg)  # só na memória: cada rodada confere de novo no YouTube
-    quando = "" if sem_agendar else horario_livre(doc)
+    livres = {} if sem_agendar else {False: horario_livre(doc), True: horario_livre(doc, horarios=HORARIOS_EXTRA)}
+    quando = "" if sem_agendar else (livres[False] or livres[True])
     # Item que falhou no meio (o longo já subiu agendado) usa o horário dele mesmo sem horário livre.
     ja_tem = any(i.get("status") == "pronto" and i.get("agendar_em") and
                  datetime.datetime.fromisoformat(i["agendar_em"].replace("Z", "+00:00")) >= agora() + MARGEM
@@ -138,6 +142,8 @@ def proximo():
     for it in doc["itens"]:
         if it.get("status") != "pronto":
             continue
+        if not sem_agendar:
+            quando = livres[not it.get("video")]   # só Short -> horário extra; longo+Short -> horário do longo
         if not quando and not sem_agendar and not it.get("agendar_em"):
             continue
         video, short = it.get("video") or "", it.get("short") or ""
@@ -148,7 +154,8 @@ def proximo():
         antes = it.get("agendar_em", "")
         if antes and not sem_agendar and datetime.datetime.fromisoformat(antes.replace("Z", "+00:00")) >= agora() + MARGEM:
             quando = antes
-        saida(id=it["id"], video=video, short=short, agendar=quando, agendar_short=horario_short(quando),
+        saida(id=it["id"], video=video, short=short, agendar=quando,
+              agendar_short=horario_short(quando) if video else quando,   # só Short: sai no próprio horário extra
               video_feito=str(feito(reg, video)).lower(), short_feito=str(feito(reg, short)).lower())
         return
     print("Nenhum item 'pronto' na fila. Nada para publicar agora.")
