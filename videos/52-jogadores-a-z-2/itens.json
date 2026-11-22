@@ -1,0 +1,677 @@
+[
+ {
+  "n": 1,
+  "letra": "R",
+  "pista": [
+   "O FENÔMENO,",
+   "camisa 9 do PENTA"
+  ],
+  "pergunta": "JOGADOR COM A LETRA R",
+  "foto": "q1.png",
+  "opcoes": [
+   "ROMÁRIO",
+   "RONALDO",
+   "RICHARLISON"
+  ],
+  "certa": 1,
+  "fala_q": "Começando fácil, letra R: o Fenômeno, camisa nove do Penta! Romário, Ronaldo ou Richarlison?",
+  "fala_r": "Ronaldo Fenômeno! Oito gols na Copa de 2002. Começou bem?",
+  "count": 5.0,
+  "foto_jogador": "lca-ronaldo-fenomeno.jpg"
+ },
+ {
+  "n": 2,
+  "letra": "M",
+  "pista": [
+   "Lateral do Brasil,",
+   "5 CHAMPIONS",
+   "no Real Madrid"
+  ],
+  "pergunta": "JOGADOR COM A LETRA M",
+  "foto": "q2.png",
+  "opcoes": [
+   "MAICON",
+   "MILITÃO",
+   "MARCELO"
+  ],
+  "certa": 2,
+  "fala_q": "Letra M: o lateral brasileiro que ganhou cinco Champions pelo Real Madrid. Maicon, Militão ou Marcelo?",
+  "fala_r": "Marcelo! O lateral do cabelão e do drible.",
+  "count": 5.0,
+  "foto_jogador": "llat-marcelo.jpg"
+ },
+ {
+  "n": 3,
+  "letra": "N",
+  "pista": [
+   "Goleiro ALEMÃO,",
+   "campeão da",
+   "Copa de 2014"
+  ],
+  "pergunta": "JOGADOR COM A LETRA N",
+  "foto": "q3.png",
+  "opcoes": [
+   "NAVAS",
+   "NEUER",
+   "NETO"
+  ],
+  "certa": 1,
+  "fala_q": "Letra N: o goleiro alemão campeão da Copa de 2014. Navas, Neuer ou Neto?",
+  "fala_r": "Neuer! Aquele que joga quase de líbero.",
+  "count": 7.0,
+  "foto_jogador": "gol-neuer.jpg"
+ },
+ {
+  "n": 4,
+  "letra": "D",
+  "pista": [
+   "Meia BELGA,",
+   "10 anos no",
+   "Manchester City"
+  ],
+  "pergunta": "JOGADOR COM A LETRA D",
+  "foto": "q4.png",
+  "opcoes": [
+   "DOKU",
+   "DYBALA",
+   "DE BRUYNE"
+  ],
+  "certa": 2,
+  "fala_q": "Letra D: o meia belga que passou dez anos no Manchester City. Doku, Dybala ou De Bruyne?",
+  "fala_r": "De Bruyne! O rei das assistências.",
+  "count": 7.0,
+  "foto_jogador": "mei-de-bruyne.jpg"
+ },
+ {
+  "n": 5,
+  "letra": "E",
+  "pista": [
+   "Joia do Palmeiras,",
+   "o \"MESSINHO\""
+  ],
+  "pergunta": "JOGADOR COM A LETRA E",
+  "foto": "q5.png",
+  "opcoes": [
+   "ENDRICK",
+   "EVERTON",
+   "ESTÊVÃO"
+  ],
+  "certa": 2,
+  "fala_q": "Agora uma joia do Brasil. Letra E: o garoto do Palmeiras apelidado de Messinho. Endrick, Everton ou Estêvão?",
+  "fala_r": "Estêvão! Saiu do Palmeiras pro Chelsea.",
+  "count": 7.0,
+  "foto_jogador": "joia-estevao.jpg"
+ },
+ {
+  "n": 6,
+  "letra": "S",
+  "pista": [
+   "Atacante",
+   "SUL-COREANO,",
+   "ídolo do Tottenham"
+  ],
+  "pergunta": "JOGADOR COM A LETRA S",
+  "foto": "q6.png",
+  "opcoes": [
+   "SON",
+   "SAKA",
+   "SANÉ"
+  ],
+  "certa": 0,
+  "fala_q": "Letra S: o atacante sul-coreano, ídolo do Tottenham. Son, Saka ou Sané?",
+  "fala_r": "Son! Capitão da Coreia do Sul.",
+  "count": 7.0,
+  "foto_jogador": "pe-son.jpg"
+ },
+ {
+  "n": 7,
+  "letra": "B",
+  "pista": [
+   "Goleiro ITALIANO,",
+   "campeão do mundo",
+   "em 2006"
+  ],
+  "pergunta": "JOGADOR COM A LETRA B",
+  "foto": "q7.png",
+  "opcoes": [
+   "BONUCCI",
+   "BAGGIO",
+   "BUFFON"
+  ],
+  "certa": 2,
+  "fala_q": "Letra B: o goleiro italiano campeão do mundo em 2006. Bonucci, Baggio ou Buffon?",
+  "fala_r": "Buffon! Jogou até os quarenta e cinco anos.",
+  "count": 7.0,
+  "foto_jogador": "lgol-buffon.jpg"
+ },
+ {
+  "n": 8,
+  "letra": "C",
+  "pista": [
+   "Goleiro ESPANHOL",
+   "do Real Madrid,",
+   "campeão em 2010"
+  ],
+  "pergunta": "JOGADOR COM A LETRA C",
+  "foto": "q8.png",
+  "opcoes": [
+   "CASILLAS",
+   "COURTOIS",
+   "CÉSAR"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado, que essa tem pegadinha! Letra C: o goleiro espanhol do Real Madrid, campeão do mundo em 2010. Casillas, Courtois ou César?",
+  "fala_r": "Casillas! O Courtois também jogou no Real, mas é belga e nunca ganhou Copa.",
+  "count": 7.0,
+  "foto_jogador": "lgol-casillas.jpg",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 9,
+  "letra": "H",
+  "pista": [
+   "Lateral",
+   "MARROQUINO",
+   "do PSG"
+  ],
+  "pergunta": "JOGADOR COM A LETRA H",
+  "foto": "q9.png",
+  "opcoes": [
+   "HAKIMI",
+   "HAZARD",
+   "HUMMELS"
+  ],
+  "certa": 0,
+  "fala_q": "Letra H: o lateral marroquino do PSG. Hakimi, Hazard ou Hummels?",
+  "fala_r": "Hakimi! Um dos laterais mais rápidos do mundo.",
+  "count": 7.0,
+  "foto_jogador": "ld-hakimi.jpg"
+ },
+ {
+  "n": 10,
+  "letra": "K",
+  "pista": [
+   "Volante ALEMÃO",
+   "do Bayern,",
+   "camisa 6"
+  ],
+  "pergunta": "JOGADOR COM A LETRA K",
+  "foto": "q10.png",
+  "opcoes": [
+   "KROOS",
+   "KIMMICH",
+   "KHEDIRA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra K: o volante alemão do Bayern, camisa seis. Kroos, Kimmich ou Khedira?",
+  "fala_r": "Kimmich! O Kroos era do Real Madrid.",
+  "count": 7.0,
+  "foto_jogador": "vol-kimmich.jpg"
+ },
+ {
+  "n": 11,
+  "letra": "L",
+  "pista": [
+   "Maior ARTILHEIRO",
+   "da história",
+   "do Chelsea"
+  ],
+  "pergunta": "JOGADOR COM A LETRA L",
+  "foto": "q11.png",
+  "opcoes": [
+   "LINEKER",
+   "LINGARD",
+   "LAMPARD"
+  ],
+  "certa": 2,
+  "fala_q": "Letra L: o maior artilheiro da história do Chelsea. E ele era meia! Lineker, Lingard ou Lampard?",
+  "fala_r": "Lampard! Duzentos e onze gols pelo Chelsea.",
+  "count": 7.0,
+  "foto_jogador": "lmei-lampard.jpg",
+  "sabia": "Lampard fez 211 gols pelo Chelsea jogando no meio-campo."
+ },
+ {
+  "n": 12,
+  "letra": "P",
+  "pista": [
+   "Capitão do Barça",
+   "do CABELÃO",
+   "enrolado"
+  ],
+  "pergunta": "JOGADOR COM A LETRA P",
+  "foto": "q12.png",
+  "opcoes": [
+   "PUYOL",
+   "PIQUÉ",
+   "PEDRI"
+  ],
+  "certa": 0,
+  "fala_q": "Letra P: o zagueiro capitão do Barcelona, aquele do cabelão enrolado. Puyol, Piqué ou Pedri?",
+  "fala_r": "Puyol! Fez o gol que levou a Espanha à final de 2010.",
+  "count": 7.0,
+  "foto_jogador": "lzag-puyol.jpg"
+ },
+ {
+  "n": 13,
+  "letra": "T",
+  "pista": [
+   "Goleiro do Brasil",
+   "no TETRA, 1994"
+  ],
+  "pergunta": "JOGADOR COM A LETRA T",
+  "foto": "q13.png",
+  "opcoes": [
+   "THIAGO SILVA",
+   "TAFFAREL",
+   "TITE"
+  ],
+  "certa": 1,
+  "fala_q": "Letra T: o goleiro do Brasil no Tetra, em 1994. Thiago Silva, Taffarel ou Tite?",
+  "fala_r": "Taffarel! Sai que é sua, Taffarel!",
+  "count": 7.0,
+  "foto_jogador": "lgol-taffarel.jpg"
+ },
+ {
+  "n": 14,
+  "letra": "G",
+  "pista": [
+   "Zagueiro CROATA",
+   "do Manchester City"
+  ],
+  "pergunta": "JOGADOR COM A LETRA G",
+  "foto": "q14.png",
+  "opcoes": [
+   "GÖTZE",
+   "GAVI",
+   "GVARDIOL"
+  ],
+  "certa": 2,
+  "fala_q": "Letra G: o zagueiro croata do Manchester City. Götze, Gavi ou Gvardiol?",
+  "fala_r": "Gvardiol! Aquele da máscara na Copa de 2022.",
+  "count": 7.0,
+  "foto_jogador": "zag2-gvardiol.jpg"
+ },
+ {
+  "n": 15,
+  "letra": "R",
+  "pista": [
+   "Volante espanhol,",
+   "BOLA DE OURO",
+   "2024"
+  ],
+  "pergunta": "JOGADOR COM A LETRA R",
+  "foto": "q15.png",
+  "opcoes": [
+   "RAMOS",
+   "RODRI",
+   "RAÚL"
+  ],
+  "certa": 1,
+  "fala_q": "Letra R de novo: o volante espanhol que ganhou a Bola de Ouro de 2024. Ramos, Rodri ou Raúl?",
+  "fala_r": "Rodri! O Vini Júnior ficou em segundo.",
+  "count": 7.0,
+  "foto_jogador": "vol-rodri.jpg"
+ },
+ {
+  "n": 16,
+  "letra": "A",
+  "pista": [
+   "Lateral INGLÊS",
+   "que trocou o Liverpool",
+   "pelo Real Madrid"
+  ],
+  "pergunta": "JOGADOR COM A LETRA A",
+  "foto": "q16.png",
+  "opcoes": [
+   "ALEXANDER-ARNOLD",
+   "ALABA",
+   "ALBA"
+  ],
+  "certa": 0,
+  "fala_q": "Letra A: o lateral inglês que trocou o Liverpool pelo Real Madrid. Alexander-Arnold, Alaba ou Alba?",
+  "fala_r": "Alexander-Arnold! Foi pro Real em 2025.",
+  "count": 7.0,
+  "foto_jogador": "ld-alexander-arnold.jpg"
+ },
+ {
+  "n": 17,
+  "letra": "O",
+  "pista": [
+   "Capitão",
+   "NORUEGUÊS",
+   "do Arsenal"
+  ],
+  "pergunta": "JOGADOR COM A LETRA O",
+  "foto": "q17.png",
+  "opcoes": [
+   "ØDEGAARD",
+   "OLISE",
+   "OBLAK"
+  ],
+  "certa": 0,
+  "fala_q": "Letra O: o capitão norueguês do Arsenal. Ødegaard, Olise ou Oblak?",
+  "fala_r": "Ødegaard! Estreou na seleção com quinze anos.",
+  "count": 7.0,
+  "foto_jogador": "mei-degaard.jpg"
+ },
+ {
+  "n": 18,
+  "letra": "W",
+  "pista": [
+   "Meia ALEMÃO,",
+   "contratado pelo",
+   "Liverpool em 2025"
+  ],
+  "pergunta": "JOGADOR COM A LETRA W",
+  "foto": "q18.png",
+  "opcoes": [
+   "WIRTZ",
+   "WERNER",
+   "WALKER"
+  ],
+  "certa": 0,
+  "fala_q": "Letra W: o meia alemão contratado pelo Liverpool em 2025. Wirtz, Werner ou Walker?",
+  "fala_r": "Wirtz! Veio do Bayer Leverkusen.",
+  "count": 7.0,
+  "foto_jogador": "dez-wirtz.jpg"
+ },
+ {
+  "n": 19,
+  "letra": "J",
+  "pista": [
+   "Atacante do Brasil,",
+   "campeão do Mundial",
+   "2025 pelo Chelsea"
+  ],
+  "pergunta": "JOGADOR COM A LETRA J",
+  "foto": "q19.png",
+  "opcoes": [
+   "JORGINHO",
+   "JOELINTON",
+   "JOÃO PEDRO"
+  ],
+  "certa": 2,
+  "fala_q": "Letra J: o atacante brasileiro campeão do Mundial de Clubes de 2025 pelo Chelsea. Jorginho, Joelinton ou João Pedro?",
+  "fala_r": "João Pedro! Fez gol na final contra o PSG.",
+  "count": 7.0,
+  "foto_jogador": "joia-joao-pedro.jpg"
+ },
+ {
+  "n": 20,
+  "letra": "Z",
+  "pista": [
+   "Lateral ARGENTINO,",
+   "ídolo da",
+   "Inter de Milão"
+  ],
+  "pergunta": "JOGADOR COM A LETRA Z",
+  "foto": "q20.png",
+  "opcoes": [
+   "ZAMORANO",
+   "ZABALETA",
+   "ZANETTI"
+  ],
+  "certa": 2,
+  "fala_q": "Essa derruba muita gente! Letra Z: o lateral argentino, ídolo da Inter de Milão. Zamorano, Zabaleta ou Zanetti?",
+  "fala_r": "Zanetti! O Zamorano também jogou na Inter, mas era atacante e chileno.",
+  "count": 7.0,
+  "foto_jogador": "llat-zanetti.jpg",
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 21,
+  "letra": "F",
+  "pista": [
+   "Lateral FRANCÊS",
+   "do Real Madrid"
+  ],
+  "pergunta": "JOGADOR COM A LETRA F",
+  "foto": "q21.png",
+  "opcoes": [
+   "FRIMPONG",
+   "FERLAND MENDY",
+   "FEKIR"
+  ],
+  "certa": 1,
+  "fala_q": "Letra F: o lateral francês do Real Madrid. Frimpong, Ferland Mendy ou Fekir?",
+  "fala_r": "Ferland Mendy! Lateral esquerdo do Real desde 2019.",
+  "count": 7.0,
+  "foto_jogador": "le-ferland-mendy.jpg"
+ },
+ {
+  "n": 22,
+  "letra": "I",
+  "pista": [
+   "Atacante SUECO,",
+   "contratação recorde",
+   "do Liverpool"
+  ],
+  "pergunta": "JOGADOR COM A LETRA I",
+  "foto": "q22.png",
+  "opcoes": [
+   "IMMOBILE",
+   "ISAK",
+   "ICARDI"
+  ],
+  "certa": 1,
+  "fala_q": "Letra I: o atacante sueco que virou a contratação recorde do Liverpool em 2025. Immobile, Isak ou Icardi?",
+  "fala_r": "Isak! A maior contratação da história do futebol inglês.",
+  "count": 7.0,
+  "fala_d": "Dica: ele jogava no Newcastle!",
+  "dica_txt": "JOGAVA NO NEWCASTLE!"
+ },
+ {
+  "n": 23,
+  "letra": "V",
+  "pista": [
+   "Ex-Athletico, foi",
+   "pro BARCELONA",
+   "com 18 anos"
+  ],
+  "pergunta": "JOGADOR COM A LETRA V",
+  "foto": "q23.png",
+  "opcoes": [
+   "VAGNER LOVE",
+   "VINI JR.",
+   "VITOR ROQUE"
+  ],
+  "certa": 2,
+  "fala_q": "Letra V: o atacante que saiu do Athletico e foi pro Barcelona com dezoito anos. Vagner Love, Vini Jr. ou Vitor Roque?",
+  "fala_r": "Vitor Roque! O Tigrinho.",
+  "count": 7.0,
+  "foto_jogador": "joia-vitor-roque.jpg"
+ },
+ {
+  "n": 24,
+  "letra": "M",
+  "pista": [
+   "Zagueiro ITALIANO,",
+   "25 anos só",
+   "no Milan"
+  ],
+  "pergunta": "JOGADOR COM A LETRA M",
+  "foto": "q24.png",
+  "opcoes": [
+   "MATERAZZI",
+   "MALDINI",
+   "MARCHISIO"
+  ],
+  "certa": 1,
+  "fala_q": "Agora as lendas! Letra M: o zagueiro italiano que jogou vinte e cinco anos só no Milan. Materazzi, Maldini ou Marchisio?",
+  "fala_r": "Maldini! Cinco Champions com a mesma camisa.",
+  "count": 7.0,
+  "foto_jogador": "lzag-maldini.jpg",
+  "aviso": "AGORA SÓ LENDA!"
+ },
+ {
+  "n": 25,
+  "letra": "R",
+  "pista": [
+   "GOLEIRO que fez",
+   "mais de 100 GOLS"
+  ],
+  "pergunta": "JOGADOR COM A LETRA R",
+  "foto": "q25.png",
+  "opcoes": [
+   "RAFAEL",
+   "ROGÉRIO CENI",
+   "RENAN"
+  ],
+  "certa": 1,
+  "fala_q": "Letra R: o goleiro que fez mais de cem gols na carreira! Rafael, Rogério Ceni ou Renan?",
+  "fala_r": "Rogério Ceni! Cento e trinta e um gols pelo São Paulo.",
+  "count": 7.0,
+  "foto_jogador": "lgol-rogerio-ceni.jpg",
+  "sabia": "Rogério Ceni fez 131 gols, quase todos de falta e pênalti."
+ },
+ {
+  "n": 26,
+  "letra": "L",
+  "pista": [
+   "Atacante argentino,",
+   "CAPITÃO da",
+   "Inter de Milão"
+  ],
+  "pergunta": "JOGADOR COM A LETRA L",
+  "foto": "q26.png",
+  "opcoes": [
+   "LO CELSO",
+   "LAUTARO",
+   "LAMELA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra L: o atacante argentino, capitão da Inter de Milão. Lo Celso, Lautaro ou Lamela?",
+  "fala_r": "Lautaro Martínez! O Touro.",
+  "count": 7.0,
+  "foto_jogador": "ca-lautaro.jpg"
+ },
+ {
+  "n": 27,
+  "letra": "C",
+  "pista": [
+   "Camisa 14 da",
+   "LARANJA MECÂNICA",
+   "de 1974"
+  ],
+  "pergunta": "JOGADOR COM A LETRA C",
+  "foto": "q27.png",
+  "opcoes": [
+   "COCU",
+   "CLARENCE SEEDORF",
+   "CRUYFF"
+  ],
+  "certa": 2,
+  "fala_q": "Letra C: o camisa quatorze da Laranja Mecânica de 1974. Cocu, Clarence Seedorf ou Cruyff?",
+  "fala_r": "Cruyff! Inventou até um drible, o giro de Cruyff.",
+  "count": 7.0,
+  "foto_jogador": "ldez-cruyff.jpg",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 28,
+  "letra": "B",
+  "pista": [
+   "O \"KAISER\": campeão",
+   "do mundo como",
+   "JOGADOR e TÉCNICO"
+  ],
+  "pergunta": "JOGADOR COM A LETRA B",
+  "foto": "q28.png",
+  "opcoes": [
+   "BECKENBAUER",
+   "BALLACK",
+   "BIERHOFF"
+  ],
+  "certa": 0,
+  "fala_q": "Letra B: o Kaiser, campeão do mundo como jogador e como técnico da Alemanha. Beckenbauer, Ballack ou Bierhoff?",
+  "fala_r": "Beckenbauer! Ganhou a Copa de 1974 jogando e a de 1990 como técnico.",
+  "count": 7.0,
+  "foto_jogador": "lzag-beckenbauer.jpg"
+ },
+ {
+  "n": 29,
+  "letra": "X",
+  "pista": [
+   "CAPITÃO da Suíça,",
+   "ex-Arsenal"
+  ],
+  "pergunta": "JOGADOR COM A LETRA X",
+  "foto": "q29.png",
+  "opcoes": [
+   "XISCO",
+   "XHAKA",
+   "XABI"
+  ],
+  "certa": 1,
+  "fala_q": "Letra xis, das difíceis: o capitão da Suíça, que jogou anos no Arsenal. Xisco, Xhaka ou Xabi?",
+  "fala_r": "Xhaka! Granit Xhaka, o volante da Suíça.",
+  "count": 7.0,
+  "aviso": "LETRA DIFÍCIL!"
+ },
+ {
+  "n": 30,
+  "letra": "K",
+  "pista": [
+   "Ponta GEORGIANO,",
+   "o \"KVARADONA\""
+  ],
+  "pergunta": "JOGADOR COM A LETRA K",
+  "foto": "q30.png",
+  "opcoes": [
+   "KOLAROV",
+   "KUBO",
+   "KVARATSKHELIA"
+  ],
+  "certa": 2,
+  "fala_q": "Letra K: o ponta da Geórgia, apelidado de Kvaradona. Kolarov, Kubo ou Kvaratskhelia?",
+  "fala_r": "Kvaratskhelia! Ninguém consegue falar esse nome de primeira.",
+  "count": 7.0,
+  "foto_jogador": "pe-kvaratskhelia.jpg"
+ },
+ {
+  "n": 31,
+  "letra": "P",
+  "pista": [
+   "Goleiro TCHECO",
+   "que jogava",
+   "de CAPACETE"
+  ],
+  "pergunta": "JOGADOR COM A LETRA P",
+  "foto": "q31.png",
+  "opcoes": [
+   "PICKFORD",
+   "PETR ČECH",
+   "PATRÍCIO"
+  ],
+  "certa": 1,
+  "fala_q": "Letra P: o goleiro tcheco que jogava de capacete. Pickford, Petr Čech ou Patrício?",
+  "fala_r": "Petr Čech! Usava o capacete depois de uma pancada na cabeça.",
+  "count": 7.0,
+  "foto_jogador": "lgol-petr-cech.jpg",
+  "fala_d": "Dica: foi ídolo do Chelsea!",
+  "dica_txt": "ÍDOLO DO CHELSEA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 32,
+  "letra": "Y",
+  "pista": [
+   "O ÚNICO goleiro",
+   "BOLA DE OURO",
+   "(1963)"
+  ],
+  "pergunta": "JOGADOR COM A LETRA Y",
+  "foto": "q32.png",
+  "opcoes": [
+   "YASHIN",
+   "YAKIN",
+   "YORKE"
+  ],
+  "certa": 0,
+  "fala_q": "Valendo o título de craque do alfabeto! Letra Y: o único goleiro da história que ganhou a Bola de Ouro, em 1963. Yashin, Yakin ou Yorke?",
+  "fala_r": "Yashin! O Aranha Negra, da antiga União Soviética. Se acertou essa, você manja de futebol!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Valendo o título... a resposta é..."
+ }
+]
