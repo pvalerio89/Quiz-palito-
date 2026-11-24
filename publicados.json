@@ -1209,6 +1209,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/brasil-2": {
+      "titulo": "QUIZ DO BRASIL 2 🇧🇷 Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "db7njbApb-M",
+        "url": "https://youtu.be/db7njbApb-M",
+        "data": "2026-11-24",
+        "origem": "github-actions",
+        "sha256": "50bbf608ac6932c05f44cf4fc24d85985b2fd55951c89b1fe8d092b75c1bf2fd",
+        "no_ar_em": "2026-11-24T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
