@@ -579,11 +579,14 @@
       "id": "2026-11-20-quiz-brasil-2",
       "referencia": "",
       "tema": "QUIZ DO BRASIL parte 2 (o longo que mais deu horas: 35 h, 41% retido)",
-      "status": "pronto",
+      "status": "erro",
       "obs": "Longo 10–15 min + Short do mesmo tema. 30–36 perguntas NOVAS sobre o Brasil (geografia, história, cultura, comidas, símbolos), nenhuma igual ao vídeo 06 (videos/06*). Fotos reais (Wikimedia) quando for coisa real. Short = nova versão de 'Você sabe tudo do BRASIL?' (8,7 h, +4 insc): 4–5 perguntas, 30–50 s, com link do longo na descrição. Título ex.: 'QUIZ DO BRASIL 2: se você acertar 25 de 30, é brasileiro de verdade'. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-20): vídeo 50, 32 perguntas novas (lugares, bichos, comidas, história, cultura), todas com foto real Wikimedia (35 fotos, créditos na tela final), fundo verde/azul/amarelo, ~11,8 min, Palito confiante na miniatura. Short brasil-2 (5 perguntas, ~51 s, sem abertura, 'o quiz completo tá no canal').",
       "video": "videos/50-quiz-brasil-2",
       "short": "shorts/brasil-2",
-      "titulo": "QUIZ DO BRASIL 2 🇧🇷 Se você acertar 25 de 32, é brasileiro de verdade! | Quiz Palito"
+      "titulo": "QUIZ DO BRASIL 2 🇧🇷 Se você acertar 25 de 32, é brasileiro de verdade! | Quiz Palito",
+      "erro": "2026-11-24: gerar_video=failure gerar_short=failure enviar_video=skipped enviar_short=skipped",
+      "agendar_em": "2026-11-24T21:00:00Z",
+      "links": {}
     },
     {
       "id": "2026-11-20-bandeiras-niveis",
