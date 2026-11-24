@@ -1195,6 +1195,20 @@
         "data": "2026-11-22",
         "origem": "github-actions"
       }
+    },
+    "videos/50-quiz-brasil-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "Sqv_V_IR0eU",
+        "url": "https://youtu.be/Sqv_V_IR0eU",
+        "data": "2026-11-24",
+        "origem": "github-actions",
+        "sha256": "ff258a25dbf8fcccdf70403889b2e9f50e5b9a53e1a30fa970447c546901a9e2",
+        "no_ar_em": "2026-11-24T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
