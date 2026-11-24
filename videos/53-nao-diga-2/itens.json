@@ -1,0 +1,404 @@
+[
+ {
+  "n": 1,
+  "pedido": "DIGA UM ANIMAL DA FAZENDA",
+  "emoji": "🚜",
+  "resposta": "VACA",
+  "er": "🐄",
+  "fala_q": "Diga um animal da fazenda!",
+  "fala_r": "O Palito disse vaca! Disse vaca também? Tira uma vida!"
+ },
+ {
+  "n": 2,
+  "pedido": "DIGA UMA FORMA GEOMÉTRICA",
+  "emoji": "📐",
+  "resposta": "QUADRADO",
+  "er": "🟦",
+  "fala_q": "Agora: diga uma forma geométrica!",
+  "fala_r": "Quadrado! Se você pensou no quadrado, perdeu uma!"
+ },
+ {
+  "n": 3,
+  "pedido": "DIGA UM NÚMERO DE 1 A 5",
+  "emoji": "🔢",
+  "resposta": "3",
+  "er": "",
+  "fala_q": "Diga um número de um a cinco!",
+  "fala_r": "Três! O número do meio é o que mais sai. Pensou igual? Menos uma vida!"
+ },
+ {
+  "n": 4,
+  "pedido": "DIGA UMA FLOR",
+  "emoji": "🌸",
+  "resposta": "ROSA",
+  "er": "🌹",
+  "fala_q": "Rápido! diga uma flor!",
+  "fala_r": "Rosa! A flor que quase todo mundo fala primeiro."
+ },
+ {
+  "n": 5,
+  "pedido": "DIGA UM PASSARINHO",
+  "emoji": "🐦",
+  "resposta": "PAPAGAIO",
+  "er": "🦜",
+  "fala_q": "Diga um passarinho!",
+  "fala_r": "Papagaio! Falou papagaio? Tchau, uma vida!"
+ },
+ {
+  "n": 6,
+  "pedido": "DIGA UMA COMIDA DO CAFÉ DA MANHÃ",
+  "emoji": "☕",
+  "resposta": "PÃO",
+  "er": "🍞",
+  "fala_q": "Essa é fácil: diga uma comida do café da manhã!",
+  "fala_r": "Pão! Com manteiga, de preferência. Pensou igual? Perde uma!"
+ },
+ {
+  "n": 7,
+  "pedido": "DIGA UM PERSONAGEM DA TURMA DA MÔNICA",
+  "emoji": "📖",
+  "resposta": "CEBOLINHA",
+  "er": "🐰",
+  "fala_q": "Diga um personagem da Turma da Mônica!",
+  "fala_r": "Cebolinha! Se você disse Cebolinha, perdeu uma vida!"
+ },
+ {
+  "n": 8,
+  "pedido": "DIGA UM ELETRODOMÉSTICO",
+  "emoji": "🔌",
+  "resposta": "GELADEIRA",
+  "er": "🧊",
+  "fala_q": "Pensa rápido! diga um eletrodoméstico!",
+  "fala_r": "Geladeira! Pensou na geladeira? Menos um coração!"
+ },
+ {
+  "n": 9,
+  "pedido": "DIGA UMA PEÇA DE ROUPA",
+  "emoji": "👗",
+  "resposta": "CAMISETA",
+  "er": "👕",
+  "fala_q": "Diga uma peça de roupa!",
+  "fala_r": "Camiseta! Disse igual ao Palito? Perde uma!"
+ },
+ {
+  "n": 10,
+  "pedido": "DIGA UM JOGO DE VIDEOGAME",
+  "emoji": "🎮",
+  "resposta": "MINECRAFT",
+  "er": "⛏️",
+  "fala_q": "Rodada dez! diga um jogo de videogame!",
+  "fala_r": "Minecraft! Esse é campeão. Falou igual? Tira uma vida!"
+ },
+ {
+  "n": 11,
+  "pedido": "DIGA UM MEIO DE TRANSPORTE",
+  "emoji": "🚦",
+  "resposta": "CARRO",
+  "er": "🚗",
+  "fala_q": "Bora: diga um meio de transporte!",
+  "fala_r": "Carro! O mais óbvio de todos. Perdeu uma?"
+ },
+ {
+  "n": 12,
+  "pedido": "DIGA UM DINOSSAURO",
+  "emoji": "🦕",
+  "resposta": "TIRANOSSAURO REX",
+  "er": "🦖",
+  "fala_q": "Diga um dinossauro!",
+  "fala_r": "Tiranossauro rex! Pensou no T-rex? Menos uma vida!"
+ },
+ {
+  "n": 13,
+  "pedido": "DIGA UMA FRUTA VERMELHA",
+  "emoji": "🍒",
+  "resposta": "MORANGO",
+  "er": "🍓",
+  "fala_q": "Agora uma gostosa: diga uma fruta vermelha!",
+  "fala_r": "Morango! Se disse morango, perdeu uma!"
+ },
+ {
+  "n": 14,
+  "pedido": "DIGA UM CALÇADO",
+  "emoji": "👞",
+  "resposta": "TÊNIS",
+  "er": "👟",
+  "fala_q": "Diga um calçado!",
+  "fala_r": "Tênis! Pensou igual ao Palito? Tchau, uma vida!"
+ },
+ {
+  "n": 15,
+  "pedido": "DIGA UM ESPORTE... MAS NÃO VALE FUTEBOL!",
+  "emoji": "🚫",
+  "resposta": "VÔLEI",
+  "er": "🏐",
+  "fala_q": "Pegadinha! Diga um esporte... mas não vale futebol!",
+  "fala_r": "Vôlei! Sem o futebol, quase todo mundo vai no vôlei.",
+  "pegadinha": true
+ },
+ {
+  "n": 16,
+  "pedido": "DIGA UM ANIMAL DO PANTANAL",
+  "emoji": "🌿",
+  "resposta": "JACARÉ",
+  "er": "🐊",
+  "fala_q": "Diga um animal do Pantanal!",
+  "fala_r": "Jacaré! Disse jacaré? Perde uma vida!"
+ },
+ {
+  "n": 17,
+  "pedido": "DIGA UM MATERIAL ESCOLAR",
+  "emoji": "🎒",
+  "resposta": "LÁPIS",
+  "er": "✏️",
+  "fala_q": "Diga um material escolar!",
+  "fala_r": "Lápis! Se você falou lápis, menos um coração!"
+ },
+ {
+  "n": 18,
+  "pedido": "DIGA UM LANCHE",
+  "emoji": "🍟",
+  "resposta": "HAMBÚRGUER",
+  "er": "🍔",
+  "fala_q": "Deu fome? diga um lanche!",
+  "fala_r": "Hambúrguer! Deu fome, né? Pensou igual? Perde uma!"
+ },
+ {
+  "n": 19,
+  "pedido": "DIGA UMA BRINCADEIRA DE CRIANÇA",
+  "emoji": "🧒",
+  "resposta": "ESCONDE-ESCONDE",
+  "er": "🙈",
+  "fala_q": "Diga uma brincadeira de criança!",
+  "fala_r": "Esconde-esconde! Pensou nessa? Menos um coração!"
+ },
+ {
+  "n": 20,
+  "pedido": "DIGA UM CÔMODO DA CASA",
+  "emoji": "🏠",
+  "resposta": "COZINHA",
+  "er": "🍳",
+  "fala_q": "Rodada vinte! diga um cômodo da casa!",
+  "fala_r": "Cozinha! Disse cozinha? Tira uma vida!"
+ },
+ {
+  "n": 21,
+  "pedido": "DIGA UMA CIDADE FORA DO BRASIL",
+  "emoji": "🌍",
+  "resposta": "PARIS",
+  "er": "🗼",
+  "fala_q": "Diga uma cidade fora do Brasil!",
+  "fala_r": "Paris! A cidade da Torre Eiffel. Falou igual? Perdeu uma!"
+ },
+ {
+  "n": 22,
+  "pedido": "DIGA UM NÚMERO PAR MENOR QUE 10",
+  "emoji": "🔢",
+  "resposta": "4",
+  "er": "",
+  "fala_q": "Essa divide a família: diga um número par, menor que dez!",
+  "fala_r": "Quatro! Se você disse quatro, menos uma vida!"
+ },
+ {
+  "n": 23,
+  "pedido": "DIGA UM FILME DE DESENHO",
+  "emoji": "🎬",
+  "resposta": "FROZEN",
+  "er": "❄",
+  "fala_q": "Diga um filme de desenho!",
+  "fala_r": "Frozen! Livre estou... e você, perdeu uma vida?"
+ },
+ {
+  "n": 24,
+  "pedido": "DIGA UM DOCE... MAS NÃO VALE BRIGADEIRO!",
+  "emoji": "🚫",
+  "resposta": "BEIJINHO",
+  "er": "🥥",
+  "fala_q": "Pegadinha! Diga um doce... mas não vale brigadeiro!",
+  "fala_r": "Beijinho! O irmão do brigadeiro. Pensou igual? Perde uma!",
+  "pegadinha": true
+ },
+ {
+  "n": 25,
+  "pedido": "DIGA UMA FERRAMENTA",
+  "emoji": "🧰",
+  "resposta": "MARTELO",
+  "er": "🔨",
+  "fala_q": "Agora: diga uma ferramenta!",
+  "fala_r": "Martelo! Disse martelo? Tchau, uma vida!"
+ },
+ {
+  "n": 26,
+  "pedido": "DIGA UM ESTADO DO BRASIL",
+  "emoji": "🗺️",
+  "resposta": "RIO DE JANEIRO",
+  "er": "🏖",
+  "fala_q": "Diga um estado do Brasil!",
+  "fala_r": "Rio de Janeiro! Falou o Rio? Menos um coração!"
+ },
+ {
+  "n": 27,
+  "pedido": "DIGA UM ANIMAL QUE PULA",
+  "emoji": "🌳",
+  "resposta": "CANGURU",
+  "er": "🦘",
+  "fala_q": "Diga um animal que pula!",
+  "fala_r": "Canguru! O campeão do pulo. Falou igual? Perdeu uma!"
+ },
+ {
+  "n": 28,
+  "pedido": "DIGA UM PEIXE",
+  "emoji": "🎣",
+  "resposta": "SALMÃO",
+  "er": "🐟",
+  "fala_q": "Vamos pro mar: diga um peixe!",
+  "fala_r": "Salmão! Pensou no salmão? Perde uma vida!"
+ },
+ {
+  "n": 29,
+  "pedido": "DIGA ALGO QUE CAI DO CÉU",
+  "emoji": "☁️",
+  "resposta": "CHUVA",
+  "er": "🌧",
+  "fala_q": "Rápido! diga algo que cai do céu!",
+  "fala_r": "Chuva! Quem disse chuva, perdeu uma!"
+ },
+ {
+  "n": 30,
+  "pedido": "DIGA UM SABOR DE SUCO",
+  "emoji": "🍹",
+  "resposta": "LARANJA",
+  "er": "🍊",
+  "fala_q": "Rodada trinta! diga um sabor de suco!",
+  "fala_r": "Laranja! O suco mais pedido do Brasil. Disse igual? Tira uma vida!"
+ },
+ {
+  "n": 31,
+  "pedido": "DIGA UMA COR DO ARCO-ÍRIS... MAS NÃO VALE VERMELHO!",
+  "emoji": "🌈",
+  "resposta": "AMARELO",
+  "er": "🟡",
+  "fala_q": "Pegadinha! Diga uma cor do arco-íris... mas não vale vermelho!",
+  "fala_r": "Amarelo! Sem o vermelho, o amarelo é o que mais sai. Perdeu uma?",
+  "pegadinha": true
+ },
+ {
+  "n": 32,
+  "pedido": "DIGA UM INSETO BONITO",
+  "emoji": "🌼",
+  "resposta": "BORBOLETA",
+  "er": "🦋",
+  "fala_q": "Diga um inseto bonito!",
+  "fala_r": "Borboleta! Disse borboleta? Tchau, uma vida!"
+ },
+ {
+  "n": 33,
+  "pedido": "DIGA UM VILÃO",
+  "emoji": "😈",
+  "resposta": "CORINGA",
+  "er": "🃏",
+  "fala_q": "Essa é difícil de fugir: diga um vilão!",
+  "fala_r": "Coringa! O vilão mais famoso. Pensou igual? Perde uma vida!"
+ },
+ {
+  "n": 34,
+  "pedido": "DIGA UM ANIMAL COM A LETRA G",
+  "emoji": "🔤",
+  "resposta": "GATO",
+  "er": "🐱",
+  "fala_q": "Diga um animal com a letra G!",
+  "fala_r": "Gato! Se você disse gato, miau... menos uma vida!"
+ },
+ {
+  "n": 35,
+  "pedido": "DIGA UMA POSIÇÃO DO FUTEBOL",
+  "emoji": "🥅",
+  "resposta": "ATACANTE",
+  "er": "⚽",
+  "fala_q": "Pensa rápido! diga uma posição do futebol!",
+  "fala_r": "Atacante! Quem faz os gols. Disse igual? Perdeu uma!"
+ },
+ {
+  "n": 36,
+  "pedido": "DIGA ALGO QUE TEM NO BANHEIRO",
+  "emoji": "🚿",
+  "resposta": "SABONETE",
+  "er": "🧼",
+  "fala_q": "Diga algo que tem no banheiro!",
+  "fala_r": "Sabonete! Pensou no sabonete? Tira uma vida!"
+ },
+ {
+  "n": 37,
+  "pedido": "DIGA UMA SOBREMESA",
+  "emoji": "🍽",
+  "resposta": "PUDIM",
+  "er": "🍮",
+  "fala_q": "Essa é boa: diga uma sobremesa!",
+  "fala_r": "Pudim! Aquele de leite condensado. Pensou igual? Perde uma!"
+ },
+ {
+  "n": 38,
+  "pedido": "DIGA UM FERIADO",
+  "emoji": "📅",
+  "resposta": "NATAL",
+  "er": "🎄",
+  "fala_q": "Diga um feriado!",
+  "fala_r": "Natal! O feriado preferido de quase todo mundo. Perdeu uma?"
+ },
+ {
+  "n": 39,
+  "pedido": "DIGA UM CONTINENTE",
+  "emoji": "🌎",
+  "resposta": "EUROPA",
+  "er": "🏰",
+  "fala_q": "Diga um continente!",
+  "fala_r": "Europa! Falou Europa? Menos um coração!"
+ },
+ {
+  "n": 40,
+  "pedido": "DIGA UMA PALAVRA EM INGLÊS",
+  "emoji": "🔠",
+  "resposta": "HELLO",
+  "er": "👋",
+  "fala_q": "Agora em inglês: diga uma palavra em inglês!",
+  "fala_r": "Hello! O famoso olá. Pensou igual? Perde uma vida!"
+ },
+ {
+  "n": 41,
+  "pedido": "DIGA UM ANIMAL QUE VIVE NO GELO",
+  "emoji": "🧊",
+  "resposta": "PINGUIM",
+  "er": "🐧",
+  "fala_q": "Vamos pro frio: diga um animal que vive no gelo!",
+  "fala_r": "Pinguim! Disse pinguim? Tchau, uma vida!"
+ },
+ {
+  "n": 42,
+  "pedido": "DIGA UM DINHEIRO DE OUTRO PAÍS",
+  "emoji": "💰",
+  "resposta": "DÓLAR",
+  "er": "💵",
+  "fala_q": "Quase acabando: diga um dinheiro de outro país!",
+  "fala_r": "Dólar! O mais conhecido do mundo. Falou igual? Perdeu uma!"
+ },
+ {
+  "n": 43,
+  "pedido": "DIGA UM PLANETA... MAS NÃO VALE A TERRA!",
+  "emoji": "🪐",
+  "resposta": "MARTE",
+  "er": "🔴",
+  "fala_q": "Pegadinha! Diga um planeta... mas não vale a Terra!",
+  "fala_r": "Marte! O planeta vermelho. Pensou igual? Menos uma vida!",
+  "pegadinha": true
+ },
+ {
+  "n": 44,
+  "pedido": "DIGA UMA COISA AMARELA... QUE NÃO SEJA FRUTA!",
+  "emoji": "🟨",
+  "resposta": "SOL",
+  "er": "☀️",
+  "fala_q": "A mais difícil: diga uma coisa amarela... que não seja fruta!",
+  "fala_r": "O Palito disse... o sol! Se você disse sol, perdeu mais uma vida!",
+  "pegadinha": true,
+  "final": true
+ }
+]

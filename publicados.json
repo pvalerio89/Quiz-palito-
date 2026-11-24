@@ -1190,7 +1190,42 @@
         "no_ar_em": "2026-11-23T23:30:00Z"
       },
       "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7711122870428190772",
+        "data": "2026-11-22",
+        "origem": "github-actions"
+      }
+    },
+    "videos/50-quiz-brasil-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "Sqv_V_IR0eU",
+        "url": "https://youtu.be/Sqv_V_IR0eU",
+        "data": "2026-11-24",
+        "origem": "github-actions",
+        "sha256": "ff258a25dbf8fcccdf70403889b2e9f50e5b9a53e1a30fa970447c546901a9e2",
+        "no_ar_em": "2026-11-24T21:00:00Z"
+      },
+      "tiktok": {
         "status": "pendente"
+      }
+    },
+    "shorts/brasil-2": {
+      "titulo": "QUIZ DO BRASIL 2 🇧🇷 Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "db7njbApb-M",
+        "url": "https://youtu.be/db7njbApb-M",
+        "data": "2026-11-24",
+        "origem": "github-actions",
+        "sha256": "50bbf608ac6932c05f44cf4fc24d85985b2fd55951c89b1fe8d092b75c1bf2fd",
+        "no_ar_em": "2026-11-24T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7711648861370075154",
+        "data": "2026-11-24",
+        "origem": "github-actions"
       }
     },
     "videos/45-historia-transportes": {
