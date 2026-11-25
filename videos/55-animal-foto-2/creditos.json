@@ -283,5 +283,12 @@
   "arquivo": "filhote-avestruz.jpg",
   "autor": "Sanu N",
   "lic": "CC BY-SA 4.0"
+ },
+ "filhote-panda": {
+  "file": "Chengdu-pandas-d18.jpg",
+  "crop": null,
+  "arquivo": "filhote-panda.jpg",
+  "autor": "User:Colegota and post-processed with The GIMP",
+  "lic": "CC BY-SA 2.5 es"
  }
 }
