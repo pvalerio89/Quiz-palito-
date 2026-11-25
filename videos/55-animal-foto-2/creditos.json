@@ -1,0 +1,262 @@
+{
+ "pinguim": {
+  "file": "South_Shetland-2016-Deception_Island–Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg",
+  "crop": "fit",
+  "arquivo": "pinguim.jpg",
+  "autor": "Godot13",
+  "lic": "CC BY-SA 4.0"
+ },
+ "flamingo": {
+  "file": "James_Flamingo.jpg",
+  "crop": null,
+  "arquivo": "flamingo.jpg",
+  "autor": "Iain and Sarah",
+  "lic": "CC BY 2.0"
+ },
+ "coruja": {
+  "file": "Bubo_bubo_sibiricus_-_01.JPG",
+  "crop": "fit",
+  "arquivo": "coruja.jpg",
+  "autor": "Carlos Delgado",
+  "lic": "CC BY-SA 4.0"
+ },
+ "polvo": {
+  "file": "Octopus2.jpg",
+  "crop": null,
+  "arquivo": "polvo.jpg",
+  "autor": "albert kok",
+  "lic": "CC BY-SA 3.0"
+ },
+ "pavao": {
+  "file": "Peacock_on_tree_(52077240794).jpg",
+  "crop": "fit",
+  "arquivo": "pavao.jpg",
+  "autor": "Kandukuru Nagarjun from Bangalore, India",
+  "lic": "CC BY 2.0"
+ },
+ "joaninha": {
+  "file": "Coccinella-septempunctata-15-fws.jpg",
+  "crop": null,
+  "arquivo": "joaninha.jpg",
+  "autor": "Francisco Welter-Schultes",
+  "lic": "CC0"
+ },
+ "morcego": {
+  "file": "Big-eared-townsend-fledermaus.jpg",
+  "crop": null,
+  "arquivo": "morcego.jpg",
+  "autor": "PD-USGov, exact author unknown",
+  "lic": "Public domain"
+ },
+ "camaleao": {
+  "file": "Chameleons'_Eye_Coordination_01.jpg",
+  "crop": null,
+  "arquivo": "camaleao.jpg",
+  "autor": "Suyash Dwivedi",
+  "lic": "CC BY-SA 4.0"
+ },
+ "cavalo-marinho": {
+  "file": "Seahorse_Skeleton_Macro_8_-_edit.jpg",
+  "crop": "fit",
+  "arquivo": "cavalo-marinho.jpg",
+  "autor": "“Jon Zander (Digon3)\"; Edit by jjron",
+  "lic": "CC BY-SA 3.0"
+ },
+ "pelicano": {
+  "file": "Pelecanus_conspicillatus_-Australia_-8.jpg",
+  "crop": null,
+  "arquivo": "pelicano.jpg",
+  "autor": "Geoff Penaluna",
+  "lic": "CC BY 2.0"
+ },
+ "alpaca": {
+  "file": "Corazon_Full.jpg",
+  "crop": null,
+  "arquivo": "alpaca.jpg",
+  "autor": "Notnoisy",
+  "lic": "CC BY 3.0"
+ },
+ "crocodilo": {
+  "file": "Nile_crocodile_head.jpg",
+  "crop": null,
+  "arquivo": "crocodilo.jpg",
+  "autor": "Leigh Bedford",
+  "lic": "CC BY 2.0"
+ },
+ "puma": {
+  "file": "Mountain_Lion_in_Glacier_National_Park.jpg",
+  "crop": null,
+  "arquivo": "puma.jpg",
+  "autor": "National Park Service",
+  "lic": "Public domain"
+ },
+ "ourico": {
+  "file": "Igel.JPG",
+  "crop": null,
+  "arquivo": "ourico.jpg",
+  "autor": "Gibe",
+  "lic": "CC BY-SA 3.0"
+ },
+ "texugo": {
+  "file": "Meles_meles_(50208147127)_(cropped).jpg",
+  "crop": null,
+  "arquivo": "texugo.jpg",
+  "autor": "caroline legg",
+  "lic": "CC BY 2.0"
+ },
+ "jaguatirica": {
+  "file": "Ocelot.jpg",
+  "crop": null,
+  "arquivo": "jaguatirica.jpg",
+  "autor": "Tom Smylie",
+  "lic": "Public domain"
+ },
+ "lince": {
+  "file": "Parc_des_felins_Felin_06.jpg",
+  "crop": null,
+  "arquivo": "lince.jpg",
+  "autor": "Abujoy",
+  "lic": "CC BY 4.0"
+ },
+ "girino": {
+  "file": "RanaTemporariaLarva2.jpg",
+  "crop": null,
+  "arquivo": "girino.jpg",
+  "autor": "Viridiflavus",
+  "lic": "CC BY-SA 3.0"
+ },
+ "lagarta": {
+  "file": "Chenille_de_Grand_porte_queue_(macaon).jpg",
+  "crop": null,
+  "arquivo": "lagarta.jpg",
+  "autor": "Didier Descouens",
+  "lic": "CC BY-SA 4.0"
+ },
+ "filhote-flamingo": {
+  "file": "Plameňák_kubánský_a_mládě.jpg",
+  "crop": [
+   0.72,
+   0.6,
+   0.6
+  ],
+  "arquivo": "filhote-flamingo.jpg",
+  "autor": "Pavel Vlček",
+  "lic": "Public domain"
+ },
+ "filhote-pinguim": {
+  "file": "Giant_petrel_and_emperor_penguin_chicks.jpg",
+  "crop": null,
+  "arquivo": "filhote-pinguim.jpg",
+  "autor": "Dargaud",
+  "lic": "CC BY-SA 4.0"
+ },
+ "filhote-foca": {
+  "file": "Blanchon-idlm2006.jpg",
+  "crop": null,
+  "arquivo": "filhote-foca.jpg",
+  "autor": "Matthieu Godbout",
+  "lic": "CC BY-SA 3.0"
+ },
+ "filhote-cisne": {
+  "file": "Mute_swan_cygnets_learning_in_Prospect_Park_(80222).jpg",
+  "crop": [
+   0.3,
+   0.6,
+   0.7
+  ],
+  "arquivo": "filhote-cisne.jpg",
+  "autor": "Rhododendrites",
+  "lic": "CC BY-SA 4.0"
+ },
+ "filhote-canguru": {
+  "file": "Rotes_Riesenkänguru_(Zoo_Dresden)_(12).jpg",
+  "crop": null,
+  "arquivo": "filhote-canguru.jpg",
+  "autor": "Fiver, der Hellseher",
+  "lic": "CC BY-SA 4.0"
+ },
+ "bico-de-sapato": {
+  "file": "Balaeniceps_rex_-Ueno_Zoo,_Tokyo,_Japan-8a.jpg",
+  "crop": "fit",
+  "arquivo": "bico-de-sapato.jpg",
+  "autor": "Bob Owen",
+  "lic": "CC BY 2.0"
+ },
+ "macaco-narigudo": {
+  "file": "Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg",
+  "crop": null,
+  "arquivo": "macaco-narigudo.jpg",
+  "autor": "Charles J. Sharp",
+  "lic": "CC BY-SA 4.0"
+ },
+ "aye-aye": {
+  "file": "Aye-aye_at_night_in_the_wild_in_Madagascar.jpg",
+  "crop": null,
+  "arquivo": "aye-aye.jpg",
+  "autor": "Frank Vassen",
+  "lic": "CC BY 2.0"
+ },
+ "quokka": {
+  "file": "Quokka_family.jpg",
+  "crop": null,
+  "arquivo": "quokka.jpg",
+  "autor": "Hesperian",
+  "lic": "CC BY 3.0"
+ },
+ "saiga": {
+  "file": "Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+  "crop": null,
+  "arquivo": "saiga.jpg",
+  "autor": "Andrey Giljov",
+  "lic": "CC BY-SA 4.0"
+ },
+ "dugongo": {
+  "file": "Dugong_Marsa_Alam.jpg",
+  "crop": null,
+  "arquivo": "dugongo.jpg",
+  "autor": "Julien Willem",
+  "lic": "CC BY-SA 3.0"
+ },
+ "caracal": {
+  "file": "Caracal_on_the_road,_early_morning_in_Kgalagadi_(36173878220)_(cropped).jpg",
+  "crop": "fit",
+  "arquivo": "caracal.jpg",
+  "autor": "Derek Keats",
+  "lic": "CC BY 2.0"
+ },
+ "peixe-lua": {
+  "file": "Mola_mola2.jpg",
+  "crop": null,
+  "arquivo": "peixe-lua.jpg",
+  "autor": "OpenCage",
+  "lic": "CC BY-SA 2.5"
+ },
+ "gerenuk": {
+  "file": "Gerenuks_in_Samburu.jpg",
+  "crop": "fit",
+  "arquivo": "gerenuk.jpg",
+  "autor": "frederic.salein",
+  "lic": "CC BY-SA 2.0"
+ },
+ "casuar": {
+  "file": "Casuarius_casuarius_-upper_body_-captive-8a-2c.jpg",
+  "crop": "fit",
+  "arquivo": "casuar.jpg",
+  "autor": "safaris derivative work: Snowma",
+  "lic": "CC BY 2.0"
+ },
+ "fossa": {
+  "file": "Cryptoprocta_Ferox.JPG",
+  "crop": null,
+  "arquivo": "fossa.jpg",
+  "autor": "Ran Kirlian",
+  "lic": "CC BY-SA 4.0"
+ },
+ "numbat": {
+  "file": "Numbat,_Dryandra_Woodland,_Western_Australia.jpg",
+  "crop": null,
+  "arquivo": "numbat.jpg",
+  "autor": "JJ Harrison",
+  "lic": "CC BY-SA 4.0"
+ }
+}
