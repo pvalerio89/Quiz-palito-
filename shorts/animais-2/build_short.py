@@ -29,20 +29,15 @@ N = 5
 
 # pergunta (tela), fala, foto (nome em creditos.json), opções A-C, índice certo, resposta falada, fundo (topo, base)
 PERG = [
-    ("Que animal é esse?
-DE OLHOS GRANDES", "Que animal é esse?", "coruja",
+    ("Que animal é esse?\nDE OLHOS GRANDES", "Que animal é esse?", "coruja",
      ["Gavião", "Coruja", "Águia"], 1, "Coruja!", ((0, 170, 170), (0, 75, 90))),
-    ("Não confunda!
-LHAMA OU ALPACA?", "Cuidado com a pegadinha! E esse?", "alpaca",
+    ("Não confunda!\nLHAMA OU ALPACA?", "Cuidado com a pegadinha! E esse?", "alpaca",
      ["Alpaca", "Lhama", "Ovelha"], 0, "Alpaca! A lhama é maior!", ((135, 65, 210), (55, 20, 110))),
-    ("Esse filhote vira...
-QUAL ANIMAL?", "Esse filhote vai virar qual animal?", "filhote-flamingo",
-     ["Pato", "Ganso", "Flamingo"], 2, "Flamingo! Nasce cinzinha!", ((235, 95, 150), (135, 25, 80))),
-    ("Bicho raro!
-QUE ANIMAL É ESSE?", "Agora um raro! Que bicho é esse?", "quokka",
+    ("Esse filhote vira...\nQUAL ANIMAL?", "Esse filhote vai virar qual animal?", "filhote-flamingo",
+     ["Pato", "Ganso", "Flamingo"], 2, "Flamingo! Nasce branquinho!", ((235, 95, 150), (135, 25, 80))),
+    ("Bicho raro!\nQUE ANIMAL É ESSE?", "Agora um raro! Que bicho é esse?", "quokka",
      ["Castor", "Quokka", "Marmota"], 1, "Quokka! O bicho mais feliz do mundo!", ((45, 60, 150), (10, 14, 55))),
-    ("O mais estranho!
-QUE BICHO É ESSE?", "A última! Que bicho é esse?", "aye-aye",
+    ("O mais estranho!\nQUE BICHO É ESSE?", "A última! Que bicho é esse?", "aye-aye",
      ["Társio", "Lóris", "Aye-aye"], 2, "Aye-aye!", ((235, 60, 50), (120, 15, 30))),
 ]
 FALAS = {

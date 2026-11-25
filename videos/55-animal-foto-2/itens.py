@@ -63,7 +63,7 @@ P = [
     ("lagarta", "FILHOTES", "BORBOLETA", ["ABELHA", "MINHOCA"], "Essa é clássica!",
      "Borboleta! Depois do casulo, ela ganha asas!", {}),
     ("filhote-flamingo", "FILHOTES", "FLAMINGO", ["PATO", "GANSO"], "Essa aqui derruba muita gente!",
-     "Flamingo! O filhote nasce cinzinha e só fica rosa depois!",
+     "Flamingo! O filhote nasce branquinho e só fica rosa depois!",
      {"aviso": "TEM PEGADINHA!", "suspense": True}),
     ("filhote-pinguim", "FILHOTES", "PINGUIM", ["CORUJA", "GAIVOTA"], "Olha que fofura!",
      "Pinguim! É um filhote de pinguim-imperador!", {}),
@@ -78,7 +78,7 @@ P = [
      "Canguru! O filhote se chama joey e mora na bolsa da mãe!", {"sabia": "O FILHOTE SE CHAMA JOEY!"}),
     ("filhote-panda", "FILHOTES", "PANDA", ["RATO", "PORCO"], "Essa é a mais difícil dos filhotes!",
      "Panda! Ele nasce rosinha, cego e pesando uns cem gramas!",
-     {"aviso": "TEM PEGADINHA!", "suspense": True})
+     {"aviso": "TEM PEGADINHA!", "suspense": True}),
 
     ("bico-de-sapato", "RAROS", "BICO-DE-SAPATO", ["PELICANO", "GARÇA"], "Agora só os raros! Olha a cara dele!",
      "Bico-de-sapato! Ele fica parado igual estátua pra pescar!", {}),

@@ -643,8 +643,11 @@
       "id": "2026-11-20-animal-foto-2",
       "referencia": "",
       "tema": "Adivinhe o ANIMAL pela FOTO parte 2 (Short +9 insc, 1.335 views)",
-      "status": "aguardando",
-      "obs": "Longo 10–15 min + Short do mesmo tema. Fotos reais (automacao/fotos_wiki.py, Wikimedia PD/CC0), animais NOVOS (não repetir os do vídeo 13 zoom), formato diferente do zoom: foto inteira com 3 alternativas e níveis fácil→impossível (filhotes, animais raros no fim). Short = 'Adivinhe o ANIMAL pela FOTO 2', 4–5 animais, 30–50 s, link do longo na descrição. Créditos das fotos só numa tela curta no fim. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+      "status": "pronto",
+      "obs": "Longo 10–15 min + Short do mesmo tema. Fotos reais (automacao/fotos_wiki.py, Wikimedia PD/CC0), animais NOVOS (não repetir os do vídeo 13 zoom), formato diferente do zoom: foto inteira com 3 alternativas e níveis fácil→impossível (filhotes, animais raros no fim). Short = 'Adivinhe o ANIMAL pela FOTO 2', 4–5 animais, 30–50 s, link do longo na descrição. Créditos das fotos só numa tela curta no fim. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-25): vídeo 55, 36 animais NOVOS (nenhum é resposta do 13 nem do 40, menos os filhotes) em 4 FASES de 9 com faixa da fase na foto e tela de fase: CONHECIDOS (teal), PARECIDOS (roxo: alpaca x lhama, crocodilo x jacaré, ouriço x porco-espinho), FILHOTES (rosa: esse bebê vira qual animal?), RAROS (azul-noite, aye-aye no fim). 39 fotos Wikimedia (créditos na tela final), splash, inscreva+like depois da 3ª, ~12,9 min, música Carefree. Short animais-2 (5 bichos, 1 de cada fase + aye-aye, chamada SERÁ QUE VOCÊ GABARITA?, música Wallpaper, 'os trinta e seis bichos tão no canal').",
+      "video": "videos/55-animal-foto-2",
+      "short": "shorts/animais-2",
+      "titulo": "Adivinhe o ANIMAL pela FOTO 2 🦉 Conhecidos, parecidos, filhotes e RAROS: até onde você chega? | Quiz Palito"
     },
     {
       "id": "2026-11-17-acaba-quando-errar",

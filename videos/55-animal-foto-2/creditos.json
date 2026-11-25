@@ -277,18 +277,55 @@
   "autor": "photo taken by Artur Mikołajewski",
   "lic": "CC BY-SA 3.0"
  },
- "filhote-avestruz": {
-  "file": "Ostrich_with_eggs.jpg",
-  "crop": null,
-  "arquivo": "filhote-avestruz.jpg",
-  "autor": "Sanu N",
-  "lic": "CC BY-SA 4.0"
- },
  "filhote-panda": {
   "file": "Chengdu-pandas-d18.jpg",
   "crop": null,
   "arquivo": "filhote-panda.jpg",
   "autor": "User:Colegota and post-processed with The GIMP",
   "lic": "CC BY-SA 2.5 es"
+ },
+ "intro-leao": {
+  "file": "020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "arquivo": "intro-leao.jpg",
+  "autor": "Giles Laurent",
+  "lic": "CC BY-SA 4.0"
+ },
+ "intro-girafa": {
+  "file": "Giraffa_camelopardalis_reticulata_01,_flip.jpg",
+  "crop": [
+   0.5,
+   0.4,
+   1.0
+  ],
+  "arquivo": "intro-girafa.jpg",
+  "autor": "H. Zell",
+  "lic": "CC BY-SA 3.0"
+ },
+ "intro-elefante": {
+  "file": "178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "arquivo": "intro-elefante.jpg",
+  "autor": "Giles Laurent",
+  "lic": "CC BY-SA 4.0"
+ },
+ "intro-tucano": {
+  "file": "Toco_toucan_or_Tucanuçu_(Ramphastos_toco)_(20142718649).jpg",
+  "crop": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "arquivo": "intro-tucano.jpg",
+  "autor": "Under the same moon...",
+  "lic": "CC BY 2.0"
  }
 }
