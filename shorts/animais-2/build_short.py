@@ -1,7 +1,7 @@
 """Short "Adivinhe o animal pela foto 2" (animais-2), do vídeo 55 (videos/55-animal-foto-2), feito a partir de shorts/modelo.
 
 Sem abertura (NOVO RITMO, 2026-11-17): a 1ª imagem já é a pergunta, com a chamada na faixa vermelha.
-5 perguntas do MESMO tema do longo (PLANO DE MONETIZAÇÃO, 2026-11-20), fotos reais do vídeo 55 (Wikimedia Commons,
+4 perguntas do MESMO tema do longo (PLANO DE MONETIZAÇÃO, 2026-11-20), fotos reais do vídeo 55 (Wikimedia Commons,
 créditos na tela final), 30 a 50 s, fala final curta. Descrição com o link do longo (LINK_DO_VIDEO_LONGO).
 Uso: py -3 build_short.py            (gera vozes que faltam e monta o Short)
      py -3 build_short.py --previa   (prancha com quadros para conferir)
@@ -25,7 +25,7 @@ CHAMADA = "SERÁ QUE VOCÊ GABARITA?"   # s.CHAMADAS; diferente dos últimos 3 S
 MUSICA = os.path.join(QP, "musicas", "Wallpaper.mp3")
 EMOJI = "C:/Windows/Fonts/seguiemj.ttf"
 COUNT = 3.5
-N = 5
+N = 4
 
 # pergunta (tela), fala, foto (nome em creditos.json), opções A-C, índice certo, resposta falada, fundo (topo, base)
 PERG = [
@@ -35,8 +35,6 @@ PERG = [
      ["Alpaca", "Lhama", "Ovelha"], 0, "Alpaca! A lhama é maior!", ((135, 65, 210), (55, 20, 110))),
     ("Esse filhote vira...\nQUAL ANIMAL?", "Esse filhote vai virar qual animal?", "filhote-flamingo",
      ["Pato", "Ganso", "Flamingo"], 2, "Flamingo! Nasce branquinho!", ((235, 95, 150), (135, 25, 80))),
-    ("Bicho raro!\nQUE ANIMAL É ESSE?", "Agora um raro! Que bicho é esse?", "quokka",
-     ["Castor", "Quokka", "Marmota"], 1, "Quokka! O bicho mais feliz do mundo!", ((45, 60, 150), (10, 14, 55))),
     ("O mais estranho!\nQUE BICHO É ESSE?", "A última! Que bicho é esse?", "aye-aye",
      ["Társio", "Lóris", "Aye-aye"], 2, "Aye-aye!", ((235, 60, 50), (120, 15, 30))),
 ]
@@ -295,7 +293,7 @@ def previa():
     os.makedirs(out, exist_ok=True)
     fr = list(pergunta_frames(1, PERG[0], 3.0))
     ims = [fr[0], fr[8], fr[40], list(resposta_frames(1, PERG[0], 1.2))[-1],
-           list(pergunta_frames(4, PERG[3], 1.0))[50], list(resposta_frames(5, PERG[4], 1.2))[-1],
+           list(pergunta_frames(3, PERG[2], 1.0))[50], list(resposta_frames(4, PERG[3], 1.2))[-1],
            list(final_frames(1.0))[10]]
     sheet = Image.new("RGB", (len(ims) * 370, 640), (25, 25, 25))
     for i, im in enumerate(ims):
