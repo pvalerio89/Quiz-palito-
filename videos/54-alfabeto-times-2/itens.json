@@ -1,0 +1,628 @@
+[
+ {
+  "n": 1,
+  "letra": "A",
+  "nome": "ATHLETICO-PR",
+  "escudo": "athletico-paranaense.png",
+  "pergunta": "LETRA A: QUE TIME É ESSE?",
+  "foto": "athletico-paranaense.png",
+  "opcoes": [
+   "AVAÍ",
+   "ATHLETICO-PR",
+   "ATLÉTICO-GO"
+  ],
+  "certa": 1,
+  "fala_q": "Começando pelo A, bem fácil: que time é esse? Avaí, Athletico-Pr ou Atlético-Go?",
+  "fala_r": "Athletico Paranaense, o Furacão! Começou bem?",
+  "count": 5.0
+ },
+ {
+  "n": 2,
+  "letra": "A",
+  "nome": "AMÉRICA-MG",
+  "escudo": "america-mineiro.png",
+  "pergunta": "LETRA A: QUE TIME É ESSE?",
+  "foto": "america-mineiro.png",
+  "opcoes": [
+   "AMÉRICA-MG",
+   "ATLÉTICO-MG",
+   "ASTON VILLA"
+  ],
+  "certa": 0,
+  "fala_q": "Mais um com A. Cuidado, que esse tem pegadinha! América-Mg, Atlético-Mg ou Aston Villa?",
+  "fala_r": "América Mineiro, o Coelho! Não é o Galo, hein?",
+  "count": 5.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 3,
+  "letra": "A",
+  "nome": "ASTON VILLA",
+  "escudo": "aston-villa.png",
+  "pergunta": "LETRA A: QUE TIME É ESSE?",
+  "foto": "aston-villa.png",
+  "opcoes": [
+   "ARSENAL",
+   "ASTON VILLA",
+   "ATALANTA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um inglês com a letra A. Arsenal, Aston Villa ou Atalanta?",
+  "fala_r": "Aston Villa! O leão de Birmingham.",
+  "count": 7.0
+ },
+ {
+  "n": 4,
+  "letra": "B",
+  "nome": "BRAGANTINO",
+  "escudo": "red-bull-bragantino.png",
+  "pergunta": "LETRA B: QUE TIME É ESSE?",
+  "foto": "red-bull-bragantino.png",
+  "opcoes": [
+   "BOTAFOGO",
+   "BRAGANTINO",
+   "BAHIA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra B: esse é do interior de São Paulo. Botafogo, Bragantino ou Bahia?",
+  "fala_r": "Red Bull Bragantino! O Massa Bruta.",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "letra": "B",
+  "nome": "LEVERKUSEN",
+  "escudo": "bayer-leverkusen.png",
+  "pergunta": "LETRA B: QUE TIME É ESSE?",
+  "foto": "bayer-leverkusen.png",
+  "opcoes": [
+   "LEVERKUSEN",
+   "DORTMUND",
+   "BAYERN"
+  ],
+  "certa": 0,
+  "fala_q": "Ainda no B... ou quase! Time alemão. Leverkusen, Dortmund ou Bayern?",
+  "fala_r": "Bayer Leverkusen! Campeão alemão invicto em 2024.",
+  "count": 7.0,
+  "sabia": "O Leverkusen ganhou a Bundesliga de 2024 sem perder nenhum jogo."
+ },
+ {
+  "n": 6,
+  "letra": "B",
+  "nome": "BETIS",
+  "escudo": "betis.png",
+  "pergunta": "LETRA B: QUE TIME É ESSE?",
+  "foto": "betis.png",
+  "opcoes": [
+   "BARCELONA",
+   "BENFICA",
+   "BETIS"
+  ],
+  "certa": 2,
+  "fala_q": "Letra B, agora na Espanha: verde e branco. Barcelona, Benfica ou Betis?",
+  "fala_r": "Real Betis, de Sevilha! O Antony brilhou lá.",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "letra": "C",
+  "nome": "CHAPECOENSE",
+  "escudo": "chapecoense.png",
+  "pergunta": "LETRA C: QUE TIME É ESSE?",
+  "foto": "chapecoense.png",
+  "opcoes": [
+   "CHAPECOENSE",
+   "CORITIBA",
+   "CRICIÚMA"
+  ],
+  "certa": 0,
+  "fala_q": "Vamos pro C! Time de Santa Catarina. Chapecoense, Coritiba ou Criciúma?",
+  "fala_r": "Chapecoense, a Chape! Campeã da Sul-Americana de 2016.",
+  "count": 7.0,
+  "sabia": "A Chape foi declarada campeã da Sul-Americana de 2016."
+ },
+ {
+  "n": 8,
+  "letra": "C",
+  "nome": "CUIABÁ",
+  "escudo": "cuiaba.png",
+  "pergunta": "LETRA C: QUE TIME É ESSE?",
+  "foto": "cuiaba.png",
+  "opcoes": [
+   "CEARÁ",
+   "CORITIBA",
+   "CUIABÁ"
+  ],
+  "certa": 2,
+  "fala_q": "Letra C, lá do Mato Grosso. Ceará, Coritiba ou Cuiabá?",
+  "fala_r": "Cuiabá, o Dourado!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "letra": "C",
+  "nome": "CRYSTAL PALACE",
+  "escudo": "crystal-palace.png",
+  "pergunta": "LETRA C: QUE TIME É ESSE?",
+  "foto": "crystal-palace.png",
+  "opcoes": [
+   "CRYSTAL PALACE",
+   "CHELSEA",
+   "CELTIC"
+  ],
+  "certa": 0,
+  "fala_q": "Mais um C, agora de Londres. Que time é esse? Crystal Palace, Chelsea ou Celtic?",
+  "fala_r": "Crystal Palace! A águia de Londres.",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "letra": "D",
+  "nome": "LA CORUÑA",
+  "escudo": "deportivo-la-coruna.png",
+  "pergunta": "LETRA D: QUE TIME É ESSE?",
+  "foto": "deportivo-la-coruna.png",
+  "opcoes": [
+   "LA CORUÑA",
+   "DÍNAMO DE KIEV",
+   "DEFENSA Y JUSTICIA"
+  ],
+  "certa": 0,
+  "fala_q": "Letra D: esse foi campeão espanhol com os brasileiros Djalminha e Mauro Silva. La Coruña, Dínamo De Kiev ou Defensa Y Justicia?",
+  "fala_r": "Deportivo La Coruña! O Super Depor.",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "letra": "E",
+  "nome": "EINTRACHT",
+  "escudo": "eintracht-frankfurt.png",
+  "pergunta": "LETRA E: QUE TIME É ESSE?",
+  "foto": "eintracht-frankfurt.png",
+  "opcoes": [
+   "EINTRACHT",
+   "EVERTON",
+   "ESPANYOL"
+  ],
+  "certa": 0,
+  "fala_q": "Letra E: tem uma águia no escudo e é da Alemanha. Eintracht, Everton ou Espanyol?",
+  "fala_r": "Eintracht Frankfurt! Campeão da Liga Europa em 2022.",
+  "count": 7.0
+ },
+ {
+  "n": 12,
+  "letra": "E",
+  "nome": "ESTUDIANTES",
+  "escudo": "estudiantes.png",
+  "pergunta": "LETRA E: QUE TIME É ESSE?",
+  "foto": "estudiantes.png",
+  "opcoes": [
+   "EMELEC",
+   "EVERTON",
+   "ESTUDIANTES"
+  ],
+  "certa": 2,
+  "fala_q": "Mais um E, esse é argentino e já foi campeão do mundo. Emelec, Everton ou Estudiantes?",
+  "fala_r": "Estudiantes de La Plata! O time do Verón.",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "letra": "F",
+  "nome": "FIORENTINA",
+  "escudo": "fiorentina.png",
+  "pergunta": "LETRA F: QUE TIME É ESSE?",
+  "foto": "fiorentina.png",
+  "opcoes": [
+   "FLUMINENSE",
+   "FIORENTINA",
+   "FULHAM"
+  ],
+  "certa": 1,
+  "fala_q": "Letra F: o time roxo da Itália! Fluminense, Fiorentina ou Fulham?",
+  "fala_r": "Fiorentina, a Viola de Florença!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "letra": "F",
+  "nome": "FIGUEIRENSE",
+  "escudo": "figueirense.png",
+  "pergunta": "LETRA F: QUE TIME É ESSE?",
+  "foto": "figueirense.png",
+  "opcoes": [
+   "FORTALEZA",
+   "FIGUEIRENSE",
+   "FERROVIÁRIA"
+  ],
+  "certa": 1,
+  "fala_q": "Outro F, alvinegro e de Florianópolis. Fortaleza, Figueirense ou Ferroviária?",
+  "fala_r": "Figueirense, o Furacão do Estreito!",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "letra": "G",
+  "nome": "GUARANI",
+  "escudo": "guarani.png",
+  "pergunta": "LETRA G: QUE TIME É ESSE?",
+  "foto": "guarani.png",
+  "opcoes": [
+   "GRÊMIO",
+   "GOIÁS",
+   "GUARANI"
+  ],
+  "certa": 2,
+  "fala_q": "Letra G: campeão brasileiro de 1978, lá de Campinas. Grêmio, Goiás ou Guarani?",
+  "fala_r": "Guarani, o Bugre! Campeão brasileiro em 78.",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "letra": "G",
+  "nome": "GETAFE",
+  "escudo": "getafe.png",
+  "pergunta": "LETRA G: QUE TIME É ESSE?",
+  "foto": "getafe.png",
+  "opcoes": [
+   "GETAFE",
+   "GIRONA",
+   "GRANADA"
+  ],
+  "certa": 0,
+  "fala_q": "Mais um G, esse é da Espanha, pertinho de Madri. Getafe, Girona ou Granada?",
+  "fala_r": "Getafe! Time da região de Madri.",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "letra": "H",
+  "nome": "HERTHA BERLIM",
+  "escudo": "hertha-berlim.png",
+  "pergunta": "LETRA H: QUE TIME É ESSE?",
+  "foto": "hertha-berlim.png",
+  "opcoes": [
+   "HERTHA BERLIM",
+   "HAMBURGO",
+   "HOFFENHEIM"
+  ],
+  "certa": 0,
+  "fala_q": "Letra H, da capital da Alemanha. Hertha Berlim, Hamburgo ou Hoffenheim?",
+  "fala_r": "Hertha Berlim! O time azul e branco de Berlim.",
+  "count": 7.0
+ },
+ {
+  "n": 18,
+  "letra": "I",
+  "nome": "INTER MIAMI",
+  "escudo": "inter-miami.png",
+  "pergunta": "LETRA I: QUE TIME É ESSE?",
+  "foto": "inter-miami.png",
+  "opcoes": [
+   "INTERNACIONAL",
+   "INDEPENDIENTE",
+   "INTER MIAMI"
+  ],
+  "certa": 2,
+  "fala_q": "Letra I: o time cor-de-rosa de um certo argentino famoso! Internacional, Independiente ou Inter Miami?",
+  "fala_r": "Inter Miami, o time do Messi!",
+  "count": 7.0,
+  "fala_d": "Dica: é dos Estados Unidos!",
+  "dica_txt": "É DOS ESTADOS UNIDOS!"
+ },
+ {
+  "n": 19,
+  "letra": "K",
+  "nome": "KASHIMA ANTLERS",
+  "escudo": "kashima-antlers.png",
+  "pergunta": "LETRA K: QUE TIME É ESSE?",
+  "foto": "kashima-antlers.png",
+  "opcoes": [
+   "KAWASAKI",
+   "KASHIMA ANTLERS",
+   "KAISERSLAUTERN"
+  ],
+  "certa": 1,
+  "fala_q": "Letra K, lá do Japão, onde o Zico virou ídolo. Kawasaki, Kashima Antlers ou Kaiserslautern?",
+  "fala_r": "Kashima Antlers! O Zico é rei lá.",
+  "count": 7.0,
+  "sabia": "O Zico jogou e foi dirigente no Kashima: tem até estátua dele lá."
+ },
+ {
+  "n": 20,
+  "letra": "L",
+  "nome": "LEICESTER",
+  "escudo": "leicester.png",
+  "pergunta": "LETRA L: QUE TIME É ESSE?",
+  "foto": "leicester.png",
+  "opcoes": [
+   "LIVERPOOL",
+   "LILLE",
+   "LEICESTER"
+  ],
+  "certa": 2,
+  "fala_q": "Letra L: o time que foi campeão inglês contra todas as apostas! Liverpool, Lille ou Leicester?",
+  "fala_r": "Leicester! Campeão inglês em 2016, a maior zebra.",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "letra": "M",
+  "nome": "MALLORCA",
+  "escudo": "mallorca.png",
+  "pergunta": "LETRA M: QUE TIME É ESSE?",
+  "foto": "mallorca.png",
+  "opcoes": [
+   "MALLORCA",
+   "MÁLAGA",
+   "MONACO"
+  ],
+  "certa": 0,
+  "fala_q": "Letra M: time de uma ilha da Espanha. Mallorca, Málaga ou Monaco?",
+  "fala_r": "Mallorca! Lá da ilha de Maiorca.",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "letra": "N",
+  "nome": "NOTTINGHAM FOREST",
+  "escudo": "nottingham-forest.png",
+  "pergunta": "LETRA N: QUE TIME É ESSE?",
+  "foto": "nottingham-forest.png",
+  "opcoes": [
+   "NEWCASTLE",
+   "NOTTINGHAM FOREST",
+   "NORWICH"
+  ],
+  "certa": 1,
+  "fala_q": "Letra N: esse inglês já ganhou duas Champions! Newcastle, Nottingham Forest ou Norwich?",
+  "fala_r": "Nottingham Forest! Bicampeão da Europa em 79 e 80.",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "letra": "N",
+  "nome": "NÁUTICO",
+  "escudo": "nautico.png",
+  "pergunta": "LETRA N: QUE TIME É ESSE?",
+  "foto": "nautico.png",
+  "opcoes": [
+   "NACIONAL",
+   "NÁUTICO",
+   "NOVORIZONTINO"
+  ],
+  "certa": 1,
+  "fala_q": "Mais um N, lá de Recife. Nacional, Náutico ou Novorizontino?",
+  "fala_r": "Náutico, o Timbu!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "letra": "O",
+  "nome": "OLYMPIACOS",
+  "escudo": "olympiacos.png",
+  "pergunta": "LETRA O: QUE TIME É ESSE?",
+  "foto": "olympiacos.png",
+  "opcoes": [
+   "OLYMPIACOS",
+   "OLIMPIA",
+   "OSASUNA"
+  ],
+  "certa": 0,
+  "fala_q": "Letra O: o maior campeão da Grécia. Olympiacos, Olimpia ou Osasuna?",
+  "fala_r": "Olympiacos! Campeão da Conference League em 2024.",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "letra": "P",
+  "nome": "PAYSANDU",
+  "escudo": "paysandu.png",
+  "pergunta": "LETRA P: QUE TIME É ESSE?",
+  "foto": "paysandu.png",
+  "opcoes": [
+   "PALMEIRAS",
+   "PONTE PRETA",
+   "PAYSANDU"
+  ],
+  "certa": 2,
+  "fala_q": "Letra P, lá de Belém do Pará! Palmeiras, Ponte Preta ou Paysandu?",
+  "fala_r": "Paysandu, o Papão da Curuzu!",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "letra": "P",
+  "nome": "PONTE PRETA",
+  "escudo": "ponte-preta.png",
+  "pergunta": "LETRA P: QUE TIME É ESSE?",
+  "foto": "ponte-preta.png",
+  "opcoes": [
+   "PORTUGUESA",
+   "PARANÁ",
+   "PONTE PRETA"
+  ],
+  "certa": 2,
+  "fala_q": "Outro P, esse é de Campinas, rival do Guarani. Portuguesa, Paraná ou Ponte Preta?",
+  "fala_r": "Ponte Preta, a Macaca!",
+  "count": 7.0
+ },
+ {
+  "n": 27,
+  "letra": "P",
+  "nome": "PEÑAROL",
+  "escudo": "penarol.png",
+  "pergunta": "LETRA P: QUE TIME É ESSE?",
+  "foto": "penarol.png",
+  "opcoes": [
+   "PEÑAROL",
+   "PORTO",
+   "PALESTINO"
+  ],
+  "certa": 0,
+  "fala_q": "Mais um P, agora do Uruguai: cinco Libertadores! Peñarol, Porto ou Palestino?",
+  "fala_r": "Peñarol! Cinco vezes campeão da Libertadores.",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "letra": "R",
+  "nome": "REMO",
+  "escudo": "remo.png",
+  "pergunta": "LETRA R: QUE TIME É ESSE?",
+  "foto": "remo.png",
+  "opcoes": [
+   "RIVER PLATE",
+   "REMO",
+   "ROMA"
+  ],
+  "certa": 1,
+  "fala_q": "Letra R, de novo em Belém: o rival do Paysandu! River Plate, Remo ou Roma?",
+  "fala_r": "Remo, o Leão Azul! Rival do Paysandu no Re-Pa.",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "letra": "S",
+  "nome": "SANTA CRUZ",
+  "escudo": "santa-cruz.png",
+  "pergunta": "LETRA S: QUE TIME É ESSE?",
+  "foto": "santa-cruz.png",
+  "opcoes": [
+   "SPORT",
+   "SANTOS",
+   "SANTA CRUZ"
+  ],
+  "certa": 2,
+  "fala_q": "Letra S: time tricolor de Recife. Sport, Santos ou Santa Cruz?",
+  "fala_r": "Santa Cruz, a Cobra Coral!",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "letra": "S",
+  "nome": "SCHALKE 04",
+  "escudo": "schalke-04.png",
+  "pergunta": "LETRA S: QUE TIME É ESSE?",
+  "foto": "schalke-04.png",
+  "opcoes": [
+   "STUTTGART",
+   "SCHALKE 04",
+   "SEVILLA"
+  ],
+  "certa": 1,
+  "fala_q": "Mais um S, esse é alemão e azul. Stuttgart, Schalke 04 ou Sevilla?",
+  "fala_r": "Schalke zero quatro! O Rafinha e o Naldo jogaram lá.",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "letra": "S",
+  "nome": "SHAKHTAR",
+  "escudo": "shakhtar.png",
+  "pergunta": "LETRA S: QUE TIME É ESSE?",
+  "foto": "shakhtar.png",
+  "opcoes": [
+   "SHAKHTAR",
+   "SPARTAK MOSCOU",
+   "SPORTING"
+  ],
+  "certa": 0,
+  "fala_q": "Letra S: o time da Ucrânia que adora contratar brasileiros! Shakhtar, Spartak Moscou ou Sporting?",
+  "fala_r": "Shakhtar Donetsk! Já teve mais de dez brasileiros no elenco.",
+  "count": 7.0,
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 32,
+  "letra": "U",
+  "nome": "UNION BERLIN",
+  "escudo": "union-berlin.png",
+  "pergunta": "LETRA U: QUE TIME É ESSE?",
+  "foto": "union-berlin.png",
+  "opcoes": [
+   "UDINESE",
+   "UNION BERLIN",
+   "UTRECHT"
+  ],
+  "certa": 1,
+  "fala_q": "Letra U, das difíceis! Udinese, Union Berlin ou Utrecht?",
+  "fala_r": "Union Berlin! O outro time de Berlim.",
+  "count": 7.0,
+  "aviso": "LETRA DIFÍCIL!"
+ },
+ {
+  "n": 33,
+  "letra": "V",
+  "nome": "VÉLEZ SARSFIELD",
+  "escudo": "velez-sarsfield.png",
+  "pergunta": "LETRA V: QUE TIME É ESSE?",
+  "foto": "velez-sarsfield.png",
+  "opcoes": [
+   "VÉLEZ SARSFIELD",
+   "VALENCIA",
+   "VILLARREAL"
+  ],
+  "certa": 0,
+  "fala_q": "Letra V: argentino, campeão do mundo em 1994. Vélez Sarsfield, Valencia ou Villarreal?",
+  "fala_r": "Vélez Sarsfield! Ganhou do Milan no Mundial de 94.",
+  "count": 7.0
+ },
+ {
+  "n": 34,
+  "letra": "W",
+  "nome": "WERDER BREMEN",
+  "escudo": "werder-bremen.png",
+  "pergunta": "LETRA W: QUE TIME É ESSE?",
+  "foto": "werder-bremen.png",
+  "opcoes": [
+   "WOLFSBURG",
+   "WERDER BREMEN",
+   "WOLVERHAMPTON"
+  ],
+  "certa": 1,
+  "fala_q": "Letra W: tem um W verde no escudo, mas cuidado! Wolfsburg, Werder Bremen ou Wolverhampton?",
+  "fala_r": "Werder Bremen! O Wolfsburg também é verde, mas o escudo é redondo.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 35,
+  "letra": "Y",
+  "nome": "YOKOHAMA MARINOS",
+  "escudo": "yokohama-marinos.png",
+  "pergunta": "LETRA Y: QUE TIME É ESSE?",
+  "foto": "yokohama-marinos.png",
+  "opcoes": [
+   "YOUNG BOYS",
+   "YOKOHAMA MARINOS",
+   "YEOVIL TOWN"
+  ],
+  "certa": 1,
+  "fala_q": "Letra Y! Esse é do Japão. Young Boys, Yokohama Marinos ou Yeovil Town?",
+  "fala_r": "Yokohama Marinos! Time de Yokohama, no Japão.",
+  "count": 7.0,
+  "fala_d": "Dica: tem uma âncora no escudo!",
+  "dica_txt": "TEM UMA ÂNCORA!"
+ },
+ {
+  "n": 36,
+  "letra": "Z",
+  "nome": "ZULTE WAREGEM",
+  "escudo": "zulte-waregem.png",
+  "pergunta": "LETRA Z: QUE TIME É ESSE?",
+  "foto": "zulte-waregem.png",
+  "opcoes": [
+   "ZENIT",
+   "ZARAGOZA",
+   "ZULTE WAREGEM"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo o título de mestre do alfabeto! A letra Z, que ninguém acerta. Zenit, Zaragoza ou Zulte Waregem?",
+  "fala_r": "Zulte Waregem, da Bélgica! Se acertou essa, você é fera demais!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Valendo o título... a resposta é..."
+ }
+]
