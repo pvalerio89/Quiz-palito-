@@ -1,0 +1,565 @@
+[
+ {
+  "n": 1,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "pinguim.jpg",
+  "opcoes": [
+   "PATO",
+   "PINGUIM",
+   "GAIVOTA"
+  ],
+  "certa": 1,
+  "fala_q": "Pra começar, bem fácil! Que animal é esse? pato, pinguim ou gaivota?",
+  "fala_r": "Pinguim! Ele não voa, mas nada rapidinho! Começou bem?",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "flamingo.jpg",
+  "opcoes": [
+   "GARÇA",
+   "CISNE",
+   "FLAMINGO"
+  ],
+  "certa": 2,
+  "fala_q": "Essa é moleza! Que animal é esse? garça, cisne ou flamingo?",
+  "fala_r": "Flamingo! E ele fica rosa por causa do que come!",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "coruja.jpg",
+  "opcoes": [
+   "CORUJA",
+   "GAVIÃO",
+   "ÁGUIA"
+  ],
+  "certa": 0,
+  "fala_q": "Mais uma pra aquecer! Que animal é esse? coruja, gavião ou águia?",
+  "fala_r": "Coruja! Ela vira a cabeça quase de costas!",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "polvo.jpg",
+  "opcoes": [
+   "POLVO",
+   "LULA",
+   "ÁGUA-VIVA"
+  ],
+  "certa": 0,
+  "fala_q": "Bora pro fundo do mar! Que animal é esse? polvo, lula ou água-viva?",
+  "fala_r": "Polvo! Oito braços e três corações!",
+  "count": 7.0,
+  "sabia": "O POLVO TEM 3 CORAÇÕES!"
+ },
+ {
+  "n": 5,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "pavao.jpg",
+  "opcoes": [
+   "PERU",
+   "FAISÃO",
+   "PAVÃO"
+  ],
+  "certa": 2,
+  "fala_q": "Olha que cauda! Que animal é esse? peru, faisão ou pavão?",
+  "fala_r": "Pavão! E quem tem essa cauda colorida é o macho!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "joaninha.jpg",
+  "opcoes": [
+   "VAGALUME",
+   "CIGARRA",
+   "JOANINHA"
+  ],
+  "certa": 2,
+  "fala_q": "Agora um bichinho do jardim! Que animal é esse? vagalume, cigarra ou joaninha?",
+  "fala_r": "Joaninha! Ela come os pulgões das plantas!",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "morcego.jpg",
+  "opcoes": [
+   "RATO",
+   "ESQUILO-VOADOR",
+   "MORCEGO"
+  ],
+  "certa": 2,
+  "fala_q": "Esse aqui só sai de noite! Que animal é esse? rato, esquilo-voador ou morcego?",
+  "fala_r": "Morcego! O único mamífero que voa de verdade!",
+  "count": 7.0
+ },
+ {
+  "n": 8,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "camaleao.jpg",
+  "opcoes": [
+   "CAMALEÃO",
+   "IGUANA",
+   "LAGARTIXA"
+  ],
+  "certa": 0,
+  "fala_q": "Repara nos olhos dele! Que animal é esse? camaleão, iguana ou lagartixa?",
+  "fala_r": "Camaleão! Cada olho olha pra um lado!",
+  "count": 7.0
+ },
+ {
+  "n": 9,
+  "fase": "CONHECIDOS",
+  "pergunta": "QUE ANIMAL É ESSE?",
+  "foto": "cavalo-marinho.jpg",
+  "opcoes": [
+   "ENGUIA",
+   "CAVALO-MARINHO",
+   "PEIXE-AGULHA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um peixe diferentão! Que animal é esse? enguia, cavalo-marinho ou peixe-agulha?",
+  "fala_r": "Cavalo-marinho! E quem fica grávido é o papai!",
+  "count": 7.0,
+  "sabia": "O PAPAI É QUE FICA GRÁVIDO!"
+ },
+ {
+  "n": 10,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "pelicano.jpg",
+  "opcoes": [
+   "PELICANO",
+   "CEGONHA",
+   "GARÇA"
+  ],
+  "certa": 0,
+  "fala_q": "Olha o tamanho desse bico! Que animal é esse? pelicano, cegonha ou garça?",
+  "fala_r": "Pelicano! O bico dele vira uma rede de pesca!",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "alpaca.jpg",
+  "opcoes": [
+   "LHAMA",
+   "OVELHA",
+   "ALPACA"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado, que essa engana muita gente! Que animal é esse? lhama, ovelha ou alpaca?",
+  "fala_r": "Alpaca! A lhama é maior e tem orelhas compridas, tipo banana!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 12,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "crocodilo.jpg",
+  "opcoes": [
+   "CROCODILO",
+   "JACARÉ",
+   "LAGARTO"
+  ],
+  "certa": 0,
+  "fala_q": "Olha o focinho dele! Que animal é esse? crocodilo, jacaré ou lagarto?",
+  "fala_r": "Crocodilo! O focinho é fino, e os dentes de baixo aparecem com a boca fechada!",
+  "count": 7.0,
+  "fala_d": "Dica: repara nos dentes de baixo!",
+  "dica_txt": "OLHA OS DENTES!",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 13,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "puma.jpg",
+  "opcoes": [
+   "ONÇA-PINTADA",
+   "PUMA",
+   "LEOA"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um gatão das Américas! Que animal é esse? onça-pintada, puma ou leoa?",
+  "fala_r": "Puma! Também chamado de onça-parda!",
+  "count": 7.0
+ },
+ {
+  "n": 14,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "ourico.jpg",
+  "opcoes": [
+   "OURIÇO",
+   "PORCO-ESPINHO",
+   "TATU"
+  ],
+  "certa": 0,
+  "fala_q": "Esse aqui é espinhudo! Que animal é esse? ouriço, porco-espinho ou tatu?",
+  "fala_r": "Ouriço! O porco-espinho é bem maior e tem espinhos compridos!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 15,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "texugo.jpg",
+  "opcoes": [
+   "TEXUGO",
+   "GAMBÁ",
+   "GUAXINIM"
+  ],
+  "certa": 0,
+  "fala_q": "Olha a listra na cara! Que animal é esse? texugo, gambá ou guaxinim?",
+  "fala_r": "Texugo! Ele passa a vida cavando tocas!",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "gnu.jpg",
+  "opcoes": [
+   "BÚFALO",
+   "BISÃO",
+   "GNU"
+  ],
+  "certa": 2,
+  "fala_q": "Esse vive na savana africana! Que animal é esse? búfalo, bisão ou gnu?",
+  "fala_r": "Gnu! Eles atravessam a savana aos milhões!",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "jaguatirica.jpg",
+  "opcoes": [
+   "ONÇA-PINTADA",
+   "JAGUATIRICA",
+   "GUEPARDO"
+  ],
+  "certa": 1,
+  "fala_q": "Agora um felino brasileiro! Que animal é esse? onça-pintada, jaguatirica ou guepardo?",
+  "fala_r": "Jaguatirica! Ela é bem menor que a onça!",
+  "count": 7.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 18,
+  "fase": "PARECIDOS",
+  "pergunta": "NÃO CONFUNDA: QUEM É?",
+  "foto": "lince.jpg",
+  "opcoes": [
+   "LINCE",
+   "PUMA",
+   "GATO-DO-MATO"
+  ],
+  "certa": 0,
+  "fala_q": "Repara nas orelhas! Que animal é esse? lince, puma ou gato-do-mato?",
+  "fala_r": "Lince! Olha os tufinhos pretos nas orelhas!",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "girino.jpg",
+  "opcoes": [
+   "PEIXE",
+   "SAPO",
+   "SALAMANDRA"
+  ],
+  "certa": 1,
+  "fala_q": "Começou a fase dos filhotes! Esse filhote vai virar qual animal? peixe, sapo ou salamandra?",
+  "fala_r": "Sapo! O girino perde o rabo e ganha perninhas!",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "lagarta.jpg",
+  "opcoes": [
+   "ABELHA",
+   "BORBOLETA",
+   "MINHOCA"
+  ],
+  "certa": 1,
+  "fala_q": "Essa é clássica! Esse filhote vai virar qual animal? abelha, borboleta ou minhoca?",
+  "fala_r": "Borboleta! Depois do casulo, ela ganha asas!",
+  "count": 7.0
+ },
+ {
+  "n": 21,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "filhote-flamingo.jpg",
+  "opcoes": [
+   "PATO",
+   "FLAMINGO",
+   "GANSO"
+  ],
+  "certa": 1,
+  "fala_q": "Essa aqui derruba muita gente! Esse filhote vai virar qual animal? pato, flamingo ou ganso?",
+  "fala_r": "Flamingo! O filhote nasce branquinho e só fica rosa depois!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 22,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "filhote-pinguim.jpg",
+  "opcoes": [
+   "CORUJA",
+   "PINGUIM",
+   "GAIVOTA"
+  ],
+  "certa": 1,
+  "fala_q": "Olha que fofura! Esse filhote vai virar qual animal? coruja, pinguim ou gaivota?",
+  "fala_r": "Pinguim! É um filhote de pinguim-imperador!",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "filhote-foca.jpg",
+  "opcoes": [
+   "URSO-POLAR",
+   "FOCA",
+   "LONTRA"
+  ],
+  "certa": 1,
+  "fala_q": "Esse nasceu na neve! Esse filhote vai virar qual animal? urso-polar, foca ou lontra?",
+  "fala_r": "Foca! O filhote nasce branquinho pra se esconder no gelo!",
+  "count": 7.0
+ },
+ {
+  "n": 24,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "filhote-cisne.jpg",
+  "opcoes": [
+   "PATO",
+   "CISNE",
+   "GANSO"
+  ],
+  "certa": 1,
+  "fala_q": "Pensa bem nessa! Esse filhote vai virar qual animal? pato, cisne ou ganso?",
+  "fala_r": "Cisne! O patinho feio da história era um filhote de cisne!",
+  "count": 7.0,
+  "fala_d": "Dica: lembra da história do patinho feio?",
+  "dica_txt": "O PATINHO FEIO!"
+ },
+ {
+  "n": 25,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "filhote-coruja.jpg",
+  "opcoes": [
+   "GAVIÃO",
+   "POMBO",
+   "CORUJA"
+  ],
+  "certa": 2,
+  "fala_q": "Esse tá todo arrepiado! Esse filhote vai virar qual animal? gavião, pombo ou coruja?",
+  "fala_r": "Coruja! Filhote de coruja-das-torres!",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "filhote-canguru.jpg",
+  "opcoes": [
+   "CANGURU",
+   "COALA",
+   "RATO"
+  ],
+  "certa": 0,
+  "fala_q": "Olha onde ele tá escondido! Esse filhote vai virar qual animal? canguru, coala ou rato?",
+  "fala_r": "Canguru! O filhote se chama joey e mora na bolsa da mãe!",
+  "count": 7.0,
+  "sabia": "O FILHOTE SE CHAMA JOEY!"
+ },
+ {
+  "n": 27,
+  "fase": "FILHOTES",
+  "pergunta": "ESSE FILHOTE VIRA QUAL ANIMAL?",
+  "foto": "filhote-panda.jpg",
+  "opcoes": [
+   "PANDA",
+   "RATO",
+   "PORCO"
+  ],
+  "certa": 0,
+  "fala_q": "Essa é a mais difícil dos filhotes! Esse filhote vai virar qual animal? panda, rato ou porco?",
+  "fala_r": "Panda! Ele nasce rosinha, cego e pesando uns cem gramas!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 28,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "bico-de-sapato.jpg",
+  "opcoes": [
+   "BICO-DE-SAPATO",
+   "PELICANO",
+   "GARÇA"
+  ],
+  "certa": 0,
+  "fala_q": "Agora só os raros! Olha a cara dele! Que bicho é esse? bico-de-sapato, pelicano ou garça?",
+  "fala_r": "Bico-de-sapato! Ele fica parado igual estátua pra pescar!",
+  "count": 7.0
+ },
+ {
+  "n": 29,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "macaco-narigudo.jpg",
+  "opcoes": [
+   "ORANGOTANGO",
+   "BABUÍNO",
+   "MACACO-NARIGUDO"
+  ],
+  "certa": 2,
+  "fala_q": "Que nariz é esse? Que bicho é esse? orangotango, babuíno ou macaco-narigudo?",
+  "fala_r": "Macaco-narigudo! Ele só existe na ilha de Bornéu!",
+  "count": 7.0
+ },
+ {
+  "n": 30,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "quokka.jpg",
+  "opcoes": [
+   "MARMOTA",
+   "CASTOR",
+   "QUOKKA"
+  ],
+  "certa": 2,
+  "fala_q": "Esse vive sorrindo! Que bicho é esse? marmota, castor ou quokka?",
+  "fala_r": "Quokka! Dizem que é o bicho mais feliz do mundo!",
+  "count": 7.0
+ },
+ {
+  "n": 31,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "dugongo.jpg",
+  "opcoes": [
+   "DUGONGO",
+   "PEIXE-BOI",
+   "FOCA"
+  ],
+  "certa": 0,
+  "fala_q": "Cuidado com essa! Que bicho é esse? dugongo, peixe-boi ou foca?",
+  "fala_r": "Dugongo! Parente do peixe-boi, mas com o rabo igual de golfinho!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 32,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "saiga.jpg",
+  "opcoes": [
+   "CABRA",
+   "SAIGA",
+   "CERVO"
+  ],
+  "certa": 1,
+  "fala_q": "Olha esse narigão! Que bicho é esse? cabra, saiga ou cervo?",
+  "fala_r": "Saiga! Esse nariz filtra a poeira da estepe!",
+  "count": 7.0
+ },
+ {
+  "n": 33,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "caracal.jpg",
+  "opcoes": [
+   "LINCE",
+   "GATO-DO-MATO",
+   "CARACAL"
+  ],
+  "certa": 2,
+  "fala_q": "Parece o lince, mas será? Que bicho é esse? lince, gato-do-mato ou caracal?",
+  "fala_r": "Caracal! Ele pula alto pra pegar passarinho no ar!",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 34,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "peixe-lua.jpg",
+  "opcoes": [
+   "ARRAIA",
+   "BAIACU",
+   "PEIXE-LUA"
+  ],
+  "certa": 2,
+  "fala_q": "Esse é gigante! Que bicho é esse? arraia, baiacu ou peixe-lua?",
+  "fala_r": "Peixe-lua! Pode pesar mais que um carro!",
+  "count": 7.0
+ },
+ {
+  "n": 35,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "gerenuk.jpg",
+  "opcoes": [
+   "GAZELA",
+   "IMPALA",
+   "GERENUK"
+  ],
+  "certa": 2,
+  "fala_q": "Repara no pescoço! Que bicho é esse? gazela, impala ou gerenuk?",
+  "fala_r": "Gerenuk! Ele fica em pé nas patas de trás pra comer folhas!",
+  "count": 7.0,
+  "fala_d": "Dica: o nome dele parece nome de robô!",
+  "dica_txt": "NOME ESQUISITO!"
+ },
+ {
+  "n": 36,
+  "fase": "RAROS",
+  "pergunta": "QUE BICHO RARO É ESSE?",
+  "foto": "aye-aye.jpg",
+  "opcoes": [
+   "TÁRSIO",
+   "AYE-AYE",
+   "LÓRIS"
+  ],
+  "certa": 1,
+  "fala_q": "Que bicho é esse? Pouca gente no mundo já viu um! társio, aye-aye ou lóris?",
+  "fala_r": "Aye-aye! Ele bate na madeira com o dedo comprido pra achar larva! Se acertou essa, você é fera!",
+  "count": 7.0,
+  "final": true,
+  "fala_s": "Valendo o título de mestre dos bichos... a resposta é..."
+ }
+]
