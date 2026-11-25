@@ -1269,6 +1269,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/ciencias-1": {
+      "titulo": "PROVA DE CIÊNCIAS DO 3º ANO 🌎 Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "eZGZ1gpb8QM",
+        "url": "https://youtu.be/eZGZ1gpb8QM",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "af72909d31ef4310bd208311f1dbecbafc3e7c8675daa5f40cbcbf05302b11f8"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
