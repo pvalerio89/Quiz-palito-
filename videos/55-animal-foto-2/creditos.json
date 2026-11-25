@@ -145,7 +145,11 @@
  },
  "filhote-pinguim": {
   "file": "Giant_petrel_and_emperor_penguin_chicks.jpg",
-  "crop": null,
+  "crop": [
+   0.6,
+   0.35,
+   0.65
+  ],
   "arquivo": "filhote-pinguim.jpg",
   "autor": "Dargaud",
   "lic": "CC BY-SA 4.0"
@@ -161,8 +165,8 @@
   "file": "Mute_swan_cygnets_learning_in_Prospect_Park_(80222).jpg",
   "crop": [
    0.3,
-   0.6,
-   0.7
+   0.68,
+   0.6
   ],
   "arquivo": "filhote-cisne.jpg",
   "autor": "Rhododendrites",
@@ -257,6 +261,27 @@
   "crop": null,
   "arquivo": "numbat.jpg",
   "autor": "JJ Harrison",
+  "lic": "CC BY-SA 4.0"
+ },
+ "gnu": {
+  "file": "Black_Wildebeest.jpg",
+  "crop": null,
+  "arquivo": "gnu.jpg",
+  "autor": "derekkeats",
+  "lic": "CC BY-SA 2.0"
+ },
+ "filhote-coruja": {
+  "file": "Strix_aluco_3young.jpg",
+  "crop": null,
+  "arquivo": "filhote-coruja.jpg",
+  "autor": "photo taken by Artur Mikołajewski",
+  "lic": "CC BY-SA 3.0"
+ },
+ "filhote-avestruz": {
+  "file": "Ostrich_with_eggs.jpg",
+  "crop": null,
+  "arquivo": "filhote-avestruz.jpg",
+  "autor": "Sanu N",
   "lic": "CC BY-SA 4.0"
  }
 }
