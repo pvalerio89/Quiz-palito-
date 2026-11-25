@@ -76,8 +76,9 @@ P = [
      "Coruja! Filhote de coruja-das-torres!", {}),
     ("filhote-canguru", "FILHOTES", "CANGURU", ["COALA", "RATO"], "Olha onde ele tá escondido!",
      "Canguru! O filhote se chama joey e mora na bolsa da mãe!", {"sabia": "O FILHOTE SE CHAMA JOEY!"}),
-    ("filhote-avestruz", "FILHOTES", "AVESTRUZ", ["GALINHA", "PERU"], "Esse vai ficar enorme!",
-     "Avestruz! A maior ave do mundo, e bota o maior ovo também!", {}),
+    ("filhote-panda", "FILHOTES", "PANDA", ["RATO", "PORCO"], "Essa é a mais difícil dos filhotes!",
+     "Panda! Ele nasce rosinha, cego e pesando uns cem gramas!",
+     {"aviso": "TEM PEGADINHA!", "suspense": True})
 
     ("bico-de-sapato", "RAROS", "BICO-DE-SAPATO", ["PELICANO", "GARÇA"], "Agora só os raros! Olha a cara dele!",
      "Bico-de-sapato! Ele fica parado igual estátua pra pescar!", {}),
