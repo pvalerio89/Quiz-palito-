@@ -1,1 +1,1 @@
-buscar videos/55-animal-foto-2/candidatas2/lista.tsv videos/55-animal-foto-2/candidatas2
+baixar videos/55-animal-foto-2/candidatas2/escolhas.json videos/55-animal-foto-2
