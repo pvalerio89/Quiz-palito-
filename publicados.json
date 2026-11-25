@@ -1228,6 +1228,35 @@
         "origem": "github-actions"
       }
     },
+    "videos/51-bandeiras-niveis": {
+      "youtube": {
+        "status": "publicado",
+        "id": "34xHgqibLCA",
+        "url": "https://youtu.be/34xHgqibLCA",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "df349d6141c5bdf5d6d48b0ec347dfe6e73ebad7ce9f5e7bb6acefcf4a7530f2",
+        "no_ar_em": "2026-11-25T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/bandeiras-2": {
+      "titulo": "6 BANDEIRAS parte 2 🌎 Seu pai acerta essas? A última é impossível! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "Xw0-kZ28Vc0",
+        "url": "https://youtu.be/Xw0-kZ28Vc0",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "eeb0eae0587c15ef3fcd5486ae5a52520b037a223fbd79f9c9e02157b8ab395c",
+        "no_ar_em": "2026-11-25T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
     "videos/43-revisao-historia": {
       "youtube": {
         "status": "publicado",
