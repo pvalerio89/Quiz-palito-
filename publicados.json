@@ -1281,7 +1281,10 @@
         "sha256": "af72909d31ef4310bd208311f1dbecbafc3e7c8675daa5f40cbcbf05302b11f8"
       },
       "tiktok": {
-        "status": "pendente"
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7712168352587794453",
+        "data": "2026-11-25",
+        "origem": "github-actions"
       }
     }
   }
