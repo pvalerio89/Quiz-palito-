@@ -1256,6 +1256,19 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/56-prova-ciencias": {
+      "youtube": {
+        "status": "publicado",
+        "id": "LEqP4UpqAvs",
+        "url": "https://youtu.be/LEqP4UpqAvs",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "c59d471da13771a3c94cb715abeea4bb364cc65526f6767632b52a5c4ed4b906"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
