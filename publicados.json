@@ -1256,6 +1256,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "videos/52-jogadores-a-z-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "lR5bacabl0o",
+        "url": "https://youtu.be/lR5bacabl0o",
+        "data": "2026-11-26",
+        "origem": "github-actions",
+        "sha256": "8711aaace1fe4420be5cfaa28c184209adea802d4aafd7f320bc82d7243c1d51",
+        "no_ar_em": "2026-11-26T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
