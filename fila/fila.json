@@ -611,21 +611,35 @@
       "id": "2026-11-20-bandeiras-niveis",
       "referencia": "",
       "tema": "Bandeiras: fácil, médio, difícil e impossível (Short campeão 6 bandeiras: +10 insc, 1.835 views)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo 10–15 min + Short do mesmo tema. 4 níveis com placa de nível na tela, ~36 bandeiras, alternativas com bandeiras parecidas no nível difícil (Chade x Romênia, Indonésia x Mônaco...). Bandeiras SVG PD como no vídeo 24/39. Ordem e escolhas diferentes do vídeo 03 (195 bandeiras). Short = '6 BANDEIRAS parte 2': mesmo molde do campeão (53 s, a última é a mais difícil), bandeiras novas, link do longo na descrição. NÃO publicar no mesmo dia/seguido do item 'acaba-quando-errar' (também é bandeira). Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-21): vídeo 51, 36 bandeiras em 4 níveis de 9 (placa do nível no cartão + bolinhas, fundo verde/azul/laranja/vermelho por nível, tela de nível antes das perguntas 10, 19 e 28), alternativas com bandeiras parecidas no difícil/impossível (Noruega x Islândia, Mônaco x Indonésia, Guiné x Mali, Haiti x Liechtenstein, Chade x Romênia na última), ~12,5 min. Short bandeiras-2 (6 bandeiras fácil→impossível, mesmo molde do campeão, chamada SEU PAI ACERTA ESSAS?).",
       "video": "videos/51-bandeiras-niveis",
       "short": "shorts/bandeiras-2",
-      "titulo": "BANDEIRAS: fácil, médio, difícil e IMPOSSÍVEL 🌎 Até qual nível você chega? | Quiz Palito"
+      "titulo": "BANDEIRAS: fácil, médio, difícil e IMPOSSÍVEL 🌎 Até qual nível você chega? | Quiz Palito",
+      "publicado_em": "2026-11-25",
+      "no_ar_em": "2026-11-25T21:00:00Z",
+      "no_ar_brasilia": "25/11 18h00",
+      "links": {
+        "video": "https://youtu.be/34xHgqibLCA",
+        "short": "https://youtu.be/Xw0-kZ28Vc0"
+      }
     },
     {
       "id": "2026-11-15-jogadores-a-z-parte-2",
       "referencia": "https://youtu.be/T2r5EybNMjo",
       "tema": "Duvido você acertar jogadores de A a Z! PARTE 2 (NaTraveQuiz)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros jogadores. | FEITO (2026-11-22): vídeo 52, 32 perguntas (letra + pista, 3 nomes com a mesma letra), resposta com foto real do craque (fotos do vídeo 19, Wikimedia; I/X/Y sem foto livre = cartão com o nome), nenhuma resposta repete o vídeo 02, fundo roxo de estádio à noite, ~11,8 min. Short craques-1 (5 perguntas, 51 s, sem abertura, splash).",
       "video": "videos/52-jogadores-a-z-2",
       "short": "shorts/craques-1",
-      "titulo": "JOGADORES de A a Z – PARTE 2 ⚽ Um craque por letra: a última ninguém acerta! | Quiz Palito"
+      "titulo": "JOGADORES de A a Z – PARTE 2 ⚽ Um craque por letra: a última ninguém acerta! | Quiz Palito",
+      "publicado_em": "2026-11-26",
+      "no_ar_em": "2026-11-26T21:00:00Z",
+      "no_ar_brasilia": "26/11 18h00",
+      "links": {
+        "video": "https://youtu.be/lR5bacabl0o",
+        "short": "https://youtu.be/huq8ls3eqK0"
+      }
     },
     {
       "id": "2026-11-20-nao-diga-2",
@@ -651,8 +665,11 @@
       "id": "2026-11-20-animal-foto-2",
       "referencia": "",
       "tema": "Adivinhe o ANIMAL pela FOTO parte 2 (Short +9 insc, 1.335 views)",
-      "status": "aguardando",
-      "obs": "Longo 10–15 min + Short do mesmo tema. Fotos reais (automacao/fotos_wiki.py, Wikimedia PD/CC0), animais NOVOS (não repetir os do vídeo 13 zoom), formato diferente do zoom: foto inteira com 3 alternativas e níveis fácil→impossível (filhotes, animais raros no fim). Short = 'Adivinhe o ANIMAL pela FOTO 2', 4–5 animais, 30–50 s, link do longo na descrição. Créditos das fotos só numa tela curta no fim. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+      "status": "pronto",
+      "obs": "Longo 10–15 min + Short do mesmo tema. Fotos reais (automacao/fotos_wiki.py, Wikimedia PD/CC0), animais NOVOS (não repetir os do vídeo 13 zoom), formato diferente do zoom: foto inteira com 3 alternativas e níveis fácil→impossível (filhotes, animais raros no fim). Short = 'Adivinhe o ANIMAL pela FOTO 2', 4–5 animais, 30–50 s, link do longo na descrição. Créditos das fotos só numa tela curta no fim. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-25): vídeo 55, 36 animais NOVOS (nenhum é resposta do 13 nem do 40, menos os filhotes) em 4 FASES de 9 com faixa da fase na foto e tela de fase: CONHECIDOS (teal), PARECIDOS (roxo: alpaca x lhama, crocodilo x jacaré, ouriço x porco-espinho), FILHOTES (rosa: esse bebê vira qual animal?), RAROS (azul-noite, aye-aye no fim). 39 fotos Wikimedia (créditos na tela final), splash, inscreva+like depois da 3ª, ~12,9 min, música Carefree. Short animais-2 (5 bichos, 1 de cada fase + aye-aye, chamada SERÁ QUE VOCÊ GABARITA?, música Wallpaper, 'os trinta e seis bichos tão no canal').",
+      "video": "videos/55-animal-foto-2",
+      "short": "shorts/animais-2",
+      "titulo": "Adivinhe o ANIMAL pela FOTO 2 🦉 Conhecidos, parecidos, filhotes e RAROS: até onde você chega? | Quiz Palito"
     },
     {
       "id": "2026-11-17-acaba-quando-errar",
