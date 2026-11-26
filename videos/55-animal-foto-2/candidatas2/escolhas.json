@@ -1,0 +1,49 @@
+{
+ "gnu": {
+  "file": "Black_Wildebeest.jpg",
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "derekkeats"
+ },
+ "filhote-coruja": {
+  "file": "Strix_aluco_3young.jpg",
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY-SA 2.0"
+  ],
+  "autor": "photo taken by Artur Mikołajewski"
+ },
+ "filhote-avestruz": {
+  "file": "Ostrich_with_eggs.jpg",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Sanu N"
+ },
+ "filhote-pinguim": {
+  "file": "Giant_petrel_and_emperor_penguin_chicks.jpg",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Dargaud",
+  "crop": [
+   0.6,
+   0.35,
+   0.65
+  ]
+ },
+ "filhote-cisne": {
+  "file": "Mute_swan_cygnets_learning_in_Prospect_Park_(80222).jpg",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Rhododendrites",
+  "crop": [
+   0.3,
+   0.68,
+   0.6
+  ]
+ }
+}
