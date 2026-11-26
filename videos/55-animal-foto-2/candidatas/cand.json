@@ -1,0 +1,2815 @@
+{
+ "flamingo": {
+  "tipo": "animal",
+  "art": "Flamingo",
+  "cand": [
+   {
+    "file": "Flamingos_Laguna_Colorada.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Valdiney Pimenta"
+   },
+   {
+    "file": "Flamingo_range.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Phoenix_B_1of3 (talk) (Uploads) Uploaded by Phoenix B 1of3 at en.wikipedia"
+   },
+   {
+    "file": "Little_Grebe_(Tachybaptus_ruficollis)-_Breeding_plumage_W2_IMG_8770.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "J.M.Garg"
+   },
+   {
+    "file": "Lesser_and_Greater_Flamingo,_Nakuru,_KE_imported_from_iNaturalist_photo_314619601.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "no rights reserved"
+   },
+   {
+    "file": "Lesser_Flamingo_RWD.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "DickDaniels (http://theworldbirds.org/)"
+   },
+   {
+    "file": "Andean_Flamingo,_Salta,_AR_imported_from_iNaturalist_photo_171995487_(cropped).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "(c) Luciano Massa, some rights reserved (CC BY)"
+   },
+   {
+    "file": "James_Flamingo.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Iain and Sarah"
+   },
+   {
+    "file": "Chilean_Flamingo_at_Los_Flamencos_National_Reserve,_Chile.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Manuel Ramos Inostroza"
+   },
+   {
+    "file": "Flamant_rose_Salines_de_Thyna.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Elgollimoh"
+   },
+   {
+    "file": "Greater_flamingo_galapagos.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   }
+  ]
+ },
+ "polvo": {
+  "tipo": "animal",
+  "art": "Octopus",
+  "cand": [
+   {
+    "file": "Octopus2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "albert kok"
+   },
+   {
+    "file": "North_Pacific_Giant_Octopus.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Tomomori"
+   },
+   {
+    "file": "Schematic_lateral_aspect_of_octopod_features.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Michael Vecchione, Clyde F.E. Roper, &amp; Michael J. Sweeney"
+   },
+   {
+    "file": "Dumbo-hires_(cropped).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "NOAA Okeanos Explorer"
+   },
+   {
+    "file": "Octopus_vulgaris_Cuvier,_1797_2.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Parent Géry"
+   },
+   {
+    "file": "Reef1072_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "lic": [
+     "CC BY 2.0",
+     "Public domain"
+    ],
+    "autor": "Becky A. Dayhuff, Environmental Educator."
+   },
+   {
+    "file": "Tremoctopus_violaceus5.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "R. L. Hudson"
+   },
+   {
+    "file": "Enteroctopus_dofleini_to_spawn.jpg",
+    "lic": [
+     "CC BY-SA 2.0 kr"
+    ],
+    "autor": "Un-chan (운짱)"
+   },
+   {
+    "file": "Fish3566_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "lic": [
+     "CC BY 2.0",
+     "Public domain"
+    ],
+    "autor": "Matt Wilson/Jay Clark, NOAA NMFS AFSC."
+   },
+   {
+    "file": "Octopus_cyaneain_Kona.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Brocken Inaglory"
+   }
+  ]
+ },
+ "pinguim": {
+  "tipo": "animal",
+  "art": "Penguin",
+  "cand": [
+   {
+    "file": "South_Shetland-2016-Deception_Island–Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "Attribution"
+    ],
+    "autor": "Godot13"
+   },
+   {
+    "file": "Penguin_range.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Phoenix_B_1of3 (talk) (Uploads)"
+   },
+   {
+    "file": "Falkland_Islands_Penguins_70.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ben Tubby"
+   },
+   {
+    "file": "Pingüino_de_El_Cabo_(Spheniscus_demersus),_Playa_de_Boulders,_Simon's_Town,_Sudáfrica,_2018-07-23,_DD_10.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Diego Delso&nbsp;(1974–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Pygoscelis_antarcticus_head.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Graham"
+   },
+   {
+    "file": "Falkland_Islands_Penguins_49.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ben Tubby"
+   },
+   {
+    "file": "(1)Little_Penguin-4.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sardaka"
+   },
+   {
+    "file": "Yellow-eyed_Penguin_3.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Matt Binns"
+   },
+   {
+    "file": "CSIRO_ScienceImage_11266_Penguin_tracks.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Liese Coulter, CSIRO"
+   },
+   {
+    "file": "Galápagos_penguin_(Spheniscus_mendiculus)_male.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   }
+  ]
+ },
+ "coruja": {
+  "tipo": "animal",
+  "art": "Owl",
+  "cand": [
+   {
+    "file": "Bubo_bubo_sibiricus_-_01.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Carlos Delgado"
+   },
+   {
+    "file": "Owl_range.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Phoenix_B_1of3 (talk) (Uploads)"
+   },
+   {
+    "file": "Chouettes.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "MirandaAdramin"
+   },
+   {
+    "file": "Athene_cuniculariaa.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "https://www.flickr.com/photos/dariosanches"
+   },
+   {
+    "file": "Owl._Birds_-_defenders_of_the_forest._USSR_stamp._1979.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Post of the Soviet Union, designer N. Litvinov / Почта СССР, художник Н. Литвино"
+   },
+   {
+    "file": "Great_Horned_Owl_in_a_Rain_Storm_in_the_Mojave.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jessie Eastland"
+   },
+   {
+    "file": "Great_Horned_Owl_at_twilight,_Mojave_Desert.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jessie Eastland"
+   },
+   {
+    "file": "Harfang_en_vol_1.jpg",
+    "lic": [
+     "Copyrighted free use"
+    ],
+    "autor": "Français&nbsp;: Gouvernement du Québec English: Government of Quebec"
+   },
+   {
+    "file": "Feathers_owl_vs_hawk.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Eike Wulfmeyer"
+   },
+   {
+    "file": "EulenfederTeil3.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Kersti"
+   }
+  ]
+ },
+ "pavao": {
+  "tipo": "animal",
+  "art": "Indian_peafowl",
+  "cand": [
+   {
+    "file": "Peacock_on_tree_(52077240794).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Kandukuru Nagarjun from Bangalore, India"
+   },
+   {
+    "file": "Indian_Peafowl_or_Peahen.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Akash Satpathy"
+   },
+   {
+    "file": "Pavo_Real_Venezolano.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "Trevarno,_pavo_cristatus06.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Schnobby"
+   },
+   {
+    "file": "Black-shouldered_Indian_Peafowl-Naturalis_Biodiversity_Center.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hein van Grouw"
+   },
+   {
+    "file": "Proud_white_peacock.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Corwinhee"
+   },
+   {
+    "file": "Leucistic_Indian_peahen_(Pavo_cristatus)_and_chick_Lake_Ohrid.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Indian_peafowl_(Pavo_cristatus)_female_with_chick.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Peacock_Flying.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Servophbabu"
+   },
+   {
+    "file": "Pavo_cristatus_MWNH_1075.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Klaus Rassinger und Gerhard Cammerer, Museum Wiesbaden"
+   }
+  ]
+ },
+ "joaninha": {
+  "tipo": "animal",
+  "art": "Coccinellidae",
+  "cand": [
+   {
+    "file": "Coccinella-septempunctata-15-fws.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Francisco Welter-Schultes"
+   },
+   {
+    "file": "BIEDRONA_mirrored,_cropped.png",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "BIEDRONA.JPG: Dominik Stodulski (pandominik [at] interia.pl) derivative work: B "
+   },
+   {
+    "file": "Psyllobora.vigintiduopunctata.6920.jpg",
+    "lic": [
+     "CC BY-SA 2.5",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Olei"
+   },
+   {
+    "file": "Coccinellidae_-_Vibidia_duodecimguttata-1_(cropped).JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Hectonichus"
+   },
+   {
+    "file": "Brumoides_suturalis_(cropped).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Ali M, Ahmed K, Ali S, Raza G, Hussain I, Nafees MA, Anjum SI (2018) An annotate"
+   },
+   {
+    "file": "Rhyzobius_chrysomeloides.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mick Talbot from Lincoln (U.K.), U.K."
+   },
+   {
+    "file": "Lymexylon_navale_(Linné,_1758)_Female_(31407673590).png",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Udo Schmidt from Deutschland"
+   },
+   {
+    "file": "Nephodinus_metallescens_(Kuester,_1846)_(10113622594).png",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Udo Schmidt from Deutschland"
+   },
+   {
+    "file": "Thaneroclerus_buqueti_(Lefebvre,_1835).png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "URSchmidt"
+   },
+   {
+    "file": "Chrysomela_vigintipunctata_(Scopoli,_1763).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Udo Schmidt"
+   }
+  ]
+ },
+ "morcego": {
+  "tipo": "animal",
+  "art": "Bat",
+  "cand": [
+   {
+    "file": "Big-eared-townsend-fledermaus.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "PD-USGov, exact author unknown"
+   },
+   {
+    "file": "Bat_range.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Phoenix_B_1of3 (talk) (Uploads)"
+   },
+   {
+    "file": "Batfossil.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Archbob"
+   },
+   {
+    "file": "Mole_white_background.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Protheroe, Ernest."
+   },
+   {
+    "file": "Flying_fox_at_botanical_gardens_in_Sydney_(cropped_and_flipped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "https://www.flickr.com/people/14711897@N08 Hasitha Tudugalle]"
+   },
+   {
+    "file": "FMIB_46859_Pangolin_a_grosse_queue_white_background.jpeg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Charles d'Orbigny&nbsp;(1806–1876)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Hyaena_striata_-_1818-1842_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jacques Christophe Werner&nbsp;(1798–1856)&nbsp;&nbsp; &nbsp; Alternative names "
+   },
+   {
+    "file": "Zalophus_californianus_J._Smit_(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "Joseph Smit&nbsp;(1836–1929)&nbsp;&nbsp;&nbsp; &nbsp; Alternative names J. Smit"
+   },
+   {
+    "file": "Equus_quagga_(white_background).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Dodd, Mead and Company"
+   },
+   {
+    "file": "Walia_ibex_illustration_white_background.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Rüppell, Eduard, 1794-1884"
+   }
+  ]
+ },
+ "camaleao": {
+  "tipo": "animal",
+  "art": "Chameleon",
+  "cand": [
+   {
+    "file": "Panther_Chameleon_738367_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Rod Waddington"
+   },
+   {
+    "file": "Verbreitung_von_Chamäleons.jpg",
+    "lic": [
+     "CC BY-SA 2.0 de"
+    ],
+    "autor": "de:User:Bigfrog"
+   },
+   {
+    "file": "Chameleons'_Eye_Coordination_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Suyash Dwivedi"
+   },
+   {
+    "file": "Ustad_Mansur_Chameleon.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Ustad Mansur&nbsp;(fl. circa 1590–circa 1630)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Colour_change_and_iridophore_types_in_panther_chameleons.png",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Jeremie Teyssier, Suzanne V. Saenko, Dirk van der Marel, Michel C. Milinkovitch"
+   },
+   {
+    "file": "Erpétologie_générale,_ou,_Histoire_naturelle_complète_des_reptiles_(Chamaeleo_chamaeleon_skeleton).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Bibron, Gabriel; Duméril, Auguste Henri André; Duméril, C."
+   },
+   {
+    "file": "Nice_chameleon_portrait.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Knowledge and philosophy"
+   },
+   {
+    "file": "Chameleon_in_Berenty_Madagascar_0001.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Chameleon_gab_fbi.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Chameleon-Stage_04.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "SasanIAF"
+   }
+  ]
+ },
+ "cavalo-marinho": {
+  "tipo": "animal",
+  "art": "Seahorse",
+  "cand": [
+   {
+    "file": "Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hans Hillewaert"
+   },
+   {
+    "file": "Hippocampus_hystrix_(Spiny_seahorse).jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Nhobgood Nick Hobgood"
+   },
+   {
+    "file": "Hippocampus_jayakari,_Egipto.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "prilfish"
+   },
+   {
+    "file": "Pygmy_Seahorse_-_Hippocampus_bargibanti.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Steve Childs"
+   },
+   {
+    "file": "Black_Sea_fauna_Seahorse.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Florin DUMITRESCU"
+   },
+   {
+    "file": "Seahorse_mating_dance.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gulf Specimen"
+   },
+   {
+    "file": "Hippocampus_haema_mating.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bae Jiwon (뽀그르)"
+   },
+   {
+    "file": "Tehotny_morsky_konik.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Jaro Nemčok"
+   },
+   {
+    "file": "Seahorse-aquarium.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. Stevenj assumed (based on copyright claims)"
+   },
+   {
+    "file": "Seahorse_Skeleton_Macro_8_-_edit.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "“Jon Zander (Digon3)\"; Edit by jjron"
+   }
+  ]
+ },
+ "pelicano": {
+  "tipo": "animal",
+  "art": "Pelican",
+  "cand": [
+   {
+    "file": "Pelikan_Walvis_Bay.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Rui Ornelas from Lisboa, Portugal"
+   },
+   {
+    "file": "Pelicans_at_National_Zoo.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sifat Sharker"
+   },
+   {
+    "file": "Hammerkopf2.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Sebastian Ritter"
+   },
+   {
+    "file": "Balaeniceps_rex_-Ueno_Zoo,_Tokyo,_Japan_-upper_body-8a.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "pelican"
+   },
+   {
+    "file": "Mikebaird_-_American_White_Pelican_(Pelecanus_erythrorhynchos_)_(bird)_in_Mo_(by).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mike Baird from Morro Bay, USA"
+   },
+   {
+    "file": "Pelecanus_Occidentalis_KW_1.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ianaré Sévi"
+   },
+   {
+    "file": "Pelícano_en_Pucusana.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Manuel González Olaechea y Franco"
+   },
+   {
+    "file": "Whitepelican_edit_shadowlift_edit.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Soerfm"
+   },
+   {
+    "file": "Pelecanus_conspicillatus_-Australia_-8.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Geoff Penaluna"
+   },
+   {
+    "file": "Pink-backed_Pelican_-_Naivasha_-_Kenya_50276_(15205474549).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Francesco Veronesi from Italy"
+   }
+  ]
+ },
+ "alpaca": {
+  "tipo": "animal",
+  "art": "Alpaca",
+  "cand": [
+   {
+    "file": "Alpaca_in_Higashiyama_Zoo_-_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "KKPCW"
+   },
+   {
+    "file": "Leefgebied_alpaca.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Jürgen at Dutch Wikipedia"
+   },
+   {
+    "file": "Lama_guanicoe_in_Parque_Nacional_Torres_del_Paine_in_Patagonia,_Chile.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Franz Xaver"
+   },
+   {
+    "file": "Alpaca_y_la_isla_Challeca.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "EEJCC"
+   },
+   {
+    "file": "Alpaca_skeleton.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Polyoutis"
+   },
+   {
+    "file": "Corazon_Full.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Notnoisy"
+   },
+   {
+    "file": "Alpaca_headshot.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Kyle Flood from Victoria, British Columbia, Canada"
+   },
+   {
+    "file": "Suri-alpaca.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Sizzlingbadger at English Wikipedia"
+   },
+   {
+    "file": "Alpacas.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Philippe Lavoie"
+   },
+   {
+    "file": "Otavalo_Artisan_Market_-_Andes_Mountains_-_South_America_-_photograph_033.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "David Adam Kess"
+   }
+  ]
+ },
+ "crocodilo": {
+  "tipo": "animal",
+  "art": "Nile_crocodile",
+  "cand": [
+   {
+    "file": "NileCrocodile.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Dewet"
+   },
+   {
+    "file": "The_range_of_the_Nile_Crocodile.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Derivative work by Textbook Travel Original work by Achim Raschka"
+   },
+   {
+    "file": "Nile_Crocodile_(44335259425).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Andy Morffew from Itchen Abbas, Hampshire, UK"
+   },
+   {
+    "file": "Nile_crocodile_head.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Leigh Bedford"
+   },
+   {
+    "file": "Crocodylus-krokodilskopf.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Holger Krisp"
+   },
+   {
+    "file": "Nile_Crocodile_(Crocodylus_niloticus)_big_male_..._(51991988586).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bernard DUPONT from FRANCE"
+   },
+   {
+    "file": "NileCrocodile-SRG001c.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "MathKnight and Zachi Evenor"
+   },
+   {
+    "file": "Largest_and_longest_Crocodile_in_Entebbe.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Stnts256"
+   },
+   {
+    "file": "Western_Serengeti_2012_06_02_4066_(7557751996).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Harvey Barrison from Massapequa, NY, USA"
+   },
+   {
+    "file": "Nile_Crocodile_Kafue_River_Bank_Zambia_Jul23_A7C_05542.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl"
+   }
+  ]
+ },
+ "ourico": {
+  "tipo": "animal",
+  "art": "Hedgehog",
+  "cand": [
+   {
+    "file": "Igel.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gibe"
+   },
+   {
+    "file": "Cmglee_Horniman_hedgehog_skin_skeleton.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Cmglee"
+   },
+   {
+    "file": "Hedgehog_in_Jurmala.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "GFDL"
+    ],
+    "autor": "JIP"
+   },
+   {
+    "file": "HandheldHedgeHog.png",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Alex Huck at English Wikipedia"
+   },
+   {
+    "file": "Hedgehog_suffering_from_balloon_syndrome_before_deflating_2.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brinsley Animal Rescue, Jon"
+   },
+   {
+    "file": "Rhyton_hedgehog_Mycenaean,_Staatliche_Antikensammlungen_Munich_120521.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Zde"
+   },
+   {
+    "file": "Ancient_Egypt_Faience_Hedgehog;_from_Thebes;_Middle_Kingdom,_12th_Dynasty_(28716615256).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Gary Todd from Xinzheng, China"
+   },
+   {
+    "file": "Long_Eared_hedgehog.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "I.V. Korneev"
+   }
+  ]
+ },
+ "puma": {
+  "tipo": "animal",
+  "art": "Cougar",
+  "cand": [
+   {
+    "file": "Mountain_Lion_in_Glacier_National_Park.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "National Park Service"
+   },
+   {
+    "file": "Cougar_range_map_2010.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kokosdieb"
+   },
+   {
+    "file": "Torres_del_Paine_puma_JF2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Wolves201"
+   },
+   {
+    "file": "Acinonyx_jubatus_(white_background).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Post of Uzbekistan"
+   },
+   {
+    "file": "Felis_concolor_-_1818-1842_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jacques Christophe Werner&nbsp;(1798–1856)&nbsp;&nbsp; &nbsp; Alternative names "
+   },
+   {
+    "file": "Lydekker_-_Eyra_White_background.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Wyman &amp; Sons Limited"
+   },
+   {
+    "file": "Cougarskull.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Elliot, Daniel Giraud, 1835-1915"
+   },
+   {
+    "file": "Cougar_track.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Puma_concolor_camera_trap_Arizona_2.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Saguaro National Park"
+   },
+   {
+    "file": "South_American_Mountain_Lion_Hunting_Guanaco,_Magallanes_y_Antártica_Chilena,_CL_imported_from_iNaturalist_photo_419995101.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "no rights reserved"
+   }
+  ]
+ },
+ "texugo": {
+  "tipo": "animal",
+  "art": "European_badger",
+  "cand": [
+   {
+    "file": "European_badger_(Meles_meles_taxus)_Drenthe.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "European_Badger_area.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Chermundy"
+   },
+   {
+    "file": "European_badger_(Meles_meles_taxus)_head_Drenthe.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "European_badger_(Meles_meles_taxus)_climbing_Drenthe.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Badger_Cornwall_3.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Prosthetic Head"
+   },
+   {
+    "file": "Meles_meles_norway_1.JPG",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "User:Orland"
+   },
+   {
+    "file": "Mäyrä_Ähtäri_4.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "kallerna"
+   },
+   {
+    "file": "Meles_meles_(50208147127)_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "caroline legg"
+   },
+   {
+    "file": "European_badger_(Meles_meles)_skeleton_at_the_Royal_Veterinary_College_anatomy_museum.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Mrjohncummings"
+   },
+   {
+    "file": "Meles_meles_02_MWNH_458.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Klaus Rassinger und Gerhard Cammerer, Museum Wiesbaden"
+   }
+  ]
+ },
+ "gnu": {
+  "tipo": "animal",
+  "art": "Blue_wildebeest",
+  "cand": [
+   {
+    "file": "Blue_Wildebeest,_Ngorongoro.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Muhammad Mahdi Karim"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_1a.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_1b.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_1c_crocodile_approaches.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_1d_crocodile_attacks.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_1f_victim_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_1g_victim_3.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2a_Zebras.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2b.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2c.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   }
+  ]
+ },
+ "girino": {
+  "tipo": "animal",
+  "art": "Tadpole",
+  "cand": [
+   {
+    "file": "RanaTemporariaLarva2.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Viridiflavus"
+   },
+   {
+    "file": "Tadpoles_10_days.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "The original uploader was Tarquin at English Wikipedia."
+   },
+   {
+    "file": "Bufo_metamorphosis.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CLauter"
+   },
+   {
+    "file": "Anatomy_WoodFrog.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Otofrog"
+   }
+  ]
+ },
+ "jaguatirica": {
+  "tipo": "animal",
+  "art": "Ocelot",
+  "cand": [
+   {
+    "file": "016_Ocelot_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "Ocelot_distribution.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "BhagyaMani"
+   },
+   {
+    "file": "Ocelot.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Tom Smylie"
+   },
+   {
+    "file": "Ocelot_01.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Danleo"
+   },
+   {
+    "file": "Jaguatirica.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alex Satsukawa"
+   },
+   {
+    "file": "Ocelo_baby_1.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mark Dumont"
+   },
+   {
+    "file": "Taxidermy_of_Ocelot_(Leopardus_pardalis).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Museum of Veterinary Anatomy FMVZ USP / Wagner Souza e Silva"
+   },
+   {
+    "file": "Ocelot-shaped_bottle-MEG_ETHAM_014143-IMG_2372-gradient.jpg",
+    "lic": [
+     "CC BY-SA 3.0 fr",
+     "CC BY-SA 2.0 fr",
+     "CeCILL"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Salvador_Dali_NYWTS.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Roger Higgins, World Telegram staff photographer"
+   }
+  ]
+ },
+ "lince": {
+  "tipo": "animal",
+  "art": "Eurasian_lynx",
+  "cand": [
+   {
+    "file": "Lynx_Nationalpark_Bayerischer_Wald_01.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Aconcagua (talk)"
+   },
+   {
+    "file": "EuropeanLynx_distribution2015.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "BhagyaMani"
+   },
+   {
+    "file": "Lynx_lynx2.jpg",
+    "lic": [
+     "CC BY-SA 2.0 de"
+    ],
+    "autor": "mpiet (http://www.mindbox.at/gallery/)"
+   },
+   {
+    "file": "Parc_des_felins_Felin_06.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Abujoy"
+   },
+   {
+    "file": "Lynx_lynx_dinniki_115107752.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Jan Ebr"
+   },
+   {
+    "file": "Lynx_de_Sibérie_à_Saint_Martin_la_Plaine.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alexandre Blanchon"
+   },
+   {
+    "file": "Tirana_Zoo_Balkan_Lynx_(OSCAL19_trip).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "albinfo"
+   },
+   {
+    "file": "Budakeszi_Vadaspark_2021_07_Lynx_lynx.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Pasztilla aka Attila Terbócs"
+   },
+   {
+    "file": "Siberian_autumn_in_taiga..JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Elkwiki"
+   },
+   {
+    "file": "Lynx_Posing_(132356837).jpeg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Craig Dennis"
+   }
+  ]
+ },
+ "lagarta": {
+  "tipo": "animal",
+  "art": "Caterpillar",
+  "cand": [
+   {
+    "file": "Euthalia_aconthea_caterpillar.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Prasoonvp"
+   },
+   {
+    "file": "Chenille_de_Grand_porte_queue_(macaon).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Didier Descouens"
+   },
+   {
+    "file": "Monarch_Butterfly_Danaus_plexippus_Vertical_Caterpillar_2000px.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Photo (c)2007 Derek Ramsey (Ram-Man)"
+   },
+   {
+    "file": "Caterpillar_cocoon.jpg",
+    "lic": [
+     "CC BY-SA 3.0 gr"
+    ],
+    "autor": "Αρκάς"
+   },
+   {
+    "file": "Geometridae.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Brocken Inaglory"
+   },
+   {
+    "file": "Pfurtscheller_Table_23.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Paul Pfurtscheller (20 November 1855 Salzburg - 5 February 1927 Vienna)"
+   },
+   {
+    "file": "Crochets.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Satyrium"
+   },
+   {
+    "file": "Craesus_septentrionalis.jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "user:Lilly M"
+   },
+   {
+    "file": "Eogeometer_valdens_holotype_01.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Fischer, Michalski, &amp; Hausmann"
+   },
+   {
+    "file": "Acharia_stimulea_0795036.jpg",
+    "lic": [
+     "CC BY 3.0 us"
+    ],
+    "autor": "Gerald J. Lenhard, Louiana State Univ"
+   }
+  ]
+ },
+ "filhote-flamingo": {
+  "tipo": "animal",
+  "art": "American_flamingo",
+  "cand": [
+   {
+    "file": "American_Flamingo_JG.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "JeffreyGammon"
+   },
+   {
+    "file": "American_Flamingo_Juvenile_JG.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "JeffreyGammon"
+   },
+   {
+    "file": "Flamenco_rosado_en_Colombia..jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hugoesteban14"
+   },
+   {
+    "file": "American_Flamingo_-_Flickr_-_btrentler.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Brandon Trentler from USA"
+   },
+   {
+    "file": "American_flamingoes_at_Cedar_Key_Number_Three_Channel.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "GFDL"
+    ],
+    "autor": "The Bushranger"
+   },
+   {
+    "file": "Phoenicopterus_ruber_in_São_Paulo_Zoo.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "Plameňák_kubánský_a_mládě.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Pavel Vlček"
+   },
+   {
+    "file": "Phoenicopterus_ruber_MHNT.ZOO.2010.11.64.1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Roger Culos"
+   },
+   {
+    "file": "CaribFlamingosLOviedo1.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Tim Ross"
+   },
+   {
+    "file": "Phoenicopterus_ruber_MHNT.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Didier Descouens"
+   }
+  ]
+ },
+ "filhote-coruja": {
+  "tipo": "animal",
+  "art": "Barn_owl",
+  "cand": [
+   {
+    "file": "American_Barn_Owl_(Tyto_furcata_guatemalae),_Orange_Walk.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   }
+  ]
+ },
+ "filhote-foca": {
+  "tipo": "animal",
+  "art": "Harp_seal",
+  "cand": [
+   {
+    "file": "Harp_Seal_(Pagophilus_groenlandicus),_Greenland_Sea_IMG_5075.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Brian Gratwicke from DC, USA"
+   },
+   {
+    "file": "Pagophilus_groenlandicus_02_MWNH_188.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Klaus Rassinger und Gerhard Cammerer, Museum Wiesbaden"
+   },
+   {
+    "file": "Blanchon-idlm2006.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Matthieu Godbout"
+   },
+   {
+    "file": "Harp_seal_mother_and_pup.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Visit Greenland"
+   },
+   {
+    "file": "Weaned_harp_seal_pup.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Lysogeny"
+   },
+   {
+    "file": "Harp_seal_pointing_upwards.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Lysogeny"
+   },
+   {
+    "file": "Harp_seal_at_False_Cape_(cut).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Virginia State Parks staff"
+   },
+   {
+    "file": "FMIB_35605_Good_day's_catch,_like_this,_fills_the_decks_with_quivering_redness_and_the_air_with_rarest_perfumes.jpeg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "George Allan England&nbsp;(1877–1936)&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Phoeca_groenlandica_piece_of_meat_upernavik_2007-06-26.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kim Hansen"
+   },
+   {
+    "file": "ENB_Artisan_flats_with_seal_fur.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Nicole Camphaug (creator of the items and photographer)"
+   }
+  ]
+ },
+ "filhote-pinguim": {
+  "tipo": "animal",
+  "art": "Emperor_penguin",
+  "cand": [
+   {
+    "file": "Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ian Duffy from UK"
+   },
+   {
+    "file": "Kaiserpinguine_mit_Jungen.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Image ID: corp2417, NOAA Corps Collection Photographer: Giuseppe Zibordi Credit:"
+   },
+   {
+    "file": "Aptenodytes_forsteri_(1).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Ryan Somma"
+   },
+   {
+    "file": "Penguin_in_Antarctica_jumping_out_of_the_water.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Christopher Michel&nbsp;(1967–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Halley_Emperor_Penguin_Colony_in_1999.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mtpaley"
+   },
+   {
+    "file": "2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-03.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Denis Luyten"
+   },
+   {
+    "file": "Fish8426_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "lic": [
+     "CC BY 2.0",
+     "Public domain"
+    ],
+    "autor": "Credit: NOAA NMFS SWFSC Antarctic Marine Living Resources (AMLR) Program."
+   },
+   {
+    "file": "Giant_petrel_and_emperor_penguin_chicks.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Dargaud"
+   },
+   {
+    "file": "PENGUIN_LIFECYCLE_H.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Zina Deretsky, National Science Foundation"
+   },
+   {
+    "file": "Aptenodytes_forsteri_MHNT.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Didier Descouens"
+   }
+  ]
+ },
+ "filhote-cisne": {
+  "tipo": "animal",
+  "art": "Mute_swan",
+  "cand": [
+   {
+    "file": "CygneVaires.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Sanchezn"
+   },
+   {
+    "file": "092_Wild_Mute_swan_in_flight_at_Lake_Geneva_during_golden_hour_of_sunset_Photo_by_Giles_Laurent.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Giles Laurent"
+   },
+   {
+    "file": "CygnusOlorIUCN2019_2.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "SanoAK: Alexander Kürthy"
+   },
+   {
+    "file": "Mute_swan_cygnets_learning_in_Prospect_Park_(80222).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rhododendrites"
+   },
+   {
+    "file": "Cygnus_olor_ML0002.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "MonaLuna"
+   },
+   {
+    "file": "Mute_Swan,_4127_Birsfelden,_Switzerland_imported_from_iNaturalist_photo_113908808_(cropped).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "(c) Codrin Bucur, some rights reserved (CC BY)"
+   },
+   {
+    "file": "Mute_Swan,_中国河南省郑州市金水区_imported_from_iNaturalist_photo_348974600.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "(c) Zinogre, some rights reserved (CC BY-SA)"
+   },
+   {
+    "file": "Hoeckerschwan_Bluecherpark_Köln_Gelege.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Superbass"
+   },
+   {
+    "file": "20090512_Trezzo_7667_1024x768.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Fabbbio"
+   },
+   {
+    "file": "Birds_of_Sweden_2016_13.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bengt Nyman"
+   }
+  ]
+ },
+ "bico-de-sapato": {
+  "tipo": "animal",
+  "art": "Shoebill",
+  "cand": [
+   {
+    "file": "Balaeniceps_rex_-Ueno_Zoo,_Tokyo,_Japan-8a.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Bob Owen"
+   },
+   {
+    "file": "Hammerkopf2.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Sebastian Ritter"
+   },
+   {
+    "file": "Balaeniceps_rex_(Schuhschnabel_-_Shoebill)_-_Weltvogelpark_Walsrode_2010-10.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Olaf Oliviero Riemer"
+   },
+   {
+    "file": "Naturalis_Biodiversity_Center_-_ZMA.AVES.26542_-_Balaeniceps_rex_Gould,_1850_-_Balaenicipitidae_-_skeleton_(whole)_specimen.jpeg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gould, 1850"
+   },
+   {
+    "file": "Balaeniceps_rex_in_Prague_Zoo_03.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Хомелка"
+   },
+   {
+    "file": "Cayley_Pelecanus_conspicillatus.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Neville William Cayley"
+   },
+   {
+    "file": "Rhynchaeites_restoration.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "El fosilmaníaco"
+   }
+  ]
+ },
+ "filhote-canguru": {
+  "tipo": "animal",
+  "art": "Red_kangaroo",
+  "cand": [
+   {
+    "file": "Red_kangaroo_-_melbourne_zoo.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Canon 70-200mm f/2.8 L"
+   },
+   {
+    "file": "RedKangaroo1.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ltshears"
+   },
+   {
+    "file": "Red_kangaroo.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nrg800"
+   },
+   {
+    "file": "Macropus_rufus_02_MWNH_926.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Klaus Rassinger und Gerhard Cammerer, Museum Wiesbaden"
+   },
+   {
+    "file": "Female_Red_Kangaroo_(Macropus_rufus).jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Bidgee"
+   },
+   {
+    "file": "Red_Kangaroo.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "dnatheist"
+   },
+   {
+    "file": "Shattuck_26294,_Red_Kangaroo,_Desert_Park,_Alice_Springs,_NT.jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "SouthernAnt"
+   },
+   {
+    "file": "Mob_of_Red_Kangaroos_(Macropus_rufus).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bidgee"
+   },
+   {
+    "file": "Fighting_red_kangaroos_1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Dellex"
+   },
+   {
+    "file": "Rotes_Riesenkänguru_(Zoo_Dresden)_(12).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fiver, der Hellseher"
+   }
+  ]
+ },
+ "filhote-avestruz": {
+  "tipo": "animal",
+  "art": "Common_ostrich",
+  "cand": [
+   {
+    "file": "Struthio_camelus_-_Etosha_2014_(3).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Yathin S Krishnappa"
+   },
+   {
+    "file": "Struthio_camelus_(captive)_in_Jardim_Zoológico_de_Curitiba.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "Ostrich,_mouth_open.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Donarreiskoffer"
+   },
+   {
+    "file": "Ostrich_foot.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Tony Wills"
+   },
+   {
+    "file": "The_Childrens_Museum_of_Indianapolis_-_Ostrich_skull.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "OstrichWing.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Frank E. Beddard"
+   },
+   {
+    "file": "Avestruz_alta.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Museum of Veterinary Anatomy FMVZ USP"
+   },
+   {
+    "file": "Common_ostrich_(Struthio_camelus_australis)_male_running_composite.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Yaen001.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "MathKnight"
+   },
+   {
+    "file": "Ostrich_(Struthio_camelus)_male_(13994461256).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bernard DUPONT from FRANCE"
+   }
+  ]
+ },
+ "quokka": {
+  "tipo": "animal",
+  "art": "Quokka",
+  "cand": [
+   {
+    "file": "Setonix_brachyurus_on_Rottnest_Island_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Christophe95"
+   },
+   {
+    "file": "Quokka_family.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Hesperian"
+   },
+   {
+    "file": "Quokka_Selfie.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Simon_sees"
+   },
+   {
+    "file": "RottnestQuokka.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ena Music"
+   }
+  ]
+ },
+ "aye-aye": {
+  "tipo": "animal",
+  "art": "Aye-aye",
+  "cand": [
+   {
+    "file": "Wild_aye_aye.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "nomis-simon"
+   },
+   {
+    "file": "Aye-Aye_Daubentonia_madagascariensis_in_Stockholm.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Dr. Mirko Junge"
+   },
+   {
+    "file": "Aye-Aye_Daubentonia_madagascariensis_in_Copenhagen_(Left_Hand).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Dr. Mirko Junge"
+   },
+   {
+    "file": "Ayeaye,_Daubentonia_madagascariensis,_Joseph_Wolf.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Aye-aye_at_night_in_the_wild_in_Madagascar.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Frank Vassen"
+   },
+   {
+    "file": "Gnawed_limb,_Daubentonia_madagascariensis.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Dr. Mirko Junge"
+   },
+   {
+    "file": "Daubentonia_madagascariensis_-_dead_01.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Thomas Althaus"
+   },
+   {
+    "file": "Darwinius_NT.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Nobu Tamura (http://spinops.blogspot.com)"
+   },
+   {
+    "file": "Archaeoindris_fontoynonti.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Smokeybjb"
+   }
+  ]
+ },
+ "macaco-narigudo": {
+  "tipo": "animal",
+  "art": "Proboscis_monkey",
+  "cand": [
+   {
+    "file": "Proboscis_Monkey_in_Borneo.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "David Dennis"
+   },
+   {
+    "file": "Nasalis_larvatus_range_map.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "U. Schröter"
+   },
+   {
+    "file": "Proboscis_monkey_(Nasalis_larvatus)_male_head.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Proboscis_monkey_(Nasalis_larvatus)_juvenile_Labuk_Bay.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "Nasalis_larvatus_Paris_150110.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Vassil"
+   },
+   {
+    "file": "Proboscis_monkey_(Nasalis_larvatus)_composite.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Charles J. Sharp&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Charles James Sharp"
+   },
+   {
+    "file": "011191_00001_Nasenaffen_am_Kinabatangan.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Matthias Bethke&nbsp;(1963–)&nbsp;&nbsp; &nbsp; Description German teacher educa"
+   },
+   {
+    "file": "TeilhardinaDB15.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Dmitry Bogdanov"
+   },
+   {
+    "file": "EosimiasDB15.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "DiBgd"
+   }
+  ]
+ },
+ "saiga": {
+  "tipo": "animal",
+  "art": "Saiga_antelope",
+  "cand": [
+   {
+    "file": "Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Andrey Giljov"
+   },
+   {
+    "file": "Сайгак.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "SNCH"
+   },
+   {
+    "file": "Saiga_Antelope_Skull_and_Taxidermy.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "JimJones1971"
+   },
+   {
+    "file": "Saiga_tatarica_tatarica_81831106_(cropped).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Лариса Артемьева"
+   },
+   {
+    "file": "Saiga_West_Kazakhstan.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Yakov Fedorov"
+   },
+   {
+    "file": "Новорожденный_сайгаченок.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Oleg Mileev (Kamintsev)"
+   },
+   {
+    "file": "Central_Europe_last_glacial_landscape.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Márton Zsoldos"
+   },
+   {
+    "file": "Saigaherd.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Mariomassone (talk) 23:01, 29 July 2010 (UTC)"
+   }
+  ]
+ },
+ "dugongo": {
+  "tipo": "animal",
+  "art": "Dugong",
+  "cand": [
+   {
+    "file": "Dugong.JPG",
+    "lic": [
+     "CC BY-SA 3.0 de",
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Gejuni"
+   },
+   {
+    "file": "Dugong_skeleton_displayed_at_Philippine_National_Museum.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Julan Shirwod Nueva"
+   },
+   {
+    "file": "DugongForelimbSkel.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Nelson Annandale"
+   },
+   {
+    "file": "Dugong_dugon_fin_egypt.jpg",
+    "lic": [
+     "GFDL"
+    ],
+    "autor": "Sebastian Gerhard Venturemedia"
+   },
+   {
+    "file": "Dugong_-_underside.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alberto Scarani"
+   },
+   {
+    "file": "Dugong.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Ranveig"
+   },
+   {
+    "file": "DugongAreaMoretonBay.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mozasaur at Wikipedia"
+   },
+   {
+    "file": "Untitled_-_panoramio_-_karlee_ladyk_(23).jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "karlee ladyk"
+   },
+   {
+    "file": "Dugong_Marsa_Alam.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Julien Willem"
+   }
+  ]
+ },
+ "peixe-lua": {
+  "tipo": "animal",
+  "art": "Ocean_sunfish",
+  "cand": [
+   {
+    "file": "Mola_mola2.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "OpenCage"
+   },
+   {
+    "file": "Molalavdj.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "G. David Johnson"
+   },
+   {
+    "file": "Mola_mola-Skelett,_Naturhistorisches_Museum_Wien.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Sandstein"
+   },
+   {
+    "file": "GFNMS_--_Mola_Mola_(35221024103).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "National Marine Sanctuaries"
+   },
+   {
+    "file": "Enormous_Sunfish.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "P.V. Reyes of Avalon, California. See: Peter Victor Reyes (1875-1950), photograp"
+   },
+   {
+    "file": "Mola_mola_ocean_sunfish_Monterey_Bay_Aquarium_2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Fred Hsu (Wikipedia:User:Fredhsu on en.wikipedia)"
+   }
+  ]
+ },
+ "caracal": {
+  "tipo": "animal",
+  "art": "Caracal",
+  "cand": [
+   {
+    "file": "Caracal_on_the_road,_early_morning_in_Kgalagadi_(36173878220)_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Derek Keats"
+   },
+   {
+    "file": "SanWild07a.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Louise Joubert"
+   },
+   {
+    "file": "20120219_Olmense_Zoo_(64).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Donar Reiskoffer"
+   },
+   {
+    "file": "Caracal_hunting_in_the_serengeti.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "No machine-readable author provided. Inkbacker~commonswiki assumed (based on cop"
+   },
+   {
+    "file": "Caracals_Serengeti_2.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Naturedata"
+   },
+   {
+    "file": "Caracal_female_and_kitten_playing.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Clipartqueen"
+   },
+   {
+    "file": "Lightmatter_caracal.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Hunting_cheetah_Rajasthan.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Boeck, Kurt (1855–1933)"
+   },
+   {
+    "file": "Cat03.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Fir0002"
+   }
+  ]
+ },
+ "gerenuk": {
+  "tipo": "animal",
+  "art": "Gerenuk",
+  "cand": [
+   {
+    "file": "San_diego_zoo_group_3_DSC_0908_(35305473932).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Laura Wolf"
+   },
+   {
+    "file": "San_Diego_Zoo_Avril_2013_13.JPG",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Abujoy"
+   },
+   {
+    "file": "Gerenuk_Litocranius_walleri_distribution_map.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Darekk2 using the IUCN Red List spatial data"
+   },
+   {
+    "file": "Antilope_cervicapra_from_velavadar.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Chinmayisk"
+   },
+   {
+    "file": "Antidorcas_marsupialis,_male_(Etosha,_2012).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Yathin S Krishnappa"
+   },
+   {
+    "file": "Saiga_antelope_at_the_Stepnoi_Sanctuary_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Andrey Giljov"
+   },
+   {
+    "file": "Sudan_Oribi_(Ourebia_montana)_male_(18172324646).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bernard DUPONT from FRANCE"
+   },
+   {
+    "file": "San_Diego_Zoo_in_May_2021_29.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "cascadevideoproductions"
+   },
+   {
+    "file": "Gerenuks_in_Samburu.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "frederic.salein"
+   }
+  ]
+ },
+ "fossa": {
+  "tipo": "animal",
+  "art": "Fossa_(animal)",
+  "cand": [
+   {
+    "file": "Cryptoprocta_Ferox.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ran Kirlian"
+   },
+   {
+    "file": "Cryptoprocta_ferox.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Chad Teer"
+   },
+   {
+    "file": "Em_-_Cryptoprocta_ferox_-_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Emőke Dénes"
+   },
+   {
+    "file": "Fossa_(mammal)_skulls.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Alphonse Milne-Edwards (1835–1900), Alfred Grandidier (1836–1921)"
+   },
+   {
+    "file": "The_Annals_and_magazine_of_natural_history;_zoology,_botany,_and_geology_(1916)_(14766334785).jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Internet Archive Book Images"
+   },
+   {
+    "file": "Cryptoprocta_ferox_60775088.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Micha Baum"
+   },
+   {
+    "file": "Fossa_on_branch.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Raynewright"
+   },
+   {
+    "file": "Cryptoprocta_ferox_455474719.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Rob Foster"
+   },
+   {
+    "file": "Microcebus_murinus_-Artis_Zoo,_Amsterdam,_Netherlands-8c.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Arjan Haverkamp"
+   },
+   {
+    "file": "Diademed_ready_to_push_off.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "C. Michael Hogan - all rights released to Wikipedia"
+   }
+  ]
+ },
+ "casuar": {
+  "tipo": "animal",
+  "art": "Southern_cassowary",
+  "cand": [
+   {
+    "file": "Southern_Cassowary_7071.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Summerdrought"
+   },
+   {
+    "file": "Casuarius_distribution_map.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Netzach"
+   },
+   {
+    "file": "A_monograph_of_the_genus_Casuarius_(C._casuarius_head_diversity).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Rothschild, Lionel Walter Rothschild, Baron &amp; Pycraft, W. P."
+   },
+   {
+    "file": "Casuarius_casuarius-Artis_Zoo_-Netherlands_-male_and_chicks-8b.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Arjan Haverkamp"
+   },
+   {
+    "file": "Casuarius_casuarius_MWNH_0012.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Klaus Rassinger und Gerhard Cammerer, Museum Wiesbaden"
+   },
+   {
+    "file": "Southern_Cassowary_Size_(cropped).png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bad at pseudonyms"
+   },
+   {
+    "file": "Southern_cassowary_feet.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Dezidor"
+   },
+   {
+    "file": "Casuarius_casuarius_-upper_body_-captive-8a-2c.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Casuarius_casuarius_-upper_body_-captive-8a.jpg: safaris derivative work: Snowma"
+   },
+   {
+    "file": "Casuarius_casuarius_-Artis_Zoo,_Netherlands_-chick-8a.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Arjan Haverkamp"
+   },
+   {
+    "file": "Casuarius_casuarius_-Australia_-walking_across_road-8.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Laurens"
+   }
+  ]
+ },
+ "numbat": {
+  "tipo": "animal",
+  "art": "Numbat",
+  "cand": [
+   {
+    "file": "Numbat,_Dryandra_Woodland,_Western_Australia.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "JJ Harrison"
+   },
+   {
+    "file": "Numbat_area.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Chermundy"
+   },
+   {
+    "file": "Thylacinus_cynocephalus_white_background.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Biodiversity Heritage Library"
+   },
+   {
+    "file": "A_hand-book_to_the_marsupialia_and_monotremata_(Plate_XXX)_(white_background).jpg",
+    "lic": [
+     "CC BY 2.0",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Lydekker, Richard"
+   },
+   {
+    "file": "The_zoology_of_the_voyage_of_the_H.M.S._Erebus_and_Terror_(Sminthopsis_leucopus).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Erebus (Ship).; Gray, John Edward; Richardson, John; Ross, James Clark; Terror ("
+   },
+   {
+    "file": "Phascogale_calura_Gould_white_background.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "John Gould&nbsp;(1804–1881)&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Dasyurus_viverrinus_Gould_white_background.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "John Gould&nbsp;(1804–1881)&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Myrmecobius_fasciatus_259629687.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Kym Nicolson"
+   },
+   {
+    "file": "PSM_V08_D439_Skull_of_myrmecobius.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Numbat_historical_map.png",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "AUS_locator_map.svg: Yarl Talk • PL / derivative work: Baldhur (talk)"
+   }
+  ]
+ }
+}
