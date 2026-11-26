@@ -1,0 +1,457 @@
+{
+ "filhote-avestruz": {
+  "tipo": "animal",
+  "art": "Ostrich",
+  "cand": [
+   {
+    "file": "Struthio_Diversity.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "CC BY 2.0",
+     "CC0"
+    ],
+    "autor": "PaleoNeolitic (montage creator) Diego Delso ninara"
+   },
+   {
+    "file": "Struthio_camelus_MHNT.ZOO.2010.11.1.1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Roger Culos"
+   },
+   {
+    "file": "Ostrich_with_eggs.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sanu N"
+   },
+   {
+    "file": "RPPC_Cawston_Ostrich_Farm_California_A.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "M. A. Wesner"
+   },
+   {
+    "file": "Somali_ostrich.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Christiaan Kooyman"
+   },
+   {
+    "file": "Struthio_camelus_-_Etosha_2014_(1)_white_background.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Yathin S Krishnappa"
+   },
+   {
+    "file": "Aepyornis_white_background.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Euryapteryx.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "FunkMonk"
+   },
+   {
+    "file": "FoodMeat.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown photographer"
+   }
+  ]
+ },
+ "gnu": {
+  "tipo": "animal",
+  "art": "Wildebeest",
+  "cand": [
+   {
+    "file": "Blue_Wildebeest,_Ngorongoro.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Muhammad Mahdi Karim"
+   },
+   {
+    "file": "Black_wildebeest,_or_white-tailed_gnu,_Connochaetes_gnou_at_Krugersdorp_Game_Reserve,_Gauteng,_South_Africa_(30570451563).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Derek Keats from Johannesburg, South Africa"
+   },
+   {
+    "file": "Connochaetes_map.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Cephas"
+   },
+   {
+    "file": "Blue_Wildebeest_Mikumi_clipped.jpg",
+    "lic": [
+     "GFDL"
+    ],
+    "autor": "Muhammad Mahdi Karim"
+   },
+   {
+    "file": "Black_Wildebeest.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "derekkeats"
+   },
+   {
+    "file": "Wbeest_Mara.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "T. R. Shankar Raman"
+   },
+   {
+    "file": "Wildebeest-during-Great-Migration.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bjørn Christian Tørrissen"
+   },
+   {
+    "file": "Wildebeest_Jumping_Into_the_Mara_River.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Danijel Mihajlovic"
+   },
+   {
+    "file": "Taxidermied_Lion_and_Blue_Wildebeest,_Namibia.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Olga Ernst"
+   },
+   {
+    "file": "Furs_by_Justin_Hodge,_Cape_Town_(08).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "--Kürschner (talk) 22:03, 7 February 2014 (UTC)"
+   }
+  ]
+ },
+ "filhote-coruja2": {
+  "tipo": "animal",
+  "art": "Snowy_owl",
+  "cand": [
+   {
+    "file": "SnowyOwlAmericanBlackDuck.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Chuck Homler d/b/a Focus On Wildlife"
+   },
+   {
+    "file": "Bubo_scandiacus_(Linnaeus,_1758)_Male.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Michael Gäbler"
+   },
+   {
+    "file": "121_Snowy_Owl.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "John James Audubon&nbsp;(1785–1851)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Bubo_scandiacus_male_Muskegon.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bill Bouton from San Luis Obispo, CA, USA"
+   },
+   {
+    "file": "Snowy_owl_(Bubo_scandiacus),_Vlieland,_Netherlands.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Frank Vassen"
+   },
+   {
+    "file": "Snowy_Owl_Barrow_Alaska.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Floyd Davidson"
+   },
+   {
+    "file": "The_bird,_its_form_and_function_(1906)_(14755679525).jpg",
+    "lic": [
+     "No restrictions"
+    ],
+    "autor": "Internet Archive Book Images"
+   },
+   {
+    "file": "Juvenile_male_calling_for_its_mother.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Peter K Burian"
+   },
+   {
+    "file": "Bobby_Tulloch_and_snowy_owl_nest_site,_Fetlar,_Shetland,_1967.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jpbowen"
+   },
+   {
+    "file": "Snowy_owl_Wings_212.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Peter K Burian"
+   }
+  ]
+ },
+ "filhote-coruja": {
+  "tipo": "animal",
+  "art": "Tawny_owl",
+  "cand": [
+   {
+    "file": "Strix_aluco_3_(Martin_Mecnarowski).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Martin Mecnarowski (http://www.photomecan.eu/)"
+   },
+   {
+    "file": "Strix_aluco_distribution_map.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Achim Raschka"
+   },
+   {
+    "file": "Poll_de_gamarús_eurasiàtic_(Strix_aluco).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Catalaalatac"
+   },
+   {
+    "file": "Nicolas_Robert,_Le_Chat-huant,_MNHN.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Nicolas Robert&nbsp;&nbsp;&nbsp; &nbsp; Alternative names N. Robert; Robert; N.R"
+   },
+   {
+    "file": "Epping_Forest_3.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Aarandir at en.wikipedia"
+   },
+   {
+    "file": "Strix_aluco,_Neuss_-_0132.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Anil Öztas&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Tawny_owl_at_night_(42511916510).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "BVA"
+   },
+   {
+    "file": "Strix_aluco_3young.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "photo taken by Artur Mikołajewski"
+   },
+   {
+    "file": "Strix_aluco_sylvatica_MHNT.ZOO.2010.11.153.6.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Roger Culos"
+   },
+   {
+    "file": "Rötelmaus_I.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "filhote-girafa": {
+  "tipo": "animal",
+  "art": "Giraffe",
+  "cand": [
+   {
+    "file": "Giraffe_Mikumi_National_Park.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Muhammad Mahdi Karim Facebook"
+   },
+   {
+    "file": "Giraffa_camelopardis_distribution_2018.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "BhagyaMani"
+   },
+   {
+    "file": "Zoo_de_Vincennes,_Paris,_France_April_2014_(7),_crop.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Rog01 from France"
+   },
+   {
+    "file": "Giraffe-solo_Koure-NIGER.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Eric.dane"
+   },
+   {
+    "file": "Giraffa_camelopardalis_reticulata_01,_flip.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "H. Zell"
+   },
+   {
+    "file": "Giraffa_camelopardalis_angolensis,_flip.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hans Hillewaert"
+   },
+   {
+    "file": "Giraffe_standing.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Miroslav Duchacek (from Czech Republic)"
+   },
+   {
+    "file": "GiraffaCamelopardalisTippelskirchi-Masaai-Mara.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bjørn Christian Tørrissen"
+   }
+  ]
+ },
+ "filhote-panda": {
+  "tipo": "animal",
+  "art": "Giant_panda",
+  "cand": [
+   {
+    "file": "Grosser_Panda.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "J. Patrick Fischer"
+   },
+   {
+    "file": "Quinlingpandabearr.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "AilieHM"
+   },
+   {
+    "file": "Recherches_pour_servir_à_l'histoire_naturelle_des_mammifères_(Pl._50)_(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Iconographia Zoologica"
+   },
+   {
+    "file": "Spectacled_bear_(1829).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "G. Cuvier"
+   },
+   {
+    "file": "Ursus_arctos_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_(white_background).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Iconographia Zoologica"
+   },
+   {
+    "file": "Giant_Panda_Skull.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "ZeWrestler"
+   },
+   {
+    "file": "Panda_géant_-_tête_(Ailuropoda_melanoleuca)_(2).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Gzen92"
+   },
+   {
+    "file": "Giant_Pandas_having_a_snack.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Chi King"
+   },
+   {
+    "file": "Giant_Panda_Eating.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Chen Wu from Shanghai, China"
+   },
+   {
+    "file": "Chengdu-pandas-d18.jpg",
+    "lic": [
+     "CC BY-SA 2.5 es"
+    ],
+    "autor": "User:Colegota and post-processed with The GIMP"
+   }
+  ]
+ }
+}
