@@ -1257,6 +1257,38 @@
         "status": "pendente"
       }
     },
+    "videos/52-jogadores-a-z-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "lR5bacabl0o",
+        "url": "https://youtu.be/lR5bacabl0o",
+        "data": "2026-11-26",
+        "origem": "github-actions",
+        "sha256": "8711aaace1fe4420be5cfaa28c184209adea802d4aafd7f320bc82d7243c1d51",
+        "no_ar_em": "2026-11-26T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/craques-1": {
+      "titulo": "CRAQUES DE A a Z parte 2 ⚽ Quase ninguém acerta a última! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "huq8ls3eqK0",
+        "url": "https://youtu.be/huq8ls3eqK0",
+        "data": "2026-11-26",
+        "origem": "github-actions",
+        "sha256": "a95bbd576cce040135f144dc4a6a7cbd26ace641ac2b4e50e39b5691c62521a6",
+        "no_ar_em": "2026-11-26T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7712276927750440961",
+        "data": "2026-11-26",
+        "origem": "github-actions"
+      }
+    },
     "videos/40-prova-geografia": {
       "youtube": {
         "status": "publicado",
