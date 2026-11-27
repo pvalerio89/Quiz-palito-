@@ -1,0 +1,104 @@
+{
+ "terra": {
+  "file": "The_Blue_Marble,_AS17-148-22727.jpg"
+ },
+ "terra2": {
+  "file": "The_Earth_seen_from_Apollo_17.jpg"
+ },
+ "terra3": {
+  "file": "AS10-34-5013_-_Apollo_10_-_Apollo_10_Mission_image_-_Earth_view_from_36,_000_nautical_miles_-_NARA_-_16681939_crop.jpg"
+ },
+ "terra4": {
+  "file": "EARTH,_AS_SEEN_BY_ASTRONAUTS_EUGEN_CERNAN,_RONALD_EVANS_AND_HARRISON_SCHMIDT_FROM_APOLLO_17._(FROM_THE_SITES._-_NARA_-_553803_crop_rotate.jpg"
+ },
+ "globo": {
+  "file": "533d_Training_Squadron_-_Training.jpg"
+ },
+ "planisferio": {
+  "file": "Equal-Earth-Physical-No-Type_(cropped).jpg",
+  "crop": "fit"
+ },
+ "geoide": {
+  "file": "Geoid_undulation_10k_scale.jpg"
+ },
+ "sputnik": {
+  "file": "Sputnik_asm.jpg"
+ },
+ "gagarin": {
+  "file": "Yuri_Gagarin_with_awards_(cropped)_2.jpg"
+ },
+ "vostok": {
+  "file": "Гагарин_перед_полётом.jpg"
+ },
+ "apollo": {
+  "file": "Apollo_11_Launch_-_GPN-2000-000630.jpg"
+ },
+ "meteoro": {
+  "file": "Ssc2005-04a_medium.jpg"
+ },
+ "meteorito": {
+  "file": "Meteorito_Marília.jpg"
+ },
+ "chuva": {
+  "file": "Meteor_shower_in_the_Chilean_Desert_(annotated)_(potw2227b).jpg"
+ },
+ "venus": {
+  "file": "Venus_from_Mariner_10.jpg"
+ },
+ "sol": {
+  "file": "171879main_LimbFlareJan12_lg.jpg"
+ },
+ "sol2": {
+  "file": "Sun_in_fog_in_Lysekil.jpg"
+ },
+ "lua": {
+  "file": "Near_side_of_the_moon_4k.png"
+ },
+ "estrelas": {
+  "file": "Starry_Night_at_La_Silla.jpg"
+ },
+ "pleiades": {
+  "file": "Pleiades_large.jpg"
+ },
+ "coruja": {
+  "file": "Bubo_bubo_sibiricus_-_01.JPG",
+  "crop": "fit"
+ },
+ "morcego": {
+  "file": "Big-eared-townsend-fledermaus.jpg"
+ },
+ "leao": {
+  "file": "Panthera_leo_-Ngorongoro,_Tanzania-8b_white_background.jpg"
+ },
+ "borboleta": {
+  "file": "AD2009Aug01_Vanessa_atalanta_01.jpg"
+ },
+ "esquilo": {
+  "file": "Sciurus_carolinensis_-British_Columbia,_Canada-8.jpg"
+ },
+ "sai": {
+  "file": "Blue_dacnis_(Dacnis_cayana_glaucogularis)_male_Rio_Napo.jpg"
+ },
+ "amazonia1": {
+  "file": "Amazônia_1_with_its_solar_panels_deployed.jpg"
+ },
+ "pslv": {
+  "file": "PSLV-C51,_Amazônia-1_launch_001.jpg"
+ },
+ "gps": {
+  "file": "GPS_Block_IIIA.jpg"
+ },
+ "satelite": {
+  "file": "Earth_Radiation_Budget_Satellite.jpg"
+ },
+ "sentinel": {
+  "file": "Sentinel_2-IMG_5873-white_(crop).jpg",
+  "crop": "fit"
+ },
+ "desmatamento": {
+  "file": "Hillside_deforestation_in_Rio_de_Janeiro.jpg"
+ },
+ "planetas": {
+  "file": "Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
+ }
+}

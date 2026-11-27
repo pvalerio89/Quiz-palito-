@@ -1,0 +1,878 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "O QUE É O AZUL?",
+  "cartao": [
+   "O azul da Terra",
+   "vista do espaço"
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Florestas",
+   "Água",
+   "Solo"
+  ],
+  "certa": 1,
+  "fala_q": "Na foto da Terra tirada do espaço, o que o azul representa? Florestas, Água ou Solo?",
+  "fala_r": "Água! Os oceanos e os mares cobrem a maior parte do planeta.",
+  "count": 8.0,
+  "img": "terra"
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "O QUE É ISSO?",
+  "cartao": [
+   "Representa a Terra",
+   "em tamanho menor"
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "Planisfério",
+   "Satélite",
+   "Globo terrestre"
+  ],
+  "certa": 2,
+  "fala_q": "Essa bola representa a Terra em tamanho bem menor. Como ela se chama? Planisfério, Satélite ou Globo terrestre?",
+  "fala_r": "Globo terrestre! Ele reproduz o formato arredondado do planeta.",
+  "count": 8.0,
+  "img": "globo"
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "QUEM TEM LUZ PRÓPRIA?",
+  "cartao": [
+   "Quem produz",
+   "a própria luz?"
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Os planetas",
+   "A Lua",
+   "As estrelas"
+  ],
+  "certa": 2,
+  "fala_q": "Qual desses corpos celestes produz a própria luz? Os planetas, A Lua ou As estrelas?",
+  "fala_r": "As estrelas! Elas produzem luz e calor.",
+  "count": 8.0,
+  "img": "estrelas"
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "DIURNO OU NOTURNO?",
+  "cartao": [
+   "Coruja"
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Diurno",
+   "Noturno",
+   "Os dois"
+  ],
+  "certa": 1,
+  "fala_q": "A coruja é um animal de hábito diurno ou noturno? Diurno, Noturno ou Os dois?",
+  "fala_r": "Noturno! A coruja caça de noite e descansa de dia.",
+  "count": 8.0,
+  "img": "coruja"
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "COMO SE CHAMA?",
+  "cartao": [
+   "A Terra inteira",
+   "numa folha plana"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "Planisfério",
+   "Globo terrestre",
+   "Maquete"
+  ],
+  "certa": 0,
+  "fala_q": "Esse mapa mostra a superfície inteira da Terra numa folha plana. Como ele se chama? Planisfério, Globo terrestre ou Maquete?",
+  "fala_r": "Planisfério, também chamado de mapa-múndi! Dá pra ver o planeta inteiro de uma vez.",
+  "count": 8.0,
+  "img": "planisferio"
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "O SOL É...",
+  "cartao": [
+   "O Sol é um..."
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Estrela",
+   "Planeta",
+   "Satélite"
+  ],
+  "certa": 0,
+  "fala_q": "O Sol é um planeta, uma estrela ou um satélite?",
+  "fala_r": "Uma estrela! Uma das inúmeras estrelas que existem.",
+  "count": 8.0,
+  "img": "sol"
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "E O BRANCO?",
+  "cartao": [
+   "O branco da Terra",
+   "vista do espaço"
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "Nuvens e gelo",
+   "Areia",
+   "Fumaça"
+  ],
+  "certa": 0,
+  "fala_q": "E o branco que aparece na foto da Terra, o que é? Nuvens e gelo, Areia ou Fumaça?",
+  "fala_r": "Nuvens, ou o gelo das regiões polares!",
+  "count": 8.0,
+  "img": "terra2"
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "DIURNO OU NOTURNO?",
+  "cartao": [
+   "Borboleta"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "Noturno",
+   "Diurno",
+   "Os dois"
+  ],
+  "certa": 1,
+  "fala_q": "E a borboleta? Diurna ou noturna? Noturno, Diurno ou Os dois?",
+  "fala_r": "Diurno! A borboleta voa de flor em flor durante o dia.",
+  "count": 8.0,
+  "img": "borboleta"
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "VERDADE OU MENTIRA?",
+  "cartao": [
+   "\"A Lua só aparece",
+   "no céu à noite\""
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Verdade",
+   "Só na lua cheia",
+   "Mentira"
+  ],
+  "certa": 2,
+  "fala_q": "Verdade ou mentira: a Lua só aparece no céu à noite? Verdade, Só na lua cheia ou Mentira?",
+  "fala_r": "Mentira! A Lua também aparece no céu durante o dia.",
+  "count": 8.0,
+  "img": "lua",
+  "aviso": "PEGADINHA!"
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "QUANTO DORMIR?",
+  "cartao": [
+   "Uma criança",
+   "precisa dormir..."
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "5 a 6 horas",
+   "9 a 11 horas",
+   "14 a 16 horas"
+  ],
+  "certa": 1,
+  "fala_q": "Quantas horas por noite uma criança precisa dormir? 5 a 6 horas, 9 a 11 horas ou 14 a 16 horas?",
+  "fala_r": "De nove a onze horas! Dormir bem ajuda a memória.",
+  "count": 8.0
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "E O VERDE?",
+  "cartao": [
+   "O verde da Terra",
+   "vista do espaço"
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Oceanos",
+   "Florestas",
+   "Gelo polar"
+  ],
+  "certa": 1,
+  "fala_q": "E o verde, na foto da Terra vista do espaço? Oceanos, Florestas ou Gelo polar?",
+  "fala_r": "As florestas!",
+  "count": 8.0,
+  "img": "terra3"
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "DIURNO OU NOTURNO?",
+  "cartao": [
+   "Morcego"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Diurno",
+   "Os dois",
+   "Noturno"
+  ],
+  "certa": 2,
+  "fala_q": "O morcego é diurno ou noturno? Diurno, Os dois ou Noturno?",
+  "fala_r": "Noturno! Ele sai pra comer quando escurece.",
+  "count": 8.0,
+  "img": "morcego"
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "POR QUÊ?",
+  "cartao": [
+   "Nunca olhe",
+   "direto para o Sol!"
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "Queima os olhos",
+   "Ele muda de cor",
+   "Dá sono"
+  ],
+  "certa": 0,
+  "fala_q": "Por que nunca devemos olhar diretamente para o Sol? Queima os olhos, Ele muda de cor ou Dá sono?",
+  "fala_r": "Porque pode provocar queimaduras nos olhos! Nunca faça isso.",
+  "count": 8.0,
+  "img": "sol2"
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "DIURNO OU NOTURNO?",
+  "cartao": [
+   "Esquilo"
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "Diurno",
+   "Noturno",
+   "Os dois"
+  ],
+  "certa": 0,
+  "fala_q": "O esquilo é diurno ou noturno? Diurno, Noturno ou Os dois?",
+  "fala_r": "Diurno! Ele procura comida durante o dia.",
+  "count": 8.0,
+  "img": "esquilo"
+ },
+ {
+  "n": 15,
+  "nivel": 3,
+  "pergunta": "QUAL O NOME?",
+  "cartao": [
+   "O primeiro satélite",
+   "do mundo"
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "Sputnik 1",
+   "Apollo 11",
+   "Amazônia 1"
+  ],
+  "certa": 0,
+  "fala_q": "Qual foi o primeiro satélite lançado ao espaço? Sputnik 1, Apollo 11 ou Amazônia 1?",
+  "fala_r": "Sputnik um! Ele abriu a corrida ao espaço.",
+  "count": 8.0,
+  "img": "sputnik"
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "EM QUE ANO?",
+  "cartao": [
+   "O Sputnik 1",
+   "foi lançado em..."
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "1969",
+   "1961",
+   "1957"
+  ],
+  "certa": 2,
+  "fala_q": "Em que ano o Sputnik um foi lançado? Mil novecentos e cinquenta e sete, sessenta e nove ou sessenta e um?",
+  "fala_r": "Mil novecentos e cinquenta e sete! No dia quatro de outubro.",
+  "count": 8.0
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "QUEM É ELE?",
+  "cartao": [
+   "O 1º ser humano",
+   "a ir ao espaço"
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "Santos Dumont",
+   "Yuri Gagarin",
+   "Neil Armstrong"
+  ],
+  "certa": 1,
+  "fala_q": "Quem foi o primeiro ser humano a viajar para fora da Terra? Santos Dumont, Yuri Gagarin ou Neil Armstrong?",
+  "fala_r": "Yuri Gagarin, astronauta soviético, a bordo da Vostok um!",
+  "count": 8.0,
+  "img": "gagarin"
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "O QUE ELE DISSE?",
+  "cartao": [
+   "Gagarin olhou",
+   "pela janela",
+   "e disse..."
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "Que frio!",
+   "Cheguei na Lua!",
+   "A Terra é azul!"
+  ],
+  "certa": 2,
+  "fala_q": "Da cabine da nave, Gagarin olhou o planeta e disse uma frase famosa. Qual foi? Que frio!, Cheguei na Lua! ou A Terra é azul!?",
+  "fala_r": "A Terra é azul! Foi o primeiro a ver isso com os próprios olhos.",
+  "count": 8.0,
+  "img": "vostok"
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "QUAL É O FORMATO?",
+  "cartao": [
+   "O formato real",
+   "da Terra"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "Esfera perfeita",
+   "Disco plano",
+   "Geoide"
+  ],
+  "certa": 2,
+  "fala_q": "De longe a Terra parece uma esfera perfeita. Mas qual é o formato real dela? Esfera perfeita, Disco plano ou Geoide?",
+  "fala_r": "Geoide! A superfície tem áreas mais altas e mais baixas.",
+  "count": 8.0,
+  "img": "geoide",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "DE ONDE?",
+  "cartao": [
+   "Apollo 11 (1969)",
+   "fotografou a Terra..."
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "De Marte",
+   "Da Lua",
+   "Do Sol"
+  ],
+  "certa": 1,
+  "fala_q": "Em mil novecentos e sessenta e nove, a missão Apollo onze fotografou a Terra de onde? De Marte, Da Lua ou Do Sol?",
+  "fala_r": "Da Lua! Uma imagem do nosso planeta feita de lá.",
+  "count": 8.0,
+  "img": "apollo"
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "O QUE É?",
+  "cartao": [
+   "Rocha do espaço",
+   "que entra na",
+   "atmosfera"
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Meteoro",
+   "Meteorito",
+   "Cometa"
+  ],
+  "certa": 0,
+  "fala_q": "Como se chama a rocha do espaço que entra na atmosfera da Terra? Meteoro, Meteorito ou Cometa?",
+  "fala_r": "Meteoro! Ela entra rápido e pega fogo.",
+  "count": 8.0,
+  "aviso": "CUIDADO!"
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "E SE CAIR NO CHÃO?",
+  "cartao": [
+   "A rocha chegou",
+   "até o chão!"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "Meteoro",
+   "Meteorito",
+   "Estrela cadente"
+  ],
+  "certa": 1,
+  "fala_q": "E quando a rocha consegue atingir a superfície do planeta, vira o quê? Meteoro, Meteorito ou Estrela cadente?",
+  "fala_r": "Meteorito! A diferença é o chão.",
+  "count": 8.0,
+  "img": "meteorito"
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "QUAL O NOME POPULAR?",
+  "cartao": [
+   "O rastro de luz",
+   "do meteoro no céu"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "Arco-íris",
+   "Estrela-d'alva",
+   "Estrela cadente"
+  ],
+  "certa": 2,
+  "fala_q": "E o rastro luminoso que o meteoro deixa no céu, como a gente costuma chamar? Arco-íris, Estrela-d'alva ou Estrela cadente?",
+  "fala_r": "Estrela cadente! Mas não é estrela de verdade.",
+  "count": 8.0
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "COMO SE CHAMA?",
+  "cartao": [
+   "Vários meteoros",
+   "ao mesmo tempo"
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Eclipse",
+   "Chuva de meteoros",
+   "Tempestade solar"
+  ],
+  "certa": 1,
+  "fala_q": "Quando vários meteoros entram na atmosfera ao mesmo tempo, os cientistas chamam de quê? Eclipse, Chuva de meteoros ou Tempestade solar?",
+  "fala_r": "Chuva de meteoros!",
+  "count": 8.0,
+  "img": "chuva"
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "QUAL PLANETA?",
+  "cartao": [
+   "Estrela-d'alva",
+   "ou estrela",
+   "da manhã"
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "Marte",
+   "Vênus",
+   "Júpiter"
+  ],
+  "certa": 1,
+  "fala_q": "Ele é chamado de estrela-d'alva ou estrela da manhã, mas é um planeta. Qual? Marte, Vênus ou Júpiter?",
+  "fala_r": "Vênus! Aparece ao amanhecer ou ao anoitecer.",
+  "count": 8.0,
+  "img": "venus",
+  "aviso": "PEGADINHA!"
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "O QUE É CINTILAR?",
+  "cartao": [
+   "Cintilar é..."
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "Girar sem parar",
+   "Esquentar",
+   "Brilhar piscando"
+  ],
+  "certa": 2,
+  "fala_q": "O que significa a palavra cintilar? Girar sem parar, Esquentar ou Brilhar piscando?",
+  "fala_r": "Brilhar com rápida variação de cor e de intensidade! As estrelas cintilam.",
+  "count": 8.0
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "QUEM NÃO CINTILA?",
+  "cartao": [
+   "Brilho fixo,",
+   "sem piscar"
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "Os planetas",
+   "As estrelas",
+   "O Sol"
+  ],
+  "certa": 0,
+  "fala_q": "Quem tem brilho fixo e não cintila no céu? Os planetas, As estrelas ou O Sol?",
+  "fala_r": "Os planetas! Eles não têm luz própria, são iluminados pelo Sol.",
+  "count": 8.0,
+  "img": "planetas"
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "DIURNO OU NOTURNO?",
+  "cartao": [
+   "Leão"
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "Noturno",
+   "Diurno",
+   "Os dois"
+  ],
+  "certa": 0,
+  "fala_q": "E o leão? É diurno ou noturno? Noturno, Diurno ou Os dois?",
+  "fala_r": "Noturno! De dia ele aparece dormindo; caça quando escurece.",
+  "count": 8.0,
+  "img": "leao",
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "E O MARROM?",
+  "cartao": [
+   "O marrom da Terra",
+   "vista do espaço"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Nuvens",
+   "Solo exposto",
+   "Rios"
+  ],
+  "certa": 1,
+  "fala_q": "E o marrom, na foto da Terra vista do espaço? Nuvens, Solo exposto ou Rios?",
+  "fala_r": "Solo exposto! Terra sem plantas por cima.",
+  "count": 8.0,
+  "img": "terra"
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "O QUE É?",
+  "cartao": [
+   "Relógio",
+   "biológico"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "Relógio de pulso",
+   "Um despertador",
+   "Ritmo do dia e da noite"
+  ],
+  "certa": 2,
+  "fala_q": "O que é o relógio biológico? Relógio de pulso, Um despertador ou Ritmo do dia e da noite?",
+  "fala_r": "É como o corpo dos seres vivos se adapta ao período claro e ao período escuro de cada dia!",
+  "count": 8.0
+ },
+ {
+  "n": 31,
+  "nivel": 3,
+  "pergunta": "O QUE FAZ O GPS FUNCIONAR?",
+  "cartao": [
+   "GPS"
+  ],
+  "foto": "q31.png",
+  "opcoes": [
+   "Satélites",
+   "Meteoros",
+   "Estrelas"
+  ],
+  "certa": 0,
+  "fala_q": "O GPS do celular funciona graças a quê? Satélites, Meteoros ou Estrelas?",
+  "fala_r": "Aos satélites em órbita!",
+  "count": 8.0,
+  "img": "gps"
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "DIURNO OU NOTURNO?",
+  "cartao": [
+   "Saí-azul"
+  ],
+  "foto": "q32.png",
+  "opcoes": [
+   "Noturno",
+   "Diurno",
+   "Os dois"
+  ],
+  "certa": 1,
+  "fala_q": "Esse passarinho é o saí-azul. Ele é diurno ou noturno? Noturno, Diurno ou Os dois?",
+  "fala_r": "Diurno! Na foto tirada de dia, ele está acordado no galho.",
+  "count": 8.0,
+  "img": "sai"
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "QUE ESTRELAS?",
+  "cartao": [
+   "Os desanas chamam",
+   "de \"nekaturu\":",
+   "sete estrelas"
+  ],
+  "foto": "q33.png",
+  "opcoes": [
+   "Plêiades",
+   "Cruzeiro do Sul",
+   "Três Marias"
+  ],
+  "certa": 0,
+  "fala_q": "Os indígenas desanas, da Amazônia, chamam de nekaturu, que quer dizer sete estrelas. Que estrelas são essas? Plêiades, Cruzeiro do Sul ou Três Marias?",
+  "fala_r": "As plêiades, também chamadas de Sete Irmãs!",
+  "count": 8.0,
+  "img": "pleiades"
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "O QUE ACONTECE?",
+  "cartao": [
+   "Quando as plêiades",
+   "somem no oeste..."
+  ],
+  "foto": "q34.png",
+  "opcoes": [
+   "Começa o frio",
+   "Começam as chuvas",
+   "Vem a lua cheia"
+  ],
+  "certa": 1,
+  "fala_q": "Para os desanas, o que acontece quando as plêiades somem no lado oeste do céu? Começa o frio, Começam as chuvas ou Vem a lua cheia?",
+  "fala_r": "Começa o período de chuvas! Eles montam o calendário pelo movimento dos astros.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "QUAL SATÉLITE?",
+  "cartao": [
+   "O 1º satélite",
+   "100% brasileiro"
+  ],
+  "foto": "q35.png",
+  "opcoes": [
+   "Sputnik 1",
+   "Sentinel-2A",
+   "Amazônia 1"
+  ],
+  "certa": 2,
+  "fala_q": "Qual é o primeiro satélite totalmente brasileiro? Sputnik 1, Sentinel-2A ou Amazônia 1?",
+  "fala_r": "Amazônia um!",
+  "count": 8.0,
+  "img": "amazonia1"
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "EM QUE ANO?",
+  "cartao": [
+   "O Amazônia 1",
+   "foi lançado em..."
+  ],
+  "foto": "q36.png",
+  "opcoes": [
+   "2021",
+   "2016",
+   "1969"
+  ],
+  "certa": 0,
+  "fala_q": "Em que ano o Amazônia um foi lançado? Dois mil e vinte e um, dois mil e dezesseis ou mil novecentos e sessenta e nove?",
+  "fala_r": "Dois mil e vinte e um!",
+  "count": 8.0
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "EM QUE PAÍS?",
+  "cartao": [
+   "Lançamento",
+   "do Amazônia 1"
+  ],
+  "foto": "q37.png",
+  "opcoes": [
+   "Brasil",
+   "Rússia",
+   "Índia"
+  ],
+  "certa": 2,
+  "fala_q": "O satélite é brasileiro. Mas em que país foi o lançamento do Amazônia um? Brasil, Rússia ou Índia?",
+  "fala_r": "Na Índia! Num foguete indiano.",
+  "count": 8.0,
+  "img": "pslv",
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "PRA QUE SERVE?",
+  "cartao": [
+   "O Amazônia 1",
+   "monitora..."
+  ],
+  "foto": "q38.png",
+  "opcoes": [
+   "Os meteoros",
+   "As marés",
+   "O desmatamento"
+  ],
+  "certa": 2,
+  "fala_q": "Uma das funções do Amazônia um é monitorar o quê? Os meteoros, As marés ou O desmatamento?",
+  "fala_r": "O desmatamento! E também a agricultura e os recursos hídricos.",
+  "count": 8.0,
+  "img": "desmatamento"
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "QUANTOS?",
+  "cartao": [
+   "Satélites que",
+   "o GPS precisa"
+  ],
+  "foto": "q39.png",
+  "opcoes": [
+   "Só 1",
+   "Mais de 20",
+   "Exatamente 3"
+  ],
+  "certa": 1,
+  "fala_q": "De quantos satélites em órbita o GPS precisa para funcionar? Só 1, Mais de 20 ou Exatamente 3?",
+  "fala_r": "Mais de vinte satélites!",
+  "count": 8.0,
+  "img": "satelite",
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "QUANTAS IMAGENS?",
+  "cartao": [
+   "Mosaico da África",
+   "(satélite Sentinel-2A)"
+  ],
+  "foto": "q40.png",
+  "opcoes": [
+   "Só 1",
+   "Quase 7 mil",
+   "Umas 50"
+  ],
+  "certa": 1,
+  "fala_q": "A foto da África do satélite Sentinel-dois-A é um mosaico. Quantas imagens foram usadas? Só 1, Quase 7 mil ou Umas 50?",
+  "fala_r": "Quase sete mil imagens! Até achar tudo sem nuvens.",
+  "count": 8.0,
+  "img": "sentinel"
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "POR QUE ATRAPALHA?",
+  "cartao": [
+   "Celular antes",
+   "de dormir"
+  ],
+  "foto": "q41.png",
+  "opcoes": [
+   "Luz confunde o corpo",
+   "A tela é fria",
+   "O peso do aparelho"
+  ],
+  "certa": 0,
+  "fala_q": "Por que usar celular antes de dormir atrapalha o sono? Luz confunde o corpo, A tela é fria ou O peso do aparelho?",
+  "fala_r": "A luz da tela entra pelos olhos e confunde o relógio biológico!",
+  "count": 8.0
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "QUANTO TEMPO?",
+  "cartao": [
+   "Sem telas",
+   "antes de dormir"
+  ],
+  "foto": "q42.png",
+  "opcoes": [
+   "5 minutos",
+   "3 horas",
+   "30 minutos"
+  ],
+  "certa": 2,
+  "fala_q": "Quanto tempo, pelo menos, a gente deve ficar sem telas antes de ir pra cama? 5 minutos, 3 horas ou 30 minutos?",
+  "fala_r": "Trinta minutos! Dá pra ler um livro ou tomar um banho morno.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "E OS ADULTOS?",
+  "cartao": [
+   "Um adulto precisa",
+   "dormir cerca de..."
+  ],
+  "foto": "q43.png",
+  "opcoes": [
+   "8 horas",
+   "4 horas",
+   "12 horas"
+  ],
+  "certa": 0,
+  "fala_q": "E os adultos, precisam dormir cerca de quantas horas seguidas? 8 horas, 4 horas ou 12 horas?",
+  "fala_r": "Oito horas seguidas!",
+  "count": 8.0
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "QUANTOS ANOS?",
+  "cartao": [
+   "Sputnik 1 (1957)",
+   "Amazônia 1 (2021)",
+   "Diferença?"
+  ],
+  "foto": "q44.png",
+  "opcoes": [
+   "64 anos",
+   "54 anos",
+   "74 anos"
+  ],
+  "certa": 0,
+  "fala_q": "Valendo a nota da prova! O Sputnik um foi lançado em mil novecentos e cinquenta e sete. O Amazônia um, em dois mil e vinte e um. Quantos anos se passaram entre os dois? 64 anos, 54 anos ou 74 anos?",
+  "fala_r": "Sessenta e quatro anos! Dois mil e vinte e um menos mil novecentos e cinquenta e sete. Se acertou essa, tirou dez em ciências!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]

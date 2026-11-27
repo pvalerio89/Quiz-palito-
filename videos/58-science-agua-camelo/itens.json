@@ -1,0 +1,792 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "O QUE ELE COME?",
+  "cartao": [
+   "Café da manhã",
+   "do Tommy: banana e..."
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Bolo de chocolate",
+   "Pão integral",
+   "Bala"
+  ],
+  "certa": 1,
+  "fala_q": "O Tommy adora comer de tudo. No café da manhã, ele come uma banana e o quê? Bolo de chocolate, Pão integral ou Bala?",
+  "fala_r": "Pão integral! Banana e pão integral, um café da manhã saudável.",
+  "count": 8.0,
+  "img": "pao"
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "DIRETA OU VIRTUAL?",
+  "cartao": [
+   "Maria toma banho",
+   "antes da escola"
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "Água direta",
+   "Água virtual",
+   "Nenhuma das duas"
+  ],
+  "certa": 0,
+  "fala_q": "A Maria toma banho antes de ir pra escola. Isso é água direta ou água virtual?",
+  "fala_r": "Água direta! É a água que a gente usa nas atividades do dia a dia.",
+  "count": 8.0,
+  "img": "chuveiro"
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "O QUE ELE BEBE?",
+  "cartao": [
+   "Durante o dia,",
+   "Tommy bebe..."
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Água",
+   "Refrigerante",
+   "Nada"
+  ],
+  "certa": 0,
+  "fala_q": "E durante o dia, o que o Tommy bebe pra ajudar o corpo dele? Água, Refrigerante ou Nada?",
+  "fala_r": "Água! Ele bebe água durante o dia.",
+  "count": 8.0
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "ONDE VIVEM?",
+  "cartao": [
+   "Camels live in",
+   "the ________"
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Fazenda (farm)",
+   "Supermercado",
+   "Deserto (desert)"
+  ],
+  "certa": 2,
+  "fala_q": "Complete a frase: os camelos vivem no... Deserto, fazenda ou supermercado?",
+  "fala_r": "No deserto! Desert, em inglês.",
+  "count": 8.0,
+  "img": "deserto"
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "SÓ DE VEZ EM QUANDO!",
+  "cartao": [
+   "O que o Tommy",
+   "NÃO deve comer",
+   "todo dia?"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "Arroz e feijão",
+   "Banana e pão",
+   "Doce e refrigerante"
+  ],
+  "certa": 2,
+  "fala_q": "O Tommy ama doce e refrigerante também. Mas o que ele NÃO deve comer todo dia? Arroz e feijão, Banana e pão ou Doce e refrigerante?",
+  "fala_r": "Doce e refrigerante! Candy and soda, só de vez em quando.",
+  "count": 8.0,
+  "img": "doces"
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "DIRETA OU VIRTUAL?",
+  "cartao": [
+   "Pedro bebe",
+   "um copo de água"
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Água direta",
+   "Água virtual",
+   "Nenhuma das duas"
+  ],
+  "certa": 0,
+  "fala_q": "O Pedro bebe um copo de água. Água direta ou água virtual?",
+  "fala_r": "Água direta! Ele usou a água ali, na hora.",
+  "count": 8.0,
+  "img": "copo"
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "QUAL USA MAIS ÁGUA?",
+  "cartao": [
+   "Para ser produzido,",
+   "quem gasta",
+   "MAIS água?"
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "Maçã",
+   "Carne (beef)",
+   "Batata"
+  ],
+  "certa": 1,
+  "fala_q": "Cada alimento precisa de uma quantidade de água pra ser produzido. Qual desses gasta MAIS água? Carne, maçã ou batata?",
+  "fala_r": "A carne! Beef: quinze mil litros por quilo.",
+  "count": 8.0,
+  "img": "carne"
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "PRA QUE SERVEM?",
+  "cartao": [
+   "Cílios longos",
+   "(long eyelashes)",
+   "do camelo"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "Andar na areia fofa",
+   "Guardar gordura",
+   "Proteger os olhos da areia"
+  ],
+  "certa": 2,
+  "fala_q": "Pra que servem os cílios longos do camelo? Andar na areia fofa, Guardar gordura ou Proteger os olhos da areia?",
+  "fala_r": "Proteger os olhos da areia! Long eyelashes.",
+  "count": 8.0,
+  "img": "camelorosto"
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "VERDADE OU MENTIRA?",
+  "cartao": [
+   "\"Camelos nunca",
+   "precisam de água\""
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Verdade",
+   "Mentira"
+  ],
+  "certa": 1,
+  "fala_q": "Verdade ou mentira: os camelos nunca precisam de água?",
+  "fala_r": "Mentira! Camelo também precisa de água.",
+  "count": 8.0,
+  "img": "dromedario",
+  "aviso": "PEGADINHA!"
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "DIRETA OU VIRTUAL?",
+  "cartao": [
+   "Uma família",
+   "lava a louça"
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "Água direta",
+   "Água virtual",
+   "Nenhuma das duas"
+  ],
+  "certa": 0,
+  "fala_q": "Uma família usa água pra lavar a louça. Água direta ou virtual?",
+  "fala_r": "Água direta! Lavar a louça é atividade do dia a dia.",
+  "count": 8.0,
+  "img": "louca"
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "COMPLETE!",
+  "cartao": [
+   "Fruits and vegetables",
+   "are examples of",
+   "________ foods"
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Virtuais (virtual)",
+   "Do deserto (desert)",
+   "Saudáveis (healthy)"
+  ],
+  "certa": 2,
+  "fala_q": "Frutas e verduras são exemplos de alimentos o quê? Virtuais (virtual), Do deserto (desert) ou Saudáveis (healthy)?",
+  "fala_r": "Saudáveis! Healthy foods.",
+  "count": 8.0,
+  "img": "verduras"
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "QUEM DESPERDIÇA MAIS?",
+  "cartao": [
+   "Qual gasta",
+   "MAIS água?"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Lavar o carro com mangueira",
+   "Regar com regador",
+   "Beber um copo de água"
+  ],
+  "certa": 0,
+  "fala_q": "Qual dessas atividades gasta MAIS água? Lavar o carro com mangueira, Regar com regador ou Beber um copo de água?",
+  "fala_r": "Lavar o carro com a mangueira! A água sai sem parar.",
+  "count": 8.0,
+  "img": "mangueira"
+ },
+ {
+  "n": 13,
+  "nivel": 3,
+  "pergunta": "DIRETA OU VIRTUAL?",
+  "cartao": [
+   "O fazendeiro usa água",
+   "para plantar tomates"
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "Água direta",
+   "Água virtual",
+   "Nenhuma das duas"
+  ],
+  "certa": 1,
+  "fala_q": "Um fazendeiro usa água pra plantar tomates. Água direta ou virtual?",
+  "fala_r": "Água virtual! É água usada pra produzir um alimento.",
+  "count": 8.0,
+  "img": "tomateiro",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 14,
+  "nivel": 3,
+  "pergunta": "E O ALMOÇO?",
+  "cartao": [
+   "Almoço do Tommy:",
+   "arroz, feijão,",
+   "verduras e às vezes..."
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "Chocolate",
+   "Carne",
+   "Bala"
+  ],
+  "certa": 1,
+  "fala_q": "No almoço, o Tommy come arroz, feijão, verduras e, às vezes, o quê? Chocolate, Carne ou Bala?",
+  "fala_r": "Carne! Arroz, feijão, verduras e às vezes carne.",
+  "count": 8.0,
+  "img": "arrozfeijao"
+ },
+ {
+  "n": 15,
+  "nivel": 3,
+  "pergunta": "QUAL USA MENOS ÁGUA?",
+  "cartao": [
+   "Para ser produzido,",
+   "quem gasta",
+   "MENOS água?"
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "Tomate",
+   "Maçã",
+   "Batata"
+  ],
+  "certa": 2,
+  "fala_q": "E qual desses gasta MENOS água pra ser produzido? Tomate, Maçã ou Batata?",
+  "fala_r": "A batata! Só vinte e cinco litros.",
+  "count": 8.0,
+  "img": "batata"
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "DIRETA OU VIRTUAL?",
+  "cartao": [
+   "Uma fábrica usa água",
+   "para fazer",
+   "uma camiseta"
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "Água direta",
+   "Água virtual",
+   "Nenhuma das duas"
+  ],
+  "certa": 1,
+  "fala_q": "Uma fábrica usa água pra fazer uma camiseta. Água direta ou virtual?",
+  "fala_r": "Água virtual! Também vale pra produtos, não só comida.",
+  "count": 8.0,
+  "img": "camiseta"
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "QUANTOS LITROS?",
+  "cartao": [
+   "Para produzir",
+   "uma maçã (apple)"
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "25 litros",
+   "160 litros",
+   "70 litros"
+  ],
+  "certa": 2,
+  "fala_q": "Quantos litros de água são usados pra produzir uma maçã? 25 litros, 160 litros ou 70 litros?",
+  "fala_r": "Setenta litros!",
+  "count": 8.0,
+  "img": "maca"
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "PRA QUE SERVEM?",
+  "cartao": [
+   "Corcovas",
+   "(humps)",
+   "do camelo"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "Proteger os olhos",
+   "Guardar gordura que dá energia",
+   "Andar na areia fofa"
+  ],
+  "certa": 1,
+  "fala_q": "E as corcovas do camelo, servem pra quê? Proteger os olhos, Guardar gordura que dá energia ou Andar na areia fofa?",
+  "fala_r": "Guardam gordura, que dá energia pro camelo!",
+  "count": 8.0,
+  "img": "bactriano"
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "O QUE TEM DENTRO?",
+  "cartao": [
+   "O camelo guarda",
+   "na corcova..."
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "Água",
+   "Areia",
+   "Gordura"
+  ],
+  "certa": 2,
+  "fala_q": "E o que o camelo guarda dentro da corcova? Água, Areia ou Gordura?",
+  "fala_r": "Gordura! Muita gente acha que é água, mas a folha diz: camels store fat in their humps.",
+  "count": 8.0,
+  "img": "camelo",
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "DIRETA OU VIRTUAL?",
+  "cartao": [
+   "A água usada para",
+   "produzir o chocolate",
+   "do supermercado"
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "Água direta",
+   "Água virtual",
+   "Nenhuma das duas"
+  ],
+  "certa": 1,
+  "fala_q": "A água usada pra produzir o chocolate que a gente compra no supermercado é direta ou virtual?",
+  "fala_r": "Virtual! Você nem vê essa água, mas ela foi usada.",
+  "count": 8.0,
+  "img": "chocolate"
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "PRA QUE SERVEM?",
+  "cartao": [
+   "Pés grandes",
+   "e largos",
+   "(big, wide feet)"
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Guardar gordura",
+   "Proteger do sol",
+   "Andar na areia sem afundar"
+  ],
+  "certa": 2,
+  "fala_q": "Pra que servem os pés grandes e largos do camelo? Guardar gordura, Proteger do sol ou Andar na areia sem afundar?",
+  "fala_r": "Pra andar na areia fofa sem afundar!",
+  "count": 8.0,
+  "img": "dromedario2"
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "QUANTOS LITROS?",
+  "cartao": [
+   "Para produzir",
+   "um tomate (tomato)"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "70 litros",
+   "25 litros",
+   "50 litros"
+  ],
+  "certa": 2,
+  "fala_q": "Quantos litros de água pra produzir um tomate? 70 litros, 25 litros ou 50 litros?",
+  "fala_r": "Cinquenta litros!",
+  "count": 8.0,
+  "img": "tomate"
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "O QUE É?",
+  "cartao": [
+   "Direct water",
+   "(água direta) é..."
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "Água do dia a dia",
+   "Água para produzir",
+   "Água do deserto"
+  ],
+  "certa": 0,
+  "fala_q": "O que é água direta? Água que a gente usa no dia a dia, água usada pra produzir coisas, ou água do deserto?",
+  "fala_r": "A água que a gente usa nas atividades do dia a dia!",
+  "count": 8.0
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "QUEM DESPERDIÇA MAIS?",
+  "cartao": [
+   "E agora? Qual",
+   "desperdiça MAIS água?"
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Lavar a calçada com mangueira",
+   "Regar com regador",
+   "Consertar a torneira"
+  ],
+  "certa": 0,
+  "fala_q": "Qual dessas gasta MAIS água? Lavar a calçada com mangueira, Regar com regador ou Consertar a torneira?",
+  "fala_r": "Lavar a calçada com a mangueira! É um dos maiores desperdícios.",
+  "count": 8.0
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "PRA QUE SERVE?",
+  "cartao": [
+   "O pelo",
+   "(fur)",
+   "do camelo"
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "Proteger do sol e do frio da noite",
+   "Guardar gordura",
+   "Proteger os olhos"
+  ],
+  "certa": 0,
+  "fala_q": "E o pelo do camelo, serve pra quê? Proteger do sol e do frio da noite, Guardar gordura ou Proteger os olhos?",
+  "fala_r": "Protege do sol quente e também das noites frias do deserto!",
+  "count": 8.0,
+  "img": "bactriano2",
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "VERDADE OU MENTIRA?",
+  "cartao": [
+   "\"Camelos não",
+   "sobrevivem em",
+   "lugares quentes\""
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "Verdade",
+   "Mentira"
+  ],
+  "certa": 1,
+  "fala_q": "Verdade ou mentira: os camelos não sobrevivem em lugares quentes?",
+  "fala_r": "Mentira! Eles vivem no deserto, que é quente.",
+  "count": 8.0,
+  "img": "deserto2"
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "QUANTOS LITROS?",
+  "cartao": [
+   "Para produzir",
+   "uma banana"
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "160 litros",
+   "50 litros",
+   "70 litros"
+  ],
+  "certa": 0,
+  "fala_q": "Quantos litros de água pra produzir uma banana? 160 litros, 50 litros ou 70 litros?",
+  "fala_r": "Cento e sessenta litros!",
+  "count": 8.0,
+  "img": "banana"
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "O QUE É?",
+  "cartao": [
+   "Virtual water",
+   "(água virtual) é..."
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "Água para produzir",
+   "Água do dia a dia",
+   "Água de beber"
+  ],
+  "certa": 0,
+  "fala_q": "E água virtual, o que é? Água para produzir, Água do dia a dia ou Água de beber?",
+  "fala_r": "A água usada pra produzir alimentos e outros produtos!",
+  "count": 8.0
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "COMPLETE!",
+  "cartao": [
+   "Healthy foods",
+   "give our bodies",
+   "________"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Água virtual",
+   "Energia (energy)",
+   "Deserto"
+  ],
+  "certa": 1,
+  "fala_q": "Complete: alimentos saudáveis dão ao nosso corpo... Água virtual, Energia (energy) ou Deserto?",
+  "fala_r": "Energia! Energy.",
+  "count": 8.0
+ },
+ {
+  "n": 30,
+  "nivel": 4,
+  "pergunta": "QUANTOS LITROS?",
+  "cartao": [
+   "Carne (beef):",
+   "litros por quilo"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "15.000 litros",
+   "1.500 litros",
+   "150 litros"
+  ],
+  "certa": 0,
+  "fala_q": "Quantos litros de água são usados pra produzir um quilo de carne?",
+  "fala_r": "Quinze mil litros por quilo! Muito mais que todos os outros.",
+  "count": 8.0,
+  "img": "carne2",
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "QUAL NÃO?",
+  "cartao": [
+   "Qual NÃO usa",
+   "menos de 200 litros?"
+  ],
+  "foto": "q31.png",
+  "opcoes": [
+   "Carne",
+   "Banana",
+   "Maçã"
+  ],
+  "certa": 0,
+  "fala_q": "Qual desses alimentos NÃO usa menos de duzentos litros de água? Carne, Banana ou Maçã?",
+  "fala_r": "A carne! Banana, maçã, tomate e batata ficam abaixo de duzentos litros.",
+  "count": 8.0,
+  "aviso": "PEGADINHA!"
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "PRA QUE SERVE?",
+  "cartao": [
+   "Healthy foods",
+   "help Tommy..."
+  ],
+  "foto": "q32.png",
+  "opcoes": [
+   "Comer mais doce",
+   "Dormir na aula",
+   "Crescer e ficar forte"
+  ],
+  "certa": 2,
+  "fala_q": "Segundo o texto, a comida saudável ajuda o corpo do Tommy a fazer o quê? Comer mais doce, Dormir na aula ou Crescer e ficar forte?",
+  "fala_r": "Crescer, ficar forte e ter energia pra jogar futebol com os amigos!",
+  "count": 8.0
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "\"Humps\""
+  ],
+  "foto": "q33.png",
+  "opcoes": [
+   "Cílios",
+   "Pés largos",
+   "Corcovas"
+  ],
+  "certa": 2,
+  "fala_q": "Em inglês, o que significa humps? Cílios, Pés largos ou Corcovas?",
+  "fala_r": "Corcovas! Humps são as corcovas do camelo.",
+  "count": 8.0
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "QUAL A ORDEM?",
+  "cartao": [
+   "Do que gasta MENOS",
+   "para o que gasta MAIS"
+  ],
+  "foto": "q34.png",
+  "opcoes": [
+   "Tomate, batata, maçã",
+   "Batata, tomate, maçã",
+   "Maçã, tomate, batata"
+  ],
+  "certa": 1,
+  "fala_q": "Qual está na ordem certa, do que gasta menos água pro que gasta mais? Tomate, batata, maçã, Batata, tomate, maçã ou Maçã, tomate, batata?",
+  "fala_r": "Batata, tomate e maçã! Vinte e cinco, cinquenta e setenta litros.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "\"Long eyelashes\""
+  ],
+  "foto": "q35.png",
+  "opcoes": [
+   "Cílios longos",
+   "Pelo grosso",
+   "Corcovas"
+  ],
+  "certa": 0,
+  "fala_q": "E long eyelashes, o que significa? Cílios longos, Pelo grosso ou Corcovas?",
+  "fala_r": "Cílios longos! Protegem os olhos da areia.",
+  "count": 8.0
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "QUANTO A MAIS?",
+  "cartao": [
+   "Banana: 160 L",
+   "Maçã: 70 L",
+   "Diferença?"
+  ],
+  "foto": "q36.png",
+  "opcoes": [
+   "80 litros",
+   "90 litros",
+   "100 litros"
+  ],
+  "certa": 1,
+  "fala_q": "A banana usa cento e sessenta litros de água. A maçã, setenta. Quantos litros a banana usa a mais?",
+  "fala_r": "Noventa litros! Cento e sessenta menos setenta.",
+  "count": 8.0
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "COMPLETE!",
+  "cartao": [
+   "We need ________",
+   "to survive"
+  ],
+  "foto": "q37.png",
+  "opcoes": [
+   "Refrigerante",
+   "Água (water)",
+   "Doce"
+  ],
+  "certa": 1,
+  "fala_q": "Complete: nós precisamos de... pra sobreviver. Refrigerante, Água (water) ou Doce?",
+  "fala_r": "Água! We need water to survive.",
+  "count": 8.0,
+  "img": "torneira"
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "Qual frase sobre",
+   "camelos é",
+   "VERDADEIRA?"
+  ],
+  "foto": "q38.png",
+  "opcoes": [
+   "Nunca precisam de água",
+   "Têm pés largos pra areia",
+   "Não vivem no calor"
+  ],
+  "certa": 1,
+  "fala_q": "Qual dessas frases sobre camelos é verdadeira? Nunca precisam de água, Têm pés largos pra areia ou Não vivem no calor?",
+  "fala_r": "Camelos têm pés largos pra andar na areia! As outras duas são mentira.",
+  "count": 8.0
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "QUANTOS LITROS?",
+  "cartao": [
+   "Tommy comeu",
+   "1 maçã + 1 banana",
+   "Total de água?"
+  ],
+  "foto": "q39.png",
+  "opcoes": [
+   "210 litros",
+   "230 litros",
+   "330 litros"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo a nota da prova! O Tommy comeu uma maçã e uma banana. Quantos litros de água foram usados pra produzir as duas? 210 litros, 230 litros ou 330 litros?",
+  "fala_r": "Duzentos e trinta litros! Setenta da maçã mais cento e sessenta da banana. Se acertou essa, tirou dez em science!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]
