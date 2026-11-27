@@ -1,0 +1,562 @@
+[
+ {
+  "n": 1,
+  "code": "br",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "br.png",
+  "opcoes": [
+   "ARGENTINA",
+   "COLÔMBIA",
+   "BRASIL"
+  ],
+  "certa": 2,
+  "fala_q": "Pra aquecer, essa é a nossa! De qual país é? Argentina, Colômbia ou Brasil?",
+  "fala_r": "Brasil! Ordem e Progresso! Primeira de pé!",
+  "count": 4.0
+ },
+ {
+  "n": 2,
+  "code": "es",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "es.png",
+  "opcoes": [
+   "ESPANHA",
+   "PORTUGAL",
+   "MÉXICO"
+  ],
+  "certa": 0,
+  "fala_q": "Agora vamos pra Europa! Que bandeira é essa? Espanha, Portugal ou México?",
+  "fala_r": "Espanha! Com o brasão do ladinho.",
+  "count": 4.0
+ },
+ {
+  "n": 3,
+  "code": "gb",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "gb.png",
+  "opcoes": [
+   "AUSTRÁLIA",
+   "REINO UNIDO",
+   "ESTADOS UNIDOS"
+  ],
+  "certa": 1,
+  "fala_q": "Olha essas cruzes! De onde é? Austrália, Reino Unido ou Estados Unidos?",
+  "fala_r": "Reino Unido! Ela junta as cruzes da Inglaterra, da Escócia e da Irlanda.",
+  "count": 5.0
+ },
+ {
+  "n": 4,
+  "code": "mx",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "mx.png",
+  "opcoes": [
+   "MÉXICO",
+   "ITÁLIA",
+   "IRLANDA"
+  ],
+  "certa": 0,
+  "fala_q": "Verde, branco e vermelho, com um bicho no meio. Qual país? México, Itália ou Irlanda?",
+  "fala_r": "México! A águia está comendo uma cobra em cima de um cacto.",
+  "count": 7.0
+ },
+ {
+  "n": 5,
+  "code": "uy",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "uy.png",
+  "opcoes": [
+   "URUGUAI",
+   "ARGENTINA",
+   "GRÉCIA"
+  ],
+  "certa": 0,
+  "fala_q": "Listras azuis e um sol no canto. De onde é? Uruguai, Argentina ou Grécia?",
+  "fala_r": "Uruguai! Nove listras e o Sol de Maio. Errou alguma? Fim de jogo! Comenta até onde chegou!",
+  "count": 7.0
+ },
+ {
+  "n": 6,
+  "code": "nl",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "nl.png",
+  "opcoes": [
+   "FRANÇA",
+   "HOLANDA",
+   "RÚSSIA"
+  ],
+  "certa": 1,
+  "fala_q": "Vermelho, branco e azul, deitadas. Qual é? França, Holanda ou Rússia?",
+  "fala_r": "Holanda! A da França tem as faixas em pé.",
+  "count": 7.0
+ },
+ {
+  "n": 7,
+  "code": "jm",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "jm.png",
+  "opcoes": [
+   "JAMAICA",
+   "ÁFRICA DO SUL",
+   "BRASIL"
+  ],
+  "certa": 0,
+  "fala_q": "Que bandeira diferente! De qual país? Jamaica, África do Sul ou Brasil?",
+  "fala_r": "Jamaica! Ela não tem nada de vermelho, branco ou azul.",
+  "count": 7.0,
+  "sabia": "É A ÚNICA BANDEIRA SEM VERMELHO, BRANCO OU AZUL"
+ },
+ {
+  "n": 8,
+  "code": "ie",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "ie.png",
+  "opcoes": [
+   "ITÁLIA",
+   "COSTA DO MARFIM",
+   "IRLANDA"
+  ],
+  "certa": 2,
+  "fala_q": "Cuidado, que essa tem pegadinha! Verde, branco e laranja. Qual país? Itália, Costa do Marfim ou Irlanda?",
+  "fala_r": "Irlanda! A da Costa do Marfim começa pelo laranja.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 9,
+  "code": "dk",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "dk.png",
+  "opcoes": [
+   "SUÍÇA",
+   "NORUEGA",
+   "DINAMARCA"
+  ],
+  "certa": 2,
+  "fala_q": "Cruz branca no vermelho, mais pro lado. De onde é? Suíça, Noruega ou Dinamarca?",
+  "fala_r": "Dinamarca! Dizem que é a bandeira mais antiga ainda em uso.",
+  "count": 7.0
+ },
+ {
+  "n": 10,
+  "code": "fi",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "fi.png",
+  "opcoes": [
+   "FINLÂNDIA",
+   "SUÉCIA",
+   "GRÉCIA"
+  ],
+  "certa": 0,
+  "fala_q": "Cruz azul no branco. Que país é esse? Finlândia, Suécia ou Grécia?",
+  "fala_r": "Finlândia! O azul dos lagos e o branco da neve.",
+  "count": 7.0
+ },
+ {
+  "n": 11,
+  "code": "py",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "py.png",
+  "opcoes": [
+   "HOLANDA",
+   "CROÁCIA",
+   "PARAGUAI"
+  ],
+  "certa": 2,
+  "fala_q": "Vermelho, branco e azul, com um desenho no meio. Qual desses? Holanda, Croácia ou Paraguai?",
+  "fala_r": "Paraguai! E a frente e o verso dela são diferentes!",
+  "count": 7.0,
+  "sabia": "A BANDEIRA DO PARAGUAI TEM FRENTE E VERSO DIFERENTES"
+ },
+ {
+  "n": 12,
+  "code": "ve",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "ve.png",
+  "opcoes": [
+   "COLÔMBIA",
+   "EQUADOR",
+   "VENEZUELA"
+  ],
+  "certa": 2,
+  "fala_q": "Um vizinho nosso! Repara nas estrelas. Qual é? Colômbia, Equador ou Venezuela?",
+  "fala_r": "Venezuela! As estrelinhas formam um arco.",
+  "count": 7.0
+ },
+ {
+  "n": 13,
+  "code": "pl",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "pl.png",
+  "opcoes": [
+   "INDONÉSIA",
+   "POLÔNIA",
+   "MÔNACO"
+  ],
+  "certa": 1,
+  "fala_q": "Essa derruba muita gente! Branco em cima, vermelho embaixo. Qual país? Indonésia, Polônia ou Mônaco?",
+  "fala_r": "Polônia! A da Indonésia e a de Mônaco são ao contrário.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 14,
+  "code": "at",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "at.png",
+  "opcoes": [
+   "PERU",
+   "ÁUSTRIA",
+   "LETÔNIA"
+  ],
+  "certa": 1,
+  "fala_q": "Vermelho, branco e vermelho, deitadas. De onde é? Peru, Áustria ou Letônia?",
+  "fala_r": "Áustria! A do Peru tem as faixas em pé.",
+  "count": 7.0
+ },
+ {
+  "n": 15,
+  "code": "vn",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "vn.png",
+  "opcoes": [
+   "CHINA",
+   "MARROCOS",
+   "VIETNÃ"
+  ],
+  "certa": 2,
+  "fala_q": "Uma estrela amarela no vermelho. Qual desses? China, Marrocos ou Vietnã?",
+  "fala_r": "Vietnã! Uma estrela só, bem no meio.",
+  "count": 7.0
+ },
+ {
+  "n": 16,
+  "code": "ma",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "ma.png",
+  "opcoes": [
+   "MARROCOS",
+   "TURQUIA",
+   "VIETNÃ"
+  ],
+  "certa": 0,
+  "fala_q": "Agora a estrela é verde! De qual país? Marrocos, Turquia ou Vietnã?",
+  "fala_r": "Marrocos! Uma estrela verde de cinco pontas.",
+  "count": 7.0
+ },
+ {
+  "n": 17,
+  "code": "cu",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "cu.png",
+  "opcoes": [
+   "CUBA",
+   "PORTO RICO",
+   "CHILE"
+  ],
+  "certa": 0,
+  "fala_q": "Listras azuis e um triângulo vermelho. Que país é esse? Cuba, Porto Rico ou Chile?",
+  "fala_r": "Cuba! A de Porto Rico tem as cores trocadas.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 18,
+  "code": "sa",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "sa.png",
+  "opcoes": [
+   "PAQUISTÃO",
+   "ARÁBIA SAUDITA",
+   "ARGÉLIA"
+  ],
+  "certa": 1,
+  "fala_q": "Toda verde, com uma frase escrita. De onde é? Paquistão, Arábia Saudita ou Argélia?",
+  "fala_r": "Arábia Saudita! Embaixo da frase tem uma espada.",
+  "count": 7.0
+ },
+ {
+  "n": 19,
+  "code": "ua",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "ua.png",
+  "opcoes": [
+   "UCRÂNIA",
+   "SUÉCIA",
+   "CAZAQUISTÃO"
+  ],
+  "certa": 0,
+  "fala_q": "Azul em cima, amarelo embaixo. Qual país? Ucrânia, Suécia ou Cazaquistão?",
+  "fala_r": "Ucrânia! O azul do céu e o amarelo do trigo.",
+  "count": 7.0
+ },
+ {
+  "n": 20,
+  "code": "hr",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "hr.png",
+  "opcoes": [
+   "SÉRVIA",
+   "ESLOVÁQUIA",
+   "CROÁCIA"
+  ],
+  "certa": 2,
+  "fala_q": "Vermelho, branco e azul, com um escudo. Qual desses? Sérvia, Eslováquia ou Croácia?",
+  "fala_r": "Croácia! O xadrez vermelho e branco é a marca dela.",
+  "count": 7.0,
+  "fala_d": "Dica: repara no xadrezinho do escudo!",
+  "dica_txt": "OLHA O XADREZ NO ESCUDO!"
+ },
+ {
+  "n": 21,
+  "code": "ng",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "ng.png",
+  "opcoes": [
+   "ARGÉLIA",
+   "NIGÉRIA",
+   "IRLANDA"
+  ],
+  "certa": 1,
+  "fala_q": "Verde, branco e verde, em pé. De onde é? Argélia, Nigéria ou Irlanda?",
+  "fala_r": "Nigéria! O país com mais gente da África.",
+  "count": 7.0
+ },
+ {
+  "n": 22,
+  "code": "ke",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "ke.png",
+  "opcoes": [
+   "JAMAICA",
+   "QUÊNIA",
+   "SUDÃO DO SUL"
+  ],
+  "certa": 1,
+  "fala_q": "Preto, vermelho e verde, com um escudo. Qual país africano? Jamaica, Quênia ou Sudão do Sul?",
+  "fala_r": "Quênia! No meio tem um escudo e duas lanças.",
+  "count": 7.0
+ },
+ {
+  "n": 23,
+  "code": "is",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "is.png",
+  "opcoes": [
+   "NORUEGA",
+   "FINLÂNDIA",
+   "ISLÂNDIA"
+  ],
+  "certa": 2,
+  "fala_q": "Olha bem as cores dessa cruz! De onde é? Noruega, Finlândia ou Islândia?",
+  "fala_r": "Islândia! A da Noruega é vermelha com a cruz azul.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 24,
+  "code": "bo",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "bo.png",
+  "opcoes": [
+   "GANA",
+   "BOLÍVIA",
+   "LITUÂNIA"
+  ],
+  "certa": 1,
+  "fala_q": "Vermelho, amarelo e verde, deitadas. Qual desses? Gana, Bolívia ou Lituânia?",
+  "fala_r": "Bolívia! A da Lituânia começa pelo amarelo. Errou alguma? Fim de jogo! Comenta até onde chegou!",
+  "count": 7.0
+ },
+ {
+  "n": 25,
+  "code": "pk",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "pk.png",
+  "opcoes": [
+   "PAQUISTÃO",
+   "ARGÉLIA",
+   "TURQUIA"
+  ],
+  "certa": 0,
+  "fala_q": "Lua e estrela, com uma faixa branca do lado. Que país? Paquistão, Argélia ou Turquia?",
+  "fala_r": "Paquistão! A da Turquia é toda vermelha.",
+  "count": 7.0
+ },
+ {
+  "n": 26,
+  "code": "ec",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "ec.png",
+  "opcoes": [
+   "EQUADOR",
+   "COLÔMBIA",
+   "VENEZUELA"
+  ],
+  "certa": 0,
+  "fala_q": "Amarelo, azul e vermelho, com um brasão. Qual é? Equador, Colômbia ou Venezuela?",
+  "fala_r": "Equador! A da Colômbia é igual, só que sem o brasão.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 27,
+  "code": "bg",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "bg.png",
+  "opcoes": [
+   "HUNGRIA",
+   "ITÁLIA",
+   "BULGÁRIA"
+  ],
+  "certa": 2,
+  "fala_q": "Branco, verde e vermelho, deitadas. De onde é? Hungria, Itália ou Bulgária?",
+  "fala_r": "Bulgária! A da Hungria começa pelo vermelho.",
+  "count": 7.0
+ },
+ {
+  "n": 28,
+  "code": "ro",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "ro.png",
+  "opcoes": [
+   "CHADE",
+   "ROMÊNIA",
+   "MOLDÁVIA"
+  ],
+  "certa": 1,
+  "fala_q": "Azul, amarelo e vermelho, sem nada no meio. Qual país? Chade, Romênia ou Moldávia?",
+  "fala_r": "Romênia! A do Chade tem o azul mais escuro.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 29,
+  "code": "lu",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "lu.png",
+  "opcoes": [
+   "HOLANDA",
+   "LUXEMBURGO",
+   "PARAGUAI"
+  ],
+  "certa": 1,
+  "fala_q": "Lembra da Holanda? E essa aqui, de onde é? Holanda, Luxemburgo ou Paraguai?",
+  "fala_r": "Luxemburgo! O azul é mais clarinho que o da Holanda.",
+  "count": 7.0,
+  "fala_d": "Dica: olha como o azul é clarinho!",
+  "dica_txt": "O AZUL É MAIS CLARO!"
+ },
+ {
+  "n": 30,
+  "code": "id",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "id.png",
+  "opcoes": [
+   "INDONÉSIA",
+   "MÔNACO",
+   "POLÔNIA"
+  ],
+  "certa": 0,
+  "fala_q": "Vermelho em cima, branco embaixo. Qual desses? Indonésia, Mônaco ou Polônia?",
+  "fala_r": "Indonésia! A de Mônaco é igualzinha, só que mais curtinha.",
+  "count": 7.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 31,
+  "code": "np",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "np.png",
+  "opcoes": [
+   "NEPAL",
+   "BUTÃO",
+   "SRI LANKA"
+  ],
+  "certa": 0,
+  "fala_q": "Olha o formato dessa! De qual país? Nepal, Butão ou Sri Lanka?",
+  "fala_r": "Nepal! A única bandeira de país que não é um retângulo.",
+  "count": 7.0,
+  "sabia": "É A ÚNICA BANDEIRA DE PAÍS QUE NÃO É RETANGULAR"
+ },
+ {
+  "n": 32,
+  "code": "mn",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "mn.png",
+  "opcoes": [
+   "CAZAQUISTÃO",
+   "QUIRGUISTÃO",
+   "MONGÓLIA"
+  ],
+  "certa": 2,
+  "fala_q": "Vermelho, azul e vermelho, com um símbolo amarelo. De onde é? Cazaquistão, Quirguistão ou Mongólia?",
+  "fala_r": "Mongólia! Esse símbolo amarelo se chama soyombo.",
+  "count": 7.0
+ },
+ {
+  "n": 33,
+  "code": "sn",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "sn.png",
+  "opcoes": [
+   "CAMARÕES",
+   "GUINÉ",
+   "SENEGAL"
+  ],
+  "certa": 2,
+  "fala_q": "Verde, amarelo e vermelho, com uma estrela verde. Qual país? Camarões, Guiné ou Senegal?",
+  "fala_r": "Senegal! A de Camarões tem a estrela amarela.",
+  "count": 7.0,
+  "fala_s": "E a resposta é..."
+ },
+ {
+  "n": 34,
+  "code": "ee",
+  "pergunta": "QUE PAÍS É ESSE?",
+  "foto": "ee.png",
+  "opcoes": [
+   "FINLÂNDIA",
+   "ESTÔNIA",
+   "BOTSUANA"
+  ],
+  "certa": 1,
+  "fala_q": "Azul, preto e branco. Qual desses? Finlândia, Estônia ou Botsuana?",
+  "fala_r": "Estônia! Um país pequenininho do norte da Europa.",
+  "count": 7.0
+ },
+ {
+  "n": 35,
+  "code": "kz",
+  "pergunta": "DE ONDE É ESSA BANDEIRA?",
+  "foto": "kz.png",
+  "opcoes": [
+   "PALAU",
+   "UCRÂNIA",
+   "CAZAQUISTÃO"
+  ],
+  "certa": 2,
+  "fala_q": "Um sol e uma águia no azul. De onde é? Palau, Ucrânia ou Cazaquistão?",
+  "fala_r": "Cazaquistão! O maior país do mundo sem saída pro mar.",
+  "count": 7.0,
+  "sabia": "É O MAIOR PAÍS DO MUNDO SEM SAÍDA PARA O MAR"
+ },
+ {
+  "n": 36,
+  "code": "ml",
+  "pergunta": "DE QUAL PAÍS É ESSA BANDEIRA?",
+  "foto": "ml.png",
+  "opcoes": [
+   "GUINÉ",
+   "SENEGAL",
+   "MALI"
+  ],
+  "certa": 2,
+  "fala_q": "A mais difícil de todas! Verde, amarelo e vermelho, sem nada no meio. Qual país? Guiné, Senegal ou Mali?",
+  "fala_r": "Mali! A da Guiné é ao contrário: começa pelo vermelho. Se chegou até aqui sem errar, você é lenda!",
+  "count": 7.0,
+  "final": true,
+  "fala_s": "Valendo a sobrevivência... a resposta é..."
+ }
+]
