@@ -1,0 +1,803 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "porco",
+  "img": "q1.png",
+  "opcoes": [
+   "Pig",
+   "Cow",
+   "Horse"
+  ],
+  "certa": 0,
+  "fala_q": "Valendo! Como se diz porco em inglês? Pig, Cow ou Horse?",
+  "fala_r": "Pig! Começou tranquilo, né?",
+  "count": 6.0
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "ovelha",
+  "img": "q2.png",
+  "opcoes": [
+   "Goat",
+   "Sheep",
+   "Llama"
+  ],
+  "certa": 1,
+  "fala_q": "E a ovelha? Como é em inglês? Goat, Sheep ou Llama?",
+  "fala_r": "Sheep! Guarda essa palavra, que ela vai voltar pra te pegar.",
+  "count": 6.0
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "burro",
+  "img": "q3.png",
+  "opcoes": [
+   "Horse",
+   "Donkey",
+   "Monkey"
+  ],
+  "certa": 1,
+  "fala_q": "E esse bichinho aqui? Horse, Donkey ou Monkey?",
+  "fala_r": "Donkey, o burro! Horse é o cavalo, e monkey é o macaco.",
+  "count": 8.0
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one horse",
+   "two ______"
+  ],
+  "img": "q4.png",
+  "opcoes": [
+   "horsies",
+   "horses",
+   "horse"
+  ],
+  "certa": 1,
+  "fala_q": "Um cavalo, one horse. E dois cavalos?",
+  "fala_r": "Horses! Aqui é só colocar o S no final.",
+  "count": 8.0
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "ovos",
+  "rotulo": "EGGS",
+  "img": "q5.png",
+  "opcoes": [
+   "Cows",
+   "Pigs",
+   "Chickens"
+  ],
+  "certa": 2,
+  "fala_q": "Eggs, os ovos da feira. De onde eles vêm? Cows, Pigs ou Chickens?",
+  "fala_r": "Chickens! Quem bota os ovos é a galinha.",
+  "count": 8.0
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "PERSON OU THING?",
+  "cartao": [
+   "farmer"
+  ],
+  "img": "q6.png",
+  "opcoes": [
+   "Thing",
+   "Animal",
+   "Person"
+  ],
+  "certa": 2,
+  "fala_q": "Farmer é pessoa ou coisa? Person, thing ou animal?",
+  "fala_r": "Person! Farmer é o fazendeiro, quem planta e cuida dos animais.",
+  "count": 8.0
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "cabra",
+  "img": "q7.png",
+  "opcoes": [
+   "Goat",
+   "Sheep",
+   "Pig"
+  ],
+  "certa": 0,
+  "fala_q": "Agora essa, com chifrinho! Goat, Sheep ou Pig?",
+  "fala_r": "Goat, a cabra! Sheep é a ovelha, não confunde.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "leite",
+  "rotulo": "MILK",
+  "img": "q8.png",
+  "opcoes": [
+   "Cows",
+   "Chickens",
+   "Pigs"
+  ],
+  "certa": 0,
+  "fala_q": "E o leite, milk? Vem de qual animal? Cows, Chickens ou Pigs?",
+  "fala_r": "Cows! O leite vem das vacas.",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "PERSON OU THING?",
+  "cartao": [
+   "paintings"
+  ],
+  "img": "q9.png",
+  "opcoes": [
+   "Person",
+   "Thing",
+   "Animal"
+  ],
+  "certa": 1,
+  "fala_q": "Paintings é pessoa ou coisa?",
+  "fala_r": "Thing! Paintings são as pinturas. Quem pinta é o artist.",
+  "count": 8.0,
+  "fala_d": "Dica: paint é pintar.",
+  "dica_txt": "PAINT = PINTAR"
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "QUAL PALAVRA COMPLETA?",
+  "cartao": [
+   "The cow ______",
+   "on the farm."
+  ],
+  "img": "q10.png",
+  "opcoes": [
+   "grows",
+   "sells",
+   "lives"
+  ],
+  "certa": 2,
+  "fala_q": "Complete a frase: the cow, blank, on the farm.",
+  "fala_r": "Lives! The cow lives on the farm: a vaca vive na fazenda.",
+  "count": 8.0
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "pato",
+  "img": "q11.png",
+  "opcoes": [
+   "Goose",
+   "Turkey",
+   "Duck"
+  ],
+  "certa": 2,
+  "fala_q": "E essa ave que adora uma água? Goose, Turkey ou Duck?",
+  "fala_r": "Duck, o pato! Goose é outra ave, o ganso. Ele aparece daqui a pouco.",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "QUAL PALAVRA COMPLETA?",
+  "cartao": [
+   "Plants ______",
+   "on the farm."
+  ],
+  "img": "q12.png",
+  "opcoes": [
+   "grow",
+   "swim",
+   "play"
+  ],
+  "certa": 0,
+  "fala_q": "E agora: plants, blank, on the farm.",
+  "fala_r": "Grow! As plantas crescem na fazenda.",
+  "count": 8.0
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "feira",
+  "img": "q13.png",
+  "opcoes": [
+   "Farmers market",
+   "Farm",
+   "Garden"
+  ],
+  "certa": 0,
+  "fala_q": "Barracas cheias de frutas, legumes e flores. Como se chama esse lugar em inglês?",
+  "fala_r": "Farmers market, a feira! Onde os fazendeiros vendem o que plantam.",
+  "count": 8.0,
+  "sabia": "Farm é a fazenda, garden é o jardim e farmers market é a feira."
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "PERSON OU THING?",
+  "foto": "padeiro",
+  "rotulo": "BAKER",
+  "img": "q14.png",
+  "opcoes": [
+   "Thing",
+   "Food",
+   "Person"
+  ],
+  "certa": 2,
+  "fala_q": "Baker. É person, thing ou food?",
+  "fala_r": "Person! Baker é o padeiro, quem faz os pães e os bolos.",
+  "count": 8.0
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "galinha",
+  "img": "q15.png",
+  "opcoes": [
+   "Turkey",
+   "Chicken",
+   "Duck"
+  ],
+  "certa": 1,
+  "fala_q": "Última do nível médio: e essa ave? Turkey, Chicken ou Duck?",
+  "fala_r": "Chicken! A galinha, ou o frango.",
+  "count": 8.0
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "peru",
+  "img": "q16.png",
+  "opcoes": [
+   "Turkey",
+   "Chicken",
+   "Goose"
+  ],
+  "certa": 0,
+  "fala_q": "Nível difícil! Como se diz peru em inglês? Turkey, Chicken ou Goose?",
+  "fala_r": "Turkey! E turkey também é o nome em inglês do país Turquia!",
+  "count": 8.0,
+  "sabia": "Em inglês, turkey é o peru e Turkey, com T maiúsculo, é o país Turquia."
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one sheep",
+   "two ______"
+  ],
+  "img": "q17.png",
+  "opcoes": [
+   "sheeps",
+   "sheepes",
+   "sheep"
+  ],
+  "certa": 2,
+  "fala_q": "Uma ovelha, one sheep. E duas ovelhas?",
+  "fala_r": "Sheep! Não muda nada: one sheep, two sheep. Caiu?",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "ganso",
+  "img": "q18.png",
+  "opcoes": [
+   "Duck",
+   "Swan",
+   "Goose"
+  ],
+  "certa": 2,
+  "fala_q": "E essa ave aqui? Não é o pato! Duck, Swan ou Goose?",
+  "fala_r": "Goose, o ganso!",
+  "count": 8.0
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one goose",
+   "two ______"
+  ],
+  "img": "q19.png",
+  "opcoes": [
+   "gooses",
+   "geese",
+   "goosies"
+  ],
+  "certa": 1,
+  "fala_q": "One goose, um ganso. E dois gansos?",
+  "fala_r": "Geese! O O O vira E E. É igual tooth e teeth, dente e dentes.",
+  "count": 8.0,
+  "fala_d": "Dica: lembra de tooth e teeth?",
+  "dica_txt": "TOOTH → TEETH",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "sueter",
+  "rotulo": "WOOL SWEATER",
+  "img": "q20.png",
+  "opcoes": [
+   "Sheep",
+   "Cows",
+   "Cotton farm"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é um wool sweater, um suéter de lã. De onde vem a lã? Sheep, Cows ou Cotton farm?",
+  "fala_r": "Sheep! A lã vem da ovelha. Cortam o pelo dela, e cresce de novo!",
+  "count": 8.0,
+  "sabia": "A ovelha é tosquiada uma vez por ano. Não dói: é igual cortar o cabelo."
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "suco",
+  "rotulo": "ORANGE JUICE",
+  "img": "q21.png",
+  "opcoes": [
+   "Apple tree",
+   "Orange grove",
+   "Strawberry farm"
+  ],
+  "certa": 1,
+  "fala_q": "Orange juice, suco de laranja. De onde vêm as laranjas? Apple tree, Orange grove ou Strawberry farm?",
+  "fala_r": "Orange grove! O laranjal, uma plantação cheia de pés de laranja.",
+  "count": 8.0
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "QUAL É O PRONOUN?",
+  "cartao": [
+   "An artist shows",
+   "her paintings."
+  ],
+  "img": "q22.png",
+  "opcoes": [
+   "artist",
+   "paintings",
+   "her"
+  ],
+  "certa": 2,
+  "fala_q": "An artist shows her paintings. Qual dessas palavras é o pronoun, o pronome?",
+  "fala_r": "Her! O pronome fica no lugar do nome: her paintings, as pinturas dela.",
+  "count": 8.0
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "QUAL NÃO É NOUN?",
+  "cartao": [
+   "Bands play music",
+   "on stage."
+  ],
+  "img": "q23.png",
+  "opcoes": [
+   "play",
+   "bands",
+   "music"
+  ],
+  "certa": 0,
+  "fala_q": "Bands play music on stage. Qual dessas palavras NÃO é noun, substantivo?",
+  "fala_r": "Play! Play é verbo, tocar. Bands, music e stage são substantivos.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "PERSON OU THING?",
+  "cartao": [
+   "band"
+  ],
+  "img": "q24.png",
+  "opcoes": [
+   "People",
+   "Thing",
+   "Place"
+  ],
+  "certa": 0,
+  "fala_q": "Band, a banda que toca na feira. É people, thing ou place?",
+  "fala_r": "People! A band é um grupo de pessoas tocando música.",
+  "count": 8.0
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "meias",
+  "rotulo": "SOCKS",
+  "img": "q25.png",
+  "opcoes": [
+   "Cotton farm",
+   "Sugarcane",
+   "Apple tree"
+  ],
+  "certa": 0,
+  "fala_q": "Socks, as meias. Elas são feitas de algodão. De onde vêm? Cotton farm, Sugarcane ou Apple tree?",
+  "fala_r": "Cotton farm! Uma plantação de algodão.",
+  "count": 8.0
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "queijo",
+  "rotulo": "CHEESE",
+  "img": "q26.png",
+  "opcoes": [
+   "Eggs",
+   "Milk",
+   "Sugar"
+  ],
+  "certa": 1,
+  "fala_q": "Cheese, o queijo. É feito de quê? Eggs, Milk ou Sugar?",
+  "fala_r": "Milk! O queijo é feito de leite.",
+  "count": 8.0
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "QUAL SINAL VAI NO FIM?",
+  "cartao": [
+   "Where do eggs",
+   "come from___"
+  ],
+  "img": "q27.png",
+  "opcoes": [
+   ". (ponto final)",
+   "? (interrogação)",
+   ", (vírgula)"
+  ],
+  "certa": 1,
+  "fala_q": "Where do eggs come from. Qual sinal vai no final?",
+  "fala_r": "Ponto de interrogação! Começa com where, onde: é uma pergunta.",
+  "count": 8.0
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "A) i can't wait!",
+   "B) I Can't Wait!",
+   "C) I can't wait!"
+  ],
+  "img": "q28.png",
+  "opcoes": [
+   "FRASE A",
+   "FRASE B",
+   "FRASE C"
+  ],
+  "certa": 2,
+  "fala_q": "Qual dessas frases está escrita certinho? Olha bem as letras maiúsculas!",
+  "fala_r": "I can't wait! O I, que quer dizer eu, é sempre maiúsculo em inglês.",
+  "count": 9.0
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "geleia",
+  "rotulo": "STRAWBERRY JAM",
+  "img": "q29.png",
+  "opcoes": [
+   "Orange grove",
+   "Strawberry farm",
+   "Cotton farm"
+  ],
+  "certa": 1,
+  "fala_q": "Strawberry jam, geleia de morango. De onde vêm os morangos? Orange grove, Strawberry farm ou Cotton farm?",
+  "fala_r": "Strawberry farm! A fazenda de morangos.",
+  "count": 8.0
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "lhama",
+  "img": "q30.png",
+  "opcoes": [
+   "Llama",
+   "Alpaca",
+   "Goat"
+  ],
+  "certa": 0,
+  "fala_q": "Última do nível difícil. E esse bicho, como se chama em inglês? Llama, Alpaca ou Goat?",
+  "fala_r": "Llama! Com dois L. A lhama é alta e tem orelhas compridas, tipo uma banana.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Llama se escreve com dois L. A lhama é maior que a alpaca e tem orelhas compridas."
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "alpaca",
+  "img": "q31.png",
+  "opcoes": [
+   "Alpaca",
+   "Llama",
+   "Sheep"
+  ],
+  "certa": 0,
+  "fala_q": "Muito difícil! Parece a de antes... mas e esse aqui? Alpaca, Llama ou Sheep?",
+  "fala_r": "Alpaca! Menor que a lhama, com orelhinha curta e muito mais lã.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "DE ONDE VEM?",
+  "cartao": [
+   "sugar",
+   "for candy"
+  ],
+  "img": "q32.png",
+  "opcoes": [
+   "Cotton farm",
+   "Apple tree",
+   "Sugarcane"
+  ],
+  "certa": 2,
+  "fala_q": "Sugar, o açúcar dos doces. De onde ele vem? Cotton farm, Apple tree ou Sugarcane?",
+  "fala_r": "Sugarcane! A cana-de-açúcar. E o Brasil é o maior produtor do mundo!",
+  "count": 8.0,
+  "sabia": "O Brasil é o maior produtor de cana-de-açúcar do mundo."
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "guaxinim",
+  "img": "q33.png",
+  "opcoes": [
+   "Possum",
+   "Raccoon",
+   "Fox"
+  ],
+  "certa": 1,
+  "fala_q": "E esse mascarado aqui? Possum, Raccoon ou Fox?",
+  "fala_r": "Raccoon, o guaxinim! Olha a máscara preta no rosto.",
+  "count": 8.0
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "gamba",
+  "img": "q34.png",
+  "opcoes": [
+   "Possum",
+   "Raccoon",
+   "Rat"
+  ],
+  "certa": 0,
+  "fala_q": "E esse? Não é rato, hein! Possum, Raccoon ou Rat?",
+  "fala_r": "Possum, o gambá! Quando ele leva um susto, finge que está morto.",
+  "count": 8.0,
+  "sabia": "O gambá finge de morto quando sente perigo. Por isso em inglês existe a expressão play possum."
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one turkey",
+   "two ______"
+  ],
+  "img": "q35.png",
+  "opcoes": [
+   "turkeys",
+   "turkies",
+   "turkeyes"
+  ],
+  "certa": 0,
+  "fala_q": "One turkey, um peru. E dois perus?",
+  "fala_r": "Turkeys! Antes do Y tem vogal, então é só pôr o S. Igual donkeys.",
+  "count": 8.0,
+  "fala_d": "Dica: antes do Y tem uma vogal.",
+  "dica_txt": "VOGAL + Y",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "OUTRA PALAVRA PARA COWS?",
+  "cartao": [
+   "many cows",
+   "= ______"
+  ],
+  "img": "q36.png",
+  "opcoes": [
+   "cats",
+   "cattle",
+   "calves"
+  ],
+  "certa": 1,
+  "fala_q": "Muitas vacas, many cows. Qual outra palavra quer dizer isso?",
+  "fala_r": "Cattle! É o gado. Calves são os bezerros, e cats... são gatos!",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "QUAL É O PRONOUN?",
+  "cartao": [
+   "Do you want",
+   "to go to the",
+   "farmers market?"
+  ],
+  "img": "q37.png",
+  "opcoes": [
+   "you",
+   "market",
+   "want"
+  ],
+  "certa": 0,
+  "fala_q": "Do you want to go to the farmers market? Qual é o pronoun?",
+  "fala_r": "You! Você. Market é substantivo e want é verbo.",
+  "count": 8.0
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "A) Farmers bring fruits.",
+   "B) farmers bring fruits.",
+   "C) Farmers bring fruits"
+  ],
+  "img": "q38.png",
+  "opcoes": [
+   "FRASE A",
+   "FRASE B",
+   "FRASE C"
+  ],
+  "certa": 0,
+  "fala_q": "Qual dessas está escrita certinho? Olha o começo e o fim!",
+  "fala_r": "A que começa com maiúscula e termina com ponto final!",
+  "count": 9.0
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "O QUE SIGNIFICA?",
+  "cartao": [
+   "gardener"
+  ],
+  "img": "q39.png",
+  "opcoes": [
+   "Jardim",
+   "Garagem",
+   "Jardineiro"
+  ],
+  "certa": 2,
+  "fala_q": "Gardener. O que significa?",
+  "fala_r": "Jardineiro! Garden é o jardim, e gardener é quem cuida dele.",
+  "count": 8.0
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "QUANTOS NOUNS?",
+  "cartao": [
+   "The farmer sells",
+   "eggs and milk."
+  ],
+  "img": "q40.png",
+  "opcoes": [
+   "2",
+   "3",
+   "4"
+  ],
+  "certa": 1,
+  "fala_q": "The farmer sells eggs and milk. Quantos nouns, substantivos, tem nessa frase?",
+  "fala_r": "Três! Farmer, eggs e milk. Sells é verbo.",
+  "count": 9.0
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ ERRADA?",
+  "cartao": [
+   "Uma dessas",
+   "está ERRADA!"
+  ],
+  "img": "q41.png",
+  "opcoes": [
+   "two geese",
+   "two sheeps",
+   "two horses"
+  ],
+  "certa": 1,
+  "fala_q": "Uma dessas está errada. Qual?",
+  "fala_r": "Two sheeps! Sheep não muda no plural: two sheep.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "DE ONDE VEM?",
+  "foto": "mel",
+  "rotulo": "HONEY",
+  "img": "q42.png",
+  "opcoes": [
+   "Flowers",
+   "Sugarcane",
+   "Bees"
+  ],
+  "certa": 2,
+  "fala_q": "Honey, o mel. Quem faz o mel? Flowers, Sugarcane ou Bees?",
+  "fala_r": "Bees! As abelhas fazem o mel com o néctar das flores.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "______ artist"
+  ],
+  "img": "q43.png",
+  "opcoes": [
+   "a",
+   "the an",
+   "an"
+  ],
+  "certa": 2,
+  "fala_q": "Blank artist. Qual palavra vem antes de artist: an, a ou the an?",
+  "fala_r": "An! Antes de som de vogal, usa an: an artist, an apple.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ 100% CERTA?",
+  "cartao": [
+   "A) which baker sells cakes?",
+   "B) Which baker sells cakes.",
+   "C) Which baker sells cakes?"
+  ],
+  "img": "q44.png",
+  "opcoes": [
+   "FRASE A",
+   "FRASE B",
+   "FRASE C"
+  ],
+  "certa": 2,
+  "fala_q": "Qual dessas frases está cem por cento certa?",
+  "fala_r": "Which baker sells cakes, com W maiúsculo e ponto de interrogação! Se acertou, você é fera!",
+  "count": 10.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]

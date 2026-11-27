@@ -1,0 +1,2240 @@
+{
+ "ganso": {
+  "tipo": "animal",
+  "art": "Domestic_goose",
+  "cand": [
+   {
+    "file": "Sunset_Park_-_Las_Vegas_(11044584144).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Tomás Del Coro from Las Vegas, Nevada, USA"
+   },
+   {
+    "file": "Anser_cygnoides_(fl).jpg",
+    "lic": [
+     "CC BY 2.5",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Cary Bass"
+   },
+   {
+    "file": "Anser_cygnoides-Beijing.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Shizhao"
+   }
+  ]
+ },
+ "guaxinim": {
+  "tipo": "animal",
+  "art": "Raccoon",
+  "cand": [
+   {
+    "file": "Raccoon_in_Central_Park_(35264).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rhododendrites"
+   },
+   {
+    "file": "Raccoon_(Procyon_lotor)_2.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Darkone"
+   },
+   {
+    "file": "Raccoon_Cudjoe_Key_Florida.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "[2]"
+   },
+   {
+    "file": "Raccoon2014.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Angilbas"
+   }
+  ]
+ },
+ "alpaca": {
+  "tipo": "animal",
+  "art": "Alpaca",
+  "cand": [
+   {
+    "file": "Alpaca_in_Higashiyama_Zoo_-_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "KKPCW"
+   },
+   {
+    "file": "Leefgebied_alpaca.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Jürgen at Dutch Wikipedia"
+   },
+   {
+    "file": "Lama_guanicoe_in_Parque_Nacional_Torres_del_Paine_in_Patagonia,_Chile.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Franz Xaver"
+   },
+   {
+    "file": "Alpaca_y_la_isla_Challeca.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "EEJCC"
+   },
+   {
+    "file": "Alpaca_skeleton.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Polyoutis"
+   },
+   {
+    "file": "Corazon_Full.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Notnoisy"
+   },
+   {
+    "file": "Alpaca_headshot.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Kyle Flood from Victoria, British Columbia, Canada"
+   },
+   {
+    "file": "Suri-alpaca.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Sizzlingbadger at English Wikipedia"
+   },
+   {
+    "file": "Alpacas.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Philippe Lavoie"
+   },
+   {
+    "file": "Otavalo_Artisan_Market_-_Andes_Mountains_-_South_America_-_photograph_033.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "David Adam Kess"
+   }
+  ]
+ },
+ "peru": {
+  "tipo": "animal",
+  "art": "Domestic_turkey",
+  "cand": [
+   {
+    "file": "Male_north_american_turkey_supersaturated.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "photo taken by Lupin on en:Wikipedia"
+   },
+   {
+    "file": "Turkey_Whistle_LACMA_M.86.296.172.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Black_Spanish_toms_and_hen.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Hunter Desportes"
+   },
+   {
+    "file": "Baby_turkey_in_FL.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Kristie Gianopulos from Tampa, USA"
+   },
+   {
+    "file": "Anatomy_of_turkey_head.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "DrChrissy"
+   },
+   {
+    "file": "Turkeybird.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Hatmatbbat10"
+   },
+   {
+    "file": "Jill_turkey.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rosentron"
+   },
+   {
+    "file": "Domestic_turkey_in_Pakistan.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Shakeelgilgity"
+   },
+   {
+    "file": "Turkeys.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Thanksgiving_Turkey.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Patrick Fitzgerald from Atlanta, GA, USA"
+   }
+  ]
+ },
+ "gamba": {
+  "tipo": "animal",
+  "art": "Virginia_opossum",
+  "cand": [
+   {
+    "file": "Opossum_2.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Cody Pope"
+   },
+   {
+    "file": "Virginia_Opossum_area.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Chermundy"
+   },
+   {
+    "file": "Opossum_Skull.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Dawson at en.wikipedia"
+   },
+   {
+    "file": "Virginia_opossum_opposable_thumb.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tony Alter"
+   },
+   {
+    "file": "Opossum_and_vole_tracks_in_mud.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Lensim at English Wikipedia. Use \"Michael Lensi\" for attribution."
+   },
+   {
+    "file": "PlayingPossum.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Cale (talk)"
+   },
+   {
+    "file": "Possum122708.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Wilson44691"
+   },
+   {
+    "file": "Didelphis_virginiana_with_young.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Specialjake"
+   },
+   {
+    "file": "American_opossum_in_baby_grand_piano.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Jkatsis2"
+   }
+  ]
+ },
+ "gado": {
+  "tipo": "animal",
+  "art": "Cattle",
+  "cand": [
+   {
+    "file": "Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Kim Hansen"
+   },
+   {
+    "file": "Скелет_домашней_коровы.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Андрюша Романов"
+   },
+   {
+    "file": "Modelo_didático_bovino_(fundo_branco)_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Museum of Veterinary Anatomy FMVZ USP / Wagner Souza e Silva"
+   },
+   {
+    "file": "Kibegwa_2023_rumen_microbiome.png",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Kibegwa et al."
+   },
+   {
+    "file": "Cow_giving_birth,_in_Laos_(step_by_step).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Basile Morin"
+   },
+   {
+    "file": "Lecorps_2018_calf_sociability.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Authors of the study: Benjamin Lecorps, Daniel M. Weary &amp; Marina A. G. von K"
+   },
+   {
+    "file": "Oman_bullfighting_(2).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Lars Plougmann from United States"
+   },
+   {
+    "file": "Stier_Charolais_Linnenbach.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "4028mdk09"
+   },
+   {
+    "file": "CowPosture_20150612.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Niranjan Arminius"
+   },
+   {
+    "file": "Talenti_2022_cattle_genetics.png",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "cana": {
+  "tipo": "planta",
+  "art": "Sugarcane",
+  "cand": [
+   {
+    "file": "Saccharum_officinarum_-_Köhler–s_Medizinal-Pflanzen-125.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen"
+   },
+   {
+    "file": "Cut_sugarcane.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "ruurmo&nbsp;"
+   },
+   {
+    "file": "Sugarcane_canopy.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Salil Kumar Mukherjee"
+   },
+   {
+    "file": "Spread_sugarcane.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bless sins at English Wikipedia"
+   },
+   {
+    "file": "The_Mill_Yard_-_Ten_Views_in_the_Island_of_Antigua_(1823),_plate_V_-_BL.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "William Clark&nbsp;(–1801)&nbsp;&nbsp; &nbsp; Alternative names William Clark (d"
+   },
+   {
+    "file": "Cane_cutters,_Jamaica,_1891.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "William Dobson Valentine&nbsp;(1844–1907)&nbsp;&nbsp; &nbsp; Description British"
+   },
+   {
+    "file": "Old-fashioned_Indian_Sugar=cane_Press.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "FAL"
+    ],
+    "autor": "India Illustrated"
+   },
+   {
+    "file": "Tropenmuseum_Royal_Tropical_Institute_Objectnumber_3581-33h_Ingekleurde_litho_voorstellende_de_oo_(crop).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "T. (Théodore) Bray (Tekenaar)."
+   },
+   {
+    "file": "Sugarcane_plantation_in_Mauritius_(reduced_colour_saturation).jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL 1.3"
+    ],
+    "autor": "Asadbabil"
+   },
+   {
+    "file": "Sugarcane_fields.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Plague"
+   }
+  ]
+ },
+ "algodao": {
+  "tipo": "planta",
+  "art": "Cotton",
+  "cand": [
+   {
+    "file": "CottonPlant.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "BALLS_OF_COTTON_(ANDHRA_-SOUTH_INDIA)_READY_FOR_HARVEST.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mamichaelraj"
+   },
+   {
+    "file": "Mehrgarh_pakistan_rel96.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Fowler&amp;fowler at English Wikipedia"
+   },
+   {
+    "file": "Mandeville_cotton.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "John Mandeville"
+   },
+   {
+    "file": "Vegetable_lamb_(Lee,_1887).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Renaldis_muslin_woman.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Francesco Renaldi&nbsp;(1755–1799)&nbsp;&nbsp; &nbsp; Description British painte"
+   },
+   {
+    "file": "Cotton_bales_at_the_port_in_Bombay_in_the_1860s.JPG",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "William_L._Sheppard_-_First_use_of_the_Cotton_Gin,_Harper's_weekly,_18_Dec._1869,_p._813.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "William Ludwell Sheppard&nbsp;(1833–1912)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Espanya_Industrial_-_segle_XIX.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Cotton_pickers_and_overseer_around_1850.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "geleia": {
+  "tipo": "comida",
+  "art": "Fruit_preserves",
+  "cand": [
+   {
+    "file": "Fruits_jam_variants.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "毒島みるく"
+   },
+   {
+    "file": "Ribotroshhashana.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Aviad Bublil"
+   },
+   {
+    "file": "Colmar_(6710880299).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Michal Osmenda from Brussels, Belgium"
+   },
+   {
+    "file": "Yujacha_(yuja_tea).jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "croxriver"
+   },
+   {
+    "file": "Az-Strawberry_jam,_making_by_e-citizen_(moonsun1981).JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Moonsun1981"
+   },
+   {
+    "file": "LingonberryJam.jpeg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "The original uploader was Hephaestos at English Wikipedia."
+   },
+   {
+    "file": "Homemade_marmalade,_England.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Amanda Slater"
+   },
+   {
+    "file": "Bubbling_Jam.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Baryonic Being"
+   },
+   {
+    "file": "Pan,_preserving_(AM_1969.85-2).jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Délices_de_Paris.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Julie Kertesz from Paris neighbourhood, France"
+   }
+  ]
+ },
+ "laranjal": {
+  "tipo": "lugar",
+  "art": "Orange_(fruit)",
+  "cand": [
+   {
+    "file": "Oranges_-_whole-halved-segment.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ivar Leidus"
+   },
+   {
+    "file": "Orange_Blossom.JPG",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Alexander Hardin"
+   },
+   {
+    "file": "Orange_tree_fruiting.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Geo Lightspeed7"
+   },
+   {
+    "file": "OrangeBloss_wb.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ellen Levy Finch (Elf)"
+   },
+   {
+    "file": "Laranxeira_Naranjo_GFDL.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Luis Miguel Bugallo Sánchez (Lmbuga Commons)(Lmbuga Galipedia) Publicada por/Pub"
+   },
+   {
+    "file": "Bayad-wa-riyadبياض-و-رياض-.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Bibliotheca Apostolica, attribution"
+   },
+   {
+    "file": "Florida_orange_grove.JPG",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Mmacbeth"
+   },
+   {
+    "file": "Cara_cara_orange_cut_in_half.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "user:WLU"
+   },
+   {
+    "file": "BloodOrange.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Silentcynic"
+   },
+   {
+    "file": "CSIRO_ScienceImage_4314_Spraying_oranges_in_an_orchard_at_Griffith_NSW_2002.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Gregory Heath, CSIRO"
+   }
+  ]
+ },
+ "macieira": {
+  "tipo": "planta",
+  "art": "Apple",
+  "cand": [
+   {
+    "file": "Pink_lady_and_cross_section.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8"
+   },
+   {
+    "file": "Malus_domestica_a1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Opioła Jerzy (Poland)"
+   },
+   {
+    "file": "Apple_Blossom_@_Manali.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sanu N"
+   },
+   {
+    "file": "Koeh-108.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen"
+   },
+   {
+    "file": "Yellow_Transparent_(cropped).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rasbak&nbsp;"
+   },
+   {
+    "file": "Lobo_(apple)_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Aron Ambrosiani"
+   },
+   {
+    "file": "95apple.jpeg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Agricultural Research Service (Research agent of United States Department of Agr"
+   },
+   {
+    "file": "Apfelbaum_Winterrambour_Hochstamm.jpg",
+    "lic": [
+     "CC BY-SA 2.0 de"
+    ],
+    "autor": "Maseltov"
+   },
+   {
+    "file": "Orchmason.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Red58bill"
+   },
+   {
+    "file": "Relander_and_apples.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "ovos": {
+  "tipo": "comida",
+  "art": "Egg_as_food",
+  "cand": [
+   {
+    "file": "Huevo_frito.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Horacio Cambeiro"
+   },
+   {
+    "file": "Maler_der_Grabkammer_des_Menna_009.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Maler der Grabkammer des Menna"
+   },
+   {
+    "file": "Scenes_at_the_Samarkand_Square,_or_the_Registan,_and_Its_Market_Types._Egg_Vendors_WDL10882.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Русский: Кун, Александр Людвигович, 1840—1888 гг. Français&nbsp;: Kun, Aleksandr"
+   },
+   {
+    "file": "Vogeleier.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Rainer Zenz"
+   },
+   {
+    "file": "Eggs_in_basket_2020_G1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "George Chernilevsky"
+   },
+   {
+    "file": "Chicken_Egg_without_Eggshell_5859.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0",
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Biswarup Ganguly"
+   },
+   {
+    "file": "An_egg_with_two_yols.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Geo Lightspeed7"
+   },
+   {
+    "file": "Fried_Egg_2.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Matthew Murdoch"
+   },
+   {
+    "file": "Rührei.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "IgorCalzone1"
+   },
+   {
+    "file": "Potato_galettes_with_quail_eggs.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Pdphoto.org"
+   }
+  ]
+ },
+ "leite": {
+  "tipo": "comida",
+  "art": "Milk",
+  "cand": [
+   {
+    "file": "Glass_of_Milk_(33657535532).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "NIAID"
+   },
+   {
+    "file": "Melkkarussell.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Gunnar Richter Namenlos.net"
+   },
+   {
+    "file": "Woman_breastfeeding_an_infant.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Alexander Tundakov"
+   },
+   {
+    "file": "Goat_kid_feeding_on_mothers_milk.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Fir0002"
+   },
+   {
+    "file": "Cow_female_black_white.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Keith Weller/USDA"
+   },
+   {
+    "file": "A_bowl_of_milk_for_the_shaman_rite._Buryatia._Russia.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Oleg Bor"
+   },
+   {
+    "file": "Bundesarchiv_Bild_183-2004-0708-501,_Berlin,_Milch_von_Bolle_in_der_Pause.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "SR_4409_6_Wheeled_Milk_Wagon_Didcot_Railway_Centre.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "David Merrett from Daventry, England"
+   },
+   {
+    "file": "Aesthetic_Milk_Vehicle.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Thamizhpparithi Maari"
+   },
+   {
+    "file": "Farm_in_sogn_og_fjordane.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Thomas Bjørkan"
+   }
+  ]
+ },
+ "la": {
+  "tipo": "objeto",
+  "art": "Wool",
+  "cand": [
+   {
+    "file": "Royal_Winter_Fair_Wool_2.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Rob"
+   },
+   {
+    "file": "Sheep_eating_grass_edit02.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8"
+   },
+   {
+    "file": "Sheep_at_Llanddewi_Brefi,_in_Ceredigion,_Wales.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Roger Kidd"
+   },
+   {
+    "file": "Hogget_fleece.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Cgoodwin"
+   },
+   {
+    "file": "Wool_fleece_and_top.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Cgoodwin"
+   },
+   {
+    "file": "Merino_shearing.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Original uploader was Charles Esson at en.wikipedia"
+   },
+   {
+    "file": "CSIRO_ScienceImage_11160_Siroscour.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "division, CSIRO"
+   },
+   {
+    "file": "Wool_samples_2.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Cgoodwin"
+   },
+   {
+    "file": "Tibetan_spinning_wool.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "w:Arnold Henry Savage Landor"
+   },
+   {
+    "file": "Spinning_and_carding_wool_-_The_costume_of_Yorkshire_(1814),_plate_XXIX,_opposite_69_-_BL.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "George Walker&nbsp;(1781–1856)&nbsp;&nbsp; &nbsp; Description English graphic ar"
+   }
+  ]
+ },
+ "feira": {
+  "tipo": "lugar",
+  "art": "Farmers'_market",
+  "cand": [
+   {
+    "file": "Farmers_and_Artisans_Market_at_Farmington_-_Michigan.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. Sstevenson24 assumed (based on copyright cl"
+   },
+   {
+    "file": "Layyah_fruit_vegetable_market.jpg",
+    "lic": [
+     "CC-BY-SA-3.0",
+     "GFDL"
+    ],
+    "autor": "01:36, 24 September 2008"
+   },
+   {
+    "file": "Garlic_for_sale_in_a_market_in_France.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "FrogsLegs71"
+   },
+   {
+    "file": "Wildmarkt.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "AnonymousUnknown author"
+   },
+   {
+    "file": "Drawing_by_Marguerite_Martyn_of_Soulard_Market,_St._Louis,_in_1912.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Marguerite Martyn&nbsp;(1880–1948)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Farmers_market_sign.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sheila1988"
+   },
+   {
+    "file": "Grand_Prairie_May_2019_29_(Grand_Prairie_Farmers_Market).jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Michael Barera"
+   },
+   {
+    "file": "Farmers_Market_Vancouver,_WA.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "TammyBellBells"
+   },
+   {
+    "file": "026_Farmers'_markets_in_israel.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Tzahy Lerner"
+   },
+   {
+    "file": "FM_Meat_1.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "tosquia": {
+  "tipo": "objeto",
+  "art": "Sheep_shearing",
+  "cand": [
+   {
+    "file": "Sheep_shearing.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Martybugs at English Wikipedia (Original text: Martin Pot (martybugs))"
+   },
+   {
+    "file": "Instruments_agrícoles,_tisores_d'esquilar_i_esquellots,_s._III_dC,_Neupotz,_Museu_Històric_del_Palatinat.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Joanbanjo"
+   },
+   {
+    "file": "Flock_Of_Sheep_In_Omalos_Plateau.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Miguel Virkkunen Carvalho from Lahti, Finland"
+   },
+   {
+    "file": "Queensland_State_Archives_3075_Shearing_sheep_Barcaldine_District_c_1948.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Agriculture And Stock Department, Publicity Branch"
+   },
+   {
+    "file": "Shearing_08.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Julie Blake"
+   },
+   {
+    "file": "ShearersMoccasinsC2289.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Leonard G."
+   },
+   {
+    "file": "BladeShears.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "FAL"
+    ],
+    "autor": "Cstaffa"
+   },
+   {
+    "file": "BladeShearing.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "FAL"
+    ],
+    "autor": "Cstaffa"
+   },
+   {
+    "file": "Agriculture_in_Britain_during_the_First_World_War_Q54605.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Tom_Roberts_-_Shearing_the_rams_-_Google_Art_Project.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Tom Roberts&nbsp;(1856–1931)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "padeiro": {
+  "tipo": "pessoa",
+  "art": "Baker",
+  "cand": [
+   {
+    "file": "USS_John_C._Stennis_baker.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Petty Officer 3rd Class Paul J. Perkins, U.S. Navy"
+   },
+   {
+    "file": "The_Baker,_circa_1681,_by_Job_Adriaensz_Berckheyde_(1630-1693)_-_IMG_7331.JPG",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Job Adriaenszoon Berckheyde&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Medieval_bakerFXD.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Lankckorona_piekarnia.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "SebaeL"
+   },
+   {
+    "file": "24-prosphore.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Work_dough.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Walraversijde56.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. JoJan assumed (based on copyright claims)."
+   },
+   {
+    "file": "Baker_Oslo.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Thomas Berg"
+   },
+   {
+    "file": "Bakery_in_Riyadh.JPG",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "haitham alfalah"
+   }
+  ]
+ },
+ "horta": {
+  "tipo": "lugar",
+  "art": "Market_garden",
+  "cand": [
+   {
+    "file": "PK_fields_by_water1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "JackyR"
+   },
+   {
+    "file": "Bachman_greenhouse.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Chinese_gardener,_ca._1893_121707.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "G.W. Wilson"
+   },
+   {
+    "file": "20150319-OC-LSC-0608_(16247565064).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "U.S. Department of Agriculture Lance Cheung/Multimedia PhotoJournalist"
+   },
+   {
+    "file": "Valencia_Capital_(huerta).jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Silvestre"
+   }
+  ]
+ },
+ "jardineiro": {
+  "tipo": "pessoa",
+  "art": "Gardener",
+  "cand": [
+   {
+    "file": "Abel_Grimmer_-_Spring_-_WGA10683.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "Abel Grimmer&nbsp;(circa 1570date QS:P,+1570–00–00T00:00:00Z/9,P1480,Q5727902–ci"
+   },
+   {
+    "file": "Gardening.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Mariegriffiths at English Wikipedia"
+   },
+   {
+    "file": "Royal_Gardener_John_Rose_and_King_Charles_II_-_Hendrick_Danckerts_1675.jpeg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Attributed to Hendrick Danckerts&nbsp;(1625–1680)&nbsp;&nbsp; &nbsp; Alternative"
+   },
+   {
+    "file": "Gardener_on_a_stepladder_collecting_fruit_(4881973053).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Llyfrgell Genedlaethol Cymru / The National Library of Wales from Wales/Cymru"
+   },
+   {
+    "file": "France_Loiret_La_Bussiere_Potager_05.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "No machine-readable author provided. Calips assumed (based on copyright claims)."
+   }
+  ]
+ },
+ "morangal": {
+  "tipo": "lugar",
+  "art": "Strawberry",
+  "cand": [
+   {
+    "file": "Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ivar Leidus"
+   },
+   {
+    "file": "Fragaria_vesca_LC0389.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "Jörg Hempel"
+   },
+   {
+    "file": "Hügel-Erdbeere_-_Früchte.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Harald Süpfle"
+   },
+   {
+    "file": "Fragaria_moschata_detail.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Dendrofil"
+   },
+   {
+    "file": "Strawberry_gariguette_DSC03063.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.0",
+     "CC BY-SA 2.0 fr"
+    ],
+    "autor": "Copyright © 2005 David Monniaux"
+   },
+   {
+    "file": "Rosa_rubiginosa_1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Stan Shebs"
+   },
+   {
+    "file": "Potentilla_recta_a1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jerzy Opioła"
+   },
+   {
+    "file": "Fragaria_viridis_fruit_-_Keila.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ivar Leidus"
+   },
+   {
+    "file": "Fragaria_orientalis_42864136.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Repina Tatyana"
+   },
+   {
+    "file": "Fragaria_vesca_-_metsmaasikas.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ivar Leidus"
+   }
+  ]
+ },
+ "celeiro": {
+  "tipo": "lugar",
+  "art": "Barn",
+  "cand": [
+   {
+    "file": "Zalmon_Read_Barn_back_view.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Swroche"
+   },
+   {
+    "file": "TTCdairybarn.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Original uploader was Elred at en.wikipedia"
+   },
+   {
+    "file": "Лебедев_Гумно_1894.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Klavdy Lebedev&nbsp;(1852–1916)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "GrangeBarn-interior.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Brian Snelson"
+   },
+   {
+    "file": "Barn_Barberêche_Mar_2011.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "WWHenderson20"
+   },
+   {
+    "file": "Starke_Round_Barn_in_Red_Cloud,_Nebraska.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "AverageSizedMuskrat"
+   },
+   {
+    "file": "Beautiful_Post_and_Beam_Horse_Barn.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Vermont Timber Works Inc."
+   },
+   {
+    "file": "Round_barn_Indiana.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Jack Boucher&nbsp;(1931–2012)&nbsp;&nbsp; &nbsp; Alternative names Jack E. Bouch"
+   },
+   {
+    "file": "Scheune_Langes_Mühle.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Uwe Barghaan"
+   },
+   {
+    "file": "Ysgubor_Stryd_Lydan,_Sain_Ffagan.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Ben Bore"
+   }
+  ]
+ },
+ "fazenda": {
+  "tipo": "lugar",
+  "art": "Farm",
+  "cand": [
+   {
+    "file": "Church_Farm,_Stockton,_Norfolk_-_geograph.org.uk_-_1968544.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Adrian S Pye&nbsp;"
+   },
+   {
+    "file": "Plan_mediaeval_manor.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "William R. Shepherd, Historical Atlas, New York, Henry Holt and Company, 1923"
+   },
+   {
+    "file": "Marion_Cty,_Iowa_Farmer_w_mule_drawn_wagon,_1920s.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Late grandfather of JGKlein, inherited by father of JGKlein, used with permissio"
+   },
+   {
+    "file": "Dell_City,_Texas_(29994634276).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "formulanone from Huntsville, United States"
+   },
+   {
+    "file": "Cow_milking_machine_in_action_DSC04132.jpg",
+    "lic": [
+     "CC BY-SA 2.0 fr"
+    ],
+    "autor": "Copyright © 2004 David Monniaux"
+   },
+   {
+    "file": "Poultry_Farming_in_Nepal2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "NepaliKeto62 Talk to me"
+   },
+   {
+    "file": "Farming_near_Klingerstown,_Pennsylvania.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Ontario_farm.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "User:Stan Shebs"
+   },
+   {
+    "file": "Rieten_dak_old_farmhouse.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Own work"
+   },
+   {
+    "file": "Chinafarmland.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "earth_photos"
+   }
+  ]
+ },
+ "meias": {
+  "tipo": "objeto",
+  "art": "Sock",
+  "cand": [
+   {
+    "file": "HandKnittedWhiteLaceSock.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Loggie-log"
+   },
+   {
+    "file": "Argyle_(PSF).png",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Pearson Scott Foresman"
+   },
+   {
+    "file": "Mawangdui_Han_Socks_(10113150686).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Gary Todd from Xinzheng, China"
+   },
+   {
+    "file": "BLW_Pair_of_socks.jpg",
+    "lic": [
+     "CC BY-SA 2.0 uk"
+    ],
+    "autor": "David Jackson"
+   },
+   {
+    "file": "Islamic_sock.jpg",
+    "lic": [
+     "PD",
+     "PD-US"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "FootClothFromFinnishDefenceForces.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Juha Kämäräinen"
+   },
+   {
+    "file": "Yellow-green_toe_socks.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "The Hurricane"
+   },
+   {
+    "file": "Flip-Flops_socks.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Neptuul"
+   },
+   {
+    "file": "Halksockar.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sockiplast67"
+   },
+   {
+    "file": "Smelly_socks.jpg",
+    "lic": [
+     "CC-BY-SA-3.0",
+     "GFDL"
+    ],
+    "autor": "09:13, 13 July 2022"
+   }
+  ]
+ },
+ "flores": {
+  "tipo": "planta",
+  "art": "Flower",
+  "cand": [
+   {
+    "file": "Magnolia_grandiflora_-_flower_1.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ianaré Sévi"
+   },
+   {
+    "file": "Phalaenopsis_bellina_(Blue_Pink_x_sib)_(Rchb.f.)_Christenson-_Brittonia_47-_58_(1995)._20210623_013709.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Motohiro Sunouchi"
+   },
+   {
+    "file": "Sunflower_from_Silesia.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Pudelek (Marcin Szala)"
+   },
+   {
+    "file": "Passiflora_caerulea_(makro_close-up).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Petar Milošević"
+   },
+   {
+    "file": "Zea_mays_male_flowers.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Kostka Martin"
+   },
+   {
+    "file": "Rafflesia_arnoldii_Bunga_Nasional_Indonesia_01_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "SofianRafflesia"
+   },
+   {
+    "file": "Anther-schematic.png",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Ben Stefanowitsch"
+   },
+   {
+    "file": "Hyndrangea_phyllody_(cropped).png",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Kenro Oshima, Kensaku Maejima, Shigetou Namba"
+   },
+   {
+    "file": "Paardenbloem_(Taraxacum_officinale)_26-04-2020._(actm.)_01_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Agnes Monkelbaan"
+   },
+   {
+    "file": "Hoverfly_January_2008-6.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alvesgaspar"
+   }
+  ]
+ },
+ "mel": {
+  "tipo": "comida",
+  "art": "Honey",
+  "cand": [
+   {
+    "file": "Runny_hunny.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Scott Bauer, USDA ARS"
+   },
+   {
+    "file": "Miels_d'Alsace_agriculture_biologique.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CClaude Truong-Ngoc"
+   },
+   {
+    "file": "Bee_on_-calyx_935.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "No machine-readable author provided. MikePhobos assumed (based on copyright clai"
+   },
+   {
+    "file": "Honey_comb.jpg",
+    "lic": [
+     "CC BY-SA 2.5",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Merdal at Turkish Wikipedia"
+   },
+   {
+    "file": "Sealed_Honey_in_frame.JPG",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Michaelb1983"
+   },
+   {
+    "file": "Extractor_Beekeeping.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Filtering_of_honey.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Crystallized_honey_with_close-up.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Zaereth"
+   },
+   {
+    "file": "Honey-miel.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Emmanuel Boutet"
+   },
+   {
+    "file": "Creamed_honey_Maillard_reaction_after_aging.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Zaereth"
+   }
+  ]
+ },
+ "couro": {
+  "tipo": "objeto",
+  "art": "Leather",
+  "cand": [
+   {
+    "file": "Leathertools.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Scott Bauer"
+   },
+   {
+    "file": "Ledertrocknung_in_Suai.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "David Palazón, Tatoli Ba Kultura"
+   },
+   {
+    "file": "Leather_tanning,_Fes.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bernard Gagnon"
+   },
+   {
+    "file": "Tanned_leather.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 3.0"
+    ],
+    "autor": "Donar Reiskoffer"
+   },
+   {
+    "file": "Modern-day_tannery.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Norbzzzz"
+   },
+   {
+    "file": "Bodleian_Libraries,_Imaginary_Portrait.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "CC BY 4.0"
+    ],
+    "autor": "Pater, Walter [author]"
+   },
+   {
+    "file": "«PhoneCases».png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Claudio Ammon"
+   },
+   {
+    "file": "Recycling_clothing_icon.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "PulloJesicaNoemi"
+   },
+   {
+    "file": "Aegopodium_podagraria1_ies.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Frank Vincentz"
+   },
+   {
+    "file": "Rajasthani_style_Leather_Jooti,local_artwork_Jaipur_India.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Swapnil.Karambelkar"
+   }
+  ]
+ },
+ "trigo": {
+  "tipo": "planta",
+  "art": "Wheat",
+  "cand": [
+   {
+    "file": "Vehnäpelto_6.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "kallerna"
+   },
+   {
+    "file": "Köhler's_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erläuterndem_Texte_(Plate_87)_(8231709397).jpg",
+    "lic": [
+     "CC BY 2.0",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr"
+   },
+   {
+    "file": "WheatYield.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "AndrewMT"
+   },
+   {
+    "file": "NHM_-_Jungsteinzeit_Sichel_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Wolfgang Sauber"
+   },
+   {
+    "file": "UrukPlate3000BCE.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Trilla_del_trigo_en_el_Antiguo_Egipto.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Carlos E. Solivérez"
+   },
+   {
+    "file": "Woman_harvesting_wheat,_Raisen_district,_Madhya_Pradesh,_India_ggia_version.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Yann Forget"
+   },
+   {
+    "file": "Ancient_wheat.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Mafarkafut"
+   },
+   {
+    "file": "Naked_and_hulled_wheat.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mark Nesbitt"
+   },
+   {
+    "file": "USDA_wheat.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Keith Weller, USDA"
+   }
+  ]
+ },
+ "queijo": {
+  "tipo": "comida",
+  "art": "Cheese",
+  "cand": [
+   {
+    "file": "Cheese_platter.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Clara_Peeters_-_Still_Life_with_Cheeses,_Almonds_and_Pretzels.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Clara Peeters&nbsp;(1587–1657)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "9-alimenti,_formaggi,Taccuino_Sanitatis,_Casanatense_4182..jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "unknown master"
+   },
+   {
+    "file": "Hartkaese_HardCheeses.jpg",
+    "lic": [
+     "GFDL 1.2",
+     "FAL"
+    ],
+    "autor": "Eva K. / Eva K."
+   },
+   {
+    "file": "Ricotta_affumicata_della_sila.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "F Ceragioli"
+   },
+   {
+    "file": "Formaggi.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "User:Archenzo"
+   },
+   {
+    "file": "Cheese_display,_Cambridge_MA_-_DSC05391.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Daderot"
+   },
+   {
+    "file": "Cheeseinthenetherlands.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Hhk1989"
+   },
+   {
+    "file": "Parmigiano_reggiano_factory.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Cheese,_wine_and_bread_in_a_sidewalk_cafe_in_Paris,_June_2015.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Joe deSousa"
+   }
+  ]
+ },
+ "milharal": {
+  "tipo": "planta",
+  "art": "Maize",
+  "cand": [
+   {
+    "file": "Koeh-283.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen"
+   },
+   {
+    "file": "Corntassel_7095.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Spedona"
+   },
+   {
+    "file": "Cornsilk_7091.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "The original uploader was Pollinator at English Wikipedia."
+   },
+   {
+    "file": "GreenCorn.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Jonathunder"
+   },
+   {
+    "file": "ZeaMays.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Christian Fischer"
+   },
+   {
+    "file": "Klip_kukuruza_uzgojen_u_Međimurju_(Croatia).JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Silverije"
+   },
+   {
+    "file": "Männliche_Blüte_einer_Maispflanze_2009-08-19.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Henry Mühlpfordt"
+   },
+   {
+    "file": "Corn_blooming.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "GEM_corn.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Keith Weller, USDA"
+   },
+   {
+    "file": "Cornselection.jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "John Doebley"
+   }
+  ]
+ },
+ "abelha": {
+  "tipo": "animal",
+  "art": "Western_honey_bee",
+  "cand": [
+   {
+    "file": "Apis_mellifera_Western_honey_bee.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Andreas Trepte"
+   },
+   {
+    "file": "Western_Honey_Bee_Habitat_Map.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Yahachy"
+   },
+   {
+    "file": "Bienenwabe_mit_Eiern_und_Brut_5.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Waugsberg (talk&nbsp;· contribs)"
+   },
+   {
+    "file": "Bee_on_Lavender_Blossom_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Martin Falbisoner&nbsp;(1978–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Queencell_0017.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Apis_mellifera_in_Sundarbans_National_Park_May_2025_by_Tisha_Mukherjee_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Tisha Mukherjee"
+   },
+   {
+    "file": "Drohnenpuppen_81b.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Waugsberg"
+   },
+   {
+    "file": "Drohnenpuppen_79d.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Waugsberg"
+   },
+   {
+    "file": "Apis_mellifera_Luc_Viatour.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Bee_swarm_on_fallen_tree03.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": ""
+   }
+  ]
+ }
+}

@@ -1321,6 +1321,36 @@
         "data": "2026-11-27",
         "origem": "github-actions"
       }
+    },
+    "videos/48-ela-fazenda": {
+      "youtube": {
+        "status": "publicado",
+        "id": "dOImhkT4tSw",
+        "url": "https://youtu.be/dOImhkT4tSw",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "d1643e1c8ec7edadd8059539cb182cfff0410a815f73279a2eeaa52807dc0a35"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/fazenda-1": {
+      "titulo": "INGLÊS NA FAZENDA! 🐑 Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "0pUbPHDmF4Q",
+        "url": "https://youtu.be/0pUbPHDmF4Q",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "b2d24323cf423fabbbeb84c20f52a30fbc4a584a7809db7f08cabbea1b76cf0e"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7710024562880104456",
+        "data": "2026-11-19",
+        "origem": "github-actions"
+      }
     }
   }
 }
