@@ -14,7 +14,7 @@ A miniatura por código continua sendo feita pela rotina diária e sobe junto co
 4. Para cada pasta pendente, mande no chat do Flow o texto de `<pasta>/youtube/prompt-flow.txt`, começando com
    "Gere uma miniatura de YouTube 16:9 bem chamativa, que dá vontade de clicar:" e reforçando no fim:
    "À direita, ENORME (metade da altura da imagem), o Palito: boneco de palito (stickman) branco com contorno preto
-   grosso, cabeça redonda, olhos arregalados, boca aberta em PÂNICO, as duas mãos na cabeça."
+   grosso, cabeça redonda, CARA DE INTELIGENTE: sorriso confiante e esperto, sobrancelha levantada, uma mão no queixo (nada de susto ou pânico: Patrick, 2026-11-19)."
    Espere ~40 s e confira por screenshot: tem que ter o Palito grande, o título certo escrito sem erro e
    "VOCÊ CONSEGUE?". Se faltar algo, peça a correção no mesmo chat (no máximo 2 tentativas).
 4b. **Cena de abertura** (2026-11-17, só quando a linha do passo 1 diz `cena`): no mesmo projeto, mande o texto de

@@ -1,0 +1,128 @@
+{
+ "Banana": {
+  "file": "Bananavarieties.jpg",
+  "autor": "TimothyPilgrim",
+  "lic": "CC BY-SA 3.0",
+  "arquivo": "banana.jpg"
+ },
+ "Milho": {
+  "file": "Brazilian_corn_on_the_cob.jpg",
+  "autor": "Ninatravassos",
+  "lic": "CC BY-SA 4.0",
+  "arquivo": "milho.jpg"
+ },
+ "Abacaxi": {
+  "file": "കൈതച്ചക്ക.jpg",
+  "autor": "Suniltg at Malayalam Wikipedia",
+  "lic": "CC BY 3.0",
+  "arquivo": "abacaxi.jpg"
+ },
+ "Maçã": {
+  "file": "Lobo_(apple)_(cropped).jpg",
+  "autor": "Aron Ambrosiani",
+  "lic": "CC BY-SA 4.0",
+  "arquivo": "maca.jpg"
+ },
+ "Batata": {
+  "file": "Patates.jpg",
+  "autor": "Scott Bauer, USDA ARS",
+  "lic": "Public domain",
+  "arquivo": "batata.jpg"
+ },
+ "Laranja": {
+  "file": "Oranges_-_whole-halved-segment.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0",
+  "arquivo": "laranja.jpg"
+ },
+ "Cereja": {
+  "file": "Cherry_season_(48216568227).jpg",
+  "autor": "spurekar",
+  "lic": "CC BY 2.0",
+  "arquivo": "cereja.jpg"
+ },
+ "Coco": {
+  "file": "Coconut_half_exocarp_removed.jpg",
+  "autor": "KEmel49",
+  "lic": "CC BY-SA 4.0",
+  "arquivo": "coco.jpg"
+ },
+ "Abóbora": {
+  "file": "FrenchMarketPumpkinsB.jpg",
+  "autor": "Infrogmation of New Orleans",
+  "lic": "CC BY-SA 2.0",
+  "arquivo": "abobora.jpg"
+ },
+ "Alface": {
+  "file": "Romaine_lettuce.jpg",
+  "autor": "Rainer Zenz",
+  "lic": "CC BY-SA 3.0",
+  "arquivo": "alface.jpg"
+ },
+ "Beterraba": {
+  "file": "Detroitdarkredbeets.png",
+  "autor": "BriannaWalther",
+  "lic": "CC BY-SA 3.0",
+  "arquivo": "beterraba.jpg"
+ },
+ "Couve-flor": {
+  "file": "Chou-fleur_02.jpg",
+  "autor": "Coyau",
+  "lic": "CC BY-SA 3.0",
+  "arquivo": "couve-flor.jpg"
+ },
+ "Repolho": {
+  "file": "Chou_1.jpg",
+  "autor": "Kondah",
+  "lic": "CC BY-SA 4.0",
+  "arquivo": "repolho.jpg"
+ },
+ "Ameixa": {
+  "file": "Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0",
+  "arquivo": "ameixa.jpg"
+ },
+ "Mandioca": {
+  "file": "Manihot_esculenta_001.jpg",
+  "autor": "Amada44",
+  "lic": "CC BY 3.0",
+  "arquivo": "mandioca.jpg"
+ },
+ "Framboesa": {
+  "file": "Raspberries_(Rubus_idaeus).jpg",
+  "autor": "Ivar Leidus",
+  "lic": "CC BY-SA 4.0",
+  "arquivo": "framboesa.jpg"
+ },
+ "Amora": {
+  "file": "Ripe,_ripening,_and_green_blackberries.jpg",
+  "autor": "Ragesoss",
+  "lic": "CC BY-SA 3.0",
+  "arquivo": "amora.jpg"
+ },
+ "Ervilha": {
+  "file": "Peas_in_pods_-_Studio.jpg",
+  "autor": "Bill Ebbesen",
+  "lic": "CC BY-SA 3.0",
+  "arquivo": "ervilha.jpg"
+ },
+ "Mirtilo": {
+  "file": "Maturing_blueberry.jpg",
+  "autor": "Dladek",
+  "lic": "Public domain",
+  "arquivo": "mirtilo.jpg"
+ },
+ "Salsão": {
+  "file": "Celery_1.jpg",
+  "autor": "Lombroso",
+  "lic": "Public domain",
+  "arquivo": "salsao.jpg"
+ },
+ "Castanha-do-pará": {
+  "file": "Brazil_nuts.jpg",
+  "autor": "Quadell",
+  "lic": "CC BY-SA 3.0",
+  "arquivo": "castanha-do-para.jpg"
+ }
+}

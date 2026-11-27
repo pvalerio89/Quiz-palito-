@@ -12,7 +12,7 @@ Canal de quiz em português no **YouTube** (Quiz Palito, ID `UCerGMTooT9vl4yVgW7
 ## Regras principais
 - Python: `py -3` (não `python`, não `-I`). Voz: Edge TTS **pt-BR-AntonioNeural rate +20% pitch +2Hz**.
 - Prévia (prancha) antes de renderizar; depois conferir quadros e volume (~−26 dB). Não guardar em cache imagens de tamanho variável (estoura RAM).
-- Miniatura: título emocional grande, elementos recortados gigantes, fundo P&B com raios, **Palito enorme em pânico**, faixa "VOCÊ CONSEGUE?".
+- Miniatura: título emocional grande, elementos recortados gigantes, fundo azul liso, **Palito enorme com cara de inteligente (nunca assustado, 2026-11-19)**, feita no Google Flow, faixa "VOCÊ CONSEGUE?".
 - Vídeo longo: sempre **mais de 8 min** (anúncio no meio); mirar **10–15 min** (Patrick 2026-11-20), 30–40 perguntas, ~20 s por pergunta com a pergunta falada (dados de retenção 2026-11-12, ver `fila/ROTINA.md`). Short: 30–50 s (2026-11-17), fala final curta. Ritmo (2026-11-27): 1 longo 18h + 1 Short 20h30 **dia sim, dia não**; sem mais vídeos de escola; regras novas em `fila/ROTINA.md` "PLANO DE MONETIZAÇÃO" (longo + Short do mesmo tema, Shorts campeões em parte 2, variar formato) e "NOVO RITMO".
 - Tema de coisas reais (frutas, animais, comidas, lugares): **fotos reais** de licença livre (`automacao/fotos_wiki.py`, Wikimedia; preferir domínio público/CC0). Créditos só numa tela curta no fim do vídeo, nunca em comentário/descrição.
 - Shorts: variar a frase de chamada (`chamada()` em `shorts/short_base.py`); nunca "Só 1% acerta" (2026-11-17).
