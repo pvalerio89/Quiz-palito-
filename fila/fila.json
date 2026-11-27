@@ -627,6 +627,56 @@
       }
     },
     {
+      "id": "2026-11-22-short-portugal",
+      "tema": "Short do próprio longo (videos/36-brasil-x-portugal), que saiu com Short do Desafio do Palito",
+      "status": "extra",
+      "so_short": true,
+      "longo": "videos/36-brasil-x-portugal",
+      "short": "shorts/portugal-1",
+      "titulo": "Você FALA PORTUGUÊS DE PORTUGAL? 🇧🇷🇵🇹 Aposto que você erra uma! #shorts",
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
+    },
+    {
+      "id": "2026-11-22-short-selecoes",
+      "tema": "Short do próprio longo (videos/39-selecoes-a-z), que saiu com Short do Desafio do Palito",
+      "status": "extra",
+      "so_short": true,
+      "longo": "videos/39-selecoes-a-z",
+      "short": "shorts/selecoes-1",
+      "titulo": "Uma SELEÇÃO para cada LETRA ⚽ 3 segundos pra cada! #shorts",
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
+    },
+    {
+      "id": "2026-11-22-short-jogador-pais",
+      "tema": "Short do próprio longo (videos/37-jogador-qual-pais), que saiu com Short do Desafio do Palito",
+      "status": "extra",
+      "so_short": true,
+      "longo": "videos/37-jogador-qual-pais",
+      "short": "shorts/jogador-pais-1",
+      "titulo": "De qual PAÍS é esse JOGADOR? ⚽ Você chega no 5 de 5? #shorts",
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
+    },
+    {
+      "id": "2026-11-22-short-pais-filhos",
+      "tema": "Short do próprio longo (videos/38-pais-contra-filhos), que saiu com Short do Desafio do Palito",
+      "status": "extra",
+      "so_short": true,
+      "longo": "videos/38-pais-contra-filhos",
+      "short": "shorts/pais-filhos-1",
+      "titulo": "PAIS contra FILHOS 📚 Quem ganha essa? #shorts",
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
+    },
+    {
+      "id": "2026-11-22-short-animal-pais",
+      "tema": "Short do próprio longo (videos/40-animal-de-cada-pais), que saiu com Short do Desafio do Palito",
+      "status": "extra",
+      "so_short": true,
+      "longo": "videos/40-animal-de-cada-pais",
+      "short": "shorts/animal-pais-1",
+      "titulo": "Qual é o ANIMAL de cada PAÍS? 🐼 A última é estranha! #shorts",
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
+    },
+    {
       "id": "2026-11-20-nao-diga-2",
       "referencia": "",
       "tema": "NÃO DIGA O MESMO QUE O PALITO parte 2 (Short +9 insc, 55% retido)",

@@ -21,7 +21,15 @@ Meta: 500 inscritos + 3.000 h de longos (hoje 82 e 133 h). Análise: `estatistic
 Os Shorts trouxeram 78% dos inscritos; só os longos contam horas. Por isso:
 1. **Cada item = 1 longo de tema amplo + 1 Short do MESMO tema.** O Short é a porta de entrada do longo:
    link do longo na descrição do Short (já é automático) e fala/tela final "o quiz completo está no canal".
-   A série Desafio do Palito vira exceção (só quando o item não tiver Short do tema).
+   **REGRA FIXA (Patrick, 2026-11-22: "Só palito? Não, tem que fazer o Short do vídeo longo"): TODO longo novo sai
+   com o Short DELE**, tirado das perguntas/fotos do próprio longo. Nunca ligar `shorts/palito-N` como `short` de um
+   item com longo. O Desafio do Palito vira **extra ocasional** (no máximo 1 por semana, como item `so_short`, e só
+   se o Patrick pedir ou se os números mostrarem que vale). Os longos 36 a 40 (18 a 22/11) saíram com Short do Palito;
+   os Shorts do tema deles (portugal-1, selecoes-1, jogador-pais-1, pais-filhos-1, animal-pais-1) entraram na fila
+   como itens com status `extra` (prontos, mas PARADOS desde o "postar menos" de 27/11; o Publicar do dia ignora).
+   Só mude para `pronto` se o Patrick pedir.
+   Jeito rápido de fazer o Short do longo: `shorts/do_longo.py` (só escolher 4–5 perguntas do `itens.json` do longo;
+   cartão com foto, texto grande, bandeiras nas opções ou nome revelado; ver os 5 exemplos acima).
 2. **Longo de 10 a 15 min** (não mais), temas amplos que deram horas: Brasil, bandeiras, conhecimentos gerais,
    geografia, animais. Placar e letras grandes (TV).
 3. **Shorts campeões em parte 2, 3...** (mesmo molde que funcionou, conteúdo novo): 6 BANDEIRAS (+10 insc),
@@ -39,8 +47,8 @@ O Short **NÃO mostra a resposta** (termina com "A CERTA ESTÁ NOS COMENTÁRIOS"
 comenta). Cada pasta tem `youtube/comentario.txt` com a resposta: o job `comentar_resposta` do "Publicar do dia"
 (`automacao/comentar_resposta.py`) posta esse texto como comentário do canal quando o Short fica público
 (registro em `comentarios/respostas-shorts.json`). Fixar o comentário é manual no app (a API não fixa). Quando
-os 5 primeiros saírem, compare as views do feed com os Shorts de tema; se ganharem, continue a série (palito-6 em diante,
-contas novas, fundo variado) como Short dos próximos itens.
+os 5 primeiros saírem, compare as views do feed com os Shorts de tema. **Desde 2026-11-22 a série NÃO substitui mais
+o Short do tema** (ver PLANO DE MONETIZAÇÃO, item 1): no máximo 1 palito por semana, como item extra `so_short`.
 
 Desde 11/11 os vídeos novos quase não são mostrados (Shorts com 6–86 views; antes 900–1.800). Hipótese: muitos
 vídeos por dia no mesmo molde ("produzido em massa"). Análise completa: doc "Quiz Palito: análise do canal e o que
@@ -78,10 +86,11 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
    escreva em `obs` com qual vídeo ele se parece, avise o Patrick (ver "Avisos") e siga para o próximo item.
    Se já produziu e só percebeu depois, avise do mesmo jeito.
 6. **Produzir** o 1º item `aguardando` (um por rodada; se o estoque estiver em 0 ou 1, faça mais um):
-   - Item que já tem `short` preenchido (série **Desafio do Palito**, `shorts/palito-N`, 2026-11-17): faça **só o vídeo longo**;
-     não crie Short do tema e não mexa no `short` do item.
+   - **Todo longo leva o Short do PRÓPRIO tema** (2026-11-22). Se um item vier com `short` = `shorts/palito-N`,
+     troque pelo Short do tema e deixe o palito para depois (item `so_short` separado, no máximo 1 por semana).
    - Item `esperando` = falta o Patrick explicar algo (ver `obs`): **pule**. Item com `"so_short": true` = faça só o Short
-     (sem vídeo longo; no item só `short`, `titulo` do Short e `status` = `pronto`).
+     (sem vídeo longo; no item só `short`, `titulo` do Short e `status` = `pronto`). Se o Short for de um longo já publicado, ponha o link dele direto na descrição
+     (não `LINK_DO_VIDEO_LONGO`) e o campo `longo` no item.
    - Veja a referência leve: título pelo oembed, storyboard/miniaturas com `yt-dlp` (`-f sb0`), sem baixar o vídeo.
    - Faça a **versão Quiz Palito**: mesmo formato e ritmo, **perguntas próprias**, sem copiar arte, marca ou texto
      do outro canal, **sem parte de explicação/fonte**. Temas escolares/educativos para adolescentes quando der.
@@ -161,10 +170,13 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
      mandar ao Patrick: a rotina de hora em hora (`fila/MINIATURAS-FLOW.md`) gera no Flow assim que o PC ligar e troca.
    - Vídeo longo com kit completo em `youtube/`: título, descrição, tags e **miniatura** (título emocional grande,
      elementos recortados gigantes, **fundo colorido com raios**, Palito enorme em pânico, faixa "VOCÊ CONSEGUE?").
-   - Short 9:16 com movimento: **copie o modelo `shorts/modelo/`** (sem abertura, placar, 3 opções), 6 perguntas do mesmo tema. Use as mesmas fotos reais do vídeo longo
-     quando ele tiver fotos. **Frase de chamada variada** (nunca "Só 1% acerta"). Escolha uma frase de
-     `CHAMADAS` em `shorts/short_base.py` (função `chamada()`) diferente das usadas nos últimos 3 Shorts
-     (veja os títulos em `publicados.json`); "Só 1% acerta" não se usa mais (2026-11-17).
+   - Short 9:16 com movimento, **tirado do próprio longo**: use `shorts/do_longo.py` (exemplos `shorts/portugal-1`,
+     `jogador-pais-1`, `pais-filhos-1`, `selecoes-1`, `animal-pais-1`) ou copie `shorts/modelo/` quando o longo tiver
+     molde próprio. 4 ou 5 perguntas do longo, mesmas fotos reais. **VARIAR (Patrick, 2026-11-22):** o cartão
+     (foto / texto grande / bandeira->foto / nome revelado), a cor de fundo, a música e a fala final não podem ser
+     iguais às do Short anterior. **Frase de chamada variada** (nunca "Só 1% acerta"): use
+     `s.chamada(s.usadas_recentes())` em `shorts/short_base.py`, que pula as frases dos últimos 3 Shorts da fila;
+     "Só 1% acerta" não se usa mais (2026-11-17).
      A mesma frase vai na tela de abertura, no título e no `tiktok.txt`. Na descrição (YouTube):
      link do canal (https://www.youtube.com/channel/UCerGMTooT9vl4yVgW7Ggd3A) e o texto `LINK_DO_VIDEO_LONGO` no lugar do link do vídeo
      longo (o workflow troca pelo link certo na hora de publicar).
