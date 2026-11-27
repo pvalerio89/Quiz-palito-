@@ -1394,6 +1394,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/matematica-2": {
+      "titulo": "PROVA DE MATEMÁTICA DO 3º ANO ✏️ Só gênio acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "irVOY8vAOuI",
+        "url": "https://youtu.be/irVOY8vAOuI",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "8f102c26e53d362639fc2a06c39e77f0abfaa3f5460219e639cf68290b413a03"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
