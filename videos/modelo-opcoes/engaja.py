@@ -15,6 +15,12 @@ _V = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(_V, "01-paises-sem-vogais"))
 import build as b
 
+# Textos da tela (padrão em português). Vídeo em outra língua troca no build: eg.TXT.update({...}) (2026-11-27).
+TXT = {"pergunta": "PERGUNTA", "de": "DE", "pontos": "CONTA SEUS PONTOS!", "mais1": "+1 SE ACERTOU!",
+       "sabia": "VOCÊ SABIA?", "ultima": ("ÚLTIMA", "PERGUNTA", "A MAIS DIFÍCIL!"),
+       "curtir": ("SE INSCREVA", "E DEIXE SEU LIKE!", "INSCREVA-SE", "INSCRITO ✓", "VAI LÁ, EU ESPERO!"),
+       "fim": ("GOSTOU?", "INSCREVA-SE", "NO CANAL")}
+
 _cache = {}
 
 # Vídeos de anotar/escolher: chamada no começo (Patrick, 2026-11-12). Sempre com as 3 ideias:
@@ -80,9 +86,10 @@ def faixa_gancho(img, cx, cy, txt, t, dur, larg=1300, size=84, cor=b.RED):
     _colar(img, sp, cx, cy - sai * (cy + sp.height), sc)
 
 
-def pontos(img, cx, cy, feitas, n, t=0.0, raio=22, gap=16, rotulo="CONTA SEUS PONTOS!", rotulo_size=34,
+def pontos(img, cx, cy, feitas, n, t=0.0, raio=22, gap=16, rotulo=None, rotulo_size=34,
            rotulo_acima=True):
     """Bolinhas do bloco atual: já foram = amarelas com ✔, atual = branca pulsando, próximas = apagadas."""
+    rotulo = TXT["pontos"] if rotulo is None else rotulo
     d = ImageDraw.Draw(img)
     passo = 2 * raio + gap
     x0 = cx - (n - 1) * passo / 2
@@ -111,7 +118,7 @@ def mais_um(img, cx, cy, tt, size=46):
     sc = pula((tt - 0.35) / 0.3)
     if sc <= 0.02:
         return
-    sp = _faixa_sprite("+1 SE ACERTOU!", int(size * 9.2), size, (40, 170, 70))
+    sp = _faixa_sprite(TXT["mais1"], int(size * 9.2), size, (40, 170, 70))
     _colar(img, sp, cx, cy + 4 * math.sin(tt * 6), sc)
 
 

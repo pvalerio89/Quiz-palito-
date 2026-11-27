@@ -219,7 +219,7 @@ def topo(img, q, total):
            stroke_fill=b.NAVY)
     t = q["pergunta"].upper()
     b.text_outline(d, (850, 92), t, nd.fit(d, t, 92, 1150), b.YELLOW, w=10)
-    d.text((850, 168), f"PERGUNTA {q['n']} DE {total}", font=b.font(b.F_BLACK, 34), fill=b.WHITE, anchor="mm",
+    d.text((850, 168), f"{eg.TXT['pergunta']} {q['n']} {eg.TXT['de']} {total}", font=b.font(b.F_BLACK, 34), fill=b.WHITE, anchor="mm",
            stroke_width=4, stroke_fill=b.NAVY)
     b.selo(img, 1730, 100, 0.7)
 
@@ -270,7 +270,7 @@ def placar(img, q, total, t, respondida=False):
     bloco = (q["n"] - 1) // 10
     feitas = (q["n"] - 1) % 10 + (1 if respondida else 0)
     eg.pontos(img, 930, 1012, feitas, min(10, total - bloco * 10), t, raio=25, gap=18,
-              rotulo="CONTA SEUS PONTOS!", rotulo_size=38, rotulo_acima=False)
+              rotulo=eg.TXT["pontos"], rotulo_size=38, rotulo_acima=False)
 
 
 def pergunta_frames(q, total, count=COUNT, filtro=None, fala=0.0, gancho=None, gancho_dur=None):

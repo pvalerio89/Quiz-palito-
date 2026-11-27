@@ -1,0 +1,963 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "WHICH ONE?",
+  "cartao": [
+   "One of the 3 home",
+   "activities that use",
+   "the MOST water"
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Drinking a glass of water",
+   "Flushing the toilet",
+   "Brushing your teeth"
+  ],
+  "certa": 1,
+  "fala_q": "Which one is one of the three home activities that use the most water? Drinking a glass of water, Flushing the toilet or Brushing your teeth?",
+  "fala_r": "Flushing the toilet!",
+  "count": 8.0
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Taking a shower"
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 0,
+  "fala_q": "Taking a shower. Is it Direct Use or Virtual Use?",
+  "fala_r": "Direct Use! We can see the water being used.",
+  "count": 8.0,
+  "img": "chuveiro"
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "WHAT DOES HE EAT?",
+  "cartao": [
+   "Tommy's breakfast:",
+   "a banana and..."
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Chocolate cake",
+   "Whole-grain bread",
+   "Candy"
+  ],
+  "certa": 1,
+  "fala_q": "Tommy loves to eat. For breakfast, he eats a banana and what? Chocolate cake, Whole-grain bread or Candy?",
+  "fala_r": "Whole-grain bread! A banana and whole-grain bread, a healthy breakfast.",
+  "count": 8.0,
+  "img": "pao"
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "HEALTHY OR UNHEALTHY?",
+  "cartao": [
+   "Broccoli"
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Healthy",
+   "Unhealthy"
+  ],
+  "certa": 0,
+  "fala_q": "Broccoli. Healthy or unhealthy?",
+  "fala_r": "Healthy!",
+  "count": 8.0,
+  "img": "brocolis"
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Eating a hamburger"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 1,
+  "fala_q": "Eating a hamburger. Direct Use or Virtual Use?",
+  "fala_r": "Virtual Use! The water was used to make the hamburger.",
+  "count": 8.0,
+  "img": "hamburguer"
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "WHAT DOES HE DRINK?",
+  "cartao": [
+   "During the day,",
+   "Tommy drinks..."
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Soda",
+   "Nothing",
+   "Water"
+  ],
+  "certa": 2,
+  "fala_q": "And what does Tommy drink during the day to help his body? Soda, Nothing or Water?",
+  "fala_r": "Water! He drinks water during the day.",
+  "count": 8.0,
+  "img": "copo"
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "TRUE OR FALSE?",
+  "cartao": [
+   "\"A camel keeps water",
+   "inside its hump\""
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "True",
+   "False"
+  ],
+  "certa": 1,
+  "fala_q": "True or false? A camel keeps water inside its hump.",
+  "fala_r": "False! The hump stores fat, not water.",
+  "count": 8.0,
+  "img": "dromedario",
+  "aviso": "TRICK QUESTION!"
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "HEALTHY OR UNHEALTHY?",
+  "cartao": [
+   "Soda"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "Healthy",
+   "Unhealthy"
+  ],
+  "certa": 1,
+  "fala_q": "Soda. Healthy or unhealthy?",
+  "fala_r": "Unhealthy! It has a lot of sugar.",
+  "count": 8.0,
+  "img": "refri"
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "ONLY ONCE IN A WHILE!",
+  "cartao": [
+   "What should Tommy",
+   "NOT eat every day?"
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Rice and beans",
+   "Candy and soda",
+   "Banana and bread"
+  ],
+  "certa": 1,
+  "fala_q": "Tommy loves candy and soda too. But what should he NOT eat every day? Rice and beans, Candy and soda or Banana and bread?",
+  "fala_r": "Candy and soda! Only once in a while.",
+  "count": 8.0,
+  "img": "doces"
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Washing clothes"
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 0,
+  "fala_q": "Washing clothes. Direct Use or Virtual Use?",
+  "fala_r": "Direct Use!",
+  "count": 8.0,
+  "img": "maquina"
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "WHAT UNIT?",
+  "cartao": [
+   "We measure the",
+   "water to produce",
+   "food in..."
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Kilograms",
+   "Liters",
+   "Meters"
+  ],
+  "certa": 1,
+  "fala_q": "What unit do we use to measure the water used to produce food? Kilograms, Liters or Meters?",
+  "fala_r": "Liters!",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "COMPLETE!",
+  "cartao": [
+   "Fruits and vegetables",
+   "are examples of",
+   "________ foods"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Healthy",
+   "Virtual",
+   "Desert"
+  ],
+  "certa": 0,
+  "fala_q": "Complete the sentence: fruits and vegetables are examples of what foods? Healthy, Virtual or Desert?",
+  "fala_r": "Healthy foods!",
+  "count": 8.0,
+  "img": "verduras"
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "HEALTHY OR UNHEALTHY?",
+  "cartao": [
+   "Fish"
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "Healthy",
+   "Unhealthy"
+  ],
+  "certa": 0,
+  "fala_q": "Fish. Healthy or unhealthy?",
+  "fala_r": "Healthy!",
+  "count": 8.0,
+  "img": "peixe"
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "WHAT DO THEY DO?",
+  "cartao": [
+   "Wide, padded feet"
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "Stop it sinking in sand",
+   "Let it eat thorny plants",
+   "Store fat"
+  ],
+  "certa": 0,
+  "fala_q": "What do the camel's wide, padded feet do? Stop it sinking in sand, Let it eat thorny plants or Store fat?",
+  "fala_r": "They stop the camel from sinking into the sand!",
+  "count": 8.0,
+  "img": "dromedario2"
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "WHICH USES MORE?",
+  "cartao": [
+   "Which one uses",
+   "MORE water?"
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "Washing the car with a hose",
+   "Using a watering can",
+   "Drinking a glass of water"
+  ],
+  "certa": 0,
+  "fala_q": "Which one of these uses more water? Washing the car with a hose, Using a watering can or Drinking a glass of water?",
+  "fala_r": "Washing the car with a hose! The water keeps running.",
+  "count": 8.0,
+  "img": "mangueira"
+ },
+ {
+  "n": 16,
+  "nivel": 2,
+  "pergunta": "HEALTHY OR UNHEALTHY?",
+  "cartao": [
+   "Potato chips"
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "Healthy",
+   "Unhealthy"
+  ],
+  "certa": 1,
+  "fala_q": "Potato chips. Healthy or unhealthy?",
+  "fala_r": "Unhealthy! A lot of salt and fat.",
+  "count": 8.0,
+  "img": "chips"
+ },
+ {
+  "n": 17,
+  "nivel": 2,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Brushing your teeth"
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 0,
+  "fala_q": "Brushing your teeth. Direct Use or Virtual Use?",
+  "fala_r": "Direct Use!",
+  "count": 8.0,
+  "img": "escova"
+ },
+ {
+  "n": 18,
+  "nivel": 2,
+  "pergunta": "HEALTHY OR UNHEALTHY?",
+  "cartao": [
+   "Rice and beans"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "Healthy",
+   "Unhealthy"
+  ],
+  "certa": 0,
+  "fala_q": "Rice and beans. Healthy or unhealthy?",
+  "fala_r": "Healthy!",
+  "count": 8.0,
+  "img": "arrozfeijao"
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "WHICH ONE?",
+  "cartao": [
+   "Another one of the",
+   "3 activities that use",
+   "the MOST water"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "Washing clothes",
+   "Watering the plants",
+   "Brushing your teeth"
+  ],
+  "certa": 0,
+  "fala_q": "Which one is also one of the three home activities that use the most water? Washing clothes, Watering the plants or Brushing your teeth?",
+  "fala_r": "Washing clothes! The three are: flushing the toilet, taking a shower or a bath, and washing clothes.",
+  "count": 8.0,
+  "img": "maquina"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Drinking a",
+   "glass of milk"
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 1,
+  "fala_q": "Drinking a glass of milk. Direct Use or Virtual Use?",
+  "fala_r": "Virtual Use! The water that counts was used to produce the milk.",
+  "count": 8.0,
+  "img": "leite",
+  "aviso": "TRICK QUESTION!",
+  "fala_s": "The answer is..."
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "A farmer uses water",
+   "to grow tomatoes"
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 1,
+  "fala_q": "A farmer uses water to grow tomatoes. Direct Use or Virtual Use?",
+  "fala_r": "Virtual Use! The water is used to produce food.",
+  "count": 8.0,
+  "img": "tomateiro",
+  "aviso": "TRICK QUESTION!"
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "WHAT DO THEY DO?",
+  "cartao": [
+   "Nostrils that close"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "Keep sand out of the eyes",
+   "Keep sand out of the nose",
+   "Store fat"
+  ],
+  "certa": 1,
+  "fala_q": "What do the camel's nostrils that close do? Keep sand out of the eyes, Keep sand out of the nose or Store fat?",
+  "fala_r": "They keep the sand out of the nose!",
+  "count": 8.0,
+  "img": "camelorosto"
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Using a sheet",
+   "of paper"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 1,
+  "fala_q": "Using a sheet of paper. Direct Use or Virtual Use?",
+  "fala_r": "Virtual Use! Water was used to make the paper.",
+  "count": 8.0,
+  "img": "papel"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "A factory uses water",
+   "to make a T-shirt"
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 1,
+  "fala_q": "A factory uses water to make a T-shirt. Direct Use or Virtual Use?",
+  "fala_r": "Virtual Use! It counts for products too, not only food.",
+  "count": 8.0,
+  "img": "camiseta"
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "WHAT DO THEY DO?",
+  "cartao": [
+   "Thick lips"
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "Eat thorny plants",
+   "Stop it sinking in sand",
+   "Keep water"
+  ],
+  "certa": 0,
+  "fala_q": "What do the camel's thick lips do? Eat thorny plants, Stop it sinking in sand or Keep water?",
+  "fala_r": "They let the camel eat thorny desert plants without pain!",
+  "count": 8.0,
+  "img": "camelo"
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Watering",
+   "the plants"
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 0,
+  "fala_q": "Watering the plants. Direct Use or Virtual Use?",
+  "fala_r": "Direct Use!",
+  "count": 8.0
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "HOW MANY LITERS?",
+  "cartao": [
+   "1 banana"
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "About 160 liters",
+   "About 16 liters",
+   "About 1,600 liters"
+  ],
+  "certa": 0,
+  "fala_q": "How many liters of water to produce one banana? About 160 liters, About 16 liters or About 1,600 liters?",
+  "fala_r": "About one hundred sixty liters!",
+  "count": 8.0,
+  "img": "banana"
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "THE MOST WATER?",
+  "cartao": [
+   "Which food needs",
+   "the MOST water",
+   "to be produced?"
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "Egg",
+   "Glass of milk",
+   "Hamburger"
+  ],
+  "certa": 2,
+  "fala_q": "Which food needs the most water to be produced? Egg, Glass of milk or Hamburger?",
+  "fala_r": "The hamburger! About two thousand four hundred liters.",
+  "count": 8.0,
+  "img": "hamburguer"
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "DIRECT OR VIRTUAL?",
+  "cartao": [
+   "Buying a pair",
+   "of shoes"
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Direct Use",
+   "Virtual Use",
+   "Neither"
+  ],
+  "certa": 1,
+  "fala_q": "Buying a pair of shoes. Direct Use or Virtual Use?",
+  "fala_r": "Virtual Use! It is a ready product.",
+  "count": 8.0,
+  "img": "sapato"
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "WHAT DOES IT DO?",
+  "cartao": [
+   "The camel's",
+   "thick fur"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "Protects from sun and cold",
+   "Stores fat",
+   "Keeps sand out of the eyes"
+  ],
+  "certa": 0,
+  "fala_q": "What does the camel's thick fur do? Protects from sun and cold, Stores fat or Keeps sand out of the eyes?",
+  "fala_r": "It protects the camel from the hot sun and also from the cold desert nights!",
+  "count": 8.0,
+  "img": "camelorosto",
+  "fala_s": "The answer is..."
+ },
+ {
+  "n": 31,
+  "nivel": 3,
+  "pergunta": "THE LEAST WATER?",
+  "cartao": [
+   "Which food needs",
+   "the LEAST water?"
+  ],
+  "foto": "q31.png",
+  "opcoes": [
+   "Tomato",
+   "Potato",
+   "Apple"
+  ],
+  "certa": 0,
+  "fala_q": "Which food needs the least water? Tomato, Potato or Apple?",
+  "fala_r": "The tomato! About thirteen liters.",
+  "count": 8.0,
+  "img": "tomate"
+ },
+ {
+  "n": 32,
+  "nivel": 3,
+  "pergunta": "WHAT IS IT?",
+  "cartao": [
+   "An adaptation is..."
+  ],
+  "foto": "q32.png",
+  "opcoes": [
+   "A kind of food",
+   "A feature to survive",
+   "Water we cannot see"
+  ],
+  "certa": 1,
+  "fala_q": "What is an adaptation? A kind of food, A feature to survive or Water we cannot see?",
+  "fala_r": "A special feature that helps an animal survive where it lives!",
+  "count": 8.0
+ },
+ {
+  "n": 33,
+  "nivel": 3,
+  "pergunta": "COMPLETE!",
+  "cartao": [
+   "Healthy foods",
+   "help Tommy..."
+  ],
+  "foto": "q33.png",
+  "opcoes": [
+   "Eat more candy",
+   "Sleep in class",
+   "Grow and stay strong"
+  ],
+  "certa": 2,
+  "fala_q": "According to the text, healthy food helps Tommy do what? Eat more candy, Sleep in class or Grow and stay strong?",
+  "fala_r": "Grow, stay strong and have energy to play soccer with his friends!",
+  "count": 8.0
+ },
+ {
+  "n": 34,
+  "nivel": 3,
+  "pergunta": "HOW MANY LITERS?",
+  "cartao": [
+   "1 slice of bread"
+  ],
+  "foto": "q34.png",
+  "opcoes": [
+   "About 4 liters",
+   "About 400 liters",
+   "About 40 liters"
+  ],
+  "certa": 2,
+  "fala_q": "How many liters of water to produce one slice of bread? About 4 liters, About 400 liters or About 40 liters?",
+  "fala_r": "About forty liters!",
+  "count": 8.0,
+  "img": "pao"
+ },
+ {
+  "n": 35,
+  "nivel": 3,
+  "pergunta": "HEALTHY OR UNHEALTHY?",
+  "cartao": [
+   "Chocolate cake"
+  ],
+  "foto": "q35.png",
+  "opcoes": [
+   "Healthy",
+   "Unhealthy"
+  ],
+  "certa": 1,
+  "fala_q": "Chocolate cake. Healthy or unhealthy?",
+  "fala_r": "Unhealthy! A lot of sugar and fat.",
+  "count": 8.0,
+  "img": "bolo"
+ },
+ {
+  "n": 36,
+  "nivel": 3,
+  "pergunta": "WHICH NEEDS MORE?",
+  "cartao": [
+   "Food from animals",
+   "or food from plants?"
+  ],
+  "foto": "q36.png",
+  "opcoes": [
+   "Food from plants",
+   "The same",
+   "Food from animals"
+  ],
+  "certa": 2,
+  "fala_q": "Which usually needs more water: food from animals or food from plants?",
+  "fala_r": "Food from animals! It needs much more water.",
+  "count": 8.0,
+  "img": "ovo"
+ },
+ {
+  "n": 37,
+  "nivel": 3,
+  "pergunta": "HOW MANY LITERS?",
+  "cartao": [
+   "1 egg"
+  ],
+  "foto": "q37.png",
+  "opcoes": [
+   "About 135 liters",
+   "About 13 liters",
+   "About 70 liters"
+  ],
+  "certa": 0,
+  "fala_q": "How many liters of water to produce one egg? About 135 liters, About 13 liters or About 70 liters?",
+  "fala_r": "About one hundred thirty-five liters!",
+  "count": 8.0,
+  "img": "ovo"
+ },
+ {
+  "n": 38,
+  "nivel": 3,
+  "pergunta": "WHAT DO THEY DO?",
+  "cartao": [
+   "Long eyelashes and",
+   "thick eyebrows"
+  ],
+  "foto": "q38.png",
+  "opcoes": [
+   "Keep sand out of the nose",
+   "Keep sand out of the eyes",
+   "Give energy"
+  ],
+  "certa": 1,
+  "fala_q": "What do the camel's long eyelashes and thick eyebrows do? Keep sand out of the nose, Keep sand out of the eyes or Give energy?",
+  "fala_r": "They keep the sand out of the eyes and shade them from the sun!",
+  "count": 8.0,
+  "img": "bactriano2"
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "HOW MANY LITERS?",
+  "cartao": [
+   "1 glass of milk"
+  ],
+  "foto": "q39.png",
+  "opcoes": [
+   "About 200 liters",
+   "About 20 liters",
+   "About 2,000 liters"
+  ],
+  "certa": 0,
+  "fala_q": "How many liters of water to produce one glass of milk? About 200 liters, About 20 liters or About 2,000 liters?",
+  "fala_r": "About two hundred liters!",
+  "count": 8.0,
+  "img": "leite",
+  "aviso": "ALMOST EVERYBODY MISSES IT!"
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "WHAT IS THE ORDER?",
+  "cartao": [
+   "From the LEAST",
+   "to the MOST water"
+  ],
+  "foto": "q40.png",
+  "opcoes": [
+   "Apple, tomato, egg",
+   "Egg, apple, tomato",
+   "Tomato, apple, egg"
+  ],
+  "certa": 2,
+  "fala_q": "Which is the right order, from the least water to the most? Apple, tomato, egg, Egg, apple, tomato or Tomato, apple, egg?",
+  "fala_r": "Tomato, apple, egg! Thirteen, seventy and one hundred thirty-five liters.",
+  "count": 8.0,
+  "fala_s": "The answer is..."
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "HOW MANY LITERS?",
+  "cartao": [
+   "1 hamburger"
+  ],
+  "foto": "q41.png",
+  "opcoes": [
+   "About 2,400 liters",
+   "About 240 liters",
+   "About 24 liters"
+  ],
+  "certa": 0,
+  "fala_q": "How many liters of water to produce one hamburger? About 2,400 liters, About 240 liters or About 24 liters?",
+  "fala_r": "About two thousand four hundred liters!",
+  "count": 8.0,
+  "img": "hamburguer"
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "HOW MANY LITERS?",
+  "cartao": [
+   "Beef:",
+   "liters per kilogram"
+  ],
+  "foto": "q42.png",
+  "opcoes": [
+   "1,500 liters",
+   "15,000 liters",
+   "150 liters"
+  ],
+  "certa": 1,
+  "fala_q": "How many liters of water to produce one kilogram of beef?",
+  "fala_r": "Fifteen thousand liters per kilogram! Much more than everything else.",
+  "count": 8.0,
+  "img": "carne2",
+  "aviso": "ALMOST NOBODY GETS IT!"
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "UNHEALTHY FOOD HAS...",
+  "cartao": [
+   "Unhealthy food",
+   "has a lot of..."
+  ],
+  "foto": "q43.png",
+  "opcoes": [
+   "Water and milk",
+   "Sugar, salt or fat",
+   "Fruit and vegetables"
+  ],
+  "certa": 1,
+  "fala_q": "Unhealthy food has a lot of what? Water and milk, Sugar, salt or fat or Fruit and vegetables?",
+  "fala_r": "Sugar, salt or fat!",
+  "count": 8.0,
+  "img": "batatafrita"
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "HOW MUCH MORE?",
+  "cartao": [
+   "Egg: 135 liters",
+   "Apple: 70 liters",
+   "Difference?"
+  ],
+  "foto": "q44.png",
+  "opcoes": [
+   "55 liters",
+   "75 liters",
+   "65 liters"
+  ],
+  "certa": 2,
+  "fala_q": "An egg needs about one hundred thirty-five liters. An apple, seventy. How many more liters does the egg need?",
+  "fala_r": "Sixty-five liters! One hundred thirty-five minus seventy.",
+  "count": 8.0
+ },
+ {
+  "n": 45,
+  "nivel": 4,
+  "pergunta": "HEALTHY OR UNHEALTHY?",
+  "cartao": [
+   "Milk"
+  ],
+  "foto": "q45.png",
+  "opcoes": [
+   "Healthy",
+   "Unhealthy"
+  ],
+  "certa": 0,
+  "fala_q": "And milk? Healthy or unhealthy?",
+  "fala_r": "Healthy!",
+  "count": 8.0,
+  "img": "leite"
+ },
+ {
+  "n": 46,
+  "nivel": 4,
+  "pergunta": "COMPLETE!",
+  "cartao": [
+   "We need ________",
+   "to survive"
+  ],
+  "foto": "q46.png",
+  "opcoes": [
+   "Soda",
+   "Candy",
+   "Water"
+  ],
+  "certa": 2,
+  "fala_q": "Complete the sentence: we need what to survive? Soda, Candy or Water?",
+  "fala_r": "Water! We need water to survive.",
+  "count": 8.0,
+  "img": "torneira"
+ },
+ {
+  "n": 47,
+  "nivel": 4,
+  "pergunta": "WHAT DO THEY DO?",
+  "cartao": [
+   "Long legs"
+  ],
+  "foto": "q47.png",
+  "opcoes": [
+   "Keep the body off hot sand",
+   "Run from lions",
+   "Store fat"
+  ],
+  "certa": 0,
+  "fala_q": "What do the camel's long legs do? Keep the body off hot sand, Run from lions or Store fat?",
+  "fala_r": "They keep the body away from the hot sand!",
+  "count": 8.0,
+  "img": "dromedario"
+ },
+ {
+  "n": 48,
+  "nivel": 4,
+  "pergunta": "TRUE OR FALSE?",
+  "cartao": [
+   "\"A camel can drink a lot",
+   "of water at once and",
+   "go many days without\""
+  ],
+  "foto": "q48.png",
+  "opcoes": [
+   "True",
+   "False"
+  ],
+  "certa": 0,
+  "fala_q": "True or false? A camel can drink a lot of water at once and go many days without drinking.",
+  "fala_r": "True! Another adaptation for the desert.",
+  "count": 8.0,
+  "img": "deserto",
+  "fala_s": "The answer is..."
+ },
+ {
+  "n": 49,
+  "nivel": 4,
+  "pergunta": "WHY IS IT USEFUL?",
+  "cartao": [
+   "The fat in",
+   "the hump..."
+  ],
+  "foto": "q49.png",
+  "opcoes": [
+   "Gives energy with no food",
+   "Cools the body",
+   "Stores water"
+  ],
+  "certa": 0,
+  "fala_q": "This one is worth the grade! The hump stores fat. Why is the fat useful in the desert? Gives energy with no food, Cools the body or Stores water?",
+  "fala_r": "It gives energy when there is no food! The hump stores fat, not water. If you got this one, you are ready for the test!",
+  "count": 12.0,
+  "img": "camelo",
+  "final": true,
+  "fala_s": "For the grade... the answer is..."
+ }
+]

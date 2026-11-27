@@ -1,0 +1,96 @@
+{
+ "hamburguer": {
+  "file": "RedDot_Burger.jpg",
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Hongreddotbrewhouse"
+ },
+ "brocolis": {
+  "file": "Sa_broccoli_florets.jpg",
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Sanjay Acharya"
+ },
+ "peixe": {
+  "file": "Fish_stuffed_with_Thai_herbs.jpg",
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "User:Mattes"
+ },
+ "leite": {
+  "file": "Glass_of_Milk_(33657535532).jpg",
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "NIAID"
+ },
+ "ovo": {
+  "file": "Huevo_frito.jpg",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Horacio Cambeiro"
+ },
+ "batatafrita": {
+  "file": "French_Fries.JPG",
+  "lic": [
+   "CC0"
+  ],
+  "autor": "StockSnap"
+ },
+ "chips": {
+  "file": "Cape_Cod_potato_chips_2.jpg",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Phoebe"
+ },
+ "bolo": {
+  "file": "Brown_Chocolate_Cake.jpg",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Kskhh"
+ },
+ "maquina": {
+  "file": "LG_드럼세탁기와_식기세척기,_영국서_물사용_효율_최우수_제품_수상.jpg",
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "LG전자",
+  "crop": "fit"
+ },
+ "escova": {
+  "file": "Toothbrush_x3_20050716_001.jpg",
+  "lic": [
+   "Public domain"
+  ],
+  "autor": "Jonas Bergsten",
+  "crop": "fit"
+ },
+ "papel": {
+  "file": "Various_products_made_from_paper.JPG",
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Meganbeckett27"
+ },
+ "refri": {
+  "file": "Tumbler_of_cola_with_ice.jpg",
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "Simon Cousins from High Wycombe, England"
+ },
+ "sapato": {
+  "file": "Skor_från_1700-_till_1960-talet_-_Nordiska_Museet_-_NMA.0056302.jpg",
+  "lic": [
+   "CC BY 3.0 no"
+  ],
+  "autor": ""
+ }
+}

@@ -138,7 +138,7 @@ def resposta_frames(q, total, d):
                 op.colar(img, op.opcao_sprite(k, o, "nao"), op.OPT_X, op.OPT_Y[k], 0.94)
         op.placar(img, q, total, tt, respondida=True)
         if q.get("sabia") and tt > 1.2:
-            faixa_baixo(img, "VOCÊ SABIA?", q["sabia"], tt - 1.2)
+            faixa_baixo(img, eg.TXT["sabia"], q["sabia"], tt - 1.2)
         else:
             eg.mais_um(img, op.OPT_X, 840, tt, size=42)
         b.put_palito(img, "comemorando", op.PAL_H, op.PAL_CX, op.PAL_BASE, -int(abs(26 * math.sin(tt * 7))))
@@ -158,9 +158,9 @@ def ultima_frames(d):
         img = nd.burst((200, 20, 30), (90, 0, 10), t * 10).convert("RGBA")
         dd = ImageDraw.Draw(img)
         s = max(0.1, min(1.0, t / 0.35)) * (1 + 0.06 * bate)
-        b.text_outline(dd, (800, 330), "ÚLTIMA", b.font(b.F_BLACK, int(190 * s)), b.YELLOW, w=16)
-        b.text_outline(dd, (800, 540), "PERGUNTA", b.font(b.F_BLACK, int(200 * s)), b.WHITE, w=18)
-        b.text_outline(dd, (800, 740), "A MAIS DIFÍCIL!", b.font(b.F_BLACK, 80), b.WHITE, w=8)
+        b.text_outline(dd, (800, 330), eg.TXT["ultima"][0], b.font(b.F_BLACK, int(190 * s)), b.YELLOW, w=16)
+        b.text_outline(dd, (800, 540), eg.TXT["ultima"][1], b.font(b.F_BLACK, int(200 * s)), b.WHITE, w=18)
+        b.text_outline(dd, (800, 740), eg.TXT["ultima"][2], b.font(b.F_BLACK, 80), b.WHITE, w=8)
         b.selo(img, 800, 920, 1.0)
         b.put_palito(img, "assustado", 620, 1620, 1060 + int((1 - min(1, t / 0.4)) * 600), int(6 * math.sin(t * 30)))
         yield img.convert("RGB")
@@ -175,8 +175,8 @@ def curtir_frames(d, t_clique):
         img = nd.burst((255, 70, 70), (170, 20, 40), t * 8).convert("RGBA")
         dd = ImageDraw.Draw(img)
         s = max(0.1, eg.pula(t / 0.4))
-        b.text_outline(dd, (760, 140), "SE INSCREVA", b.font(b.F_BLACK, int(130 * s)), b.WHITE, w=13)
-        b.text_outline(dd, (760, 270), "E DEIXE SEU LIKE!", b.font(b.F_BLACK, int(80 * s)), b.YELLOW, w=9)
+        b.text_outline(dd, (760, 140), eg.TXT["curtir"][0], b.font(b.F_BLACK, int(130 * s)), b.WHITE, w=13)
+        b.text_outline(dd, (760, 270), eg.TXT["curtir"][1], b.font(b.F_BLACK, int(80 * s)), b.YELLOW, w=9)
         aperta = t >= t_clique
         k = 1.0 + (0.22 * math.sin(min(1, (t - t_clique) / 0.35) * math.pi) if aperta else 0.04 * math.sin(t * 6))
         # botão INSCREVA-SE (vira INSCRITO cinza no clique)
@@ -187,7 +187,7 @@ def curtir_frames(d, t_clique):
             cor = (90, 90, 90) if aperta else b.RED
             dd.rounded_rectangle([cx - bw // 2, cy - bh // 2, cx + bw // 2, cy + bh // 2], int(40 * e1), fill=cor,
                                  outline=b.WHITE, width=8)
-            dd.text((cx, cy + 2), "INSCRITO ✓" if aperta else "INSCREVA-SE",
+            dd.text((cx, cy + 2), eg.TXT["curtir"][3] if aperta else eg.TXT["curtir"][2],
                     font=b.font(b.F_BLACK, max(8, int(66 * e1))), fill=b.WHITE, anchor="mm")
         op.colar(img, joia, 1060, 540, eg.pula((t - 0.4) / 0.4) * k)
         if aperta:
@@ -196,7 +196,7 @@ def curtir_frames(d, t_clique):
                 if 0 < tc < 1.6:
                     x = 1060 + 180 * math.sin(c * 2.1) + 30 * math.sin(tc * 6 + c)
                     op.colar(img, nd.emoji("\U0001F44D", 70), x, 420 - tc * 260, 1 - tc / 2)
-            b.text_outline(dd, (760, 860), "VAI LÁ, EU ESPERO!", b.font(b.F_BLACK, 90), b.YELLOW, w=10)
+            b.text_outline(dd, (760, 860), eg.TXT["curtir"][4], b.font(b.F_BLACK, 90), b.YELLOW, w=10)
         b.put_palito(img, "apontando", 600, 1640, 1060, int(6 * math.sin(t * 6)))
         yield img.convert("RGB")
 
@@ -208,14 +208,14 @@ def inscreva_frames(d):
         img = op.fundo(3, t).copy()
         dd = ImageDraw.Draw(img)
         s = max(0.1, eg.pula(t / 0.4))
-        b.text_outline(dd, (800, 260), "GOSTOU?", b.font(b.F_BLACK, int(150 * s)), b.YELLOW, w=14)
+        b.text_outline(dd, (800, 260), eg.TXT["fim"][0], b.font(b.F_BLACK, int(150 * s)), b.YELLOW, w=14)
         bate = 1 + 0.05 * math.sin(t * 6)
         w2, h2 = int(900 * s * bate), int(170 * s * bate)
         dd.rounded_rectangle([800 - w2 // 2, 520 - h2 // 2, 800 + w2 // 2, 520 + h2 // 2], 60, fill=b.RED,
                              outline=b.WHITE, width=9)
-        dd.text((800, 522), "INSCREVA-SE", font=b.font(b.F_BLACK, max(8, int(100 * s * bate))), fill=b.WHITE,
+        dd.text((800, 522), eg.TXT["fim"][1], font=b.font(b.F_BLACK, max(8, int(100 * s * bate))), fill=b.WHITE,
                 anchor="mm", stroke_width=4, stroke_fill=b.NAVY)
-        b.text_outline(dd, (800, 720), "NO CANAL", b.font(b.F_BLACK, 80), b.WHITE, w=8)
+        b.text_outline(dd, (800, 720), eg.TXT["fim"][2], b.font(b.F_BLACK, 80), b.WHITE, w=8)
         b.selo(img, 800, 880, 1.4)
         b.put_palito(img, "acenando", 600, 1640, 1060, int(6 * math.sin(t * 6)))
         yield img.convert("RGB")
