@@ -1,0 +1,902 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "QUE TRANSPORTE É ESSE?",
+  "cartao": [
+   "Há uns 200 anos..."
+  ],
+  "foto": "q1.png",
+  "opcoes": [
+   "Tropa de mulas",
+   "Carro de boi",
+   "Trem"
+  ],
+  "certa": 0,
+  "fala_q": "Há uns duzentos anos, era assim que as mercadorias viajavam pelo Brasil, por matas e caminhos difíceis. Que transporte é esse? Tropa de mulas, Carro de boi ou Trem?",
+  "fala_r": "Tropa de mulas! Era o transporte de mercadorias mais usado naquela época.",
+  "count": 8.0,
+  "img": "mula"
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "COMO SE CHAMAVAM?",
+  "cartao": [
+   "Os homens que",
+   "guiavam as",
+   "tropas de mulas"
+  ],
+  "foto": "q2.png",
+  "opcoes": [
+   "Bandeirantes",
+   "Maquinistas",
+   "Tropeiros"
+  ],
+  "certa": 2,
+  "fala_q": "Como se chamavam os homens que guiavam as tropas de mulas? Bandeirantes, Maquinistas ou Tropeiros?",
+  "fala_r": "Tropeiros! Eles viajavam de vila em vila.",
+  "count": 8.0,
+  "img": "tropeiro"
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "O QUE ELES LEVAVAM?",
+  "cartao": [
+   "Além das mercadorias,",
+   "os tropeiros",
+   "levavam..."
+  ],
+  "foto": "q3.png",
+  "opcoes": [
+   "Eletricidade",
+   "Notícias",
+   "Gasolina"
+  ],
+  "certa": 1,
+  "fala_q": "Além de vender mercadorias, o que mais os tropeiros levavam de uma vila para outra? Eletricidade, Notícias ou Gasolina?",
+  "fala_r": "Notícias! Sem internet, sem telefone, a notícia chegava no lombo da mula.",
+  "count": 8.0,
+  "img": "mula2"
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "QUE APELIDO ELA TINHA?",
+  "cartao": [
+   "Locomotiva a vapor"
+  ],
+  "foto": "q4.png",
+  "opcoes": [
+   "Maria-chuva",
+   "Zé-faísca",
+   "Maria-fumaça"
+  ],
+  "certa": 2,
+  "fala_q": "A primeira locomotiva do Brasil era movida a vapor. Que apelido ela tinha? Maria-chuva, Zé-faísca ou Maria-fumaça?",
+  "fala_r": "Maria-fumaça! Por causa da nuvem de fumaça que ela soltava.",
+  "count": 8.0,
+  "img": "vapor"
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "QUEM VOOU NELE?",
+  "cartao": [
+   "14-Bis, 1906"
+  ],
+  "foto": "q5.png",
+  "opcoes": [
+   "Santos Dumont",
+   "Dom Pedro II",
+   "Tiradentes"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é o 14-Bis, em mil novecentos e seis. Quem voou nele? Santos Dumont, Dom Pedro II ou Tiradentes?",
+  "fala_r": "Santos Dumont! O brasileiro conhecido como pai da aviação.",
+  "count": 8.0,
+  "img": "14bis"
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "QUEM DEVE RESPEITAR?",
+  "cartao": [
+   "Quem deve respeitar",
+   "as leis de",
+   "trânsito?"
+  ],
+  "foto": "q6.png",
+  "opcoes": [
+   "Todos",
+   "Só os motoristas",
+   "Só os pedestres"
+  ],
+  "certa": 0,
+  "fala_q": "Quem deve respeitar as leis de trânsito? Todos, Só os motoristas ou Só os pedestres?",
+  "fala_r": "Todos! Motorista, ciclista e pedestre.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "QUE PROBLEMA É ESSE?",
+  "cartao": [
+   "Carros parados",
+   "na avenida"
+  ],
+  "foto": "q7.png",
+  "opcoes": [
+   "Congestionamento",
+   "Enchente",
+   "Poluição visual"
+  ],
+  "certa": 0,
+  "fala_q": "Carros e mais carros parados na avenida. Que problema é esse? Congestionamento, Enchente ou Poluição visual?",
+  "fala_r": "Congestionamento! Excesso de veículos faz as pessoas perderem muito tempo.",
+  "count": 8.0,
+  "img": "transito"
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "QUE BARCO É ESSE?",
+  "cartao": [
+   "Rio Negro, Manaus"
+  ],
+  "foto": "q8.png",
+  "opcoes": [
+   "Jangada",
+   "Submarino",
+   "Chalana"
+  ],
+  "certa": 2,
+  "fala_q": "No rio Negro, em Manaus, esse barco leva passageiros e carga. Que barco é esse? Jangada, Submarino ou Chalana?",
+  "fala_r": "Chalana! Muito usada nos rios da Amazônia.",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "O QUE É ISSO?",
+  "cartao": [
+   "Rio de Janeiro"
+  ],
+  "foto": "q9.png",
+  "opcoes": [
+   "Metrô",
+   "Bonde",
+   "Ônibus"
+  ],
+  "certa": 1,
+  "fala_q": "Ele anda sobre trilhos pelas ruas do Rio de Janeiro. O que é isso? Metrô, Bonde ou Ônibus?",
+  "fala_r": "Bonde! Há uns setenta anos era o principal transporte público de muitas cidades.",
+  "count": 8.0,
+  "img": "bonde"
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "QUE TIPO DE TRANSPORTE?",
+  "cartao": [
+   "Navio, ônibus,",
+   "avião e trem",
+   "levam muita gente"
+  ],
+  "foto": "q10.png",
+  "opcoes": [
+   "Coletivo",
+   "Individual",
+   "Particular"
+  ],
+  "certa": 0,
+  "fala_q": "Navio, ônibus, avião e trem levam muita gente junta. Que tipo de transporte eles são? Coletivo, Individual ou Particular?",
+  "fala_r": "Coletivos! Transportam muitas pessoas de uma vez.",
+  "count": 8.0,
+  "img": "transatlantico"
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "QUANTO TEMPO DURAVA?",
+  "cartao": [
+   "Europa → Brasil",
+   "de navio,",
+   "antigamente"
+  ],
+  "foto": "q11.png",
+  "opcoes": [
+   "Horas",
+   "Meses",
+   "Minutos"
+  ],
+  "certa": 1,
+  "fala_q": "Antigamente, quanto tempo durava uma viagem de navio da Europa até o Brasil? Horas, Meses ou Minutos?",
+  "fala_r": "Meses! Hoje, de avião, leva só algumas horas.",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "QUE PESCA É ESSA?",
+  "cartao": [
+   "Pesca feita com o",
+   "trabalho das mãos",
+   "do ser humano"
+  ],
+  "foto": "q12.png",
+  "opcoes": [
+   "Industrial",
+   "Elétrica",
+   "Artesanal"
+  ],
+  "certa": 2,
+  "fala_q": "A pesca feita com o trabalho das mãos do ser humano, como nessa canoa, se chama pesca o quê? Industrial, Elétrica ou Artesanal?",
+  "fala_r": "Artesanal! Como a pesca de canoa na Reserva Mamirauá, no Amazonas.",
+  "count": 8.0,
+  "img": "pesca"
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "POR QUE POLUI MENOS?",
+  "cartao": [
+   "Ônibus elétrico"
+  ],
+  "foto": "q13.png",
+  "opcoes": [
+   "É mais rápido",
+   "É mais bonito",
+   "Não solta gases"
+  ],
+  "certa": 2,
+  "fala_q": "Por que o ônibus elétrico polui menos o ar? É mais rápido, É mais bonito ou Não solta gases?",
+  "fala_r": "Porque não solta gases poluentes! Ele funciona com bateria.",
+  "count": 8.0,
+  "img": "trolebus"
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "ONDE SE RECARREGAM?",
+  "cartao": [
+   "Carros elétricos",
+   "funcionam com",
+   "baterias"
+  ],
+  "foto": "q14.png",
+  "opcoes": [
+   "Na chuva",
+   "Postos especiais",
+   "No posto de gasolina"
+  ],
+  "certa": 1,
+  "fala_q": "Carros e ônibus elétricos funcionam com baterias. Onde elas são recarregadas? Na chuva, Postos especiais ou No posto de gasolina?",
+  "fala_r": "Em postos especiais de recarga!",
+  "count": 8.0,
+  "img": "onibus-eletrico"
+ },
+ {
+  "n": 15,
+  "nivel": 3,
+  "pergunta": "EM QUE ANO?",
+  "cartao": [
+   "Primeira ferrovia",
+   "do Brasil:",
+   "30 de abril de..."
+  ],
+  "foto": "q15.png",
+  "opcoes": [
+   "1822",
+   "1889",
+   "1854"
+  ],
+  "certa": 2,
+  "fala_q": "Agora complica! A primeira ferrovia do Brasil foi inaugurada em trinta de abril de que ano? 1822, 1889 ou 1854?",
+  "fala_r": "Mil oitocentos e cinquenta e quatro! Na Estrada de Ferro Mauá, com a locomotiva Baroneza, essa da foto.",
+  "count": 8.0,
+  "img": "maua"
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "ATÉ ONDE ELA IA?",
+  "cartao": [
+   "Estrada de Ferro Mauá:",
+   "do Porto de Mauá",
+   "até..."
+  ],
+  "foto": "q16.png",
+  "opcoes": [
+   "Petrópolis",
+   "Fragoso",
+   "Santos"
+  ],
+  "certa": 1,
+  "fala_q": "A Estrada de Ferro Mauá ligava o Porto de Mauá até onde? Petrópolis, Fragoso ou Santos?",
+  "fala_r": "Até Fragoso, no Rio de Janeiro! O nome da companhia falava de Petrópolis, mas o primeiro trecho ia até Fragoso.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "QUANTOS QUILÔMETROS?",
+  "cartao": [
+   "Tamanho da",
+   "Estrada de",
+   "Ferro Mauá"
+  ],
+  "foto": "q17.png",
+  "opcoes": [
+   "145 km",
+   "1.450 km",
+   "14,5 km"
+  ],
+  "certa": 2,
+  "fala_q": "Quantos quilômetros tinha a Estrada de Ferro Mauá? 145 km, 1.450 km ou 14,5 km?",
+  "fala_r": "Catorze quilômetros e meio! Bem curtinha.",
+  "count": 8.0
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "QUANTOS ANOS DEPOIS?",
+  "cartao": [
+   "Locomotiva a vapor:",
+   "inventada em 1814,",
+   "chegou aqui em 1854"
+  ],
+  "foto": "q18.png",
+  "opcoes": [
+   "30 anos",
+   "40 anos",
+   "50 anos"
+  ],
+  "certa": 1,
+  "fala_q": "A locomotiva a vapor foi inventada em mil oitocentos e catorze e chegou ao Brasil em mil oitocentos e cinquenta e quatro. Quantos anos depois? 30 anos, 40 anos ou 50 anos?",
+  "fala_r": "Quarenta anos! Cinquenta e quatro menos catorze.",
+  "count": 10.0,
+  "fala_d": "Dica: é conta de menos!",
+  "dica_txt": "CONTA DE MENOS!"
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "QUAL A VELOCIDADE?",
+  "cartao": [
+   "Uma das primeiras",
+   "locomotivas a vapor"
+  ],
+  "foto": "q19.png",
+  "opcoes": [
+   "64 km/h",
+   "6,4 km/h",
+   "100 km/h"
+  ],
+  "certa": 1,
+  "fala_q": "A primeira locomotiva a vapor, de mil oitocentos e catorze, andava a quantos quilômetros por hora? 64 km/h, 6,4 km/h ou 100 km/h?",
+  "fala_r": "Seis vírgula quatro! Quase a velocidade de uma pessoa andando rápido.",
+  "count": 8.0,
+  "img": "vapor2",
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "QUAL A VELOCIDADE?",
+  "cartao": [
+   "Locomotiva",
+   "a diesel (1902)"
+  ],
+  "foto": "q20.png",
+  "opcoes": [
+   "100 km/h",
+   "13 km/h",
+   "400 km/h"
+  ],
+  "certa": 0,
+  "fala_q": "E a locomotiva a diesel, que surgiu em mil novecentos e dois, chegava a quanto? 100 km/h, 13 km/h ou 400 km/h?",
+  "fala_r": "Cem quilômetros por hora! E aos poucos substituiu as outras.",
+  "count": 8.0,
+  "img": "diesel"
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "COMO ESSE TREM ANDA?",
+  "cartao": [
+   "Trem de levitação",
+   "magnética (Maglev)"
+  ],
+  "foto": "q21.png",
+  "opcoes": [
+   "Com vapor",
+   "Flutua nos trilhos",
+   "Puxado por cavalos"
+  ],
+  "certa": 1,
+  "fala_q": "Esse é o Maglev, o trem de levitação magnética. Como ele anda? Com vapor, Flutua nos trilhos ou Puxado por cavalos?",
+  "fala_r": "Flutua sobre os trilhos! E passa de quatrocentos quilômetros por hora.",
+  "count": 8.0,
+  "img": "maglev"
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "QUAL É ESSE TREM?",
+  "cartao": [
+   "Trem de grande",
+   "velocidade, sem",
+   "locomotiva"
+  ],
+  "foto": "q22.png",
+  "opcoes": [
+   "Maria-fumaça",
+   "Bonde",
+   "TGV"
+  ],
+  "certa": 2,
+  "fala_q": "Trem de grande velocidade, elétrico e sem locomotiva, que chega a trezentos e vinte quilômetros por hora. Qual é? Maria-fumaça, Bonde ou TGV?",
+  "fala_r": "TGV! O primeiro modelo começou a funcionar em mil novecentos e setenta e dois.",
+  "count": 8.0,
+  "img": "tgv"
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "DE ONDE ELE ERA?",
+  "cartao": [
+   "Gravura de",
+   "Jean-Baptiste Debret"
+  ],
+  "foto": "q23.png",
+  "opcoes": [
+   "França",
+   "Portugal",
+   "Brasil"
+  ],
+  "certa": 0,
+  "fala_q": "O pintor Jean-Baptiste Debret desenhou muito o Brasil antigo. De que país ele era? França, Portugal ou Brasil?",
+  "fala_r": "Da França! Ele veio com a Missão Artística Francesa.",
+  "count": 8.0,
+  "img": "debret"
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "QUEM CARREGAVA?",
+  "cartao": [
+   "Cadeira de arruar"
+  ],
+  "foto": "q24.png",
+  "opcoes": [
+   "Cavalos",
+   "Bois",
+   "Pessoas escravizadas"
+  ],
+  "certa": 2,
+  "fala_q": "Nas cidades antigas, a elite andava em cadeiras de arruar. Quem carregava essas cadeiras? Cavalos, Bois ou Pessoas escravizadas?",
+  "fala_r": "Pessoas escravizadas! Esse transporte era só para poucos.",
+  "count": 8.0,
+  "img": "liteira"
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "E A MAIORIA?",
+  "cartao": [
+   "Na época das tropas,",
+   "a maioria das",
+   "pessoas andava..."
+  ],
+  "foto": "q25.png",
+  "opcoes": [
+   "A pé",
+   "De cadeirinha",
+   "A cavalo"
+  ],
+  "certa": 0,
+  "fala_q": "E na época das tropas, como andava a maioria das pessoas? A pé, De cadeirinha ou A cavalo?",
+  "fala_r": "A pé! Cadeirinha era só para a elite.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "QUANTO É UM SÉCULO?",
+  "cartao": [
+   "Século é",
+   "um período de..."
+  ],
+  "foto": "q26.png",
+  "opcoes": [
+   "10 anos",
+   "100 anos",
+   "1.000 anos"
+  ],
+  "certa": 1,
+  "fala_q": "O livro diz que as tropas existiam há uns dois séculos. Mas quanto tempo é um século? 10 anos, 100 anos ou 1.000 anos?",
+  "fala_r": "Cem anos! Então dois séculos são duzentos anos.",
+  "count": 8.0
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "O MAIS USADO",
+  "cartao": [
+   "Cidades do Brasil",
+   "(Ipea, 2010):",
+   "o mais usado é..."
+  ],
+  "foto": "q27.png",
+  "opcoes": [
+   "Carro",
+   "Moto",
+   "Transporte público"
+  ],
+  "certa": 2,
+  "fala_q": "Num gráfico do Ipea, de dois mil e dez, qual é o transporte mais usado nas cidades brasileiras? Carro, Moto ou Transporte público?",
+  "fala_r": "Transporte público! Quarenta e quatro por cento.",
+  "count": 8.0,
+  "img": "brt"
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "QUANTAS PESSOAS?",
+  "cartao": [
+   "De cada 100",
+   "pessoas, quantas",
+   "vão de carro?"
+  ],
+  "foto": "q28.png",
+  "opcoes": [
+   "44",
+   "13",
+   "24"
+  ],
+  "certa": 2,
+  "fala_q": "No mesmo gráfico, de cada cem pessoas, quantas usam o carro? 44, 13 ou 24?",
+  "fala_r": "Vinte e quatro! Quarenta e quatro é o transporte público, e treze é a moto.",
+  "count": 8.0,
+  "sabia": "Ipea 2010: transporte público 44%, carro 24%, moto 13%, a pé 12% e bicicleta 7%."
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "O MENOS USADO",
+  "cartao": [
+   "Cidades do Brasil",
+   "(Ipea, 2010):",
+   "o MENOS usado é..."
+  ],
+  "foto": "q29.png",
+  "opcoes": [
+   "Bicicleta",
+   "A pé",
+   "Moto"
+  ],
+  "certa": 0,
+  "fala_q": "E qual é o meio de transporte menos usado nas cidades? Bicicleta, A pé ou Moto?",
+  "fala_r": "Bicicleta! Só sete por cento. Faltam ciclovias em muitas cidades.",
+  "count": 8.0,
+  "img": "bicicleta",
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 30,
+  "nivel": 4,
+  "pergunta": "QUANTOS ANOS?",
+  "cartao": [
+   "Bondes em",
+   "Belo Horizonte:",
+   "de 1902 a 1963"
+  ],
+  "foto": "q30.png",
+  "opcoes": [
+   "61 anos",
+   "51 anos",
+   "71 anos"
+  ],
+  "certa": 0,
+  "fala_q": "Agora a parte que reprova! Em Belo Horizonte, os bondes elétricos rodaram de mil novecentos e dois a mil novecentos e sessenta e três. Por quantos anos? 61 anos, 51 anos ou 71 anos?",
+  "fala_r": "Sessenta e um anos! Sessenta e três menos dois.",
+  "count": 12.0,
+  "fala_d": "Dica: faz 63 menos 2!",
+  "dica_txt": "63 − 2"
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "QUANTOS ANOS?",
+  "cartao": [
+   "Ônibus elétricos",
+   "em BH:",
+   "de 1953 a 1969"
+  ],
+  "foto": "q31.png",
+  "opcoes": [
+   "26 anos",
+   "6 anos",
+   "16 anos"
+  ],
+  "certa": 2,
+  "fala_q": "E os ônibus elétricos de Belo Horizonte: de mil novecentos e cinquenta e três a mil novecentos e sessenta e nove. Quantos anos? 26 anos, 6 anos ou 16 anos?",
+  "fala_r": "Dezesseis anos! Bem menos que os bondes.",
+  "count": 12.0
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "QUANTOS ANOS?",
+  "cartao": [
+   "Av. Presidente Vargas:",
+   "foto de 1958 e",
+   "foto de 2024"
+  ],
+  "foto": "q32.png",
+  "opcoes": [
+   "66 anos",
+   "56 anos",
+   "76 anos"
+  ],
+  "certa": 0,
+  "fala_q": "A avenida Presidente Vargas, no Rio, foi fotografada em mil novecentos e cinquenta e oito e em dois mil e vinte e quatro. Quantos anos se passaram? 66 anos, 56 anos ou 76 anos?",
+  "fala_r": "Sessenta e seis anos! E o número de carros aumentou muito.",
+  "count": 12.0,
+  "img": "vargas"
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "HÁ QUANTOS ANOS?",
+  "cartao": [
+   "O 14-Bis voou",
+   "em 1906. Hoje",
+   "estamos em 2026."
+  ],
+  "foto": "q33.png",
+  "opcoes": [
+   "120 anos",
+   "100 anos",
+   "110 anos"
+  ],
+  "certa": 0,
+  "fala_q": "O 14-Bis voou em mil novecentos e seis. Estamos em dois mil e vinte e seis. Há quantos anos foi esse voo? 120 anos, 100 anos ou 110 anos?",
+  "fala_r": "Cento e vinte anos!",
+  "count": 10.0
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "EM QUE CIDADE?",
+  "cartao": [
+   "Primeiro voo",
+   "do 14-Bis"
+  ],
+  "foto": "q34.png",
+  "opcoes": [
+   "Rio de Janeiro",
+   "Paris",
+   "São Paulo"
+  ],
+  "certa": 1,
+  "fala_q": "Santos Dumont era brasileiro. Mas em que cidade o 14-Bis fez seu voo famoso? Rio de Janeiro, Paris ou São Paulo?",
+  "fala_r": "Em Paris, na França! No dia vinte e três de outubro de mil novecentos e seis.",
+  "count": 8.0,
+  "img": "dumont",
+  "aviso": "TEM PEGADINHA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "O QUE É?",
+  "cartao": [
+   "Patrimônio",
+   "imaterial é..."
+  ],
+  "foto": "q35.png",
+  "opcoes": [
+   "Saberes e fazeres",
+   "Prédios antigos",
+   "Dinheiro guardado"
+  ],
+  "certa": 0,
+  "fala_q": "O que é patrimônio imaterial? Saberes e fazeres, Prédios antigos ou Dinheiro guardado?",
+  "fala_r": "Saberes e fazeres passados de geração em geração!",
+  "count": 8.0,
+  "sabia": "Patrimônio imaterial: o modo de construir um objeto, as danças, as festas e as receitas tradicionais."
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "QUAL É IMATERIAL?",
+  "cartao": [
+   "Qual destes é",
+   "patrimônio",
+   "imaterial?"
+  ],
+  "foto": "q36.png",
+  "opcoes": [
+   "O modo de fazer canoa",
+   "Uma ponte velha",
+   "Um navio"
+  ],
+  "certa": 0,
+  "fala_q": "Qual destes é patrimônio imaterial? O modo de fazer canoa, Uma ponte velha ou Um navio?",
+  "fala_r": "O modo de fazer a canoa caiçara! É um saber, não um objeto.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "QUANTOS TRONCOS?",
+  "cartao": [
+   "A canoa caiçara",
+   "é feita de..."
+  ],
+  "foto": "q37.png",
+  "opcoes": [
+   "Dois troncos",
+   "Um tronco só",
+   "Dez tábuas"
+  ],
+  "certa": 1,
+  "fala_q": "A canoa caiçara é feita de quantos troncos de árvore? Dois troncos, Um tronco só ou Dez tábuas?",
+  "fala_r": "Um tronco só! Esculpido inteirinho, de cedro ou guapuruvu.",
+  "count": 8.0,
+  "img": "canoa"
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "QUEM FAZ A CANOA?",
+  "cartao": [
+   "Quem esculpe",
+   "a canoa caiçara?"
+  ],
+  "foto": "q38.png",
+  "opcoes": [
+   "Maquinista",
+   "Mestre canoeiro",
+   "Tropeiro"
+  ],
+  "certa": 1,
+  "fala_q": "Quem esculpe a canoa caiçara e ensina a técnica aos mais jovens? Maquinista, Mestre canoeiro ou Tropeiro?",
+  "fala_r": "O mestre canoeiro!",
+  "count": 8.0
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "O QUE QUER DIZER?",
+  "cartao": [
+   "Na fala caiçara,",
+   "\"tirar uma canoa\"",
+   "significa..."
+  ],
+  "foto": "q39.png",
+  "opcoes": [
+   "Construir a canoa",
+   "Afundar a canoa",
+   "Pescar"
+  ],
+  "certa": 0,
+  "fala_q": "Na linguagem caiçara, o que significa tirar uma canoa? Construir a canoa, Afundar a canoa ou Pescar?",
+  "fala_r": "Construir a canoa! Tirar ela de dentro do tronco.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "ONDE ELA É USADA?",
+  "cartao": [
+   "Canoa caiçara",
+   "(Paraty, RJ)"
+  ],
+  "foto": "q40.png",
+  "opcoes": [
+   "Sertão nordestino",
+   "Litoral sudeste",
+   "Pampa gaúcho"
+  ],
+  "certa": 1,
+  "fala_q": "Em que região do Brasil a canoa caiçara é mais usada? Sertão nordestino, Litoral sudeste ou Pampa gaúcho?",
+  "fala_r": "No litoral sudeste! Na pesca, no esporte e no transporte de pessoas.",
+  "count": 8.0,
+  "img": "paraty"
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "QUAL A VELOCIDADE?",
+  "cartao": [
+   "Locomotiva",
+   "elétrica (1879)"
+  ],
+  "foto": "q41.png",
+  "opcoes": [
+   "130 km/h",
+   "1,3 km/h",
+   "13 km/h"
+  ],
+  "certa": 2,
+  "fala_q": "A locomotiva elétrica, lançada em mil oitocentos e setenta e nove, andava a quanto? 130 km/h, 1,3 km/h ou 13 km/h?",
+  "fala_r": "Treze quilômetros por hora! O dobro da maria-fumaça.",
+  "count": 8.0,
+  "img": "eletrica"
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "POR QUE TROCARAM?",
+  "cartao": [
+   "Por volta de 1950,",
+   "os ônibus",
+   "substituíram os bondes"
+  ],
+  "foto": "q42.png",
+  "opcoes": [
+   "Eram mais antigos",
+   "Não precisam de trilhos",
+   "Andavam na água"
+  ],
+  "certa": 1,
+  "fala_q": "Por volta de mil novecentos e cinquenta, os ônibus começaram a substituir os bondes. Por quê? Eram mais antigos, Não precisam de trilhos ou Andavam na água?",
+  "fala_r": "Porque não precisam de trilhos! Podem ir por qualquer rua.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "QUEM FALTA?",
+  "cartao": [
+   "Nossas embarcações:",
+   "indígenas,",
+   "africanos e..."
+  ],
+  "foto": "q43.png",
+  "opcoes": [
+   "Japoneses",
+   "Europeus",
+   "Australianos"
+  ],
+  "certa": 1,
+  "fala_q": "A variedade de embarcações do Brasil vem da influência de indígenas, africanos e de quem mais? Japoneses, Europeus ou Australianos?",
+  "fala_r": "Europeus! Os povos que formaram o Brasil.",
+  "count": 8.0,
+  "img": "jangada"
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "QUANTO MAIS RÁPIDO?",
+  "cartao": [
+   "TGV: 320 km/h",
+   "Diesel: 100 km/h",
+   "Diferença?"
+  ],
+  "foto": "q44.png",
+  "opcoes": [
+   "120 km/h",
+   "420 km/h",
+   "220 km/h"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo a nota da prova! O TGV chega a trezentos e vinte quilômetros por hora. A locomotiva a diesel, a cem. Quantos quilômetros por hora o TGV anda a mais? 120 km/h, 420 km/h ou 220 km/h?",
+  "fala_r": "Duzentos e vinte! Trezentos e vinte menos cem. Se acertou essa, tirou dez em história!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]
