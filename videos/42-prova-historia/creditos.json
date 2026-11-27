@@ -1,0 +1,197 @@
+{
+ "paubrasil": {
+  "file": "PAUBRASILjbsp.jpg",
+  "crop": null,
+  "arquivo": "paubrasil.jpg",
+  "autor": "Mauroguanandi",
+  "lic": "Public domain"
+ },
+ "estacio": {
+  "file": "Fundação_do_Rio_de_Janeiro.JPG",
+  "crop": [
+   0.45,
+   0.5,
+   1.0
+  ],
+  "arquivo": "estacio.jpg",
+  "autor": "Junius",
+  "lic": "CC BY-SA 3.0"
+ },
+ "santacruz": {
+  "file": "Fortaleza_de_Santa_Cruz_vista_do_Forte_do_Pico.jpg",
+  "crop": null,
+  "arquivo": "santacruz.jpg",
+  "autor": "Halley Pacheco de Oliveira",
+  "lic": "CC BY-SA 3.0"
+ },
+ "canhoes": {
+  "file": "Forte_orange.jpg",
+  "crop": null,
+  "arquivo": "canhoes.jpg",
+  "autor": "natália",
+  "lic": "CC BY 2.0"
+ },
+ "nassau": {
+  "file": "Portrait_of_Johan_Maurits_(1604-1679),_Count_of_Nassau-Siegen.jpg",
+  "crop": [
+   0.5,
+   0.35,
+   0.75
+  ],
+  "arquivo": "nassau.jpg",
+  "autor": "Jan de Baen (1633–1702)",
+  "lic": "Public domain"
+ },
+ "guanabara": {
+  "file": "Baía_de_Guanabara_vista_do_Pão_de_Açúcar_2020.jpg",
+  "crop": null,
+  "arquivo": "guanabara.jpg",
+  "autor": "Yeuxpapilon",
+  "lic": "CC BY-SA 4.0"
+ },
+ "saoluis": {
+  "file": "Centro_histórico_São_Luís.jpg",
+  "crop": null,
+  "arquivo": "saoluis.jpg",
+  "autor": "Alan Rodrigues",
+  "lic": "CC BY-SA 4.0"
+ },
+ "pirata": {
+  "file": "A_French_Ship_and_Barbary_Pirates_(c_1615)_by_Aert_Anthoniszoon.jpg",
+  "crop": null,
+  "arquivo": "pirata.jpg",
+  "autor": "Aert Anthoniszoon (1579–1620)",
+  "lic": "Public domain"
+ },
+ "cana": {
+  "file": "Cut_sugarcane.jpg",
+  "crop": null,
+  "arquivo": "cana.jpg",
+  "autor": "ruurmo",
+  "lic": "CC BY-SA 2.0"
+ },
+ "olinda": {
+  "file": "Olinda_e_Recife.jpg",
+  "crop": null,
+  "arquivo": "olinda.jpg",
+  "autor": "Portal da Copa/ME",
+  "lic": "CC BY 3.0 br"
+ },
+ "rio": {
+  "file": "Cidade_Maravilhosa.jpg",
+  "crop": null,
+  "arquivo": "rio.jpg",
+  "autor": "Rafael Rabello de Barros",
+  "lic": "CC BY-SA 3.0"
+ },
+ "cavendish": {
+  "file": "Thomas_Cavendish.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   0.95
+  ],
+  "arquivo": "cavendish.jpg",
+  "autor": "Willem and Magdalena van de Passe; original uploader was The",
+  "lic": "Public domain"
+ },
+ "villegagnon": {
+  "file": "Escola_Naval.jpeg",
+  "crop": null,
+  "arquivo": "villegagnon.jpg",
+  "autor": "Brazillian Navy",
+  "lic": "Attribution"
+ },
+ "tupinamba": {
+  "file": "Brazilian_ball_for_Henry_II_in_Rouen_October_1_1550.jpg",
+  "crop": null,
+  "arquivo": "tupinamba.jpg",
+  "autor": "Anonymous French painter",
+  "lic": "Public domain"
+ },
+ "paoacucar": {
+  "file": "Pão_de_Açucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg",
+  "crop": null,
+  "arquivo": "paoacucar.jpg",
+  "autor": "© Arne Müseler Arne Müseler",
+  "lic": "CC BY-SA 3.0 de"
+ },
+ "dutchbrazil": {
+  "file": "Atlas_Van_der_Hagen-KW1049B13_095-PRAEFECTURAE_PARANAMBUCAE_PARS_BOREALIS,_una_cum_PRAEFECTURA_de_ITAMARACA.jpeg",
+  "crop": null,
+  "arquivo": "dutchbrazil.jpg",
+  "autor": "Cornelis Golijath (1617–)",
+  "lic": "Public domain"
+ },
+ "nassau2": {
+  "file": "Johanmaurits.JPG",
+  "crop": [
+   0.5,
+   0.4,
+   0.9
+  ],
+  "arquivo": "nassau2.jpg",
+  "autor": "autor no Wikimedia Commons",
+  "lic": "Public domain"
+ },
+ "mauricia": {
+  "file": "View_of_Vrijburg_Castle_near_Mauritsstad_from_the_East.jpg",
+  "crop": null,
+  "arquivo": "mauricia.jpg",
+  "autor": "Jan Brosterhuisen",
+  "lic": "Public domain"
+ },
+ "eckhout": {
+  "file": "Albert_Eckhout_-_Mameluca.JPG",
+  "crop": [
+   0.5,
+   0.35,
+   0.8
+  ],
+  "arquivo": "eckhout.jpg",
+  "autor": "Albert Eckhout (circa 1610date QS:P,+1610–00–00T00:00:00Z/9,",
+  "lic": "Public domain"
+ },
+ "guararapes": {
+  "file": "Batalha_dos_Guararapes_(ex-voto).jpg",
+  "crop": null,
+  "arquivo": "guararapes.jpg",
+  "autor": "Unknown (lifespan c. 1730 - c. 1790)",
+  "lic": "Public domain"
+ },
+ "salvador": {
+  "file": "Centro_Histórico_Salvador_Vista_Aérea_2021-0933.jpg",
+  "crop": null,
+  "arquivo": "salvador.jpg",
+  "autor": "Paul R. Burley",
+  "lic": "CC BY-SA 4.0"
+ },
+ "orange": {
+  "file": "Forte_Orange_-_Ilha_de_Itamaracá,_Pernambuco,_Brasil.jpg",
+  "crop": null,
+  "arquivo": "orange.jpg",
+  "autor": "Zé Carlos Barretta",
+  "lic": "CC BY 2.0"
+ },
+ "mauritshuis": {
+  "file": "Bartholomeus_Johannes_van_Hove,_Het_Mauritshuis_te_Den_Haag.jpg",
+  "crop": null,
+  "arquivo": "mauritshuis.jpg",
+  "autor": "Bartholomeus van Hove (1790–1880)",
+  "lic": "Public domain"
+ },
+ "reismagos": {
+  "file": "Ney_Douglas_Forte_dos_Reis_Magos_Natal_RN_(40970470971).jpg",
+  "crop": null,
+  "arquivo": "reismagos.jpg",
+  "autor": "MTur Destinos",
+  "lic": "Public domain"
+ },
+ "franspost": {
+  "file": "Frans_Post_-_Paisagem_Pernambucana_com_Rio.jpg",
+  "crop": null,
+  "arquivo": "franspost.jpg",
+  "autor": "Frans Post (1612–1680)",
+  "lic": "Public domain"
+ }
+}

@@ -1,0 +1,756 @@
+[
+ {
+  "n": 1,
+  "nivel": 1,
+  "pergunta": "QUAL ERA A RIQUEZA?",
+  "foto": "q1.png",
+  "opcoes": [
+   "Pau-brasil",
+   "Ouro",
+   "Café"
+  ],
+  "certa": 0,
+  "fala_q": "Primeira questão: naquela época, qual era a principal riqueza do território do Brasil? Pau-brasil, Ouro ou Café?",
+  "fala_r": "Pau-brasil! Portugueses e franceses queriam vender a madeira dessa árvore.",
+  "count": 8.0,
+  "img": "paubrasil"
+ },
+ {
+  "n": 2,
+  "nivel": 1,
+  "pergunta": "QUEM FUNDOU O RIO?",
+  "foto": "q2.png",
+  "opcoes": [
+   "Estácio de Sá",
+   "Pedro Álvares Cabral",
+   "Maurício de Nassau"
+  ],
+  "certa": 0,
+  "fala_q": "Esse militar português fundou a cidade do Rio de Janeiro. Quem é ele? Estácio de Sá, Pedro Álvares Cabral ou Maurício de Nassau?",
+  "fala_r": "Estácio de Sá! Ele fundou São Sebastião do Rio de Janeiro em 1565.",
+  "count": 8.0,
+  "img": "estacio"
+ },
+ {
+  "n": 3,
+  "nivel": 1,
+  "pergunta": "PARA QUE SERVIAM?",
+  "foto": "q3.png",
+  "opcoes": [
+   "Defender as cidades",
+   "Guardar comida",
+   "Ser escola"
+  ],
+  "certa": 0,
+  "fala_q": "Fortes e fortalezas cheios de canhões. Para que eles serviam? Defender as cidades, Guardar comida ou Ser escola?",
+  "fala_r": "Para defender as vilas e cidades do litoral dos ataques!",
+  "count": 8.0,
+  "img": "santacruz"
+ },
+ {
+  "n": 4,
+  "nivel": 1,
+  "pergunta": "ONDE FICAVAM?",
+  "foto": "q4.png",
+  "opcoes": [
+   "No interior",
+   "No litoral",
+   "Nas montanhas"
+  ],
+  "certa": 1,
+  "fala_q": "Onde ficava a maioria dos fortes e fortalezas do Brasil? No interior, No litoral ou Nas montanhas?",
+  "fala_r": "No litoral! Era por ali, pelo mar, que os invasores chegavam.",
+  "count": 8.0,
+  "img": "canhoes"
+ },
+ {
+  "n": 5,
+  "nivel": 1,
+  "pergunta": "QUEM É ELE?",
+  "foto": "q5.png",
+  "opcoes": [
+   "Estácio de Sá",
+   "Thomas Cavendish",
+   "Maurício de Nassau"
+  ],
+  "certa": 2,
+  "fala_q": "Esse conde veio governar a colônia holandesa no Recife. Quem é ele? Estácio de Sá, Thomas Cavendish ou Maurício de Nassau?",
+  "fala_r": "Maurício de Nassau! Ele chegou ao Recife em 1637.",
+  "count": 8.0,
+  "img": "nassau"
+ },
+ {
+  "n": 6,
+  "nivel": 1,
+  "pergunta": "QUEM CHEGOU AQUI?",
+  "foto": "q6.png",
+  "opcoes": [
+   "Franceses",
+   "Holandeses",
+   "Ingleses"
+  ],
+  "certa": 0,
+  "fala_q": "Em 1555, quem chegou à baía de Guanabara, no Rio de Janeiro, e se fixou numa ilha? Franceses, Holandeses ou Ingleses?",
+  "fala_r": "Os franceses! Queriam criar uma colônia ali.",
+  "count": 8.0,
+  "img": "guanabara"
+ },
+ {
+  "n": 7,
+  "nivel": 1,
+  "pergunta": "QUEM FUNDOU SÃO LUÍS?",
+  "foto": "q7.png",
+  "opcoes": [
+   "Portugueses",
+   "Franceses",
+   "Holandeses"
+  ],
+  "certa": 1,
+  "fala_q": "A cidade de São Luís, capital do Maranhão, foi fundada por quem? Portugueses, Franceses ou Holandeses?",
+  "fala_r": "Pelos franceses! Depois os portugueses recuperaram a cidade.",
+  "count": 8.0,
+  "img": "saoluis",
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Os sobrados de azulejo de São Luís são marca dos portugueses, mas quem fundou foram os franceses, em 1612.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 8,
+  "nivel": 1,
+  "pergunta": "POR QUE ATACAVAM?",
+  "foto": "q8.png",
+  "opcoes": [
+   "Fazer amizade",
+   "Construir escolas",
+   "Roubar riquezas"
+  ],
+  "certa": 2,
+  "fala_q": "Navios piratas atacavam as vilas do litoral. Para quê? Fazer amizade, Construir escolas ou Roubar riquezas?",
+  "fala_r": "Para roubar riquezas: ouro, madeira e alimentos!",
+  "count": 8.0,
+  "img": "pirata"
+ },
+ {
+  "n": 9,
+  "nivel": 1,
+  "pergunta": "O QUE PERNAMBUCO TINHA?",
+  "foto": "q9.png",
+  "opcoes": [
+   "Açúcar",
+   "Café",
+   "Chocolate"
+  ],
+  "certa": 0,
+  "fala_q": "A capitania de Pernambuco tinha a maior produção do mundo de quê? Açúcar, Café ou Chocolate?",
+  "fala_r": "Açúcar! Por isso os holandeses quiseram invadir.",
+  "count": 8.0,
+  "img": "cana",
+  "fala_d": "Dica: vem da cana!",
+  "dica_txt": "VEM DA CANA!"
+ },
+ {
+  "n": 10,
+  "nivel": 1,
+  "pergunta": "QUANTAS VEZES?",
+  "foto": "q10.png",
+  "opcoes": [
+   "Duas",
+   "Uma",
+   "Cinco"
+  ],
+  "certa": 0,
+  "fala_q": "Quantas vezes os holandeses invadiram o Brasil? Uma, duas ou cinco?",
+  "fala_r": "Duas! Em 1624 e em 1630.",
+  "count": 8.0,
+  "cartao": [
+   "HOLANDESES",
+   "INVADIRAM",
+   "O BRASIL..."
+  ]
+ },
+ {
+  "n": 11,
+  "nivel": 1,
+  "pergunta": "QUE CIDADE PEGOU FOGO?",
+  "foto": "q11.png",
+  "opcoes": [
+   "Olinda",
+   "Salvador",
+   "São Luís"
+  ],
+  "certa": 0,
+  "fala_q": "Na conquista, os holandeses incendiaram uma cidade bem pertinho do Recife. Qual? Olinda, Salvador ou São Luís?",
+  "fala_r": "Olinda! E com isso o Recife cresceu e virou a capital de Pernambuco.",
+  "count": 8.0,
+  "img": "olinda"
+ },
+ {
+  "n": 12,
+  "nivel": 1,
+  "pergunta": "QUAL FOI A PRIMEIRA?",
+  "foto": "q12.png",
+  "opcoes": [
+   "São Paulo",
+   "Salvador",
+   "Recife"
+  ],
+  "certa": 1,
+  "fala_q": "O Rio de Janeiro foi a segunda cidade fundada no Brasil. Qual foi a primeira? São Paulo, Salvador ou Recife?",
+  "fala_r": "Salvador! A primeira capital do país.",
+  "count": 8.0,
+  "img": "rio"
+ },
+ {
+  "n": 13,
+  "nivel": 1,
+  "pergunta": "QUEM NÃO ACEITAVA?",
+  "foto": "q13.png",
+  "opcoes": [
+   "Dos espanhóis",
+   "Dos indígenas",
+   "Dos portugueses"
+  ],
+  "certa": 2,
+  "fala_q": "Holandeses e ingleses não aceitavam a posse do território do Brasil por quem? Dos espanhóis, Dos indígenas ou Dos portugueses?",
+  "fala_r": "Pelos portugueses! Eles também queriam as riquezas da América.",
+  "count": 8.0,
+  "cartao": [
+   "Holandeses e",
+   "ingleses não",
+   "aceitavam a posse..."
+  ]
+ },
+ {
+  "n": 14,
+  "nivel": 1,
+  "pergunta": "QUEM ERA ELE?",
+  "foto": "q14.png",
+  "opcoes": [
+   "Pirata inglês",
+   "Rei francês",
+   "Padre jesuíta"
+  ],
+  "certa": 0,
+  "fala_q": "Esse é Thomas Cavendish. Ele era o quê? Pirata inglês, Rei francês ou Padre jesuíta?",
+  "fala_r": "Um pirata inglês! Ele atacou a vila de Santos.",
+  "count": 8.0,
+  "img": "cavendish"
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q15.png",
+  "opcoes": [
+   "1500",
+   "1654",
+   "1555"
+  ],
+  "certa": 2,
+  "fala_q": "Nível difícil, valendo! Em que ano os franceses chegaram à baía de Guanabara? 1500, 1654 ou 1555?",
+  "fala_r": "Mil quinhentos e cinquenta e cinco!",
+  "count": 8.0,
+  "cartao": [
+   "FRANCESES NA",
+   "BAÍA DE",
+   "GUANABARA"
+  ]
+ },
+ {
+  "n": 16,
+  "nivel": 2,
+  "pergunta": "QUE ILHA É ESSA?",
+  "foto": "q16.png",
+  "opcoes": [
+   "Itamaracá",
+   "Villegagnon",
+   "Fernando de Noronha"
+  ],
+  "certa": 1,
+  "fala_q": "No Rio de Janeiro, os franceses se fixaram numa ilha. Como ela ficou conhecida? Itamaracá, Villegagnon ou Fernando de Noronha?",
+  "fala_r": "Ilha de Villegagnon! Lá eles fizeram um povoado e um forte.",
+  "count": 8.0,
+  "img": "villegagnon"
+ },
+ {
+  "n": 17,
+  "nivel": 2,
+  "pergunta": "QUE NOME TERIA?",
+  "foto": "q17.png",
+  "opcoes": [
+   "Nova Holanda",
+   "Vila Rica",
+   "França Antártica"
+  ],
+  "certa": 2,
+  "fala_q": "A colônia que os franceses queriam criar no Rio de Janeiro teria que nome? Nova Holanda, Vila Rica ou França Antártica?",
+  "fala_r": "França Antártica!",
+  "count": 8.0,
+  "cartao": [
+   "A colônia",
+   "francesa no Rio",
+   "se chamaria..."
+  ],
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 18,
+  "nivel": 2,
+  "pergunta": "QUAL FOI A ESTRATÉGIA?",
+  "foto": "q18.png",
+  "opcoes": [
+   "Pagar piratas",
+   "Fugir pro mar",
+   "Aliança com indígenas"
+  ],
+  "certa": 2,
+  "fala_q": "Que estratégia os portugueses usaram para expulsar os franceses do Rio de Janeiro? Pagar piratas, Fugir pro mar ou Aliança com indígenas?",
+  "fala_r": "Negociar e fazer alianças com os povos indígenas! Os Tupinambá e os Tupiniquim apoiavam os franceses.",
+  "count": 8.0,
+  "img": "tupinamba"
+ },
+ {
+  "n": 19,
+  "nivel": 2,
+  "pergunta": "ENTRE QUAIS MORROS?",
+  "foto": "q19.png",
+  "opcoes": [
+   "Pão de Açúcar",
+   "Corcovado",
+   "Morro do Chapéu"
+  ],
+  "certa": 0,
+  "fala_q": "O Rio foi fundado entre o morro Cara de Cão e qual outro morro famoso? Pão de Açúcar, Corcovado ou Morro do Chapéu?",
+  "fala_r": "Pão de Açúcar! Em primeiro de março de 1565.",
+  "count": 8.0,
+  "img": "paoacucar"
+ },
+ {
+  "n": 20,
+  "nivel": 2,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q20.png",
+  "opcoes": [
+   "1555",
+   "1630",
+   "1567"
+  ],
+  "certa": 2,
+  "fala_q": "Em que ano os portugueses expulsaram de vez os franceses do Rio de Janeiro? 1555, 1630 ou 1567?",
+  "fala_r": "Mil quinhentos e sessenta e sete! Pouco mais de dez anos depois que eles chegaram.",
+  "count": 8.0,
+  "cartao": [
+   "FRANCESES",
+   "EXPULSOS",
+   "DO RIO"
+  ],
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 21,
+  "nivel": 2,
+  "pergunta": "COMO ERA CONHECIDO?",
+  "foto": "q21.png",
+  "opcoes": [
+   "Rei do açúcar",
+   "Ladrão dos mares",
+   "Herói da vila"
+  ],
+  "certa": 1,
+  "fala_q": "Thomas Cavendish era conhecido como o quê? Rei do açúcar, Ladrão dos mares ou Herói da vila?",
+  "fala_r": "O franco ladrão dos mares!",
+  "count": 8.0,
+  "cartao": [
+   "Thomas",
+   "Cavendish",
+   "era o..."
+  ]
+ },
+ {
+  "n": 22,
+  "nivel": 2,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q22.png",
+  "opcoes": [
+   "1500",
+   "1591",
+   "1654"
+  ],
+  "certa": 1,
+  "fala_q": "Cavendish chegou à vila de Santos e prendeu todo mundo na missa de Natal. Em que ano? 1500, 1591 ou 1654?",
+  "fala_r": "Mil quinhentos e noventa e um! Ele saqueou a vila por dois meses.",
+  "count": 8.0,
+  "cartao": [
+   "Cavendish ataca",
+   "Santos na",
+   "missa de Natal"
+  ]
+ },
+ {
+  "n": 23,
+  "nivel": 2,
+  "pergunta": "QUANTO TEMPO?",
+  "foto": "q23.png",
+  "opcoes": [
+   "5 anos",
+   "100 anos",
+   "24 anos"
+  ],
+  "certa": 2,
+  "fala_q": "Os holandeses dominaram quase todo o Nordeste durante quanto tempo? 5 anos, 100 anos ou 24 anos?",
+  "fala_r": "Vinte e quatro anos!",
+  "count": 8.0,
+  "img": "dutchbrazil"
+ },
+ {
+  "n": 24,
+  "nivel": 2,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q24.png",
+  "opcoes": [
+   "1500",
+   "1637",
+   "1567"
+  ],
+  "certa": 1,
+  "fala_q": "Em que ano Maurício de Nassau chegou ao Recife? 1500, 1637 ou 1567?",
+  "fala_r": "Mil seiscentos e trinta e sete! Com uma comitiva de homens ilustres.",
+  "count": 8.0,
+  "img": "nassau2"
+ },
+ {
+  "n": 25,
+  "nivel": 2,
+  "pergunta": "QUE CIDADE ELE FUNDOU?",
+  "foto": "q25.png",
+  "opcoes": [
+   "Maurícia",
+   "Olinda",
+   "Holandinha"
+  ],
+  "certa": 0,
+  "fala_q": "A comitiva de Nassau fundou até uma cidade nova. Como ela se chamava? Maurícia, Olinda ou Holandinha?",
+  "fala_r": "Maurícia! O nome vem do próprio Maurício de Nassau.",
+  "count": 8.0,
+  "img": "mauricia",
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 26,
+  "nivel": 2,
+  "pergunta": "QUEM PINTOU?",
+  "foto": "q26.png",
+  "opcoes": [
+   "Estácio de Sá",
+   "Thomas Cavendish",
+   "Albert Eckhout"
+  ],
+  "certa": 2,
+  "fala_q": "Esse quadro foi pintado por um artista holandês da comitiva de Nassau. Quem? Estácio de Sá, Thomas Cavendish ou Albert Eckhout?",
+  "fala_r": "Albert Eckhout! Ele pintou pessoas, frutas e plantas do Brasil.",
+  "count": 8.0,
+  "img": "eckhout"
+ },
+ {
+  "n": 27,
+  "nivel": 2,
+  "pergunta": "FORTE OU FORTALEZA?",
+  "foto": "q27.png",
+  "opcoes": [
+   "Forte",
+   "Fortaleza",
+   "São iguais"
+  ],
+  "certa": 0,
+  "fala_q": "Qual é mais simples e tem menos poder de fogo: forte ou fortaleza?",
+  "fala_r": "Forte! A fortaleza é um conjunto de construções bem sólidas.",
+  "count": 8.0,
+  "cartao": [
+   "Mais simples",
+   "e com menos",
+   "poder de fogo"
+  ]
+ },
+ {
+  "n": 28,
+  "nivel": 2,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q28.png",
+  "opcoes": [
+   "1555",
+   "1612",
+   "1630"
+  ],
+  "certa": 1,
+  "fala_q": "Em que ano os franceses chegaram ao Maranhão e fundaram o forte de São Luís? 1555, 1612 ou 1630?",
+  "fala_r": "Mil seiscentos e doze!",
+  "count": 8.0,
+  "cartao": [
+   "FRANCESES",
+   "CHEGAM AO",
+   "MARANHÃO"
+  ]
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "O QUE NASSAU PROIBIU?",
+  "foto": "q29.png",
+  "opcoes": [
+   "Peixe",
+   "Bagaço de cana",
+   "Moedas"
+  ],
+  "certa": 1,
+  "fala_q": "Agora a parte que reprova! Nassau proibiu jogar lixo nas ruas. E proibiu jogar o quê nos rios? Peixe, Bagaço de cana ou Moedas?",
+  "fala_r": "Bagaço de cana! Os peixes dos rios eram o alimento da população pobre.",
+  "count": 8.0,
+  "cartao": [
+   "Jogar lixo nas",
+   "ruas e nos rios",
+   "jogar..."
+  ],
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q30.png",
+  "opcoes": [
+   "1644",
+   "1654",
+   "1624"
+  ],
+  "certa": 1,
+  "fala_q": "Em que ano os portugueses e seus aliados indígenas expulsaram os holandeses de vez? 1644, 1654 ou 1624?",
+  "fala_r": "Mil seiscentos e cinquenta e quatro! Fim do Brasil holandês.",
+  "count": 8.0,
+  "img": "guararapes",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 31,
+  "nivel": 3,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q31.png",
+  "opcoes": [
+   "1654",
+   "1644",
+   "1637"
+  ],
+  "certa": 1,
+  "fala_q": "E em que ano Nassau foi obrigado a voltar para a Europa? 1654, 1644 ou 1637?",
+  "fala_r": "Mil seiscentos e quarenta e quatro! Aí começaram as guerras contra os holandeses.",
+  "count": 8.0,
+  "cartao": [
+   "NASSAU VOLTA",
+   "PARA A",
+   "EUROPA"
+  ],
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 32,
+  "nivel": 3,
+  "pergunta": "ONDE FOI EM 1624?",
+  "foto": "q32.png",
+  "opcoes": [
+   "Recife",
+   "Rio de Janeiro",
+   "Salvador"
+  ],
+  "certa": 2,
+  "fala_q": "Na primeira invasão, em 1624, os holandeses ocuparam qual cidade por um ano? Recife, Rio de Janeiro ou Salvador?",
+  "fala_r": "Salvador! Só na segunda vez eles foram para Pernambuco.",
+  "count": 8.0,
+  "img": "salvador"
+ },
+ {
+  "n": 33,
+  "nivel": 3,
+  "pergunta": "EM QUE ANO?",
+  "foto": "q33.png",
+  "opcoes": [
+   "1615",
+   "1612",
+   "1567"
+  ],
+  "certa": 0,
+  "fala_q": "Os franceses foram expulsos do Maranhão por tropas portuguesas em que ano? 1615, 1612 ou 1567?",
+  "fala_r": "Mil seiscentos e quinze! Só três anos depois de chegarem.",
+  "count": 8.0,
+  "cartao": [
+   "FRANCESES",
+   "EXPULSOS DO",
+   "MARANHÃO"
+  ],
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 34,
+  "nivel": 3,
+  "pergunta": "QUE FORTE É ESSE?",
+  "foto": "q34.png",
+  "opcoes": [
+   "Reis Magos",
+   "Santa Cruz",
+   "Forte Orange"
+  ],
+  "certa": 2,
+  "fala_q": "Os holandeses construíram esse forte em 1631 na ilha de Itamaracá. Qual é o nome dele? Reis Magos, Santa Cruz ou Forte Orange?",
+  "fala_r": "Forte Orange! Hoje ele é patrimônio histórico.",
+  "count": 8.0,
+  "img": "orange"
+ },
+ {
+  "n": 35,
+  "nivel": 3,
+  "pergunta": "EM QUE CIDADE?",
+  "foto": "q35.png",
+  "opcoes": [
+   "Haia",
+   "Paris",
+   "Lisboa"
+  ],
+  "certa": 0,
+  "fala_q": "Nassau queria quadros do Brasil para decorar o palácio dele na Holanda. Em qual cidade? Haia, Paris ou Lisboa?",
+  "fala_r": "Haia! E esse palácio existe até hoje.",
+  "count": 8.0,
+  "img": "mauritshuis"
+ },
+ {
+  "n": 36,
+  "nivel": 3,
+  "pergunta": "QUANTOS MORAVAM?",
+  "foto": "q36.png",
+  "opcoes": [
+   "2 mil",
+   "20 mil",
+   "200"
+  ],
+  "certa": 2,
+  "fala_q": "Por volta de 1600, o povoado do Recife tinha cerca de quantos habitantes? 2 mil, 20 mil ou 200?",
+  "fala_r": "Só uns duzentos! Mas o porto já era o mais movimentado do Brasil.",
+  "count": 8.0,
+  "cartao": [
+   "O povoado",
+   "do Recife",
+   "por volta de 1600"
+  ],
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 37,
+  "nivel": 3,
+  "pergunta": "QUE FORTE É ESSE?",
+  "foto": "q37.png",
+  "opcoes": [
+   "Forte Orange",
+   "Reis Magos",
+   "Santa Cruz"
+  ],
+  "certa": 1,
+  "fala_q": "Esse forte em forma de estrela fica em Natal e começou a ser construído em 1598. Qual é? Forte Orange, Reis Magos ou Santa Cruz?",
+  "fala_r": "Forte dos Reis Magos!",
+  "count": 8.0,
+  "img": "reismagos"
+ },
+ {
+  "n": 38,
+  "nivel": 3,
+  "pergunta": "QUEM É ELE?",
+  "foto": "q38.png",
+  "opcoes": [
+   "Frans Post",
+   "Albert Eckhout",
+   "Estácio de Sá"
+  ],
+  "certa": 0,
+  "fala_q": "Esse pintor da comitiva de Nassau pintou paisagens do Nordeste, como O carro de bois. Quem é? Frans Post, Albert Eckhout ou Estácio de Sá?",
+  "fala_r": "Frans Post! Ele pintou o Recife e a cidade Maurícia.",
+  "count": 8.0,
+  "img": "franspost"
+ },
+ {
+  "n": 39,
+  "nivel": 3,
+  "pergunta": "TOLERÂNCIA DE QUÊ?",
+  "foto": "q39.png",
+  "opcoes": [
+   "Do açúcar",
+   "Dos piratas",
+   "Religiosa"
+  ],
+  "certa": 2,
+  "fala_q": "Nassau instituiu a tolerância o quê? Do açúcar, Dos piratas ou Religiosa?",
+  "fala_r": "Religiosa! Cada um podia seguir a sua religião.",
+  "count": 8.0,
+  "cartao": [
+   "Nassau instituiu",
+   "a tolerância..."
+  ]
+ },
+ {
+  "n": 40,
+  "nivel": 3,
+  "pergunta": "QUEM CONVIDOU NASSAU?",
+  "foto": "q40.png",
+  "opcoes": [
+   "Rei de Portugal",
+   "Estácio de Sá",
+   "Cia. das Índias"
+  ],
+  "certa": 2,
+  "fala_q": "Nassau veio governar o Recife a convite de quem? Rei de Portugal, Estácio de Sá ou Cia. das Índias?",
+  "fala_r": "Da Companhia Holandesa das Índias Ocidentais!",
+  "count": 8.0,
+  "cartao": [
+   "Nassau veio ao",
+   "Recife a",
+   "convite de..."
+  ]
+ },
+ {
+  "n": 41,
+  "nivel": 3,
+  "pergunta": "O QUE ELE FUNDOU?",
+  "foto": "q41.png",
+  "opcoes": [
+   "Observatório",
+   "Shopping",
+   "Estádio"
+  ],
+  "certa": 0,
+  "fala_q": "Nassau fundou um museu de história natural e um o quê? Observatório, Shopping ou Estádio?",
+  "fala_r": "Um observatório astronômico, para estudar as estrelas!",
+  "count": 8.0,
+  "cartao": [
+   "Um museu de",
+   "história natural",
+   "e um..."
+  ]
+ },
+ {
+  "n": 42,
+  "nivel": 3,
+  "pergunta": "QUAL VEIO PRIMEIRO?",
+  "foto": "q42.png",
+  "opcoes": [
+   "Holandeses no Recife",
+   "Franceses em São Luís",
+   "Franceses no Rio"
+  ],
+  "certa": 2,
+  "fala_q": "Valendo a nota da prova! Qual dessas invasões aconteceu primeiro? Holandeses no Recife, Franceses em São Luís ou Franceses no Rio?",
+  "fala_r": "Franceses no Rio, em 1555! São Luís foi em 1612 e Recife em 1630. Se acertou, tirou dez em história!",
+  "count": 10.0,
+  "cartao": [
+   "Linha do tempo:",
+   "qual invasão",
+   "foi a primeira?"
+  ],
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]

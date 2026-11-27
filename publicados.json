@@ -1321,6 +1321,33 @@
         "data": "2026-11-27",
         "origem": "github-actions"
       }
+    },
+    "videos/42-prova-historia": {
+      "youtube": {
+        "status": "publicado",
+        "id": "coK3jodkgU8",
+        "url": "https://youtu.be/coK3jodkgU8",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "eaa6eba37d0149163cd6559a7a77647efdecfebd0c9ce872937aae6c6f4c34bb"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/historia-1": {
+      "titulo": "PROVA DE HISTÓRIA DO 3º ANO! ⛵ Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "NPgi_73JATw",
+        "url": "https://youtu.be/NPgi_73JATw",
+        "data": "2026-11-19",
+        "origem": "github-actions",
+        "sha256": "d9f64d8d1360a8dc93dfd84dc090822043aab2fb3287d44e7e0802f10ed7566d"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
