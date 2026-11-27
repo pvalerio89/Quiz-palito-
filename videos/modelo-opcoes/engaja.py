@@ -18,14 +18,15 @@ import build as b
 _cache = {}
 
 # Vídeos de anotar/escolher: chamada no começo (Patrick, 2026-11-12). Sempre com as 3 ideias:
-# clicar no coração/like, abrir os comentários e ir anotando, enviar quando o vídeo acabar.
+# deixar o like, abrir os comentários e ir anotando, enviar quando o vídeo acabar.
+# 2026-11-19: Patrick não quer "coração"/"joinha" na fala; é "deixe seu like" (e "se inscreva no canal").
 CHAMADAS_ANOTAR = [
-    "Antes de começar: clica no coração e abre os comentários pra ir anotando. Assim que terminar o vídeo, é só enviar!",
-    "Já deixa o like, abre os comentários e vai anotando cada escolha. Quando o vídeo acabar, é só enviar!",
-    "Dica: clica no coração e abre os comentários agora. Vai anotando aí e, no final, é só mandar!",
-    "Clica no coração, abre os comentários e vai escrevendo suas escolhas. Terminou o vídeo? É só enviar!",
+    "Antes de começar: se inscreva no canal, deixe seu like e abre os comentários pra ir anotando. Terminou o vídeo, é só enviar!",
+    "Já deixa seu like, abre os comentários e vai anotando cada escolha. Quando o vídeo acabar, é só enviar!",
+    "Dica: deixe seu like e abre os comentários agora. Vai anotando aí e, no final, é só mandar!",
+    "Deixe seu like, abre os comentários e vai escrevendo suas escolhas. Terminou o vídeo? É só enviar!",
     "Primeiro, o like! Depois abre os comentários e vai anotando. No fim do vídeo, é só apertar enviar!",
-    "Abre os comentários e vai anotando junto comigo, e não esquece do coração! Acabou o vídeo, é só enviar!",
+    "Abre os comentários e vai anotando junto comigo, e não esquece de deixar seu like! Acabou o vídeo, é só enviar!",
 ]
 
 

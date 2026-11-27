@@ -15,8 +15,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 INTRO = "Bora, torcedor! Hoje é seleção de A a Z!"      # intro rapidinha (2 a 3 s), saudação variada
 Q1 = "Uma seleção pra cada letra do alfabeto, com uma pista em cada. E as últimas letras são quase impossíveis! "
-CURTIR = "Ô, antes da próxima letra... se você tá acertando tudo, deixa o like e o coraçãozinho!"
-ESPERO = "Eu espero!"
+CURTIR = "Ô, antes da próxima letra... se inscreva no canal e deixe seu like!"
+ESPERO = "Vai lá, eu espero!"
 PLACAR = {
     10: "Dez seleções! Quantas você acertou até agora?",
     20: "Vinte! Daqui pra frente vêm as letras que ninguém acerta!",
