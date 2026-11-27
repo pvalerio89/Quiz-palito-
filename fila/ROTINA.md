@@ -4,7 +4,13 @@ Roda sozinha 3 vezes por dia (4h43, 9h43 e 18h43) (tarefa agendada no claude.ai)
 (2026-11-06) publicar direto como público e apaga do YouTube se algo sair errado. Não pergunte, não espere.
 Responda tudo em português do Brasil. Siga o `CLAUDE.md` e a memória do projeto.
 
-São **2 envios por dia, em horários diferentes** (Patrick, 2026-11-17): o **vídeo longo às 18h00** e o **Short às 20h30**
+**POSTAR MENOS (Patrick, 2026-11-27):** agora sai **1 item DIA SIM, DIA NÃO** (longo 18h00 + Short 20h30), porque desde 20/11
+20 vídeos novos somaram só ~330 views (`estatisticas/analise-2026-11-27.md`). `INTERVALO_DIAS = 2` em `automacao/fila.py`.
+Com esse ritmo, **estoque de no máximo 2 prontos**; com 2 ou mais prontos, não produza nada nesta rodada.
+**Provas/material da escola do filho do Patrick: ACABOU.** Os últimos são os que já estavam em produção em 26/11
+(Science parte 2 em inglês e matemática do simulado). Não faça mais vídeo de escola, a não ser que o Patrick peça de novo.
+
+Antes eram **2 envios por dia, em horários diferentes** (Patrick, 2026-11-17): o **vídeo longo às 18h00** e o **Short às 20h30**
 de Brasília (pico do canal no Studio: 18h–21h todo dia). O workflow **Publicar do dia** agenda o 1º item `pronto`
 (longo no horário de `HORARIOS`, Short `SHORT_DEPOIS` mais tarde, em `automacao/fila.py`). Esta rotina só deixa itens prontos.
 (Antes, de 13/11 a 17/11, eram 3 longos + 3 Shorts por dia, e os vídeos novos pararam de ser distribuídos: ver "NOVO RITMO".)
@@ -65,7 +71,7 @@ copiar" (https://claude.ai/artifact/HpiLhDUBrcT8wjDEp8iUGJ). Regras:
 3. **Erros:** se algum item está `erro`, abra o último "Publicar do dia" (GitHub Actions) e conserte a causa.
    Se consertou, volte o item para `pronto` (o envio pula o que já foi publicado). Se não der, deixe `erro`
    com a explicação em `obs` e siga para o próximo.
-4. **Estoque:** se já há 4 ou mais itens `pronto` (4 dias), pare aqui (só grave os passos 2 e 3).
+4. **Estoque:** se já há 2 ou mais itens `pronto` (4 dias, dia sim dia não), pare aqui (só grave os passos 2 e 3).
 5. **Repetido ou parecido:** antes de produzir, compare o item com tudo que já existe (`publicados.json`,
    pastas em `videos/` e `shorts/`, e os outros itens da fila). Se o tema/formato for **igual ou parecido**
    (ex.: outro "adivinhe a bandeira", mesmo assunto com outro nome), **não produza**: marque `status` = `parecido`,
