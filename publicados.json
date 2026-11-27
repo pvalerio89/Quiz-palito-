@@ -1303,6 +1303,21 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/nao-diga-2": {
+      "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem só 3 vidas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "9cvSiKLucDs",
+        "url": "https://youtu.be/9cvSiKLucDs",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "09a31c7743e018b971f0bf0f73cbb46da9310c10426a02fe6d9fcf12477d5311",
+        "no_ar_em": "2026-11-27T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
