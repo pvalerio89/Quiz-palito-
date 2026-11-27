@@ -610,6 +610,21 @@
       }
     },
     {
+      "id": "2026-11-25-ciencias-3ano-terra",
+      "referencia": "",
+      "tema": "Prova de Ciências do 3º ano: Unidade 2 Nosso planeta, a Terra (folha de reforço + simulado do Patrick)",
+      "status": "publicado",
+      "obs": "Longo + Short. Patrick mandou 2 PDFs (folha de reforço e simulado trimestral de Ciências do 3º ano, Unidade 2, cap. 4-6, prova em 26/11) e pediu 'faz um quiz' (2026-11-25). 44 questões em 3 níveis (médio, difícil, muito difícil), ~16,5 min: geoide, cores da Terra, globo/planisfério, Sputnik/Gagarin/Apollo 11, satélites (GPS, Amazônia 1, mosaico da África), estrelas x planetas, cintilar, estrela-d'alva, meteoro/meteorito, desanas e plêiades, relógio biológico, diurnos x noturnos (leão = pegadinha), sono e telas. 32 fotos Wikimedia (créditos na tela final), splash, inscreva+like depois da 3ª. Short ciencias-1 (4 perguntas, 49 s, DUVIDO VOCÊ ACERTAR TODAS!).",
+      "video": "videos/56-prova-ciencias",
+      "short": "shorts/ciencias-1",
+      "titulo": "PROVA DE CIÊNCIAS DO 3º ANO 🌎 44 Questões sobre a Terra e o Céu, do Médio ao Difícil! | Quiz Palito",
+      "publicado_em": "2026-11-25",
+      "links": {
+        "video": "https://youtu.be/LEqP4UpqAvs",
+        "short": "https://youtu.be/eZGZ1gpb8QM"
+      }
+    },
+    {
       "id": "2026-11-15-jogadores-a-z-parte-2",
       "referencia": "https://youtu.be/T2r5EybNMjo",
       "tema": "Duvido você acertar jogadores de A a Z! PARTE 2 (NaTraveQuiz)",
@@ -627,6 +642,21 @@
       }
     },
     {
+      "id": "2026-11-26-science-agua-camelo",
+      "referencia": "",
+      "tema": "Prova de Science do 3º ano: alimentação, água direta x virtual e o camelo (Science Review Activity do Patrick)",
+      "status": "publicado",
+      "obs": "Longo + Short. Patrick mandou 6 fotos da Science Review Activity do 3º ano, 3º trimestre (2026-11-26) e pediu quiz com tudo que tem lá, sem inventar. 39 questões em 3 níveis (~14,4 min): texto do Tommy (healthy foods, candy and soda), água direta x virtual, litros por alimento (maçã 70, batata 25, carne 15.000/kg, tomate 50, banana 160), desperdício de água, adaptações do camelo, V/F e completar frases. 26 fotos Wikimedia, splash, inscreva+like depois da 3ª. Short science-1 (4 perguntas, SEU PAI ACERTA ESSAS?). Publicar JÁ pela branch.",
+      "video": "videos/58-science-agua-camelo",
+      "short": "shorts/science-1",
+      "titulo": "PROVA DE SCIENCE DO 3º ANO 💧🐪 39 Questões sobre Alimentação, Água e o Camelo! | Quiz Palito",
+      "links": {
+        "video": "https://youtu.be/VMMwVaVdkFE",
+        "short": "https://youtu.be/NhlwIjRWYbs"
+      },
+      "publicado_em": "2026-11-27"
+    },
+    {
       "id": "2026-11-20-nao-diga-2",
       "referencia": "",
       "tema": "NÃO DIGA O MESMO QUE O PALITO parte 2 (Short +9 insc, 55% retido)",
@@ -642,6 +672,21 @@
       "publicado_em": "2026-11-27",
       "no_ar_em": "2026-11-27T21:00:00Z",
       "no_ar_brasilia": "27/11 18h00"
+    },
+    {
+      "id": "2026-11-27-science-review-english",
+      "referencia": "",
+      "tema": "Science Review 3rd grade, EM INGLÊS: fotos da Science Review Activity + 2 PDFs (Review Sheet e Practice Test)",
+      "status": "publicado",
+      "obs": "Longo + Short, tudo em inglês (Patrick 2026-11-26: 'era pra seguir em inglês'; juntar fotos + PDFs num vídeo só). 49 questões em 3 níveis (medium/hard/very hard): Tommy e healthy x unhealthy, Direct x Virtual Use, 3 atividades que mais gastam água, litros por alimento (PDF: tomate 13, batata 25, pão 40, maçã 70, ovo 135, leite 200, hambúrguer 2400; folha: banana 160, carne 15.000/kg), adaptação e adaptações do camelo. Voz en-US-AndrewMultilingualNeural, telas em inglês (eg.TXT). Short science-2 (4 q, CAN YOU PASS THE TEST?). O vídeo 58 em português fica no ar (Patrick muda o título depois). Publicar JÁ pela branch.",
+      "video": "videos/59-science-2",
+      "short": "shorts/science-2",
+      "titulo": "SCIENCE REVIEW 3RD GRADE 🐪🍔 49 Questions in English: Water, Food and the Camel! | Quiz Palito",
+      "publicado_em": "2026-11-27",
+      "links": {
+        "video": "https://youtu.be/6GvZ7QHLkec",
+        "short": "https://youtu.be/xceT1TLYFz8"
+      }
     },
     {
       "id": "2026-11-15-alfabeto-times-parte-2",

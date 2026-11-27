@@ -1289,6 +1289,66 @@
         "origem": "github-actions"
       }
     },
+    "videos/56-prova-ciencias": {
+      "youtube": {
+        "status": "publicado",
+        "id": "LEqP4UpqAvs",
+        "url": "https://youtu.be/LEqP4UpqAvs",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "c59d471da13771a3c94cb715abeea4bb364cc65526f6767632b52a5c4ed4b906"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/ciencias-1": {
+      "titulo": "PROVA DE CIÊNCIAS DO 3º ANO 🌎 Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "eZGZ1gpb8QM",
+        "url": "https://youtu.be/eZGZ1gpb8QM",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "af72909d31ef4310bd208311f1dbecbafc3e7c8675daa5f40cbcbf05302b11f8"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7712168352587794453",
+        "data": "2026-11-25",
+        "origem": "github-actions"
+      }
+    },
+    "videos/58-science-agua-camelo": {
+      "youtube": {
+        "status": "publicado",
+        "id": "VMMwVaVdkFE",
+        "url": "https://youtu.be/VMMwVaVdkFE",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "754a8d792f3032b71a0514571c7990a66e1fa2805c63d17e538cb4f595df6d72"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/science-1": {
+      "titulo": "PROVA DE SCIENCE DO 3º ANO 🐪 Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "NhlwIjRWYbs",
+        "url": "https://youtu.be/NhlwIjRWYbs",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "c2e363b00df0bc3d358efe3c1c607bd224c300ce73f3e137886b85a578f055f3"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7712669618095294472",
+        "data": "2026-11-27",
+        "origem": "github-actions"
+      }
+    },
     "videos/53-nao-diga-2": {
       "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem 8 vidas: com quantas termina? | Quiz Palito",
       "youtube": {
@@ -1318,6 +1378,36 @@
       "tiktok": {
         "status": "rascunho",
         "id": "v_inbox_file~v2.7712670290040145938",
+        "data": "2026-11-27",
+        "origem": "github-actions"
+      }
+    },
+    "videos/59-science-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "6GvZ7QHLkec",
+        "url": "https://youtu.be/6GvZ7QHLkec",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "d3e2c1ae719471b68143a901cbaed5bedebc1bdf6e78787ff0475296b5492f8f"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/science-2": {
+      "titulo": "SCIENCE REVIEW 3RD GRADE 🐪 Can you pass the test? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "xceT1TLYFz8",
+        "url": "https://youtu.be/xceT1TLYFz8",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "498d2ae36d38880dc8ad557e5e1a5ef7f0b99cb89a2cd2c66325f525046a7446"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7712699986722670610",
         "data": "2026-11-27",
         "origem": "github-actions"
       }

@@ -1,0 +1,219 @@
+{
+ "terra": {
+  "file": "The_Blue_Marble,_AS17-148-22727.jpg",
+  "crop": null,
+  "arquivo": "terra.jpg",
+  "autor": "Harrison Schmitt / Apollo 17",
+  "lic": "Public domain"
+ },
+ "terra2": {
+  "file": "AS10-34-5013_-_Apollo_10_-_Apollo_10_Mission_image_-_Earth_view_from_36,_000_nautical_miles_-_NARA_-_16681939_crop.jpg",
+  "crop": null,
+  "arquivo": "terra2.jpg",
+  "autor": "NASA",
+  "lic": "Public domain"
+ },
+ "terra3": {
+  "file": "Blue_Marble_2002.png",
+  "crop": null,
+  "arquivo": "terra3.jpg",
+  "autor": "NASA’s Terra satellite for the MODIS imageries, combined by ",
+  "lic": "Public domain"
+ },
+ "globo": {
+  "file": "Eartha,_Delorme,_Yarmouth_ME.jpg",
+  "crop": null,
+  "arquivo": "globo.jpg",
+  "autor": "John Phelan",
+  "lic": "CC BY-SA 4.0"
+ },
+ "planisferio": {
+  "file": "Equal-Earth-Physical-No-Type_(cropped).jpg",
+  "crop": "fit",
+  "arquivo": "planisferio.jpg",
+  "autor": "Tom Patterson",
+  "lic": "Public domain"
+ },
+ "geoide": {
+  "file": "Geoid_undulation_10k_scale.jpg",
+  "crop": null,
+  "arquivo": "geoide.jpg",
+  "autor": "International Centre for Global Earth Models (ICGEM)",
+  "lic": "CC BY 4.0"
+ },
+ "sputnik": {
+  "file": "Sputnik_asm.jpg",
+  "crop": null,
+  "arquivo": "sputnik.jpg",
+  "autor": "NSSDC, NASA[1]",
+  "lic": "Public domain"
+ },
+ "vostok": {
+  "file": "Гагарин_перед_полётом.jpg",
+  "crop": null,
+  "arquivo": "vostok.jpg",
+  "autor": "Минобороны РФ / РИА Новости",
+  "lic": "CC BY 4.0"
+ },
+ "apollo": {
+  "file": "Apollo_11_Launch_-_GPN-2000-000630.jpg",
+  "crop": null,
+  "arquivo": "apollo.jpg",
+  "autor": "NASA",
+  "lic": "Public domain"
+ },
+ "meteorito": {
+  "file": "Meteorito_Marília.jpg",
+  "crop": null,
+  "arquivo": "meteorito.jpg",
+  "autor": "Gabisfunny",
+  "lic": "Public domain"
+ },
+ "chuva": {
+  "file": "Meteor_shower_in_the_Chilean_Desert_(annotated)_(potw2227b).jpg",
+  "crop": null,
+  "arquivo": "chuva.jpg",
+  "autor": "ESO/P. Horalek",
+  "lic": "CC BY 4.0"
+ },
+ "venus": {
+  "file": "Venus_from_Mariner_10.jpg",
+  "crop": null,
+  "arquivo": "venus.jpg",
+  "autor": "NASA/JPL-Caltech",
+  "lic": "Public domain"
+ },
+ "sol": {
+  "file": "The_Sun_in_white_light.jpg",
+  "crop": null,
+  "arquivo": "sol.jpg",
+  "autor": "Matúš Motlo",
+  "lic": "CC BY-SA 4.0"
+ },
+ "sol2": {
+  "file": "Sun_in_fog_in_Lysekil.jpg",
+  "crop": null,
+  "arquivo": "sol2.jpg",
+  "autor": "W.carter",
+  "lic": "CC BY-SA 4.0"
+ },
+ "lua": {
+  "file": "Near_side_of_the_moon_4k.png",
+  "crop": null,
+  "arquivo": "lua.jpg",
+  "autor": "Wikideas1",
+  "lic": "CC0"
+ },
+ "estrelas": {
+  "file": "Starry_Night_at_La_Silla.jpg",
+  "crop": null,
+  "arquivo": "estrelas.jpg",
+  "autor": "ESO/H. Dahle",
+  "lic": "CC BY 4.0"
+ },
+ "pleiades": {
+  "file": "Pleiades_large.jpg",
+  "crop": null,
+  "arquivo": "pleiades.jpg",
+  "autor": "NASA, ESA, AURA/Caltech, Palomar Observatory The science tea",
+  "lic": "Public domain"
+ },
+ "coruja": {
+  "file": "Bubo_bubo_sibiricus_-_01.JPG",
+  "crop": "fit",
+  "arquivo": "coruja.jpg",
+  "autor": "Carlos Delgado",
+  "lic": "CC BY-SA 4.0"
+ },
+ "morcego": {
+  "file": "Big-eared-townsend-fledermaus.jpg",
+  "crop": null,
+  "arquivo": "morcego.jpg",
+  "autor": "PD-USGov, exact author unknown",
+  "lic": "Public domain"
+ },
+ "leao": {
+  "file": "Panthera_leo_-Ngorongoro,_Tanzania-8b_white_background.jpg",
+  "crop": "fit",
+  "arquivo": "leao.jpg",
+  "autor": "Stig Nygaard",
+  "lic": "CC BY 2.0"
+ },
+ "borboleta": {
+  "file": "AD2009Aug01_Vanessa_atalanta_01.jpg",
+  "crop": null,
+  "arquivo": "borboleta.jpg",
+  "autor": "Ernie",
+  "lic": "Public domain"
+ },
+ "esquilo": {
+  "file": "Sciurus_carolinensis_-British_Columbia,_Canada-8.jpg",
+  "crop": null,
+  "arquivo": "esquilo.jpg",
+  "autor": "waferboard",
+  "lic": "CC BY 2.0"
+ },
+ "sai": {
+  "file": "Blue_dacnis_(Dacnis_cayana_glaucogularis)_male_Rio_Napo.jpg",
+  "crop": null,
+  "arquivo": "sai.jpg",
+  "autor": "Charles J. Sharp",
+  "lic": "CC BY-SA 4.0"
+ },
+ "pslv": {
+  "file": "PSLV-C51,_Amazônia-1_launch_001.jpg",
+  "crop": null,
+  "arquivo": "pslv.jpg",
+  "autor": "Indian Space Research Organisation",
+  "lic": "GODL-India"
+ },
+ "gps": {
+  "file": "GPS_Block_IIIA.jpg",
+  "crop": null,
+  "arquivo": "gps.jpg",
+  "autor": "U.S. Air Force",
+  "lic": "Public domain"
+ },
+ "sentinel": {
+  "file": "Sentinel_2-IMG_5873-white_(crop).jpg",
+  "crop": "fit",
+  "arquivo": "sentinel.jpg",
+  "autor": "Rama",
+  "lic": "CeCILL"
+ },
+ "desmatamento": {
+  "file": "Hillside_deforestation_in_Rio_de_Janeiro.jpg",
+  "crop": null,
+  "arquivo": "desmatamento.jpg",
+  "autor": "Alex Rio Brazil",
+  "lic": "Public domain"
+ },
+ "planetas": {
+  "file": "Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+  "crop": null,
+  "arquivo": "planetas.jpg",
+  "autor": "NASA, ESA, and A. Simon (Goddard Space Flight Center)",
+  "lic": "Public domain"
+ },
+ "gagarin": {
+  "file": "Yuri_Gagarin_with_awards_(cropped)_2.jpg",
+  "crop": null,
+  "arquivo": "gagarin.jpg",
+  "autor": "Александр Моклецов / СовИнформБюро",
+  "lic": "CC BY 4.0"
+ },
+ "amazonia1": {
+  "file": "Amazônia_1_with_its_solar_panels_deployed.jpg",
+  "crop": null,
+  "arquivo": "amazonia1.jpg",
+  "autor": "INPE",
+  "lic": "CC BY-SA 3.0"
+ },
+ "satelite": {
+  "file": "Earth_Radiation_Budget_Satellite.jpg",
+  "crop": null,
+  "arquivo": "satelite.jpg",
+  "autor": "NASA",
+  "lic": "Public domain"
+ }
+}

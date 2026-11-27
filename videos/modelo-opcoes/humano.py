@@ -6,7 +6,9 @@
   - SUSPENSE antes de revelar ("A resposta é...", rufar de tambor, tela escurecendo);
   - "VOCÊ SABIA?" (1 frase) em algumas respostas;
   - zoom de impacto na revelação;
-  - PEDIDO DE CURTIDA: tela "CURTE AÍ!", fala pedindo o coraçãozinho, pausa curta e "Eu espero!";
+  - PEDIDO DE INSCRIÇÃO + LIKE (Patrick, 2026-11-19): tela "INSCREVA-SE" + joinha, fala "Se inscreva no canal e
+    deixe seu like!", pausa curta e "Vai lá, eu espero!" (frases em FRASES_CURTIR / FRASES_ESPERO; nada de
+    "coraçãozinho"/"joinha" na fala);
   - tela "ÚLTIMA PERGUNTA, A MAIS DIFÍCIL!" com batida de coração antes da última;
   - FIM curto só com "INSCREVA-SE NO CANAL" (sem tela de nota/níveis).
 O Palito NÃO fala (sem voz, sem balão): Patrick não gostou.
@@ -34,6 +36,26 @@ import opcoes as op
 from opcoes import b, nd, eg, W, H, FPS
 
 dur = b.duration
+
+# Fala do pedido no meio do vídeo (Patrick, 2026-11-19): SEMPRE "se inscreva no canal" + "deixe seu like" e
+# depois "vai lá, eu espero". Pode variar o começo; NÃO falar "coraçãozinho" nem "joinha".
+FRASES_CURTIR = [
+    "Ei, antes da próxima... se inscreva no canal e deixe seu like!",
+    "Rapidinho: se inscreva no canal e deixe seu like!",
+    "Pera aí, antes de continuar! Se inscreva no canal e deixe seu like!",
+    "Ô, antes da próxima pergunta... se inscreva no canal e deixe seu like!",
+    "Antes de seguir: se inscreva no canal e deixe seu like!",
+]
+FRASES_ESPERO = ["Vai lá, eu espero!", "Vai lá, que eu espero!", "Vai lá, eu espero aqui!"]
+
+
+def frase_curtir(seed=None):
+    """(pede, espero) para o pedido de inscrição + like, variando entre vídeos."""
+    import random
+    r = random.Random(seed)
+    return r.choice(FRASES_CURTIR), r.choice(FRASES_ESPERO)
+
+
 
 
 # ---------- desenhos ----------
@@ -116,7 +138,7 @@ def resposta_frames(q, total, d):
                 op.colar(img, op.opcao_sprite(k, o, "nao"), op.OPT_X, op.OPT_Y[k], 0.94)
         op.placar(img, q, total, tt, respondida=True)
         if q.get("sabia") and tt > 1.2:
-            faixa_baixo(img, "VOCÊ SABIA?", q["sabia"], tt - 1.2)
+            faixa_baixo(img, eg.TXT["sabia"], q["sabia"], tt - 1.2)
         else:
             eg.mais_um(img, op.OPT_X, 840, tt, size=42)
         b.put_palito(img, "comemorando", op.PAL_H, op.PAL_CX, op.PAL_BASE, -int(abs(26 * math.sin(tt * 7))))
@@ -136,37 +158,45 @@ def ultima_frames(d):
         img = nd.burst((200, 20, 30), (90, 0, 10), t * 10).convert("RGBA")
         dd = ImageDraw.Draw(img)
         s = max(0.1, min(1.0, t / 0.35)) * (1 + 0.06 * bate)
-        b.text_outline(dd, (800, 330), "ÚLTIMA", b.font(b.F_BLACK, int(190 * s)), b.YELLOW, w=16)
-        b.text_outline(dd, (800, 540), "PERGUNTA", b.font(b.F_BLACK, int(200 * s)), b.WHITE, w=18)
-        b.text_outline(dd, (800, 740), "A MAIS DIFÍCIL!", b.font(b.F_BLACK, 80), b.WHITE, w=8)
+        b.text_outline(dd, (800, 330), eg.TXT["ultima"][0], b.font(b.F_BLACK, int(190 * s)), b.YELLOW, w=16)
+        b.text_outline(dd, (800, 540), eg.TXT["ultima"][1], b.font(b.F_BLACK, int(200 * s)), b.WHITE, w=18)
+        b.text_outline(dd, (800, 740), eg.TXT["ultima"][2], b.font(b.F_BLACK, 80), b.WHITE, w=8)
         b.selo(img, 800, 920, 1.0)
         b.put_palito(img, "assustado", 620, 1620, 1060 + int((1 - min(1, t / 0.4)) * 600), int(6 * math.sin(t * 30)))
         yield img.convert("RGB")
 
 
 def curtir_frames(d, t_clique):
-    """Pedido de curtida: joinha e coração gigantes, o Palito aponta; em t_clique os dois 'apertam' e
-    sobem coraçõezinhos (a pausa antes do 'eu espero!')."""
-    joia = nd.emoji("\U0001F44D", 300)
-    cor = nd.emoji("❤️", 300)
+    """Pedido de inscrição + like: botão vermelho INSCREVA-SE e joinha gigante, o Palito aponta; em t_clique os
+    dois 'apertam' (o botão vira INSCRITO) e sobem joinhas (a pausa antes do 'vai lá, eu espero!')."""
+    joia = nd.emoji("\U0001F44D", 280)
     for i in range(int(d * FPS)):
         t = i / FPS
-        img = nd.burst((255, 90, 120), (200, 30, 80), t * 8).convert("RGBA")
+        img = nd.burst((255, 70, 70), (170, 20, 40), t * 8).convert("RGBA")
         dd = ImageDraw.Draw(img)
         s = max(0.1, eg.pula(t / 0.4))
-        b.text_outline(dd, (760, 150), "CURTE AÍ!", b.font(b.F_BLACK, int(150 * s)), b.WHITE, w=14)
+        b.text_outline(dd, (760, 140), eg.TXT["curtir"][0], b.font(b.F_BLACK, int(130 * s)), b.WHITE, w=13)
+        b.text_outline(dd, (760, 270), eg.TXT["curtir"][1], b.font(b.F_BLACK, int(80 * s)), b.YELLOW, w=9)
         aperta = t >= t_clique
-        k = 1.0 + (0.25 * math.sin(min(1, (t - t_clique) / 0.35) * math.pi) if aperta else 0.04 * math.sin(t * 6))
-        for j, sp in enumerate((joia, cor)):
-            ent = eg.pula((t - 0.2 - 0.2 * j) / 0.4)
-            op.colar(img, sp, 520 + j * 480, 520, ent * k)
+        k = 1.0 + (0.22 * math.sin(min(1, (t - t_clique) / 0.35) * math.pi) if aperta else 0.04 * math.sin(t * 6))
+        # botão INSCREVA-SE (vira INSCRITO cinza no clique)
+        e1 = eg.pula((t - 0.2) / 0.4) * k
+        if e1 > 0.02:
+            bw, bh = int(560 * e1), int(150 * e1)
+            cx, cy = 520, 560
+            cor = (90, 90, 90) if aperta else b.RED
+            dd.rounded_rectangle([cx - bw // 2, cy - bh // 2, cx + bw // 2, cy + bh // 2], int(40 * e1), fill=cor,
+                                 outline=b.WHITE, width=8)
+            dd.text((cx, cy + 2), eg.TXT["curtir"][3] if aperta else eg.TXT["curtir"][2],
+                    font=b.font(b.F_BLACK, max(8, int(66 * e1))), fill=b.WHITE, anchor="mm")
+        op.colar(img, joia, 1060, 540, eg.pula((t - 0.4) / 0.4) * k)
         if aperta:
             for c in range(8):
                 tc = t - t_clique - c * 0.12
                 if 0 < tc < 1.6:
-                    x = 1000 + 180 * math.sin(c * 2.1) + 30 * math.sin(tc * 6 + c)
-                    op.colar(img, nd.emoji("❤️", 70), x, 420 - tc * 260, 1 - tc / 2)
-            b.text_outline(dd, (760, 860), "EU ESPERO!", b.font(b.F_BLACK, 90), b.YELLOW, w=10)
+                    x = 1060 + 180 * math.sin(c * 2.1) + 30 * math.sin(tc * 6 + c)
+                    op.colar(img, nd.emoji("\U0001F44D", 70), x, 420 - tc * 260, 1 - tc / 2)
+            b.text_outline(dd, (760, 860), eg.TXT["curtir"][4], b.font(b.F_BLACK, 90), b.YELLOW, w=10)
         b.put_palito(img, "apontando", 600, 1640, 1060, int(6 * math.sin(t * 6)))
         yield img.convert("RGB")
 
@@ -178,14 +208,14 @@ def inscreva_frames(d):
         img = op.fundo(3, t).copy()
         dd = ImageDraw.Draw(img)
         s = max(0.1, eg.pula(t / 0.4))
-        b.text_outline(dd, (800, 260), "GOSTOU?", b.font(b.F_BLACK, int(150 * s)), b.YELLOW, w=14)
+        b.text_outline(dd, (800, 260), eg.TXT["fim"][0], b.font(b.F_BLACK, int(150 * s)), b.YELLOW, w=14)
         bate = 1 + 0.05 * math.sin(t * 6)
         w2, h2 = int(900 * s * bate), int(170 * s * bate)
         dd.rounded_rectangle([800 - w2 // 2, 520 - h2 // 2, 800 + w2 // 2, 520 + h2 // 2], 60, fill=b.RED,
                              outline=b.WHITE, width=9)
-        dd.text((800, 522), "INSCREVA-SE", font=b.font(b.F_BLACK, max(8, int(100 * s * bate))), fill=b.WHITE,
+        dd.text((800, 522), eg.TXT["fim"][1], font=b.font(b.F_BLACK, max(8, int(100 * s * bate))), fill=b.WHITE,
                 anchor="mm", stroke_width=4, stroke_fill=b.NAVY)
-        b.text_outline(dd, (800, 720), "NO CANAL", b.font(b.F_BLACK, 80), b.WHITE, w=8)
+        b.text_outline(dd, (800, 720), eg.TXT["fim"][2], b.font(b.F_BLACK, 80), b.WHITE, w=8)
         b.selo(img, 800, 880, 1.4)
         b.put_palito(img, "acenando", 600, 1640, 1060, int(6 * math.sin(t * 6)))
         yield img.convert("RGB")
@@ -245,7 +275,8 @@ def pergunta(tl, sfx, q, total, ultimo, voz_q, voz_r, count=7.0, gancho=None):
 
 
 def curtir(tl, sfx, voz_pede, voz_espero, pausa=1.6):
-    """Pede o coraçãozinho/curtida, dá um tempinho e fala 'Eu espero!' (variar as frases)."""
+    """Pede inscrição + like ('Se inscreva no canal e deixe seu like!'), dá um tempinho e fala 'Vai lá, eu
+    espero!' (frases em FRASES_CURTIR / FRASES_ESPERO; variar)."""
     c1 = dur(voz_pede) + 0.3
     tl.sound(sfx["whoosh"])
     tl.sound(voz_pede, at=tl.t + 0.2)

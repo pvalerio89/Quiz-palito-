@@ -81,7 +81,8 @@ def _numero(img, cx, cy, n, total, sc, u):
            stroke_width=sw, stroke_fill=MARINHO)
     d.text((cx, cy), txt, font=f, fill=BRANCO, anchor="mm", stroke_width=sw, stroke_fill=MARINHO)
     f2 = b.font(b.F_BLACK, max(8, int(70 * u * sc)))
-    rot = "PERGUNTA"
+    import engaja
+    rot = engaja.TXT["pergunta"]
     d.text((cx, cy - int(205 * u * sc)), rot, font=f2, fill=MARINHO, anchor="mm",
            stroke_width=max(2, int(8 * u * sc)), stroke_fill=BRANCO)
 
