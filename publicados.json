@@ -1288,6 +1288,21 @@
         "data": "2026-11-26",
         "origem": "github-actions"
       }
+    },
+    "videos/53-nao-diga-2": {
+      "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem 8 vidas: com quantas termina? | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "RjUojg6ZUeA",
+        "url": "https://youtu.be/RjUojg6ZUeA",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "96755b19d23aafbb7886650f642517c6e50312504d6dd72ed6e820f85a3f773d",
+        "no_ar_em": "2026-11-27T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
