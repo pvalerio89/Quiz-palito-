@@ -1163,6 +1163,164 @@
         "data": "2026-11-21",
         "origem": "github-actions"
       }
+    },
+    "videos/41-pais-duas-letras": {
+      "youtube": {
+        "status": "publicado",
+        "id": "XC-1ZEyG9Vg",
+        "url": "https://youtu.be/XC-1ZEyG9Vg",
+        "data": "2026-11-22",
+        "origem": "github-actions",
+        "sha256": "3d7dfd3a1229b3b1721d3203f7b7d54c98e67fd3d2d40e859435a3331e1486d3",
+        "no_ar_em": "2026-11-23T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/duas-letras-1": {
+      "titulo": "ADIVINHE O PAÍS SÓ COM 2 LETRAS! 🌎 Só gênio acerta todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "JvQbQjQZuoo",
+        "url": "https://youtu.be/JvQbQjQZuoo",
+        "data": "2026-11-22",
+        "origem": "github-actions",
+        "sha256": "6530f9be385e0971339beb52335f26f42c083dc6e3811db0c8964ab1e291fb63",
+        "no_ar_em": "2026-11-23T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7711122870428190772",
+        "data": "2026-11-22",
+        "origem": "github-actions"
+      }
+    },
+    "videos/50-quiz-brasil-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "Sqv_V_IR0eU",
+        "url": "https://youtu.be/Sqv_V_IR0eU",
+        "data": "2026-11-24",
+        "origem": "github-actions",
+        "sha256": "ff258a25dbf8fcccdf70403889b2e9f50e5b9a53e1a30fa970447c546901a9e2",
+        "no_ar_em": "2026-11-24T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/brasil-2": {
+      "titulo": "QUIZ DO BRASIL 2 🇧🇷 Duvido você acertar todas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "db7njbApb-M",
+        "url": "https://youtu.be/db7njbApb-M",
+        "data": "2026-11-24",
+        "origem": "github-actions",
+        "sha256": "50bbf608ac6932c05f44cf4fc24d85985b2fd55951c89b1fe8d092b75c1bf2fd",
+        "no_ar_em": "2026-11-24T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7711648861370075154",
+        "data": "2026-11-24",
+        "origem": "github-actions"
+      }
+    },
+    "videos/51-bandeiras-niveis": {
+      "youtube": {
+        "status": "publicado",
+        "id": "34xHgqibLCA",
+        "url": "https://youtu.be/34xHgqibLCA",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "df349d6141c5bdf5d6d48b0ec347dfe6e73ebad7ce9f5e7bb6acefcf4a7530f2",
+        "no_ar_em": "2026-11-25T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/bandeiras-2": {
+      "titulo": "6 BANDEIRAS parte 2 🌎 Seu pai acerta essas? A última é impossível! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "Xw0-kZ28Vc0",
+        "url": "https://youtu.be/Xw0-kZ28Vc0",
+        "data": "2026-11-25",
+        "origem": "github-actions",
+        "sha256": "eeb0eae0587c15ef3fcd5486ae5a52520b037a223fbd79f9c9e02157b8ab395c",
+        "no_ar_em": "2026-11-25T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "videos/52-jogadores-a-z-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "lR5bacabl0o",
+        "url": "https://youtu.be/lR5bacabl0o",
+        "data": "2026-11-26",
+        "origem": "github-actions",
+        "sha256": "8711aaace1fe4420be5cfaa28c184209adea802d4aafd7f320bc82d7243c1d51",
+        "no_ar_em": "2026-11-26T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/craques-1": {
+      "titulo": "CRAQUES DE A a Z parte 2 ⚽ Quase ninguém acerta a última! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "huq8ls3eqK0",
+        "url": "https://youtu.be/huq8ls3eqK0",
+        "data": "2026-11-26",
+        "origem": "github-actions",
+        "sha256": "a95bbd576cce040135f144dc4a6a7cbd26ace641ac2b4e50e39b5691c62521a6",
+        "no_ar_em": "2026-11-26T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7712276927750440961",
+        "data": "2026-11-26",
+        "origem": "github-actions"
+      }
+    },
+    "videos/53-nao-diga-2": {
+      "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem 8 vidas: com quantas termina? | Quiz Palito",
+      "youtube": {
+        "status": "publicado",
+        "id": "RjUojg6ZUeA",
+        "url": "https://youtu.be/RjUojg6ZUeA",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "96755b19d23aafbb7886650f642517c6e50312504d6dd72ed6e820f85a3f773d",
+        "no_ar_em": "2026-11-27T21:00:00Z"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
+    },
+    "shorts/nao-diga-2": {
+      "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem só 3 vidas! #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "9cvSiKLucDs",
+        "url": "https://youtu.be/9cvSiKLucDs",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "09a31c7743e018b971f0bf0f73cbb46da9310c10426a02fe6d9fcf12477d5311",
+        "no_ar_em": "2026-11-27T23:30:00Z"
+      },
+      "tiktok": {
+        "status": "rascunho",
+        "id": "v_inbox_file~v2.7712670290040145938",
+        "data": "2026-11-27",
+        "origem": "github-actions"
+      }
     }
   }
 }

@@ -562,119 +562,166 @@
       "id": "2026-11-17-pais-2-letras",
       "referencia": "",
       "tema": "Adivinhe o PAÍS só com as 2 primeiras letras",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo + Short. Mostra 'BR _ _ _ _ _' com as 2 primeiras letras e o número de letras; dica (continente) no meio da contagem nas difíceis; resposta com bandeira + mapa (Natural Earth, como vídeo 23). Título ex.: 'Adivinhe o PAÍS só com as DUAS primeiras letras!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | FEITO (2026-11-19): vídeo 41, 36 países; cartão tipo forca (2 letras + quadradinhos, conta as letras) e 3 alternativas que são só BANDEIRAS (o nome aparece na resposta); pegadinhas com mesmo começo (Argentina/Argélia/Armênia, Austrália/Áustria, Coreia do Sul/Norte) e bandeiras parecidas (Irlanda/Costa do Marfim, Luxemburgo/Holanda); fundo azul e magenta, ~13 min. Short duas-letras-1 (4 perguntas, 49 s, sem abertura).",
       "video": "videos/41-pais-duas-letras",
       "short": "shorts/duas-letras-1",
-      "titulo": "Adivinhe o PAÍS só com as 2 PRIMEIRAS LETRAS! 🌎 As últimas são impossíveis | Quiz Palito"
+      "titulo": "Adivinhe o PAÍS só com as 2 PRIMEIRAS LETRAS! 🌎 As últimas são impossíveis | Quiz Palito",
+      "publicado_em": "2026-11-22",
+      "no_ar_em": "2026-11-23T21:00:00Z",
+      "no_ar_brasilia": "23/11 18h00",
+      "links": {
+        "video": "https://youtu.be/XC-1ZEyG9Vg",
+        "short": "https://youtu.be/JvQbQjQZuoo"
+      }
     },
     {
       "id": "2026-11-20-quiz-brasil-2",
       "referencia": "",
       "tema": "QUIZ DO BRASIL parte 2 (o longo que mais deu horas: 35 h, 41% retido)",
-      "status": "pronto",
-      "obs": "Longo 10–15 min + Short do mesmo tema. 30–36 perguntas NOVAS sobre o Brasil (geografia, história, cultura, comidas, símbolos), nenhuma igual ao vídeo 06 (videos/06*). Fotos reais (Wikimedia) quando for coisa real. Short = nova versão de 'Você sabe tudo do BRASIL?' (8,7 h, +4 insc): 4–5 perguntas, 30–50 s, com link do longo na descrição. Título ex.: 'QUIZ DO BRASIL 2: se você acertar 25 de 30, é brasileiro de verdade'. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-20): vídeo 50, 32 perguntas novas (lugares, bichos, comidas, história, cultura), todas com foto real Wikimedia (35 fotos, créditos na tela final), fundo verde/azul/amarelo, ~11,8 min, Palito confiante na miniatura. Short brasil-2 (5 perguntas, ~51 s, sem abertura, 'o quiz completo tá no canal').",
+      "status": "publicado",
+      "obs": "Longo 10–15 min + Short do mesmo tema. 30–36 perguntas NOVAS sobre o Brasil (geografia, história, cultura, comidas, símbolos), nenhuma igual ao vídeo 06 (videos/06*). Fotos reais (Wikimedia) quando for coisa real. Short = nova versão de 'Você sabe tudo do BRASIL?' (8,7 h, +4 insc): 4–5 perguntas, 30–50 s, com link do longo na descrição. Título ex.: 'QUIZ DO BRASIL 2: se você acertar 25 de 30, é brasileiro de verdade'. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-20): vídeo 50, 32 perguntas novas (lugares, bichos, comidas, história, cultura), todas com foto real Wikimedia (35 fotos, créditos na tela final), fundo verde/azul/amarelo, ~11,8 min, Palito confiante na miniatura. Short brasil-2 (5 perguntas, ~51 s, sem abertura, 'o quiz completo tá no canal'). | 2026-11-24: Publicar do dia falhou (Chocolatey fora do ar, ffmpeg não instalou); workflow agora baixa o ffmpeg do GitHub se o choco falhar. Voltou a pronto.",
       "video": "videos/50-quiz-brasil-2",
       "short": "shorts/brasil-2",
-      "titulo": "QUIZ DO BRASIL 2 🇧🇷 Se você acertar 25 de 32, é brasileiro de verdade! | Quiz Palito"
+      "titulo": "QUIZ DO BRASIL 2 🇧🇷 Se você acertar 25 de 32, é brasileiro de verdade! | Quiz Palito",
+      "publicado_em": "2026-11-24",
+      "no_ar_em": "2026-11-24T21:00:00Z",
+      "no_ar_brasilia": "24/11 18h00",
+      "links": {
+        "video": "https://youtu.be/Sqv_V_IR0eU",
+        "short": "https://youtu.be/db7njbApb-M"
+      }
     },
     {
       "id": "2026-11-20-bandeiras-niveis",
       "referencia": "",
       "tema": "Bandeiras: fácil, médio, difícil e impossível (Short campeão 6 bandeiras: +10 insc, 1.835 views)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Longo 10–15 min + Short do mesmo tema. 4 níveis com placa de nível na tela, ~36 bandeiras, alternativas com bandeiras parecidas no nível difícil (Chade x Romênia, Indonésia x Mônaco...). Bandeiras SVG PD como no vídeo 24/39. Ordem e escolhas diferentes do vídeo 03 (195 bandeiras). Short = '6 BANDEIRAS parte 2': mesmo molde do campeão (53 s, a última é a mais difícil), bandeiras novas, link do longo na descrição. NÃO publicar no mesmo dia/seguido do item 'acaba-quando-errar' (também é bandeira). Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-21): vídeo 51, 36 bandeiras em 4 níveis de 9 (placa do nível no cartão + bolinhas, fundo verde/azul/laranja/vermelho por nível, tela de nível antes das perguntas 10, 19 e 28), alternativas com bandeiras parecidas no difícil/impossível (Noruega x Islândia, Mônaco x Indonésia, Guiné x Mali, Haiti x Liechtenstein, Chade x Romênia na última), ~12,5 min. Short bandeiras-2 (6 bandeiras fácil→impossível, mesmo molde do campeão, chamada SEU PAI ACERTA ESSAS?).",
       "video": "videos/51-bandeiras-niveis",
       "short": "shorts/bandeiras-2",
-      "titulo": "BANDEIRAS: fácil, médio, difícil e IMPOSSÍVEL 🌎 Até qual nível você chega? | Quiz Palito"
+      "titulo": "BANDEIRAS: fácil, médio, difícil e IMPOSSÍVEL 🌎 Até qual nível você chega? | Quiz Palito",
+      "publicado_em": "2026-11-25",
+      "no_ar_em": "2026-11-25T21:00:00Z",
+      "no_ar_brasilia": "25/11 18h00",
+      "links": {
+        "video": "https://youtu.be/34xHgqibLCA",
+        "short": "https://youtu.be/Xw0-kZ28Vc0"
+      }
     },
     {
       "id": "2026-11-15-jogadores-a-z-parte-2",
       "referencia": "https://youtu.be/T2r5EybNMjo",
       "tema": "Duvido você acertar jogadores de A a Z! PARTE 2 (NaTraveQuiz)",
-      "status": "pronto",
+      "status": "publicado",
       "obs": "Miniatura: 'JOGADOR COM A LETRA V' (jogador da Seleção + letra). É o mesmo formato do vídeo 02 (jogadores A-Z) e da ref 2026-11-10-jogadores-a-z. Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros jogadores. | FEITO (2026-11-22): vídeo 52, 32 perguntas (letra + pista, 3 nomes com a mesma letra), resposta com foto real do craque (fotos do vídeo 19, Wikimedia; I/X/Y sem foto livre = cartão com o nome), nenhuma resposta repete o vídeo 02, fundo roxo de estádio à noite, ~11,8 min. Short craques-1 (5 perguntas, 51 s, sem abertura, splash).",
       "video": "videos/52-jogadores-a-z-2",
       "short": "shorts/craques-1",
-      "titulo": "JOGADORES de A a Z – PARTE 2 ⚽ Um craque por letra: a última ninguém acerta! | Quiz Palito"
+      "titulo": "JOGADORES de A a Z – PARTE 2 ⚽ Um craque por letra: a última ninguém acerta! | Quiz Palito",
+      "publicado_em": "2026-11-26",
+      "no_ar_em": "2026-11-26T21:00:00Z",
+      "no_ar_brasilia": "26/11 18h00",
+      "links": {
+        "video": "https://youtu.be/lR5bacabl0o",
+        "short": "https://youtu.be/huq8ls3eqK0"
+      }
     },
     {
       "id": "2026-11-22-short-portugal",
       "tema": "Short do próprio longo (videos/36-brasil-x-portugal), que saiu com Short do Desafio do Palito",
-      "status": "pronto",
+      "status": "extra",
       "so_short": true,
       "longo": "videos/36-brasil-x-portugal",
       "short": "shorts/portugal-1",
       "titulo": "Você FALA PORTUGUÊS DE PORTUGAL? 🇧🇷🇵🇹 Aposto que você erra uma! #shorts",
-      "obs": "2026-11-22 (Patrick: 'tem que fazer o Short do vídeo longo'): SÓ SHORT, sai no horário extra das 12h (fila.HORARIOS_EXTRA), link do longo já na descrição."
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
     },
     {
       "id": "2026-11-22-short-selecoes",
       "tema": "Short do próprio longo (videos/39-selecoes-a-z), que saiu com Short do Desafio do Palito",
-      "status": "pronto",
+      "status": "extra",
       "so_short": true,
       "longo": "videos/39-selecoes-a-z",
       "short": "shorts/selecoes-1",
       "titulo": "Uma SELEÇÃO para cada LETRA ⚽ 3 segundos pra cada! #shorts",
-      "obs": "2026-11-22 (Patrick: 'tem que fazer o Short do vídeo longo'): SÓ SHORT, sai no horário extra das 12h (fila.HORARIOS_EXTRA), link do longo já na descrição."
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
     },
     {
       "id": "2026-11-22-short-jogador-pais",
       "tema": "Short do próprio longo (videos/37-jogador-qual-pais), que saiu com Short do Desafio do Palito",
-      "status": "pronto",
+      "status": "extra",
       "so_short": true,
       "longo": "videos/37-jogador-qual-pais",
       "short": "shorts/jogador-pais-1",
       "titulo": "De qual PAÍS é esse JOGADOR? ⚽ Você chega no 5 de 5? #shorts",
-      "obs": "2026-11-22 (Patrick: 'tem que fazer o Short do vídeo longo'): SÓ SHORT, sai no horário extra das 12h (fila.HORARIOS_EXTRA), link do longo já na descrição."
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
     },
     {
       "id": "2026-11-22-short-pais-filhos",
       "tema": "Short do próprio longo (videos/38-pais-contra-filhos), que saiu com Short do Desafio do Palito",
-      "status": "pronto",
+      "status": "extra",
       "so_short": true,
       "longo": "videos/38-pais-contra-filhos",
       "short": "shorts/pais-filhos-1",
       "titulo": "PAIS contra FILHOS 📚 Quem ganha essa? #shorts",
-      "obs": "2026-11-22 (Patrick: 'tem que fazer o Short do vídeo longo'): SÓ SHORT, sai no horário extra das 12h (fila.HORARIOS_EXTRA), link do longo já na descrição."
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
     },
     {
       "id": "2026-11-22-short-animal-pais",
       "tema": "Short do próprio longo (videos/40-animal-de-cada-pais), que saiu com Short do Desafio do Palito",
-      "status": "pronto",
+      "status": "extra",
       "so_short": true,
       "longo": "videos/40-animal-de-cada-pais",
       "short": "shorts/animal-pais-1",
       "titulo": "Qual é o ANIMAL de cada PAÍS? 🐼 A última é estranha! #shorts",
-      "obs": "2026-11-22 (Patrick: 'tem que fazer o Short do vídeo longo'): SÓ SHORT, sai no horário extra das 12h (fila.HORARIOS_EXTRA), link do longo já na descrição."
+      "obs": "2026-11-22: Short do próprio longo, pronto para subir. Em 27/11 o Patrick pediu para postar menos (1 item dia sim, dia não), então está PARADO (status 'extra', o Publicar do dia ignora) até o Patrick decidir; para soltar, mudar para 'pronto' (sai no horário normal do item)."
     },
     {
       "id": "2026-11-20-nao-diga-2",
       "referencia": "",
       "tema": "NÃO DIGA O MESMO QUE O PALITO parte 2 (Short +9 insc, 55% retido)",
-      "status": "aguardando",
-      "obs": "Longo 10–15 min + Short do mesmo tema. Mesmo jogo do vídeo 05 (o Palito escolhe uma resposta escondida; quem disser igual perde vida), com perguntas NOVAS e mais curtas, contador de VIDAS grande (TV). Short = 'NÃO DIGA O MESMO QUE O PALITO 2: você tem só 3 vidas', 30–50 s, link do longo na descrição. Ver videos/05* e o Short nao-diga-1. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+      "status": "publicado",
+      "obs": "Longo 10–15 min + Short do mesmo tema. Mesmo jogo do vídeo 05 (o Palito escolhe uma resposta escondida; quem disser igual perde vida), com perguntas NOVAS e mais curtas, contador de VIDAS grande (TV). Short = 'NÃO DIGA O MESMO QUE O PALITO 2: você tem só 3 vidas', 30–50 s, link do longo na descrição. Ver videos/05* e o Short nao-diga-1. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-23): vídeo 53, 44 rodadas novas (nenhum pedido do vídeo 05), 8 vidas com placa grande de VIDAS à direita, 6 pegadinhas, fundo turquesa/roxo/coral, intro rapidinha, splash, inscreva+like depois da 3ª, checagem de vidas a cada 10, última rodada, ~12,5 min, música Fluffing a Duck. Short nao-diga-2 (5 rodadas, 3 vidas, sem abertura, chamada VOCÊ TEM SÓ 3 VIDAS!, 'o jogo completo tá no canal').",
+      "video": "videos/53-nao-diga-2",
+      "short": "shorts/nao-diga-2",
+      "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem 8 vidas: com quantas termina? | Quiz Palito",
+      "links": {
+        "video": "https://youtu.be/RjUojg6ZUeA",
+        "short": "https://youtu.be/9cvSiKLucDs"
+      },
+      "publicado_em": "2026-11-27",
+      "no_ar_em": "2026-11-27T21:00:00Z",
+      "no_ar_brasilia": "27/11 18h00"
     },
     {
       "id": "2026-11-15-alfabeto-times-parte-2",
       "referencia": "https://youtu.be/-0UZd2hEaVo",
       "tema": "2% acertam o alfabeto de TIMES de A a Z! Parte 2 (NaTraveQuiz)",
-      "status": "aguardando",
-      "obs": "Miniatura: 'TIME COM A LETRA P' (escudo do Palmeiras). Mesmo formato do vídeo 16 (alfabeto dos times A-Z, publicado). Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros times."
+      "status": "pronto",
+      "obs": "Miniatura: 'TIME COM A LETRA P' (escudo do Palmeiras). Mesmo formato do vídeo 16 (alfabeto dos times A-Z, publicado). Patrick (17/11) liberou: formato que explode no nicho (NaTraveQuiz 343-420 mil, Chico Quiz 866 mil). Fazer com nomes DIFERENTES dos já usados no canal. Antes: esperando o Patrick decidir se quer uma parte 2 com outros times. | FEITO (2026-11-24): vídeo 54, 36 escudos NOVOS (nenhuma resposta do vídeo 16) em ordem de A a Z, escudo PIXELADO que fica nítido na contagem + selo da letra, 3 times com a mesma letra, mais times do Brasil (Chapecoense, Paysandu, Remo, Guarani, Ponte Preta...) e Europa/Argentina/Japão, Zulte Waregem no fim. Fundo gramado/laranja/vermelho, música Sneaky Snitch, ~12,4 min. Escudos novos pelo workflow Fotos Wikimedia (pasta novos/). Short times-2 (5 escudos, 48,8 s, chamada SE ACERTAR 4, VOCÊ É FERA!).",
+      "video": "videos/54-alfabeto-times-2",
+      "short": "shorts/times-2",
+      "titulo": "ALFABETO DOS TIMES de A a Z – PARTE 2 ⚽ 36 escudos: o último ninguém acerta! | Quiz Palito"
     },
     {
       "id": "2026-11-20-animal-foto-2",
       "referencia": "",
       "tema": "Adivinhe o ANIMAL pela FOTO parte 2 (Short +9 insc, 1.335 views)",
-      "status": "aguardando",
-      "obs": "Longo 10–15 min + Short do mesmo tema. Fotos reais (automacao/fotos_wiki.py, Wikimedia PD/CC0), animais NOVOS (não repetir os do vídeo 13 zoom), formato diferente do zoom: foto inteira com 3 alternativas e níveis fácil→impossível (filhotes, animais raros no fim). Short = 'Adivinhe o ANIMAL pela FOTO 2', 4–5 animais, 30–50 s, link do longo na descrição. Créditos das fotos só numa tela curta no fim. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%')."
+      "status": "pronto",
+      "obs": "Longo 10–15 min + Short do mesmo tema. Fotos reais (automacao/fotos_wiki.py, Wikimedia PD/CC0), animais NOVOS (não repetir os do vídeo 13 zoom), formato diferente do zoom: foto inteira com 3 alternativas e níveis fácil→impossível (filhotes, animais raros no fim). Short = 'Adivinhe o ANIMAL pela FOTO 2', 4–5 animais, 30–50 s, link do longo na descrição. Créditos das fotos só numa tela curta no fim. Regras: ROTINA.md 'PLANO DE MONETIZAÇÃO' (longo 10–15 min + Short do MESMO tema, formato diferente do item anterior, título sem 'Só 1%'). | FEITO (2026-11-25): vídeo 55, 36 animais NOVOS (nenhum é resposta do 13 nem do 40, menos os filhotes) em 4 FASES de 9 com faixa da fase na foto e tela de fase: CONHECIDOS (teal), PARECIDOS (roxo: alpaca x lhama, crocodilo x jacaré, ouriço x porco-espinho), FILHOTES (rosa: esse bebê vira qual animal?), RAROS (azul-noite, aye-aye no fim). 39 fotos Wikimedia (créditos na tela final), splash, inscreva+like depois da 3ª, ~12,9 min, música Carefree. Short animais-2 (5 bichos, 1 de cada fase + aye-aye, chamada SERÁ QUE VOCÊ GABARITA?, música Wallpaper, 'os trinta e seis bichos tão no canal').",
+      "video": "videos/55-animal-foto-2",
+      "short": "shorts/animais-2",
+      "titulo": "Adivinhe o ANIMAL pela FOTO 2 🦉 Conhecidos, parecidos, filhotes e RAROS: até onde você chega? | Quiz Palito"
     },
     {
       "id": "2026-11-17-acaba-quando-errar",
       "referencia": "",
       "tema": "O vídeo acaba quando você errar a bandeira (TIAGO fez 711 mil)",
-      "status": "aguardando",
-      "obs": "Longo + Short. Formato sobrevivência: bandeiras cada vez mais difíceis, contador de 'SEQUÊNCIA' na tela, 'Errou? Fim de jogo pra você! Comenta até onde chegou'. Bandeiras diferentes das do vídeo 03 quando der (ou ordem bem diferente). Título ex.: 'O vídeo ACABA quando você ERRAR a bandeira!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s."
+      "status": "pronto",
+      "obs": "Longo + Short. Formato sobrevivência: bandeiras cada vez mais difíceis, contador de 'SEQUÊNCIA' na tela, 'Errou? Fim de jogo pra você! Comenta até onde chegou'. Bandeiras diferentes das do vídeo 03 quando der (ou ordem bem diferente). Título ex.: 'O vídeo ACABA quando você ERRAR a bandeira!'. Regras da análise de 17/11 (ROTINA.md 'NOVO RITMO'): título de desafio sem 'Só 1%', Short 30-50 s. | FEITO (2026-11-26): vídeo 57, formato SOBREVIVÊNCIA: 36 bandeiras cada vez mais difíceis, nenhuma é resposta do vídeo 51; contador 'SEQUÊNCIA SEM ERRAR' no lugar das bolinhas, selo 'ACERTOU? SEGUE VIVO!', placa '1 ERRO = FIM!' e trilha das 36 no cartão, fundo escurecendo a cada 9 (azul→roxo→vinho→quase preto), tela 'AINDA VIVO?' antes da 10, 19 e 28, pegadinhas (Polônia x Indonésia, Islândia x Noruega, Romênia x Chade), Mali no fim; ~13 min, música Fluffing a Duck. Short acaba-1 (México, Polônia, Islândia, Mali; contador de sequência, chamada ERROU UMA? ACABOU!, música Carefree, 49,6 s).",
+      "video": "videos/57-acaba-quando-errar",
+      "short": "shorts/acaba-1",
+      "titulo": "O vídeo ACABA quando você ERRAR a bandeira 🚩 36 bandeiras: até onde você chega? | Quiz Palito"
     }
   ]
 }
