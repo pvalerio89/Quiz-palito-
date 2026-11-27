@@ -1331,6 +1331,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/science-1": {
+      "titulo": "PROVA DE SCIENCE DO 3º ANO 🐪 Seu pai acerta essas? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "NhlwIjRWYbs",
+        "url": "https://youtu.be/NhlwIjRWYbs",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "c2e363b00df0bc3d358efe3c1c607bd224c300ce73f3e137886b85a578f055f3"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
