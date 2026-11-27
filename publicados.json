@@ -1394,6 +1394,20 @@
       "tiktok": {
         "status": "pendente"
       }
+    },
+    "shorts/science-2": {
+      "titulo": "SCIENCE REVIEW 3RD GRADE 🐪 Can you pass the test? #shorts",
+      "youtube": {
+        "status": "publicado",
+        "id": "xceT1TLYFz8",
+        "url": "https://youtu.be/xceT1TLYFz8",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "498d2ae36d38880dc8ad557e5e1a5ef7f0b99cb89a2cd2c66325f525046a7446"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
