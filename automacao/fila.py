@@ -28,6 +28,10 @@ SHORT_DEPOIS = datetime.timedelta(hours=2, minutes=30)  # Short às 20h30
 BRASILIA = datetime.timezone(datetime.timedelta(hours=-3))
 MARGEM = datetime.timedelta(hours=2)  # tempo para gerar e subir antes do horário
 JANELA = datetime.timedelta(hours=24)  # só agenda horários das próximas 24 h
+# 2026-11-27 (Patrick: "vamos postar menos"): 1 item (longo 18h + Short 20h30) DIA SIM, DIA NÃO.
+# Um horário só vale se nenhum item ocupar outro horário a menos de INTERVALO dele. 1 = todo dia.
+INTERVALO_DIAS = 2
+INTERVALO = datetime.timedelta(days=INTERVALO_DIAS) - datetime.timedelta(hours=1)
 
 
 def agora():
@@ -83,16 +87,19 @@ def horario_short(quando):
 
 
 def horario_livre(doc, ref=None):
-    """Próximo horário de HORARIOS (>= agora + MARGEM, dentro da JANELA) que nenhum item já ocupa."""
+    """Próximo horário de HORARIOS (>= agora + MARGEM, dentro da JANELA) que nenhum item já ocupa
+    e que fica a pelo menos INTERVALO_DIAS dias de qualquer outro item agendado/publicado."""
     ref = ref or agora()
     # agendar_em = item que falhou no meio (o longo já subiu agendado nesse horário): também ocupa
     ocupados = {i[k] for i in doc["itens"] for k in ("no_ar_em", "agendar_em") if i.get(k)}
+    marcados = [datetime.datetime.fromisoformat(o.replace("Z", "+00:00")) for o in ocupados]
     dia = ref.astimezone(BRASILIA).date()
     for d in range(3):
         for h, m in HORARIOS:
             t = datetime.datetime.combine(dia + datetime.timedelta(days=d), datetime.time(h, m), BRASILIA)
             iso = t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            if ref + MARGEM <= t <= ref + JANELA and iso not in ocupados:
+            perto = any(abs(t - o) < INTERVALO for o in marcados)
+            if ref + MARGEM <= t <= ref + JANELA and iso not in ocupados and not perto:
                 return iso
     return ""
 
