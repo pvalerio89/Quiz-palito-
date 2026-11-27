@@ -1318,6 +1318,19 @@
         "data": "2026-11-25",
         "origem": "github-actions"
       }
+    },
+    "videos/58-science-agua-camelo": {
+      "youtube": {
+        "status": "publicado",
+        "id": "VMMwVaVdkFE",
+        "url": "https://youtu.be/VMMwVaVdkFE",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "754a8d792f3032b71a0514571c7990a66e1fa2805c63d17e538cb4f595df6d72"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
