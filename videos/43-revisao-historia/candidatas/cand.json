@@ -1,0 +1,2548 @@
+{
+ "elevador": {
+  "tipo": "lugar",
+  "art": "Lacerda_Elevator",
+  "cand": [
+   {
+    "file": "Elevador_Lacerda_7610.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley&nbsp;(1970–)&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Birth nam"
+   }
+  ]
+ },
+ "copacabana": {
+  "tipo": "lugar",
+  "art": "Fort_Copacabana",
+  "cand": [
+   {
+    "file": "Conjunto_Copacabana_-_Rio_de_Janeiro_-_20230911071214.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Donatas Dabravolskas"
+   },
+   {
+    "file": "MHE8.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Vickers_6_inch_Mk_XIX_coast_defence_gun_Copacabana_Museum_Brazil.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "en:User:Edurcastro28"
+   },
+   {
+    "file": "Fort_Copacabana_turret.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Acad Ronin"
+   },
+   {
+    "file": "Forte_de_Copacabana_09.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Halley Pacheco de Oliveira"
+   },
+   {
+    "file": "Parque_Olímpico_Rio_2016_(cropped).jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Miriam Jeske/Brasil2016.gov.br"
+   }
+  ]
+ },
+ "pelourinho": {
+  "tipo": "lugar",
+  "art": "Pelourinho",
+  "cand": [
+   {
+    "file": "Centro_Histórico_Salvador_Vista_Aérea_2021-0933.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley"
+   },
+   {
+    "file": "Salvador_0_Centro_Histórico.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "André Koehne"
+   },
+   {
+    "file": "Salvador_1_detalhe_Porto_Centro_Histórico.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "André Koehne"
+   },
+   {
+    "file": "Anchieta_Pelourinho_Cyark.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CyArk"
+   },
+   {
+    "file": "View_over_Harbour_Area_from_Hotel_Arthemis_-_Salvador_-_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Adam Jones Adam63"
+   },
+   {
+    "file": "Cyark_salvador_cross.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "CyArk (http://archive.cyark.org)"
+   },
+   {
+    "file": "Catedral_Basílica_Salvador_2019-6527.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley&nbsp;(1970–)&nbsp;&nbsp;&nbsp; &nbsp; Alternative names Birth nam"
+   },
+   {
+    "file": "Salvador-CamaraVereadores.jpg",
+    "lic": [
+     "CC BY-SA 2.0",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Amadeu Júnior from Rio de Janeiro, Brasil"
+   },
+   {
+    "file": "Ruínas_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ian Storni Machado"
+   }
+  ]
+ },
+ "reis-magos": {
+  "tipo": "lugar",
+  "art": "Forte_dos_Reis_Magos",
+  "cand": [
+   {
+    "file": "Ney_Douglas_Forte_dos_Reis_Magos_Natal_RN_(40970470971).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "MTur Destinos"
+   }
+  ]
+ },
+ "rio": {
+  "tipo": "lugar",
+  "art": "Rio_de_Janeiro",
+  "cand": [
+   {
+    "file": "Cidade_Maravilhosa.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rafael Rabello de Barros"
+   },
+   {
+    "file": "Pão_de_Açucar_Rio_de_Janeiro_Brazil_-_panoramio_-_Hiroki_Ogawa_(cropped).jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Hiroki Ogawa"
+   },
+   {
+    "file": "At_Rio_de_Janeiro_2019_200_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Photograph by Mike Peel (www.mikepeel.net)."
+   },
+   {
+    "file": "Museu_do_Amanhã,_Rio_de_Janeiro,_Brazil_(cropped).jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "Maracanã_2014_g.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Daniel Basil"
+   },
+   {
+    "file": "Barra_Panorama.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Barrazine da Barra"
+   },
+   {
+    "file": "Panorama_carioca_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Eduardo Gabão"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Palácio_Pedro_Ernesto_-_Fundação_da_Cidade.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Halley Pacheco de Oliveira"
+   }
+  ]
+ },
+ "congresso": {
+  "tipo": "lugar",
+  "art": "National_Congress_Palace",
+  "cand": [
+   {
+    "file": "National_Congress_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Marcelo Jorge Vieira from Brazil"
+   },
+   {
+    "file": "Maquete_do_Congresso_Nacional_-_BR_RJANRIO_PH_0_FOT_00745_0008,_Acervo_do_Arquivo_Nacional.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "UnknownUnknown"
+   },
+   {
+    "file": "Obras_do_Congresso_Nacional_-_BR_RJANRIO_PH_0_FOT_00742_0021,_Acervo_do_Arquivo_Nacional.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "UnknownUnknown"
+   },
+   {
+    "file": "Construção_do_Congresso_Nacional_1959-2.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Construção_de_Brasília_Congresso_Nacional_e_Câmara_dos_Deputados_1959.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Presidente_Juscelino_Kubitschek_de_Oliveira_(1956-1961)_fora_do_Palácio_da_Alvorada_-_visita_as_obras_da_Praça_dos_Três_Poderes,_Brasília_-_Congresso_Nacional_(5).jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Construção_do_Congresso_Nacional_Esplanada_dos_Ministérios_1959-10.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Congresso_Nacional_Brasília_-_BR_RJANRIO_PH_0_FOT_00743_0018,_Acervo_do_Arquivo_Nacional.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "UnknownUnknown"
+   },
+   {
+    "file": "Entrevistas_Diversas_(16485155592).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Senado Federal"
+   },
+   {
+    "file": "Plenário_da_Câmara_dos_Deputados_-_BR_RJANRIO_PH_0_FOT_00694_0091,_Acervo_do_Arquivo_Nacional.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "UnknownUnknown"
+   }
+  ]
+ },
+ "ur": {
+  "tipo": "lugar",
+  "art": "Ziggurat_of_Ur",
+  "cand": [
+   {
+    "file": "Ziggarat_of_Ur_001.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Tla2006 at English Wikipedia"
+   },
+   {
+    "file": "Discovery_of_the_Ziggurat_of_Ur_(The_Great_Temple_at_Mugeyer_from_the_west).jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "William Loftus"
+   },
+   {
+    "file": "Zig_close.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kaufingdude"
+   },
+   {
+    "file": "Zig_from_side.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kaufingdude"
+   },
+   {
+    "file": "Zig_front_right_side.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kaufingdude"
+   },
+   {
+    "file": "Ziggarut_of_Ur_-_M.Lubinski.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Michael Lubinski from Green Bay, WI, USA"
+   },
+   {
+    "file": "Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "en:User:Hardnfast"
+   }
+  ]
+ },
+ "nomades": {
+  "tipo": "gente",
+  "art": "Nomad",
+  "cand": [
+   {
+    "file": "Encampment_of_Gypsies_with_Caravans.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Vincent van Gogh&nbsp;(1853–1890)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Hungarian_Gypsy_Mother_and_Child_NGM-v31-p563.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "D. W. Iddings"
+   },
+   {
+    "file": "Nomads_on_the_Changtang,_Ladakh.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "John Hill"
+   },
+   {
+    "file": "Rider_in_Mongolia,_2012.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Al Jazeera English"
+   },
+   {
+    "file": "Bedscha.jpg",
+    "lic": [
+     "CC BY-SA 2.0 de",
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nikswieweg at German Wikipedia (Original text: Klaus Polak, Pseudonym Nikswieweg"
+   },
+   {
+    "file": "BushmenSan.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Ian Sewell"
+   },
+   {
+    "file": "World_in_200_BCE.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Radzivill_Chronicle_Cumans.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Gurvger.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "The original uploader was Adagio at English Wikipedia. (Original text: Adagio)"
+   },
+   {
+    "file": "Saami_Family_1900.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Public domain",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "agricultura": {
+  "tipo": "coisa",
+  "art": "Agriculture",
+  "cand": [
+   {
+    "file": "PivotWithDrops.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Laura Wilson farm , USDA Natural Resources Conservation Service"
+   },
+   {
+    "file": "Maler_der_Grabkammer_des_Sennudem_001.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Deutsch: Maler der Grabkammer des SennudemEnglish: Painter of the burial chamber"
+   },
+   {
+    "file": "Vavilov-centers_updated.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Chiswick Chap"
+   },
+   {
+    "file": "Tomb_of_Nakht_(2).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Norman de Garis Davies, Nina Davies (2-dimensional 1 to 1 Copy of an 15th centur"
+   },
+   {
+    "file": "Crescenzi_calendar.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Master of the Geneva Boccaccio&nbsp;(fl. from 1448 until 1475date QS:P,+1450–00–"
+   },
+   {
+    "file": "Reindeer_herding.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mats Andersson"
+   },
+   {
+    "file": "Unload_wheat_by_the_combine_Claas_Lexion_584.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Michael Gäbler"
+   },
+   {
+    "file": "Manuring_a_vegetable_garden.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Likezzo"
+   },
+   {
+    "file": "Inherent_Land_Quality_Map.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "USDA-NRCS, Soil Science Division, World Soil Resources, Washington D.C."
+   },
+   {
+    "file": "Ford_Tractor_with_ROPS_bar_fitted.JPG",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "BulldozerD11"
+   }
+  ]
+ },
+ "mercado": {
+  "tipo": "lugar",
+  "art": "Mercado_Modelo",
+  "cand": []
+ },
+ "nilo": {
+  "tipo": "lugar",
+  "art": "Nile",
+  "cand": [
+   {
+    "file": "Beautiful_nature_along_Nile_River_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fiktube"
+   },
+   {
+    "file": "Nile_basin_map.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Shannon1"
+   },
+   {
+    "file": "Whiteandblueniles.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "NASA"
+   },
+   {
+    "file": "Assuan-Hochdamm_15.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Olaf Tausch"
+   },
+   {
+    "file": "Nile_River_and_delta_from_orbit.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Jacques Descloitres, MODIS Rapid Response Team, NASA/sh"
+   },
+   {
+    "file": "Lower_Aber_river_and_tributaries.png",
+    "lic": [
+     "ODbL"
+    ],
+    "autor": "contributors to Open Street Map"
+   },
+   {
+    "file": "Hippos_in_their_Natural_Habitat_in_Kazinga_Channel_10.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sandra Aceng"
+   },
+   {
+    "file": "Nymphaea_lotus1XMATT.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "xmatt"
+   },
+   {
+    "file": "Murchison_Falls,_Uganda_(23475021234).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Rod Waddington"
+   },
+   {
+    "file": "The_Nile_River_flows_into_the_Mediterranean_Sea_(iss071e405499).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "NASA Johnson Space Center"
+   }
+  ]
+ },
+ "tome": {
+  "tipo": "gente",
+  "art": "Tomé_de_Sousa",
+  "cand": [
+   {
+    "file": "Thomé_de_Souza_(3712120735).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Samory Pereira Santos from Salvador, Brazil"
+   },
+   {
+    "file": "Assinatura_Tomé_de_Sousa.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Tomé de Sousa"
+   }
+  ]
+ },
+ "caravela": {
+  "tipo": "coisa",
+  "art": "Caravel",
+  "cand": [
+   {
+    "file": "LaPinta.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Miguel Ángel \"fotógrafo\""
+   },
+   {
+    "file": "Portuguese_Caravel.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "PHGCOM"
+   },
+   {
+    "file": "Caravela_Latina_-_Museu_Arte_Antiga.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Retábulo de Santa Auta"
+   },
+   {
+    "file": "Boa_Esperança_Caravel_-_Lagos,_Portugal.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Lacobrigo"
+   },
+   {
+    "file": "Meister_der_Predigten_des_Heiligen_Gregor_von_Nazianz_001.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Meister der Predigten des Heiligen Gregor von Nazianz"
+   },
+   {
+    "file": "Caravel_-_The_Book_of_Old_Ships_(1924).jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Gordon Grant (1875–1962); plates signed “G.G.”"
+   },
+   {
+    "file": "Caravela_de_armada_of_Joao_Serrao.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Lisbon_-_Lisbonne_-_Lisboa_1572.png",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Franz Hogenberg &amp; Georg Braun"
+   },
+   {
+    "file": "Lateen-rigged_caravel.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Secauth"
+   },
+   {
+    "file": "Waves_in_pacifica_1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Brocken Inaglory"
+   }
+  ]
+ },
+ "porto": {
+  "tipo": "lugar",
+  "art": "Port",
+  "cand": [
+   {
+    "file": "View_of_Nam_Harbor_from_Busan_Tower.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "cezzie901"
+   },
+   {
+    "file": "Manhattan.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Maureen from Buffalo, USA"
+   },
+   {
+    "file": "La_Lanterna_di_Genova_di_notte.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alex2015Genova"
+   },
+   {
+    "file": "Frigidarium_Terme_del_Foro_Ostia_Antica_2006-09-08.jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "Marie-Lan Nguyen (User:Jastrow)"
+   },
+   {
+    "file": "Maritime_republics_map_-_IT.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bruce The Deus"
+   },
+   {
+    "file": "HP_L4329.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "FAL"
+    ],
+    "autor": "Alchemist-hp (talk)"
+   },
+   {
+    "file": "PortNewarkNJTurnpike.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Doc Searls"
+   },
+   {
+    "file": "Port_de_Roses_2026.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Alan Mattingly"
+   },
+   {
+    "file": "Marina_Izola.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Petar Milošević"
+   },
+   {
+    "file": "Milan-Porta_Genova-Main_walk_of_the_Dàrsena.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "FlavMi"
+   }
+  ]
+ },
+ "sao-vicente": {
+  "tipo": "lugar",
+  "art": "São_Vicente,_São_Paulo",
+  "cand": [
+   {
+    "file": "Itararé,_São_Vicente_-_SP,_Brazil_-_panoramio.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Jacinto@lves de Souz…"
+   },
+   {
+    "file": "At_Santos,_Brazil_2018_363.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Francisco Telles&nbsp;&nbsp; &nbsp; Description artist"
+   },
+   {
+    "file": "Ponte_Pensil_-_São_Vicente_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Sergio Furtado"
+   },
+   {
+    "file": "At_São_Vicente_2018_047.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Photograph by Mike Peel (www.mikepeel.net)."
+   },
+   {
+    "file": "Biquinha_SV.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Eric and Christian"
+   },
+   {
+    "file": "São_Vicente_Chairlift_2019_105.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Photograph by Mike Peel (www.mikepeel.net)."
+   },
+   {
+    "file": "São_Vicente_Chairlift_2019_090.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Photograph by Mike Peel (www.mikepeel.net)."
+   },
+   {
+    "file": "At_São_Vicente_2018_009.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Photograph by Mike Peel (www.mikepeel.net)."
+   },
+   {
+    "file": "Benedito_Calixto_de_Jesus_-_Fundação_de_São_Vicente,_Acervo_do_Museu_Paulista_da_USP.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Benedito Calixto&nbsp;(1853–1927)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "jk": {
+  "tipo": "gente",
+  "art": "Juscelino_Kubitschek",
+  "cand": [
+   {
+    "file": "Juscelino_Kubitschek_in_1956.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Governo do Brasil"
+   },
+   {
+    "file": "Childhood_house_of_Juscelino_Kubitschek_Diamantina.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Morio"
+   },
+   {
+    "file": "Juscelino_Kubitschek.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "0741_NOV_B_05_Esplanada_dos_Ministerios_Brasilia_DF_03_09_1959.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Memorial_JK.jpeg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Jorge Morais"
+   },
+   {
+    "file": "Crypt_-_Memorial_JK_-_DSC00409.JPG",
+    "lic": [
+     "CC0",
+     "CC0"
+    ],
+    "autor": "Daderot"
+   },
+   {
+    "file": "BSB_Ponte_JK_Panorama_05_2007_266.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mario Roberto Duran Ortiz"
+   },
+   {
+    "file": "Brasília_Kubitschek_and_wife_sculpture_2009.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Cayambe"
+   },
+   {
+    "file": "Metal_bust_of_Juscelino_Kubitschek_de_Oliveira_at_the_Palácio_das_Artes_in_Belo_Horizonte,_Minas_Gerais,_Brazil_-_Daniel_Guimaraes_Rego_-_Daniel_G._Rego_-_Dan_Rego.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Daniel G Rego"
+   },
+   {
+    "file": "Order_of_the_British_Empire_(Civil)_Ribbon.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Original uploader was PalawanOz at en.wikipedia"
+   }
+  ]
+ },
+ "pichacao": {
+  "tipo": "coisa",
+  "art": "Pichação",
+  "cand": [
+   {
+    "file": "Pixacao12.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "EdgarFabiano"
+   },
+   {
+    "file": "018_Pichação_or_pixacao_Brazilian_style_urban_graffiti_tags_in_Curitiba,_Brazil.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Marek Ślusarczyk (Tupungato) Photo portfolio"
+   }
+  ]
+ },
+ "ibirapuera": {
+  "tipo": "lugar",
+  "art": "Ibirapuera_Park",
+  "cand": [
+   {
+    "file": "Parque_do_ibirapuera_visto_do_céu.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fernando Stankuns"
+   },
+   {
+    "file": "Aegopodium_podagraria1_ies.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Frank Vincentz"
+   }
+  ]
+ },
+ "paco": {
+  "tipo": "lugar",
+  "art": "Paço_Imperial",
+  "cand": [
+   {
+    "file": "Paço_Imperial_-_Rio_de_Janeiro_-_20220826172010_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Donatas Dabravolskas"
+   },
+   {
+    "file": "Vista_exterior_da_galeria_de_aclamação_de_D._João_VI_-_J.B._Debret_(plate)_2.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jean-Baptiste Debret&nbsp;(1768–1848)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Dia_do_Fico.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jean-Baptiste Debret&nbsp;(1768–1848)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Paço_da_cidade_1818.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Karl Wilhelm von Theremin&nbsp;(1784–1852)&nbsp;&nbsp; &nbsp; Alternative names "
+   },
+   {
+    "file": "Aclamação_de_D_Pedro_II_em_1831_by_Debret.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jean-Baptiste Debret&nbsp;(1768–1848)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Casamento_princesa_isabel.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Arsênio Fortunato cintra da Silva&nbsp;(1833–1883)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Povo_paço_1888.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Luiz Ferreira"
+   },
+   {
+    "file": "PacoImperial2.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Fulviusbsas"
+   },
+   {
+    "file": "Praça_XV3.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Edson dos Santos Moreira"
+   },
+   {
+    "file": "Paço_Imperial_visto_de_cima._(Imperial_Palace_vue_de_dessus.).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jony Garcia"
+   }
+  ]
+ },
+ "lixo": {
+  "tipo": "coisa",
+  "art": "Litter",
+  "cand": [
+   {
+    "file": "Littering_in_Stockholm.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Bengt Nyman from Vaxholm, Sweden"
+   },
+   {
+    "file": "New_Orleans_Litter.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "GamingGabriel01"
+   },
+   {
+    "file": "Smoke_from_a_Bricks_Field.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rashid Jorvee"
+   },
+   {
+    "file": "Aegopodium_podagraria1_ies.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Frank Vincentz"
+   },
+   {
+    "file": "Strathfield_Platform_condition(2).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Loyalcityrailcustomer"
+   },
+   {
+    "file": "Trash_left_by_panhandlers_in_Germantown,_Maryland_(23_April_2022),_02.31.07.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Illegitimate Barrister"
+   },
+   {
+    "file": "Tarapith.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Royroydeb"
+   },
+   {
+    "file": "2018_02_Templin_DSCF1313.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "©&nbsp;Daniela Kloth Daniela Kloth&nbsp;(1977–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Litter_next_to_train_tracks.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "PProdonoff"
+   },
+   {
+    "file": "DISCARDED_TIRES_LITTER_THE_SHORELINE_OF_THE_MIDDLE_BRANCH_OF_BALTIMORE_HARBOR_NEAR_WATERVIEW_AVENUE_-_NARA_-_547683.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Jim Pickerell&nbsp;(1936–)&nbsp;&nbsp; &nbsp; Alternative names James Howard Pic"
+   }
+  ]
+ },
+ "faixa": {
+  "tipo": "coisa",
+  "art": "Zebra_crossing",
+  "cand": [
+   {
+    "file": "Abbey_Road_Zebra.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Misterweiss at English Wikipedia"
+   },
+   {
+    "file": "View_of_Shibuya_Crossing.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ewong17"
+   },
+   {
+    "file": "Zebra_crossing_road.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "FastfabNA"
+   },
+   {
+    "file": "Mini_strisce_pedonali.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Piccionaia"
+   },
+   {
+    "file": "Wavy_lines_before_pedestrian_crossing.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Benjamin D. Esham (bdesham)"
+   },
+   {
+    "file": "Red_and_white_zebra_crossing_in_Sofia_-_1.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Vassia Atanassova - Spiritia"
+   },
+   {
+    "file": "Bahnhofstr19_Effretikon.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Abderitestatos"
+   },
+   {
+    "file": "13-08-06-abu-dhabi-by-RalfR-114.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "©&nbsp;Ralf Roletschek Ralf Roletschek&nbsp;(1963–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Boulia_State_School_3D_pedestrian_crossing_Templeton_St_Boulia_Queensland_P1030788dp.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "John Robert McPherson"
+   },
+   {
+    "file": "Tiger_crossing_in_Southsea.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tim Sheerman-Chase"
+   }
+  ]
+ },
+ "pelourinho-coluna": {
+  "tipo": "coisa",
+  "art": "Pillory",
+  "cand": [
+   {
+    "file": "Daniel_Defoe_in_the_Pillory.jpg",
+    "lic": [
+     "Public domain",
+     "PD-1923",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Eyre Crowe"
+   },
+   {
+    "file": "TitusOates-pilloried_300dpi.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Schandpfahl.png",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Rooke"
+   },
+   {
+    "file": "Dendermonde_Mespelarestraat_zonder_nummer_-_126705_-_onroerenderfgoed.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Duchêne, Helena"
+   },
+   {
+    "file": "Microcosm_of_London_Plate_062_-_Pillory,_Charing_Cross_edited.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Thomas Rowlandson (1756–1827) and Augustus Charles Pugin (1762–1832) (after) Joh"
+   },
+   {
+    "file": "John_Waller_in_pillory.JPG",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "The_Vere_Street_Gang_at_the_pillory_in_1810.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown (Life time: Sometime in the early 19th. century.)"
+   },
+   {
+    "file": "Pilori_de_Braine-le-Château.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Kipcurry"
+   },
+   {
+    "file": "Prisoners_whipped.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unsure - from George Grantham Bain Collection."
+   },
+   {
+    "file": "Girls_in_stocks_at_Turku_Medieval_market_2015.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "JIP"
+   }
+  ]
+ },
+ "catal": {
+  "tipo": "lugar",
+  "art": "Çatalhöyük",
+  "cand": [
+   {
+    "file": "Çatalhöyük,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_08.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Murat Özsoy 1958"
+   },
+   {
+    "file": "Catal_Hüyük_EL.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Elelicht"
+   },
+   {
+    "file": "Çatalhöyük_excavations_..jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Omar Hoftun"
+   },
+   {
+    "file": "Çatalhöyük_trench.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mark Nesbitt from London"
+   },
+   {
+    "file": "Detail_of_the_mural_showing_the_hind_part_of_the_aurochs,_a_deer_and_hunters..jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Omar hoftun"
+   },
+   {
+    "file": "AnkaraMuseumCatal.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Klaus-Peter Simon"
+   },
+   {
+    "file": "Mural_from_Çatalhöyük_excavated_by_James_Mellaart_showing_neolithic_hunters_attacking_an_aurochs_(Bos_primigenius)..jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Omar Hoftun"
+   },
+   {
+    "file": "Seated_Woman_of_Çatalhöyük_on_black_background.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nevit Dilmen (talk)"
+   },
+   {
+    "file": "MUFT_-_Catal_Höyük_Modell.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Wolfgang Sauber"
+   },
+   {
+    "file": "Çatalhöyük_kazı_alanı_çatısı.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Drgulcu"
+   }
+  ]
+ },
+ "vila": {
+  "tipo": "lugar",
+  "art": "Village",
+  "cand": [
+   {
+    "file": "Bourton-on-the-Water_2010_PD_09.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bin im Garten"
+   },
+   {
+    "file": "Veduta_di_Pacentro.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Verdenex84"
+   },
+   {
+    "file": "Stroczycy_Bielarus_2008MV04.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Mikola Volkau"
+   },
+   {
+    "file": "Halkia,_Pornainen_2.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Abel111222"
+   },
+   {
+    "file": "KippelLötschental_WoodenHouses.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Herzi Pinki"
+   },
+   {
+    "file": "Ourika_berbere_village.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Fathzer / Jean-Marc Astesana from Bretonneux, France"
+   },
+   {
+    "file": "Hollókő_Ófalu_Fő_utca_(részlet).jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Bárdos Veronika Győr"
+   },
+   {
+    "file": "Mollösund_1.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "No machine-readable author provided. Gärdhemmar'n~commonswiki assumed (based on "
+   },
+   {
+    "file": "A_view_of_Villages_and_farms_in_south_Rajasthan_India.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "TeshTesh"
+   },
+   {
+    "file": "Dosut,_Neelum_Valley_cool_beautiful_evening.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Arqamkhawaja"
+   }
+  ]
+ },
+ "sao-paulo": {
+  "tipo": "lugar",
+  "art": "São_Paulo",
+  "cand": [
+   {
+    "file": "Marginal_Pinheiros_e_Jockey_Club.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Agent010"
+   },
+   {
+    "file": "Catedral_da_Sé_em_São_Paulo.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "Mausoléu_ao_soldado_constitucionalista_de_1932_05.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Danielbeoni"
+   },
+   {
+    "file": "Webysther_20190304150658_-_Parque_da_Independência.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Webysther"
+   },
+   {
+    "file": "Altino_Arantes_Building.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Dornicke"
+   },
+   {
+    "file": "Estação_da_Luz_noite_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Caio Silveira/PortoBay Hotels &amp; Resorts"
+   },
+   {
+    "file": "Ponte_estaiada_Octavio_Frias_-_Sao_Paulo_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Marcosleal"
+   },
+   {
+    "file": "Vista_aérea_de_la_Avenida_Paulista_de_São_Paulo_05.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "ProtoplasmaKid"
+   },
+   {
+    "file": "Teatro_Municipal_de_São_Paulo_8.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Wilfredor"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   }
+  ]
+ },
+ "curitiba": {
+  "tipo": "lugar",
+  "art": "Curitiba",
+  "cand": [
+   {
+    "file": "Vista_da_Torre_das_Mercês_em_Curitiba.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil"
+   },
+   {
+    "file": "Tanguá_Curitiba.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Vitor Hirota"
+   },
+   {
+    "file": "Climate_in_Southern_Brazil.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Mauricio Mercer from Curitiba, Brasil"
+   },
+   {
+    "file": "Estufa_principal_do_Jardim_Botânico_de_Curitiba_02_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Rodrigo.Argenton"
+   },
+   {
+    "file": "Rua24HorasCuritiba.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "SamirNosteb"
+   },
+   {
+    "file": "Paço_da_Liberdade_-_Curitiba.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hicham El Banine"
+   },
+   {
+    "file": "Palacio_Avenida_HSBC_2_curitiba_brasil.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Morio"
+   },
+   {
+    "file": "Olho_Neimeyer_03_2007_CWB_9073.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mariordo (Mario Roberto Durán Ortiz)"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   }
+  ]
+ },
+ "planalto": {
+  "tipo": "lugar",
+  "art": "Palácio_do_Planalto",
+  "cand": [
+   {
+    "file": "Fachada_do_Palácio_do_Planalto_-_49727772326.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Senado Federal"
+   },
+   {
+    "file": "Planalto_(330085806).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "LeRoc"
+   },
+   {
+    "file": "Planalto_Palace_ramp_and_parlatorium.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "{{{1}}}"
+   },
+   {
+    "file": "Palácio_do_Planalto_Brasília_1962.png",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Government of Brazil"
+   },
+   {
+    "file": "Michel_Temer_Ministerial_meeting.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "José Cruz/Agência Brasil"
+   },
+   {
+    "file": "Acervo_artístico_do_Palácio_do_Planalto_06.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "José Cruz/Agência Brasil"
+   },
+   {
+    "file": "Palacio_do_Planalto_Presidential_Office.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Agência Brasil - EBC"
+   },
+   {
+    "file": "Guarda_Presidencial_no_Palácio_do_Planalto_(35906623615).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Jonas Pereira/Agência Senado"
+   },
+   {
+    "file": "Arquivo_da_Agência_Brasil_-_Brasília_10.jpg",
+    "lic": [
+     "CC BY 3.0 br"
+    ],
+    "autor": "Arquivo/Agência Brasil"
+   },
+   {
+    "file": "06-11-2014_Novembro_Azul_(15546341448).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Michel Temer"
+   }
+  ]
+ },
+ "salvador": {
+  "tipo": "lugar",
+  "art": "Salvador,_Bahia",
+  "cand": [
+   {
+    "file": "Salvador_BA_(cropped)_2.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Fotos Gov/Ba"
+   },
+   {
+    "file": "Farol_da_barra.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Valdiney Pimenta"
+   },
+   {
+    "file": "Pelourinho_-_Igreja_Rosario_dos_Pretos.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ciroamado"
+   },
+   {
+    "file": "Museu_de_Arte_da_Bahia_Salvador_2018-0828.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley"
+   },
+   {
+    "file": "Centro_Histórico_Salvador_Vista_Aérea_2021-0933.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Paul R. Burley"
+   },
+   {
+    "file": "Entardecer_elevedor_lacerda.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Ciroamado"
+   },
+   {
+    "file": "Salvador_Brazil_skyline_(cropped).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Avinash Achar"
+   },
+   {
+    "file": "Relief_Map_of_Brazil.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Brazil_location_map.svg: NordNordWest derivative work: Виктор В (talk)"
+   },
+   {
+    "file": "South_America_laea_relief_location_map.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Uwe Dedering"
+   },
+   {
+    "file": "Tomé_de_sousa.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   }
+  ]
+ },
+ "jerico": {
+  "tipo": "lugar",
+  "art": "Jericho",
+  "cand": [
+   {
+    "file": "Jericho_cityscape_from_wall_ruins.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Daniel Case"
+   },
+   {
+    "file": "Tell_es-sultan.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Fullo88 at Italian Wikipedia"
+   },
+   {
+    "file": "Jericho-Hishams-Palace-K-153.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Bukvoed"
+   },
+   {
+    "file": "Monastery_of_the_Temptation_(Jeriho).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Dmitrij Rodionov, DR"
+   },
+   {
+    "file": "Tree_of_Zacchaeus,_2019_(02).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Bahnfrend"
+   },
+   {
+    "file": "Palestine_location_map_wide.png",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "NordNordWest"
+   },
+   {
+    "file": "Calibrated_Carbon_14_dates_for_Jericho_as_of_2013.jpg",
+    "lic": [
+     "CC BY 2.5",
+     "CC BY 4.0"
+    ],
+    "autor": "Kavita Gangal , Graeme R. Sarson, Anvar Shukurov"
+   },
+   {
+    "file": "Reconstruction_of_the_Natufian-Jericho_skull.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Cicero Moraes, Thiago Leite Beaini, Moacir Elias Santos"
+   },
+   {
+    "file": "Jerycho8.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "A. Sobkowski"
+   },
+   {
+    "file": "Jericho_Statue.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Dan Palraz"
+   }
+  ]
+ },
+ "cacadores": {
+  "tipo": "gente",
+  "art": "Hunter-gatherer",
+  "cand": [
+   {
+    "file": "Kalina_hunter_gatherer.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Pierre Barrère"
+   },
+   {
+    "file": "Living_on_the_rainforest.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "JMGRACIA100"
+   },
+   {
+    "file": "Mammoth_House_(Replica).JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nandaro"
+   },
+   {
+    "file": "World_in_1000_BCE.png",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Arri_Raats,_Kalahari_Khomani_San_Bushman,_Boesmansrus_camp,_Northern_Cape,_South_Africa_(20540522615).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "South African Tourism from South Africa"
+   },
+   {
+    "file": "BuffaloHunters.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Mbendjele_meat_sharing.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Altg20April2nd"
+   },
+   {
+    "file": "Group_of_Andaman_Men_and_Women_in_Costume,_Some_Wearing_Body_Paint_And_with_Bows_and_Arrows,_Catching_Turtles_from_Boat_on_Water.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Murray, Colin (?). Bourne and Shepherd"
+   },
+   {
+    "file": "Native_Encampment_by_Skinner_Prout,_from_Australia_(1876,_vol_II).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Skinner Prout."
+   },
+   {
+    "file": "AinuBearSacrificeCirca1870.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "After Hirasawa Byōzan 平沢屏山 (1822–1876)[2]"
+   }
+  ]
+ },
+ "praca": {
+  "tipo": "lugar",
+  "art": "Town_square",
+  "cand": [
+   {
+    "file": "Piazza_della_Signoria.jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": "Samuli Lintula"
+   },
+   {
+    "file": "KongressfallofAH.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "Public domain"
+    ],
+    "autor": "Fran Grabjec&nbsp;(1881–1932)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Saint_Peter's_Square_Argos.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "NikosLikomitros"
+   },
+   {
+    "file": "Fountain_People's_Square_Shanghai.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "kallerna"
+   },
+   {
+    "file": "Tahrir_square_obelisk_2022_05.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Onceinawhile"
+   },
+   {
+    "file": "Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 4.0"
+    ],
+    "autor": "Julian Herzog (Website)"
+   },
+   {
+    "file": "Alun-alun_Purbalingga_aerialview25-2-2022.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Yitno Annafi"
+   },
+   {
+    "file": "Piazza_Navona_1.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Myrabella"
+   },
+   {
+    "file": "Grote_Markt_(9379072012).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Francisco Anzola"
+   }
+  ]
+ },
+ "canhao": {
+  "tipo": "coisa",
+  "art": "Cannon",
+  "cand": [
+   {
+    "file": "(Saint-Lys)_Fauconneau_de_1589.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "English: Toulouse founders of the RenaissanceFrançais : Fondeurs toulousains de "
+   },
+   {
+    "file": "Yuan_Bronze_Cannon.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Gary Todd"
+   },
+   {
+    "file": "Ming_Dynasty_field_artillery_cannon.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Jiao Yu and Liu Ji"
+   },
+   {
+    "file": "EarlyCannonDeNobilitatibusSapientiiEtPrudentiisRegumManuscriptWalterdeMilemete1326.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Walter de Milemete"
+   },
+   {
+    "file": "Copper_alloy_bombard_Grodno.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Grzegorz Żabiński et al"
+   },
+   {
+    "file": "Siege_orleans.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "AnonymousUnknown author"
+   },
+   {
+    "file": "Šibenik_-_topovi.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Silverije"
+   },
+   {
+    "file": "Great_Turkish_Bombard_at_Fort_Nelson.JPG",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Gaius Cornelius"
+   },
+   {
+    "file": "Malik_E_Maidan.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "IndianCow at English Wikipedia"
+   },
+   {
+    "file": "Multi_barrel_cannon.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Ajheindel"
+   }
+  ]
+ },
+ "cabral": {
+  "tipo": "gente",
+  "art": "Pedro_Álvares_Cabral",
+  "cand": [
+   {
+    "file": "Pedro_Álvares_Cabral.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Aurélio de Figueiredo&nbsp;(1854–1916)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Cabral_family_coat_of_arms.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "50_Escudos_célébrant_le_500e_anniversaire_de_la_naissance_de_Pedro_Alvares_Cabral,_1968.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "cgb"
+   },
+   {
+    "file": "Carrack_1565.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Sebastião Lópes (15??–1596)[2]"
+   },
+   {
+    "file": "Pedro_alvares_cabral_discovery_of_brazil_1500.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Aurélio de Figueiredo&nbsp;(1854–1916)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Desembarque_de_Pedro_Álvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_(1865–1939).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Oscar Pereira da Silva&nbsp;(1867–1939)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Pedro_Alvares_Cabral_fleet.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Igr_n_s_graca_9.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Carlos Luis M C da Cruz"
+   },
+   {
+    "file": "Cantino_planisphere_(1502).jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "anonymous Portuguese (1502)"
+   },
+   {
+    "file": "Bernardelli_-_Monumento_a_Cabral.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Rodolfo Bernardelli&nbsp;(1852–1931)&nbsp;&nbsp; &nbsp;"
+   }
+  ]
+ },
+ "mesopotamia": {
+  "tipo": "lugar",
+  "art": "Mesopotamia",
+  "cand": [
+   {
+    "file": "Mesopotamia_9_October_2020.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "NASA"
+   },
+   {
+    "file": "Berlín_Ishtar_05.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Miguel Hermoso Cuesta"
+   },
+   {
+    "file": "Mosul_river.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Duha masood"
+   },
+   {
+    "file": "اهوار_العراق_ليلا.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "(Ahmed Abdul Amiralem) احمد عبدالاميرلازم"
+   },
+   {
+    "file": "Statue_Gudea_Met_59.2.jpg",
+    "lic": [
+     "CC BY 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Jarmo_to_Ubaid_7000-4500.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Jolle"
+   },
+   {
+    "file": "Ancient_Egypt_and_Mesopotamia_c._1450_BC.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Свифт/Svift"
+   },
+   {
+    "file": "P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "anonymous"
+   },
+   {
+    "file": "Tablet_XI_or_the_Flood_Tablet_of_the_Epic_of_Gilgamesh,_currently_housed_in_the_British_Museum_in_London.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Osama Shukir Muhammed Amin FRCP(Glasg)"
+   },
+   {
+    "file": "Clay_tablet,_mathematical,_geometric-algebraic,_similar_to_the_Euclidean_geometry._From_Tell_Harmal,_Iraq._2003-1595_BCE._Iraq_Museum.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Osama Shukir Muhammed Amin FRCP(Glasg)"
+   }
+  ]
+ },
+ "dom-joao": {
+  "tipo": "gente",
+  "art": "John_III_of_Portugal",
+  "cand": [
+   {
+    "file": "D._João_III_-_Cristóvão_Lopes_(attrib).png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Attributed to Cristóvão Lopes&nbsp;(1516–1594)&nbsp;&nbsp; &nbsp; Alternative na"
+   },
+   {
+    "file": "O_Príncipe_D._João_III.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Mestre de Lourniha"
+   },
+   {
+    "file": "Joao_iii_REI.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Carlos Falch (Danish, fl. 1640)"
+   },
+   {
+    "file": "D._João_III_-_Cristovao_Lopes.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Cristovao Lopes"
+   },
+   {
+    "file": "Inquisicao.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Portuguese_Empire_map.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Saint_Francis_Xavier_taking_leave_of_King_John_III_(1635)_-_José_Avelar_Rebelo.png",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "José de Avelar Rebelo&nbsp;(–1657)&nbsp;&nbsp; &nbsp; Alternative names Avelar R"
+   },
+   {
+    "file": "Capitanias.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Luís Teixeira&nbsp;(1564–1604)&nbsp;&nbsp; &nbsp; Alternative names Luis Teixeir"
+   },
+   {
+    "file": "Coats_of_arms_of_the_Kingdom_of_Portugal_and_Algarves_(1834_to_1910)_-_Lesser.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Portugal1908"
+   }
+  ]
+ },
+ "lixeira": {
+  "tipo": "coisa",
+  "art": "Waste_container",
+  "cand": [
+   {
+    "file": "Waste_container_in_Japan.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Hyeonyoung Lee 21"
+   },
+   {
+    "file": "Lixo-reciclável-UFRN.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Patrick – Patrick"
+   },
+   {
+    "file": "Мусорная_корзина_на_улице.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Сергей Михель"
+   },
+   {
+    "file": "Brabantia_Pedal_Bin_Decor_Bayon_1972.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "MrMattAnderson"
+   },
+   {
+    "file": "Bin.JPG",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Public_Garbage_Bin_in_Nacka.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jonatan Svensson Glad&nbsp;(1998–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Tampere_trash_bin.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Tiia Monto"
+   },
+   {
+    "file": "Taiwan_2009_Taipei_Waste_Containers_throughout_Liberty_Plaza_with_National_Theater_in_background_FRD_7440.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Fred Hsu on en.wikipedia"
+   },
+   {
+    "file": "GarbageMonsters.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "GabrielleMerk"
+   },
+   {
+    "file": "Dolphin-trashcan-july09.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Asbruckman"
+   }
+  ]
+ },
+ "onibus": {
+  "tipo": "coisa",
+  "art": "Bus",
+  "cand": [
+   {
+    "file": "LTZ1328-19-20241030-160332.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "SIA321"
+   },
+   {
+    "file": "(SGP-Singapore)_SBS_Transit_SG3042Y_298_2024-12-23.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "S5A-0043"
+   },
+   {
+    "file": "BRT2101_at_Balou_(20230921084843).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "N509FZ"
+   },
+   {
+    "file": "Toronto_Flyer_E700A_trolleybus_in_1987.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Steve Morgan"
+   },
+   {
+    "file": "Omnibus_-_Project_Gutenberg_eText_16943.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Obeissante.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Erster_Benzin-Omnibus_der_Welt.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Siegener Zeitung"
+   },
+   {
+    "file": "B43OleBillatIWMLondon.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Flickr user \"DanieVDM\" https://www.flickr.com/photos/dvdmerwe/"
+   },
+   {
+    "file": "Daimler_CC_Bus_(1912).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Nixons Wagga"
+   },
+   {
+    "file": "Inside_a_LACMTA_720_Bus_on_relatively_low_traffic_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Yonghokim"
+   }
+  ]
+ },
+ "prefeitura": {
+  "tipo": "lugar",
+  "art": "Town_hall",
+  "cand": [
+   {
+    "file": "Musei_Capitolini_20150812.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Suicasmo"
+   },
+   {
+    "file": "Hawthorntownhall_b.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "File:Hawthorntownhall.jpg: Celco85 derivative work: Georgfotoart"
+   },
+   {
+    "file": "South_Palm_Beach_FL_town_hall_front_with_Jeep.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "English: CZmarlin — Christopher Ziemnowicz, releases all rights but a photo cred"
+   },
+   {
+    "file": "Old_Town_Hall_in_Wrocław,_September_2022_07.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Szczecinolog"
+   },
+   {
+    "file": "Boston_City_Hall_Government_Center_entrance_with_engraved_title_2020.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "CommonKnowledgeCreator"
+   }
+  ]
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "nomades": {
+  "file": "Saami_Family_1900.jpg",
+  "crop": null,
+  "arquivo": "nomades.jpg",
+  "autor": "Unknown authorUnknown author",
+  "lic": "Public domain"
+ },
+ "agricultura": {
+  "file": "Maler_der_Grabkammer_des_Sennudem_001.jpg",
+  "crop": null,
+  "arquivo": "agricultura.jpg",
+  "autor": "Deutsch: Maler der Grabkammer des SennudemEnglish: Painter o",
+  "lic": "Public domain"
+ },
+ "caravela": {
+  "file": "Lateen-rigged_caravel.jpg",
+  "crop": null,
+  "arquivo": "caravela.jpg",
+  "autor": "Secauth",
+  "lic": "CC BY-SA 4.0"
+ },
+ "copacabana": {
+  "file": "Vickers_6_inch_Mk_XIX_coast_defence_gun_Copacabana_Museum_Brazil.JPG",
+  "crop": null,
+  "arquivo": "copacabana.jpg",
+  "autor": "en:User:Edurcastro28",
+  "lic": "Public domain"
+ },
+ "reis-magos": {
+  "file": "Ney_Douglas_Forte_dos_Reis_Magos_Natal_RN_(40970470971).jpg",
+  "crop": null,
+  "arquivo": "reis-magos.jpg",
+  "autor": "MTur Destinos",
+  "lic": "Public domain"
+ },
+ "elevador": {
+  "file": "Elevador_Lacerda_7610.jpg",
+  "crop": null,
+  "arquivo": "elevador.jpg",
+  "autor": "Paul R. Burley (1970–)",
+  "lic": "CC BY-SA 4.0"
+ },
+ "elevador2": {
+  "file": "Entardecer_elevedor_lacerda.jpg",
+  "crop": null,
+  "arquivo": "elevador2.jpg",
+  "autor": "Ciroamado",
+  "lic": "CC BY-SA 4.0"
+ },
+ "congresso": {
+  "file": "National_Congress_of_Brazil.jpg",
+  "crop": null,
+  "arquivo": "congresso.jpg",
+  "autor": "Marcelo Jorge Vieira from Brazil",
+  "lic": "CC BY-SA 2.0"
+ },
+ "ibirapuera": {
+  "file": "Parque_do_ibirapuera_visto_do_céu.jpg",
+  "crop": null,
+  "arquivo": "ibirapuera.jpg",
+  "autor": "Fernando Stankuns",
+  "lic": "CC BY-SA 4.0"
+ },
+ "lixo": {
+  "file": "Littering_in_Stockholm.jpg",
+  "crop": null,
+  "arquivo": "lixo.jpg",
+  "autor": "Bengt Nyman from Vaxholm, Sweden",
+  "lic": "CC BY 2.0"
+ },
+ "salvador": {
+  "file": "Salvador_BA_(cropped)_2.jpg",
+  "crop": null,
+  "arquivo": "salvador.jpg",
+  "autor": "Fotos Gov/Ba",
+  "lic": "CC BY 2.0"
+ },
+ "farol-barra": {
+  "file": "Farol_da_barra.jpg",
+  "crop": null,
+  "arquivo": "farol-barra.jpg",
+  "autor": "Valdiney Pimenta",
+  "lic": "CC BY 3.0"
+ },
+ "pelourinho": {
+  "file": "Centro_Histórico_Salvador_Vista_Aérea_2021-0933.jpg",
+  "crop": null,
+  "arquivo": "pelourinho.jpg",
+  "autor": "Paul R. Burley",
+  "lic": "CC BY-SA 4.0"
+ },
+ "sao-paulo": {
+  "file": "Catedral_da_Sé_em_São_Paulo.jpg",
+  "crop": null,
+  "arquivo": "sao-paulo.jpg",
+  "autor": "Wilfredor",
+  "lic": "CC0"
+ },
+ "rio": {
+  "file": "Pão_de_Açucar_Rio_de_Janeiro_Brazil_-_panoramio_-_Hiroki_Ogawa_(cropped).jpg",
+  "crop": null,
+  "arquivo": "rio.jpg",
+  "autor": "Hiroki Ogawa",
+  "lic": "CC BY 3.0"
+ },
+ "curitiba": {
+  "file": "Vista_da_Torre_das_Mercês_em_Curitiba.jpg",
+  "crop": null,
+  "arquivo": "curitiba.jpg",
+  "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, ",
+  "lic": "CC BY 2.0"
+ },
+ "pelourinho-coluna": {
+  "file": "Dendermonde_Mespelarestraat_zonder_nummer_-_126705_-_onroerenderfgoed.jpg",
+  "crop": null,
+  "arquivo": "pelourinho-coluna.jpg",
+  "autor": "Duchêne, Helena",
+  "lic": "CC BY 4.0"
+ },
+ "praca": {
+  "file": "Grote_Markt_(9379072012).jpg",
+  "crop": null,
+  "arquivo": "praca.jpg",
+  "autor": "Francisco Anzola",
+  "lic": "CC BY 2.0"
+ },
+ "ur": {
+  "file": "Ziggarat_of_Ur_001.jpg",
+  "crop": null,
+  "arquivo": "ur.jpg",
+  "autor": "Tla2006 at English Wikipedia",
+  "lic": "Public domain"
+ },
+ "nilo": {
+  "file": "The_Nile_River_flows_into_the_Mediterranean_Sea_(iss071e405499).jpg",
+  "crop": null,
+  "arquivo": "nilo.jpg",
+  "autor": "NASA Johnson Space Center",
+  "lic": "Public domain"
+ },
+ "sao-vicente": {
+  "file": "Benedito_Calixto_de_Jesus_-_Fundação_de_São_Vicente,_Acervo_do_Museu_Paulista_da_USP.jpg",
+  "crop": null,
+  "arquivo": "sao-vicente.jpg",
+  "autor": "Benedito Calixto (1853–1927)",
+  "lic": "Public domain"
+ },
+ "tome": {
+  "file": "Thomé_de_Souza_(3712120735).jpg",
+  "crop": null,
+  "arquivo": "tome.jpg",
+  "autor": "Samory Pereira Santos from Salvador, Brazil",
+  "lic": "CC BY-SA 2.0"
+ },
+ "planalto": {
+  "file": "Fachada_do_Palácio_do_Planalto_-_49727772326.jpg",
+  "crop": null,
+  "arquivo": "planalto.jpg",
+  "autor": "Senado Federal",
+  "lic": "CC BY 2.0"
+ },
+ "plano-piloto": {
+  "file": "Maquete_do_Congresso_Nacional_-_BR_RJANRIO_PH_0_FOT_00745_0008,_Acervo_do_Arquivo_Nacional.jpg",
+  "crop": null,
+  "arquivo": "plano-piloto.jpg",
+  "autor": "UnknownUnknown",
+  "lic": "Public domain"
+ },
+ "jerico": {
+  "file": "Tell_es-sultan.jpg",
+  "crop": null,
+  "arquivo": "jerico.jpg",
+  "autor": "Fullo88 at Italian Wikipedia",
+  "lic": "Public domain"
+ }
+}
