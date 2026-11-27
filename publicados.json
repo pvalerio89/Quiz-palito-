@@ -1381,6 +1381,19 @@
         "data": "2026-11-27",
         "origem": "github-actions"
       }
+    },
+    "videos/60-prova-matematica": {
+      "youtube": {
+        "status": "publicado",
+        "id": "pg1LwKjZvpw",
+        "url": "https://youtu.be/pg1LwKjZvpw",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "86be5c15cb0592683e81d2400827a3918ea9b0813f7d7e3e7756295eaefe758d"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
