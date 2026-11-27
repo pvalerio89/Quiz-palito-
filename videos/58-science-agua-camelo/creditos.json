@@ -1,0 +1,182 @@
+{
+ "banana": {
+  "file": "Bananavarieties.jpg",
+  "arquivo": "banana.jpg",
+  "autor": "TimothyPilgrim",
+  "lic": "CC BY-SA 3.0"
+ },
+ "tomate": {
+  "file": "Tomato_je.jpg",
+  "arquivo": "tomate.jpg",
+  "autor": "Softeis",
+  "lic": "CC BY-SA 3.0"
+ },
+ "maca": {
+  "file": "Lobo_(apple)_(cropped).jpg",
+  "arquivo": "maca.jpg",
+  "autor": "Aron Ambrosiani",
+  "lic": "CC BY-SA 4.0"
+ },
+ "batata": {
+  "file": "Patates.jpg",
+  "arquivo": "batata.jpg",
+  "autor": "Scott Bauer, USDA ARS",
+  "lic": "Public domain"
+ },
+ "chocolate": {
+  "file": "Righteously_Raw_chocolate.jpg",
+  "arquivo": "chocolate.jpg",
+  "autor": "Mx. Granger",
+  "lic": "CC0"
+ },
+ "camelo": {
+  "file": "Dromadaire4478.jpg",
+  "arquivo": "camelo.jpg",
+  "autor": "Pierrepoitevin",
+  "lic": "Public domain"
+ },
+ "pao": {
+  "file": "Vegan_no-knead_whole_wheat_bread_loaf,_September_2010.jpg",
+  "crop": null,
+  "arquivo": "pao.jpg",
+  "autor": "Veganbaking.net",
+  "lic": "CC BY-SA 2.0"
+ },
+ "arrozfeijao": {
+  "file": "Rice_and_beans,_Hotel_in_Itatiaia.jpeg",
+  "crop": null,
+  "arquivo": "arrozfeijao.jpg",
+  "autor": "Henrique Dante de Almeida",
+  "lic": "CC BY-SA 3.0"
+ },
+ "verduras": {
+  "file": "Marketvegetables.jpg",
+  "crop": null,
+  "arquivo": "verduras.jpg",
+  "autor": "Jasper Greek Golangco",
+  "lic": "Copyrighted free use"
+ },
+ "doces": {
+  "file": "Gummy_bears.jpg",
+  "crop": null,
+  "arquivo": "doces.jpg",
+  "autor": "Thomas Rosenau",
+  "lic": "CC BY-SA 2.5"
+ },
+ "copo": {
+  "file": "Drinking_water.jpg",
+  "crop": null,
+  "arquivo": "copo.jpg",
+  "autor": "Photo taken by de:Benutzer:Alex Anlicker using a Nikon Coolp",
+  "lic": "CC BY-SA 3.0"
+ },
+ "carne": {
+  "file": "Raw_beef_slices.jpg",
+  "crop": null,
+  "arquivo": "carne.jpg",
+  "autor": "J. Samuel Burner",
+  "lic": "CC BY 2.0"
+ },
+ "carne2": {
+  "file": "Rump_steak.jpg",
+  "crop": null,
+  "arquivo": "carne2.jpg",
+  "autor": "Blammermouth",
+  "lic": "CC BY 3.0"
+ },
+ "chuveiro": {
+  "file": "IMG_Duschender.jpg",
+  "crop": null,
+  "arquivo": "chuveiro.jpg",
+  "autor": "Mitumial",
+  "lic": "CC0"
+ },
+ "tomateiro": {
+  "file": "Tomato_27_days_from_planting_seeds.jpg",
+  "crop": null,
+  "arquivo": "tomateiro.jpg",
+  "autor": "Dennis Brown",
+  "lic": "CC BY-SA 3.0"
+ },
+ "camiseta": {
+  "file": "RMG_Bangladesh.jpg",
+  "crop": null,
+  "arquivo": "camiseta.jpg",
+  "autor": "Fahad Faisal",
+  "lic": "CC BY-SA 4.0"
+ },
+ "mangueira": {
+  "file": "Garden_hose.jpg",
+  "crop": null,
+  "arquivo": "mangueira.jpg",
+  "autor": "Nandhp",
+  "lic": "CC BY-SA 3.0"
+ },
+ "torneira": {
+  "file": "Water_spigot.jpg",
+  "crop": null,
+  "arquivo": "torneira.jpg",
+  "autor": "Rmrfstar",
+  "lic": "CC BY-SA 3.0"
+ },
+ "deserto": {
+  "file": "Groupe_de_dromadaire_avec_son_chamelier_dans_le_sud_tunisien.jpg",
+  "crop": null,
+  "arquivo": "deserto.jpg",
+  "autor": "Skander zarrad",
+  "lic": "CC BY-SA 4.0"
+ },
+ "deserto2": {
+  "file": "Dromadaire_d'Algérie.jpg",
+  "crop": null,
+  "arquivo": "deserto2.jpg",
+  "autor": "Blackmysterieux",
+  "lic": "CC BY-SA 4.0"
+ },
+ "dromedario": {
+  "file": "Camelus_dromedarius_at_Tierpark_Berlin_(1).JPG",
+  "crop": null,
+  "arquivo": "dromedario.jpg",
+  "autor": "Agadez",
+  "lic": "CC BY-SA 3.0"
+ },
+ "dromedario2": {
+  "file": "Dromedary_Footprint_in_Sand.jpg",
+  "crop": null,
+  "arquivo": "dromedario2.jpg",
+  "autor": "Bjørn Christian Tørrissen",
+  "lic": "CC BY-SA 3.0"
+ },
+ "camelorosto": {
+  "file": "Camel_portrait.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "arquivo": "camelorosto.jpg",
+  "autor": "S. Taheri",
+  "lic": "CC BY-SA 3.0"
+ },
+ "bactriano": {
+  "file": "Bactrian_camel_(Camelus_bactrianus).JPG",
+  "crop": "fit",
+  "arquivo": "bactriano.jpg",
+  "autor": "Greg Hume",
+  "lic": "CC BY-SA 4.0"
+ },
+ "bactriano2": {
+  "file": "Camelus_bactrianus_in_western_Mongolia_01.jpg",
+  "crop": null,
+  "arquivo": "bactriano2.jpg",
+  "autor": "Alexandr frolov",
+  "lic": "CC BY-SA 4.0"
+ },
+ "louca": {
+  "file": "Nuns_washing_dishes._Key_Monastery,_Spiti,_India._2004.jpg",
+  "crop": null,
+  "arquivo": "louca.jpg",
+  "autor": "John Hill",
+  "lic": "CC BY-SA 4.0"
+ }
+}

@@ -1,0 +1,1424 @@
+{
+ "arrozfeijao": {
+  "tipo": "comida",
+  "art": "Rice_and_beans",
+  "cand": [
+   {
+    "file": "Rice_and_beans,_Hotel_in_Itatiaia.jpeg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Henrique Dante de Almeida"
+   },
+   {
+    "file": "Rajma,_kidney_beans,_served_with_chawal,_rice.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "rovingI"
+   },
+   {
+    "file": "Red_Beans_and_Rice.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Arnold Gatilao from Fremont, CA, USA"
+   },
+   {
+    "file": "Enchiladas_rice_beans.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Jon Sullivan"
+   }
+  ]
+ },
+ "refri": {
+  "tipo": "comida",
+  "art": "Soft_drink",
+  "cand": [
+   {
+    "file": "Tumbler_of_cola_with_ice.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Simon Cousins from High Wycombe, England"
+   },
+   {
+    "file": "016_Coca-Cola_vending_machine_at_Kyoto_Station,_Japan_-_コカコーラ_自動販売機.JPG",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Marek Ślusarczyk (Tupungato) Photo gallery"
+   },
+   {
+    "file": "Soda_bubbles_macro.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "en:User:Spiff"
+   },
+   {
+    "file": "Priestley_Joseph_pneumatic_trough.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Joseph Priestley (1733-1804)"
+   },
+   {
+    "file": "(1883)_SCHWEPPES_MINERAL-WATERS.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Schweppes Company, London"
+   },
+   {
+    "file": "Image-Codd_bottle.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Moriori"
+   },
+   {
+    "file": "New_York_utility_lines_in_1890.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "Refreshments_stall_before_1914.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "7-Up_Bottlers_Flavor_jug.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Imgur and Reddit user logicblocks"
+   },
+   {
+    "file": "Soda_fountain_in_China_01.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "User:Anna Frodesiak"
+   }
+  ]
+ },
+ "pao": {
+  "tipo": "comida",
+  "art": "Whole_wheat_bread",
+  "cand": [
+   {
+    "file": "Vegan_no-knead_whole_wheat_bread_loaf,_September_2010.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Veganbaking.net"
+   },
+   {
+    "file": "Whole_grain_bread_wheat.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Amin"
+   },
+   {
+    "file": "Fresh_made_bread_05.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "FranHogan"
+   },
+   {
+    "file": "USDA_wheat.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Keith Weller, USDA"
+   }
+  ]
+ },
+ "doces": {
+  "tipo": "comida",
+  "art": "Candy",
+  "cand": [
+   {
+    "file": "Candy_in_Damascus.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Elisa Azzali"
+   },
+   {
+    "file": "Kompeito_konpeito.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.1 jp"
+    ],
+    "autor": "Midori"
+   },
+   {
+    "file": "HardCandy.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Adam Zivner"
+   },
+   {
+    "file": "Chikki_assortment.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Amitshah02"
+   },
+   {
+    "file": "Gummy_bears.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Thomas Rosenau"
+   },
+   {
+    "file": "2018_05_Fudge_IMG_1913.JPG",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "©&nbsp;Daniela Kloth Daniela Kloth&nbsp;(1977–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Pantteri_Mix.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Mysid"
+   },
+   {
+    "file": "Chocolat_Bonnat._100%.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Everjean"
+   },
+   {
+    "file": "Bar_of_Guittard_chocolate.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Stu Spivack"
+   },
+   {
+    "file": "Milk_chocolate.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Siona Watson"
+   }
+  ]
+ },
+ "verduras": {
+  "tipo": "comida",
+  "art": "Vegetable",
+  "cand": [
+   {
+    "file": "Marketvegetables.jpg",
+    "lic": [
+     "Copyrighted free use"
+    ],
+    "autor": "Jasper Greek Golangco"
+   },
+   {
+    "file": "FruitArrangement.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Rei at English Wikipedia"
+   },
+   {
+    "file": "Filoma-Kohl_vor_der_Ernte.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Friedel1969"
+   },
+   {
+    "file": "Turnip_2622027.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "thebittenword.com"
+   },
+   {
+    "file": "Raphanus_sativus.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "7carrots.jpg",
+    "lic": [
+     "GFDL 1.2"
+    ],
+    "autor": "Jonathunder"
+   },
+   {
+    "file": "CDC_parsnip.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Uncommon_beetroot_colours.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Beet man"
+   },
+   {
+    "file": "Kropsla_herfst.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Rasbak"
+   },
+   {
+    "file": "Bohne_z01.JPG",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Zyance"
+   }
+  ]
+ },
+ "carne": {
+  "tipo": "comida",
+  "art": "Beef",
+  "cand": [
+   {
+    "file": "Standing-rib-roast.jpg",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Michael C. Berch, aka MCB at en.wikipedia"
+   },
+   {
+    "file": "Harris_Ranch_Jack's_Cut.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "RightCowLeftCoast"
+   },
+   {
+    "file": "Wagyu.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY 3.0"
+    ],
+    "autor": "Cgoodwin"
+   },
+   {
+    "file": "Land-use-of-different-diets-Poore-Nemecek.png",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Hannah Ritchie"
+   },
+   {
+    "file": "Liu_2024_climate_beef.png",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Beef_cuts.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "KneeHallHawk"
+   },
+   {
+    "file": "Roast_beef.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Rump_steak.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Blammermouth (talk)"
+   },
+   {
+    "file": "Beef_Roasted_with_Vinegar.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Mohammed Tawsif Salam"
+   },
+   {
+    "file": "Raw_beef_slices.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "J. Samuel Burner"
+   }
+  ]
+ },
+ "copo": {
+  "tipo": "agua",
+  "art": "Glass_of_water",
+  "cand": [
+   {
+    "file": "Prospektsmarch_small.jpg",
+    "lic": [
+     "Fair use",
+     "Fair use",
+     "Fair use"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "louca": {
+  "tipo": "agua",
+  "art": "Dishwashing",
+  "cand": [
+   {
+    "file": "Bundesarchiv_Bild_183-12913-0005,_Berlin,_Abwaschen.jpg",
+    "lic": [
+     "CC BY-SA 3.0 de"
+    ],
+    "autor": "Peter Heinz Junge&nbsp;(1928–)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "Nuns_washing_dishes._Key_Monastery,_Spiti,_India._2004.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "John Hill"
+   },
+   {
+    "file": "Dishwasher_open_for_loading.jpg",
+    "lic": [
+     "Copyrighted free use"
+    ],
+    "autor": "Carlos Paes"
+   }
+  ]
+ },
+ "camiseta": {
+  "tipo": "agua",
+  "art": "T-shirt",
+  "cand": [
+   {
+    "file": "Woman_in_a_V-Neck_T-Shirt.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Spreadshirt"
+   },
+   {
+    "file": "Ww2-oiler-Arnold-R-Fesser.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Marlon_Brando_in_'Streetcar_named_Desire'_trailer.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Trailer screenshot"
+   },
+   {
+    "file": "Ringer_t-shirt.png",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "0_Venise,_Dame_portant_un_tee-shirt_à_motif_architectural.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY 4.0"
+    ],
+    "autor": "Jean-Pol GRANDMONT"
+   },
+   {
+    "file": "TieDyeShirtMpegMan.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "The original uploader was MpegMan at English Wikipedia."
+   }
+  ]
+ },
+ "copo2": {
+  "tipo": "agua",
+  "art": "Drinking_water",
+  "cand": [
+   {
+    "file": "Clean_water_for_a_village_in_West_Lombok_(10686572086).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Josh Estey/AusAID"
+   },
+   {
+    "file": "WiKi_WaterCistern20090927a.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Kotoviski Photograph by Henryk Kotowski"
+   },
+   {
+    "file": "E8661-Pattaya-water-vending-machines.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Vmenkov"
+   },
+   {
+    "file": "Safe_drink_tap_water_map.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jirka.h23"
+   },
+   {
+    "file": "Slum_and_dirty_river.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "meg and rahul"
+   },
+   {
+    "file": "Children_fetching_water_in_karaga.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Suglo20"
+   },
+   {
+    "file": "Water_Treatment_Plant.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "No machine-readable author provided. Glio~commonswiki assumed (based on copyrigh"
+   },
+   {
+    "file": "Drinking_water.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Photo taken by de:Benutzer:Alex Anlicker using a Nikon Coolpix 950."
+   }
+  ]
+ },
+ "fabrica": {
+  "tipo": "agua",
+  "art": "Textile_industry",
+  "cand": [
+   {
+    "file": "Cvernovka_1.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Wizzard"
+   },
+   {
+    "file": "Raschelei.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Huppertsberg"
+   },
+   {
+    "file": "Bradford_Industrial_Museum_014.jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Linda Spashett Storye_book"
+   },
+   {
+    "file": "Powerloom_weaving_in_1835.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Illustrator T. Allom, Engraver J. Tingle"
+   },
+   {
+    "file": "Baines_1835-Roberts'_Self_Acting_Mule.png",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "Baines"
+   },
+   {
+    "file": "Ignacy_Płażewski,_Prządki_przy_pracy,_I-4717-4.jpg",
+    "lic": [
+     "CC BY-SA 3.0 pl"
+    ],
+    "autor": "Ignacy Płażewski&nbsp;(1899–1977)&nbsp;&nbsp; &nbsp; Description photographer, p"
+   },
+   {
+    "file": "Finlaysonin_kutojia_vuonna_1951._Kuva_Veikko_Kanninen,_Vapriikin_kuva-arkisto._(16248493129).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Museokeskus Vapriikki"
+   },
+   {
+    "file": "40-QWSTION-BANANATEX-WARPING-LAUSCHSICHT.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "BANANATEX"
+   },
+   {
+    "file": "India_textile_fashion_industry_workers.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Fabrics for Freedom"
+   },
+   {
+    "file": "RMG_Bangladesh.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Fahad Faisal"
+   }
+  ]
+ },
+ "tomateiro": {
+  "tipo": "agua",
+  "art": "Tomato",
+  "cand": [
+   {
+    "file": "Tomato_je.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Softeis"
+   },
+   {
+    "file": "Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg",
+    "lic": [
+     "Public domain",
+     "PDM",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Naturalis Biodiversity Center"
+   },
+   {
+    "file": "Arrival_of_Cortés_in_Veracruz_and_Reception_by_Moctezuma's_Ambassadors_Painting.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Unknown authorUnknown author"
+   },
+   {
+    "file": "TomateSanMarzano.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Goldlocki"
+   },
+   {
+    "file": "Tomatoes_for_sale_in_a_UK_supermarket_2013.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "InterestingPics"
+   },
+   {
+    "file": "NRCSHI07018_-_Hawaii_(716072)(NRCS_Photo_Gallery).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Photo by Scott Bauer, USDA Natural Resources Conservation Service."
+   },
+   {
+    "file": "Germinating_tomatos.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Dennis Brown"
+   },
+   {
+    "file": "Tomato_27_days_from_planting_seeds.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Dennis Brown"
+   },
+   {
+    "file": "Solanum_lycopersicum_-_Flor_tomaca_057.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Victor M. Vicente Selvas"
+   },
+   {
+    "file": "Tomato_fruit_and_flowers_at_day_52.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Dennis Brown"
+   }
+  ]
+ },
+ "lavacarro": {
+  "tipo": "agua",
+  "art": "Car_wash",
+  "cand": [
+   {
+    "file": "2015_Kłodzko,_ul._Dusznicka,_myjnia_samochodowa_02.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Jacek Halicki"
+   },
+   {
+    "file": "Broadways_Car_Wash.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Visitor7"
+   },
+   {
+    "file": "Self-service_car_wash_in_Seattle,_Washington.jpg",
+    "lic": [
+     "CC BY-SA 2.0",
+     "CC BY-SA 2.0"
+    ],
+    "autor": "J from Seattle, USA"
+   },
+   {
+    "file": "Car_wash_in_Finland.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Tiia Monto"
+   },
+   {
+    "file": "Auto_wash_interior.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "CurranH (talk) (Uploads)"
+   },
+   {
+    "file": "Super_Clean_Auto_Wash.JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Drums600"
+   },
+   {
+    "file": "Touchless_Car_Wash.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Sulfur at English Wikipedia"
+   }
+  ]
+ },
+ "regador": {
+  "tipo": "agua",
+  "art": "Watering_can",
+  "cand": [
+   {
+    "file": "MetalwateringcansDec08.jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Bas Leenders at https://www.flickr.com/photos/basl/"
+   },
+   {
+    "file": "Water-pot-Herculaneum-Villa-of-the-Papyri-Barker-1908.jpg",
+    "lic": [
+     "Public domain",
+     "PDM"
+    ],
+    "autor": "Ethel Ross Barker"
+   },
+   {
+    "file": "Pot,_Watering_MET_sf52-46-1s1.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Schooltuin_Plutodreef_Utrecht_-_School_garden,_2019_-_3.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "J.M. Muller"
+   },
+   {
+    "file": "Watercan.png",
+    "lic": [
+     "CC BY-SA 2.5"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Watering-can-green.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Kate Nielsen Photos"
+   },
+   {
+    "file": "Watering_can_for_bonsai.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Tangopaso"
+   },
+   {
+    "file": "Watering_jug_make_from_empty_container.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "Magnolia677"
+   },
+   {
+    "file": "Man_watering_cucumbers_plantation_on_small_island_(cropped).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Basile Morin (the original version) (Oinkers42) (this derivative version)"
+   }
+  ]
+ },
+ "chuveiro": {
+  "tipo": "agua",
+  "art": "Shower",
+  "cand": [
+   {
+    "file": "IMG_Duschender.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Mitumial"
+   },
+   {
+    "file": "Dusche-cut-w025-h025.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Alexander.stohr at German Wikipedia Later versions were uploaded by Wiska Bodo, "
+   },
+   {
+    "file": "Badewanne_(fcm).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Photograph: Frank C. Müller, Baden-Baden"
+   },
+   {
+    "file": "The_Douche._Wellcome_L0003967.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": ""
+   },
+   {
+    "file": "Shower_room_(--40wiki).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Park taeho"
+   },
+   {
+    "file": "Rib_shower_1.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Doug Coldwell"
+   },
+   {
+    "file": "Chuveiro_eletrico_brasileiro.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "HenriqueBarraMansa"
+   },
+   {
+    "file": "Jugadušš_(šarko)_Moinaki_limaani_kõrgsoolase_veega..jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "User:Aleksander Kaasik"
+   },
+   {
+    "file": "Shower_Door_Installation.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Whoisjohngalt"
+   },
+   {
+    "file": "Repairing_shower_stall_with_grout_applicator.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "JGKlein"
+   }
+  ]
+ },
+ "deserto": {
+  "tipo": "camelo",
+  "art": "Desert",
+  "cand": [
+   {
+    "file": "Rub_al_Khali_002.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Nepenthes"
+   },
+   {
+    "file": "Groupe_de_dromadaire_avec_son_chamelier_dans_le_sud_tunisien.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Skander zarrad"
+   },
+   {
+    "file": "Deserts.png",
+    "lic": [
+     "Public domain",
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Emilfaro at English Wikipedia"
+   },
+   {
+    "file": "Wallpaper_of_E-ELT_site_testing_—_Cerro_Armazones_Chile.jpg",
+    "lic": [
+     "CC BY 4.0"
+    ],
+    "autor": "ESO/S. Brunier"
+   },
+   {
+    "file": "GobiFlood.JPG",
+    "lic": [
+     "GFDL"
+    ],
+    "autor": "Qfl247 (talk)"
+   },
+   {
+    "file": "Desert_Lake,_near_Ragtown,_Nevada_MET_DP243000.jpg",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Timothy H. O'Sullivan&nbsp;(1840–1882)&nbsp;&nbsp; &nbsp;"
+   },
+   {
+    "file": "The_World_Factbook_-_Algeria_-_Flickr_-_The_Central_Intelligence_Agency_(7).jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "The Central Intelligence Agency"
+   },
+   {
+    "file": "AntarcticaDomeCSnow.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Stephen Hudson"
+   },
+   {
+    "file": "Semi-arid_Niger.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Leela Channer"
+   },
+   {
+    "file": "Namib_Desert_surface.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": ""
+   }
+  ]
+ },
+ "mangueira": {
+  "tipo": "agua",
+  "art": "Garden_hose",
+  "cand": [
+   {
+    "file": "Garden_hose.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "Nandhp"
+   },
+   {
+    "file": "Garden_hose,_The_Washington_Herald,_1916-02-04.png",
+    "lic": [
+     "Public domain",
+     "PD-1923"
+    ],
+    "autor": "JPxG"
+   },
+   {
+    "file": "Garden_hose_pistol.JPG",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Hyena"
+   },
+   {
+    "file": "Brass_hose_bipp_with_standard_and_GHT_threads.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Ipab"
+   },
+   {
+    "file": "Herten_-_Kurt-Schumacher-Straße_-_Rathaus_05_ies.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Frank Vincentz"
+   },
+   {
+    "file": "Gardenhose.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Nicole-Koehler"
+   },
+   {
+    "file": "Gardena_hose_pistol.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "User:Jarlhelm"
+   },
+   {
+    "file": "Garten_Schlauchwagen_5749.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Hedwig Storch"
+   },
+   {
+    "file": "Great_Swamp_Greenhouse_photos_coiled_watering_hose_close_in.JPG",
+    "lic": [
+     "CC0"
+    ],
+    "autor": "Tomwsulcer"
+   },
+   {
+    "file": "Elastikvandslange_(9074754591).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Lisa Risager from Denmark"
+   }
+  ]
+ },
+ "camelo": {
+  "tipo": "camelo",
+  "art": "Camel",
+  "cand": [
+   {
+    "file": "07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Jjron"
+   },
+   {
+    "file": "Camels_by_country_per_capita.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "EBKWiki"
+   },
+   {
+    "file": "2011_Trampeltier_1528.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "J. Patrick Fischer"
+   },
+   {
+    "file": "Bactrianmap.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "EBKWiki"
+   },
+   {
+    "file": "Camelus_dromedarius_at_Tierpark_Berlin_(1).JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Agadez"
+   },
+   {
+    "file": "Arabiancamelmap.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "EBKWiki"
+   },
+   {
+    "file": "2017-09-03_AT_Engelhartstetten,_Schloss_Hof,_Camelus_ferus_(32226959887).jpg",
+    "lic": [
+     "CC BY-SA 2.0"
+    ],
+    "autor": "Paul Korecky"
+   },
+   {
+    "file": "Teve_3.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "User:Mathae"
+   },
+   {
+    "file": "Camel_portrait.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY-SA 2.5"
+    ],
+    "autor": "S. Taheri"
+   },
+   {
+    "file": "Camels_in_Dubai_2.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Imre Solt&nbsp;(1968–)&nbsp;&nbsp; &nbsp; Description Hungarian photographer"
+   }
+  ]
+ },
+ "torneira": {
+  "tipo": "agua",
+  "art": "Tap_(valve)",
+  "cand": [
+   {
+    "file": "Wasserhahn.jpg",
+    "lic": [
+     "Attribution"
+    ],
+    "autor": "Matthew Bowden www.digitallyrefreshing.com"
+   },
+   {
+    "file": "Water_spigot.jpg",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0",
+     "CC BY 2.5"
+    ],
+    "autor": "Rmrfstar"
+   },
+   {
+    "file": "Water_tap_two_way.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Luckyulinga"
+   },
+   {
+    "file": "Plastic_Tap_Valve.JPG",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Ranjithsiji"
+   },
+   {
+    "file": "Tap_in_Fužine_castles_yard.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Petar Milošević"
+   },
+   {
+    "file": "Gas_taps,_Adams'_Grammar_School.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Drw25 (talk)"
+   },
+   {
+    "file": "Tap.png",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Chabacano"
+   },
+   {
+    "file": "Undercut_Sand_Cast_Shower_Mixer_for_a_shower_or_bath_Tap.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "ChristophRoser. Please credit \"Christoph Roser at AllAboutLean.com\"."
+   }
+  ]
+ },
+ "bactriano": {
+  "tipo": "camelo",
+  "art": "Bactrian_camel",
+  "cand": [
+   {
+    "file": "Camelus_bactrianus_(55026866188).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Christian Ursilva from Copenhagen, Denmark"
+   },
+   {
+    "file": "Camelus_bactrianus_distribution_map.png",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Mapist"
+   },
+   {
+    "file": "Camel_skeleton_at_MAV-USP.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Museum of Veterinary Anatomy FMVZ USP"
+   },
+   {
+    "file": "Bactrian_camel_(Camelus_bactrianus).JPG",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Greg Hume"
+   },
+   {
+    "file": "Camelus_bactrianus_in_western_Mongolia_01.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Alexandr frolov"
+   },
+   {
+    "file": "Camelus_bactrianus_(54905392882).jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Christian Ursilva from København, Danmark"
+   },
+   {
+    "file": "Babybactrian.jpg",
+    "lic": [
+     "Public domain",
+     "Public domain"
+    ],
+    "autor": "Marmoset1000 at en.wikipedia"
+   },
+   {
+    "file": "Bactrian.camel.twice.arp.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "Arpingstone"
+   },
+   {
+    "file": "Camel_-_panoramio_(2).jpg",
+    "lic": [
+     "CC BY 3.0"
+    ],
+    "autor": "Mongolia Expeditions…"
+   },
+   {
+    "file": "Greenway_BactrianCamel_AgathaChristie_January2024_NT_CCBYSA_open.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "James Dobson, photographer employed by National Trust"
+   }
+  ]
+ },
+ "futebol": {
+  "tipo": "comida",
+  "art": "Youth_soccer",
+  "cand": [
+   {
+    "file": "ChineseAthleticsTeam-YOGAsianQualifier-Singapore-20100525.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "l a i l i."
+   },
+   {
+    "file": "2011_Okemos_High_School_Girls'_Water_Polo_State_Championship_Team.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Sichow at English Wikipedia"
+   },
+   {
+    "file": "TWU_Gymnastics_(Bars)_Amy_Winczura_(5694030475).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Erin Costa from Flower Mound, USA"
+   },
+   {
+    "file": "Volleyball-5_(9786053885).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Tulane Public Relations"
+   },
+   {
+    "file": "03042012Ccm_gamosuma_juvenilA347.JPG",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Talento Tec"
+   }
+  ]
+ },
+ "dromedario": {
+  "tipo": "camelo",
+  "art": "Dromedary",
+  "cand": [
+   {
+    "file": "Camelus_dromedarius_on_Sinai.jpg",
+    "lic": [
+     "CC BY-SA 3.0",
+     "GFDL"
+    ],
+    "autor": "Florian Prischl"
+   },
+   {
+    "file": "Dromadaire_d'Algérie.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Blackmysterieux"
+   },
+   {
+    "file": "Dromadaire4478.jpg",
+    "lic": [
+     "Public domain"
+    ],
+    "autor": "No machine-readable author provided. Pierrepoitevin~commonswiki assumed (based o"
+   },
+   {
+    "file": "Domestic_Dromedary_Merzouga.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bjørn Christian Tørrissen"
+   },
+   {
+    "file": "Dromedary_heart.jpg",
+    "lic": [
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Museum of Veterinary Anatomy FMVZ USP / Wagner Souza e Silva"
+   },
+   {
+    "file": "Camelus_dromedarius_(Dromedary)_(48724323241).jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Auckland Museum Collections from Auckland, Aotearoa New Zealand"
+   },
+   {
+    "file": "Camel_kidney_(longitudinal_cut).-_FMVZ_USP-30.jpg",
+    "lic": [
+     "CC BY-SA 4.0",
+     "CC BY-SA 4.0"
+    ],
+    "autor": "Wagner Souza e Silva"
+   },
+   {
+    "file": "Lion_Attacking_a_Dromedary_full.jpg",
+    "lic": [
+     "CC BY 2.0"
+    ],
+    "autor": "Ben Ledbetter, Architect"
+   },
+   {
+    "file": "SFEC-2006-10-EGYPT-LUXOR-CAMEL0303.JPG",
+    "lic": [
+     "GFDL",
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Steve F-E-Cameron (Merlin-UK)"
+   },
+   {
+    "file": "Dromedary_Footprint_in_Sand.jpg",
+    "lic": [
+     "CC BY-SA 3.0"
+    ],
+    "autor": "Bjørn Christian Tørrissen"
+   }
+  ]
+ }
+}

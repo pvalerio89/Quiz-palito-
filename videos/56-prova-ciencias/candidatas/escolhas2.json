@@ -1,0 +1,24 @@
+{
+ "leao": {
+  "file": "Panthera_leo_-Ngorongoro,_Tanzania-8b_white_background.jpg",
+  "crop": "fit"
+ },
+ "globo": {
+  "file": "Eartha,_Delorme,_Yarmouth_ME.jpg"
+ },
+ "sol": {
+  "file": "The_Sun_in_white_light.jpg"
+ },
+ "terra2": {
+  "file": "AS10-34-5013_-_Apollo_10_-_Apollo_10_Mission_image_-_Earth_view_from_36,_000_nautical_miles_-_NARA_-_16681939_crop.jpg"
+ },
+ "terra3": {
+  "file": "Blue_Marble_2002.png"
+ },
+ "terra4": {
+  "file": "Apollo_17_Blue_Marble_original_orientation_(AS17-148-22727).jpg"
+ },
+ "amazonia1": {
+  "file": "Amazonia_1_assembled.jpg"
+ }
+}

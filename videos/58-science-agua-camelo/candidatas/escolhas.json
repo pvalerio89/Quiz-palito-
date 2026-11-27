@@ -1,0 +1,177 @@
+{
+ "pao": {
+  "file": "Vegan_no-knead_whole_wheat_bread_loaf,_September_2010.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 2.0"
+  ],
+  "autor": "Veganbaking.net"
+ },
+ "arrozfeijao": {
+  "file": "Rice_and_beans,_Hotel_in_Itatiaia.jpeg",
+  "crop": null,
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Henrique Dante de Almeida"
+ },
+ "verduras": {
+  "file": "Marketvegetables.jpg",
+  "crop": null,
+  "lic": [
+   "Copyrighted free use"
+  ],
+  "autor": "Jasper Greek Golangco"
+ },
+ "doces": {
+  "file": "Gummy_bears.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 2.5"
+  ],
+  "autor": "Thomas Rosenau"
+ },
+ "copo": {
+  "file": "Drinking_water.jpg",
+  "crop": null,
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Photo taken by de:Benutzer:Alex Anlicker using a Nikon Coolpix 950."
+ },
+ "carne": {
+  "file": "Raw_beef_slices.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY 2.0"
+  ],
+  "autor": "J. Samuel Burner"
+ },
+ "carne2": {
+  "file": "Rump_steak.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY 3.0"
+  ],
+  "autor": "Blammermouth (talk)"
+ },
+ "chuveiro": {
+  "file": "IMG_Duschender.jpg",
+  "crop": null,
+  "lic": [
+   "CC0"
+  ],
+  "autor": "Mitumial"
+ },
+ "tomateiro": {
+  "file": "Tomato_27_days_from_planting_seeds.jpg",
+  "crop": null,
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Dennis Brown"
+ },
+ "camiseta": {
+  "file": "RMG_Bangladesh.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Fahad Faisal"
+ },
+ "mangueira": {
+  "file": "Garden_hose.jpg",
+  "crop": null,
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY-SA 2.5"
+  ],
+  "autor": "Nandhp"
+ },
+ "torneira": {
+  "file": "Water_spigot.jpg",
+  "crop": null,
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY 2.5"
+  ],
+  "autor": "Rmrfstar"
+ },
+ "deserto": {
+  "file": "Groupe_de_dromadaire_avec_son_chamelier_dans_le_sud_tunisien.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Skander zarrad"
+ },
+ "deserto2": {
+  "file": "Dromadaire_d'Algérie.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Blackmysterieux"
+ },
+ "dromedario": {
+  "file": "Camelus_dromedarius_at_Tierpark_Berlin_(1).JPG",
+  "crop": null,
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY 2.5"
+  ],
+  "autor": "Agadez"
+ },
+ "dromedario2": {
+  "file": "Dromedary_Footprint_in_Sand.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 3.0"
+  ],
+  "autor": "Bjørn Christian Tørrissen"
+ },
+ "camelorosto": {
+  "file": "Camel_portrait.jpg",
+  "crop": [
+   0.5,
+   0.45,
+   1.0
+  ],
+  "lic": [
+   "GFDL",
+   "CC BY-SA 3.0",
+   "CC BY-SA 2.5"
+  ],
+  "autor": "S. Taheri"
+ },
+ "bactriano": {
+  "file": "Bactrian_camel_(Camelus_bactrianus).JPG",
+  "crop": "fit",
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Greg Hume"
+ },
+ "bactriano2": {
+  "file": "Camelus_bactrianus_in_western_Mongolia_01.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "Alexandr frolov"
+ },
+ "louca": {
+  "file": "Nuns_washing_dishes._Key_Monastery,_Spiti,_India._2004.jpg",
+  "crop": null,
+  "lic": [
+   "CC BY-SA 4.0"
+  ],
+  "autor": "John Hill"
+ }
+}
