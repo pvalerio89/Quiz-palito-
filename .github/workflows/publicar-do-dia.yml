@@ -1,4 +1,4 @@
-# 3 vídeos por dia: 12h09, 17h30 e 20h30 de Brasília (HORARIOS em automacao/fila.py).
+# 1 item dia sim, dia não: longo 18h00 + Short 20h30 de Brasília (HORARIOS e INTERVALO_DIAS em automacao/fila.py).
 # Cada rodada pega o 1º item "pronto" de fila/fila.json e o próximo horário livre (com 2 h de folga),
 # gera o vídeo longo e o Short e sobe os dois AGENDADOS no YouTube (publishAt): o YouTube deixa públicos
 # na hora certa, então o atraso do cron do GitHub não atrapalha. Roda a cada 4 h; sem horário livre, não faz nada.
