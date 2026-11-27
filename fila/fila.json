@@ -645,13 +645,16 @@
       "id": "2026-11-26-science-agua-camelo",
       "referencia": "",
       "tema": "Prova de Science do 3º ano: alimentação, água direta x virtual e o camelo (Science Review Activity do Patrick)",
-      "status": "erro",
+      "status": "publicado",
       "obs": "Longo + Short. Patrick mandou 6 fotos da Science Review Activity do 3º ano, 3º trimestre (2026-11-26) e pediu quiz com tudo que tem lá, sem inventar. 39 questões em 3 níveis (~14,4 min): texto do Tommy (healthy foods, candy and soda), água direta x virtual, litros por alimento (maçã 70, batata 25, carne 15.000/kg, tomate 50, banana 160), desperdício de água, adaptações do camelo, V/F e completar frases. 26 fotos Wikimedia, splash, inscreva+like depois da 3ª. Short science-1 (4 perguntas, SEU PAI ACERTA ESSAS?). Publicar JÁ pela branch.",
       "video": "videos/58-science-agua-camelo",
       "short": "shorts/science-1",
       "titulo": "PROVA DE SCIENCE DO 3º ANO 💧🐪 39 Questões sobre Alimentação, Água e o Camelo! | Quiz Palito",
-      "erro": "2026-11-26: gerar_video=success gerar_short=success enviar_video=failure enviar_short=skipped",
-      "links": {}
+      "links": {
+        "video": "https://youtu.be/VMMwVaVdkFE",
+        "short": "https://youtu.be/NhlwIjRWYbs"
+      },
+      "publicado_em": "2026-11-27"
     },
     {
       "id": "2026-11-20-nao-diga-2",
