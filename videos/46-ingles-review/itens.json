@@ -1,0 +1,845 @@
+[
+ {
+  "n": 1,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Every morning,",
+   "Lucas ______",
+   "to school.",
+   "(walk)"
+  ],
+  "img": "q1.png",
+  "opcoes": [
+   "walks",
+   "walked",
+   "will walk"
+  ],
+  "certa": 0,
+  "fala_q": "Primeira, valendo! Every morning, Lucas... walk... to school. Qual a forma certa?",
+  "fala_r": "Walks! Every morning é todo dia, então é presente. E com ele, he, ganha S.",
+  "count": 8.0
+ },
+ {
+  "n": 2,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "morango",
+  "rotulo": "MORANGO",
+  "img": "q2.png",
+  "opcoes": [
+   "Raspberry",
+   "Cherry",
+   "Strawberry"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz morango em inglês? Raspberry, Cherry ou Strawberry?",
+  "fala_r": "Strawberry! Raspberry é framboesa e cherry é cereja.",
+  "count": 8.0
+ },
+ {
+  "n": 3,
+  "nivel": 2,
+  "pergunta": "QUE PARTE DA PLANTA É ESSA?",
+  "planta": "flower",
+  "img": "q3.png",
+  "opcoes": [
+   "Leaves",
+   "Roots",
+   "Flower"
+  ],
+  "certa": 2,
+  "fala_q": "A seta está apontando para qual parte da planta? Leaves, Roots ou Flower?",
+  "fala_r": "Flower! A flor.",
+  "count": 8.0
+ },
+ {
+  "n": 4,
+  "nivel": 2,
+  "pergunta": "QUE TEMPO VERBAL É ESSE?",
+  "cartao": [
+   "jumped"
+  ],
+  "img": "q4.png",
+  "opcoes": [
+   "Passado",
+   "Presente",
+   "Futuro"
+  ],
+  "certa": 0,
+  "fala_q": "Jumped. Que tempo verbal é esse? Presente, passado ou futuro?",
+  "fala_r": "Passado! Terminou com E D, é passado. Jumped é pulou.",
+  "count": 8.0
+ },
+ {
+  "n": 5,
+  "nivel": 2,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one apple",
+   "two ______"
+  ],
+  "img": "q5.png",
+  "opcoes": [
+   "applees",
+   "apples",
+   "apple's"
+  ],
+  "certa": 1,
+  "fala_q": "One apple, two... qual é o plural de apple?",
+  "fala_r": "Apples! A maioria das palavras só ganha S.",
+  "count": 8.0
+ },
+ {
+  "n": 6,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "cenoura",
+  "rotulo": "CENOURA",
+  "img": "q6.png",
+  "opcoes": [
+   "Carrot",
+   "Potato",
+   "Onion"
+  ],
+  "certa": 0,
+  "fala_q": "E cenoura? Como se diz em inglês? Carrot, Potato ou Onion?",
+  "fala_r": "Carrot! Potato é batata e onion é cebola.",
+  "count": 8.0
+ },
+ {
+  "n": 7,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Tomorrow, Dad",
+   "______ dinner.",
+   "(cook)"
+  ],
+  "img": "q7.png",
+  "opcoes": [
+   "will cook",
+   "cooked",
+   "cooks"
+  ],
+  "certa": 0,
+  "fala_q": "Tomorrow, Dad... cook... dinner. Qual a forma certa?",
+  "fala_r": "Will cook! Tomorrow é amanhã: futuro é will mais o verbo.",
+  "count": 8.0
+ },
+ {
+  "n": 8,
+  "nivel": 2,
+  "pergunta": "FRUIT OU VEGETABLE?",
+  "foto": "brocolis",
+  "rotulo": "BRÓCOLIS",
+  "img": "q8.png",
+  "opcoes": [
+   "Fruit",
+   "Vegetable",
+   "Flower"
+  ],
+  "certa": 1,
+  "fala_q": "Brócolis é fruit ou vegetable?",
+  "fala_r": "Vegetable! Fruit é fruta, vegetable é legume e verdura.",
+  "count": 8.0
+ },
+ {
+  "n": 9,
+  "nivel": 2,
+  "pergunta": "QUE TEMPO VERBAL É ESSE?",
+  "cartao": [
+   "will visit"
+  ],
+  "img": "q9.png",
+  "opcoes": [
+   "Futuro",
+   "Presente",
+   "Passado"
+  ],
+  "certa": 0,
+  "fala_q": "Will visit. Que tempo verbal é esse?",
+  "fala_r": "Futuro! Will na frente do verbo é futuro: vai visitar.",
+  "count": 8.0
+ },
+ {
+  "n": 10,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "melancia",
+  "rotulo": "MELANCIA",
+  "img": "q10.png",
+  "opcoes": [
+   "Watermelon",
+   "Melon",
+   "Pumpkin"
+  ],
+  "certa": 0,
+  "fala_q": "Como se diz melancia em inglês? Watermelon, Melon ou Pumpkin?",
+  "fala_r": "Watermelon! Melon é melão. Water melon: o melão de água!",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 11,
+  "nivel": 2,
+  "pergunta": "QUE PARTE DA PLANTA É ESSA?",
+  "planta": "roots",
+  "img": "q11.png",
+  "opcoes": [
+   "Roots",
+   "Stem",
+   "Leaves"
+  ],
+  "certa": 0,
+  "fala_q": "E agora? A seta aponta para qual parte? Roots, Stem ou Leaves?",
+  "fala_r": "Roots! As raízes, embaixo da terra.",
+  "count": 8.0
+ },
+ {
+  "n": 12,
+  "nivel": 2,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Last night, I",
+   "______ my room.",
+   "(clean)"
+  ],
+  "img": "q12.png",
+  "opcoes": [
+   "cleans",
+   "will clean",
+   "cleaned"
+  ],
+  "certa": 2,
+  "fala_q": "Last night, I... clean... my room. Qual a forma certa?",
+  "fala_r": "Cleaned! Last night é ontem à noite: passado, com E D.",
+  "count": 8.0
+ },
+ {
+  "n": 13,
+  "nivel": 2,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "uva",
+  "rotulo": "UVAS",
+  "img": "q13.png",
+  "opcoes": [
+   "Plums",
+   "Grapes",
+   "Cherries"
+  ],
+  "certa": 1,
+  "fala_q": "Como se diz uvas em inglês? Plums, Grapes ou Cherries?",
+  "fala_r": "Grapes! Plums são ameixas.",
+  "count": 8.0
+ },
+ {
+  "n": 14,
+  "nivel": 2,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one banana",
+   "two ______"
+  ],
+  "img": "q14.png",
+  "opcoes": [
+   "bananes",
+   "bananas",
+   "bananies"
+  ],
+  "certa": 1,
+  "fala_q": "One banana, two... qual é o plural?",
+  "fala_r": "Bananas! Só ganha S.",
+  "count": 8.0
+ },
+ {
+  "n": 15,
+  "nivel": 2,
+  "pergunta": "QUAL PALAVRA COMPLETA?",
+  "cartao": [
+   "______, we played",
+   "in the park."
+  ],
+  "img": "q15.png",
+  "opcoes": [
+   "Tomorrow",
+   "Yesterday",
+   "Every day"
+  ],
+  "certa": 1,
+  "fala_q": "Qual palavra completa a frase: blank, we played in the park?",
+  "fala_r": "Yesterday! Played está no passado, então é ontem.",
+  "count": 8.0,
+  "fala_d": "Dica: played termina com E D...",
+  "dica_txt": "ED = PASSADO"
+ },
+ {
+  "n": 16,
+  "nivel": 3,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Leo ______ TV",
+   "after school",
+   "every day.",
+   "(watch)"
+  ],
+  "img": "q16.png",
+  "opcoes": [
+   "watchs",
+   "watched",
+   "watches"
+  ],
+  "certa": 2,
+  "fala_q": "Nível difícil, valendo! Leo... watch... TV after school every day. Como se escreve?",
+  "fala_r": "Watches, com E S! Watch termina em C H, então ganha E S.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!",
+  "sabia": "Verbo que termina em S, SH, CH, X ou O ganha E S com he, she e it: watches, washes, goes.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 17,
+  "nivel": 3,
+  "pergunta": "QUE PARTE DA PLANTA É ESSA?",
+  "planta": "stem",
+  "img": "q17.png",
+  "opcoes": [
+   "Stem",
+   "Leaves",
+   "Roots"
+  ],
+  "certa": 0,
+  "fala_q": "A seta está no meio da planta. Que parte é essa? Stem, Leaves ou Roots?",
+  "fala_r": "Stem! O caule.",
+  "count": 8.0,
+  "sabia": "Roots são as raízes, stem é o caule, leaves são as folhas e flower é a flor."
+ },
+ {
+  "n": 18,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one tomato",
+   "two ______"
+  ],
+  "img": "q18.png",
+  "opcoes": [
+   "tomatos",
+   "tomatoies",
+   "tomatoes"
+  ],
+  "certa": 2,
+  "fala_q": "One tomato, two... como se escreve o plural?",
+  "fala_r": "Tomatoes, com E S! Termina em O, ganha E S.",
+  "count": 8.0,
+  "sabia": "Muitas palavras terminadas em O ganham E S no plural: tomatoes, potatoes, mangoes."
+ },
+ {
+  "n": 19,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "alface",
+  "rotulo": "ALFACE",
+  "img": "q19.png",
+  "opcoes": [
+   "Cabbage",
+   "Lettuce",
+   "Broccoli"
+  ],
+  "certa": 1,
+  "fala_q": "Como se diz alface em inglês? Cabbage, Lettuce ou Broccoli?",
+  "fala_r": "Lettuce! Cabbage é repolho.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 20,
+  "nivel": 3,
+  "pergunta": "QUAL PALAVRA COMPLETA?",
+  "cartao": [
+   "______, the children",
+   "will dance at school."
+  ],
+  "img": "q20.png",
+  "opcoes": [
+   "Yesterday",
+   "Last night",
+   "Tomorrow"
+  ],
+  "certa": 2,
+  "fala_q": "Qual palavra completa: blank, the children will dance at school?",
+  "fala_r": "Tomorrow! Will dance é futuro, então é amanhã.",
+  "count": 8.0
+ },
+ {
+  "n": 21,
+  "nivel": 3,
+  "pergunta": "QUE TEMPO VERBAL É ESSE?",
+  "cartao": [
+   "helps"
+  ],
+  "img": "q21.png",
+  "opcoes": [
+   "Presente",
+   "Passado",
+   "Futuro"
+  ],
+  "certa": 0,
+  "fala_q": "Helps. Que tempo verbal é esse?",
+  "fala_r": "Presente! O S no fim é do he, she e it no presente.",
+  "count": 8.0
+ },
+ {
+  "n": 22,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "cebola",
+  "rotulo": "CEBOLA",
+  "img": "q22.png",
+  "opcoes": [
+   "Onion",
+   "Garlic",
+   "Potato"
+  ],
+  "certa": 0,
+  "fala_q": "Como se diz cebola em inglês? Onion, Garlic ou Potato?",
+  "fala_r": "Onion! Garlic é alho.",
+  "count": 8.0
+ },
+ {
+  "n": 23,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one strawberry",
+   "two ______"
+  ],
+  "img": "q23.png",
+  "opcoes": [
+   "strawberrys",
+   "strawberryes",
+   "strawberries"
+  ],
+  "certa": 2,
+  "fala_q": "One strawberry, two... como se escreve o plural?",
+  "fala_r": "Strawberries! Termina em consoante mais Y: troca o Y por I E S.",
+  "count": 8.0,
+  "sabia": "Consoante + Y no fim: troca o Y por I E S. Strawberry vira strawberries. Mas vogal + Y só ganha S: plays.",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 24,
+  "nivel": 3,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Sam ______ his",
+   "hands every day.",
+   "(wash)"
+  ],
+  "img": "q24.png",
+  "opcoes": [
+   "washs",
+   "washes",
+   "washed"
+  ],
+  "certa": 1,
+  "fala_q": "Sam... wash... his hands every day. Como se escreve?",
+  "fala_r": "Washes! Termina em S H, ganha E S.",
+  "count": 8.0
+ },
+ {
+  "n": 25,
+  "nivel": 3,
+  "pergunta": "QUE PARTE DA PLANTA FAZ ISSO?",
+  "cartao": [
+   "Pega a água",
+   "e os nutrientes",
+   "do solo."
+  ],
+  "img": "q25.png",
+  "opcoes": [
+   "Leaves",
+   "Roots",
+   "Flower"
+  ],
+  "certa": 1,
+  "fala_q": "Que parte da planta pega a água e os nutrientes do solo? Leaves, Roots ou Flower?",
+  "fala_r": "Roots! As raízes.",
+  "count": 8.0
+ },
+ {
+  "n": 26,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "batata",
+  "rotulo": "BATATA",
+  "img": "q26.png",
+  "opcoes": [
+   "Tomato",
+   "Potato",
+   "Carrot"
+  ],
+  "certa": 1,
+  "fala_q": "Como se diz batata em inglês? Tomato, Potato ou Carrot?",
+  "fala_r": "Potato! Cuidado: tomato é tomate.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 27,
+  "nivel": 3,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Yesterday, Dad",
+   "______ the door.",
+   "(open)"
+  ],
+  "img": "q27.png",
+  "opcoes": [
+   "openned",
+   "opened",
+   "opens"
+  ],
+  "certa": 1,
+  "fala_q": "Yesterday, Dad... open... the door. Como se escreve?",
+  "fala_r": "Opened, com um N só! Open mais E D.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 28,
+  "nivel": 3,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one potato",
+   "two ______"
+  ],
+  "img": "q28.png",
+  "opcoes": [
+   "potatos",
+   "potatoe",
+   "potatoes"
+  ],
+  "certa": 2,
+  "fala_q": "One potato, two... como se escreve o plural?",
+  "fala_r": "Potatoes! Igual tomatoes: O mais E S.",
+  "count": 8.0
+ },
+ {
+  "n": 29,
+  "nivel": 3,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "pepino",
+  "rotulo": "PEPINO",
+  "img": "q29.png",
+  "opcoes": [
+   "Pepper",
+   "Zucchini",
+   "Cucumber"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz pepino em inglês? Pepper, Zucchini ou Cucumber?",
+  "fala_r": "Cucumber! Pepper é pimentão, e zucchini é abobrinha.",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!"
+ },
+ {
+  "n": 30,
+  "nivel": 3,
+  "pergunta": "QUE PARTE DA PLANTA FAZ ISSO?",
+  "cartao": [
+   "Segura a planta",
+   "em pé e leva",
+   "a água."
+  ],
+  "img": "q30.png",
+  "opcoes": [
+   "Stem",
+   "Roots",
+   "Flower"
+  ],
+  "certa": 0,
+  "fala_q": "Que parte segura a planta em pé e leva a água até as folhas? Stem, Roots ou Flower?",
+  "fala_r": "Stem! O caule.",
+  "count": 8.0
+ },
+ {
+  "n": 31,
+  "nivel": 4,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one peach",
+   "two ______"
+  ],
+  "img": "q31.png",
+  "opcoes": [
+   "peachs",
+   "peachies",
+   "peaches"
+  ],
+  "certa": 2,
+  "fala_q": "Agora é o nível que derruba até adulto! One peach, two... como se escreve?",
+  "fala_r": "Peaches! Termina em C H, ganha E S.",
+  "count": 8.0,
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 32,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ ERRADA?",
+  "cartao": [
+   "Uma dessas",
+   "está ERRADA!"
+  ],
+  "img": "q32.png",
+  "opcoes": [
+   "two tomatos",
+   "two onions",
+   "two grapes"
+  ],
+  "certa": 0,
+  "fala_q": "Uma dessas está errada! Qual?",
+  "fala_r": "Two tomatos está errado! O certo é tomatoes, com E S.",
+  "count": 8.0,
+  "aviso": "TEM PEGADINHA!"
+ },
+ {
+  "n": 33,
+  "nivel": 4,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "My brother ______",
+   "soccer on",
+   "Saturdays.",
+   "(play)"
+  ],
+  "img": "q33.png",
+  "opcoes": [
+   "plaies",
+   "played",
+   "plays"
+  ],
+  "certa": 2,
+  "fala_q": "My brother... play... soccer on Saturdays. Como se escreve?",
+  "fala_r": "Plays! Vogal mais Y só ganha S. Nada de I E S.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!"
+ },
+ {
+  "n": 34,
+  "nivel": 4,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one cherry",
+   "two ______"
+  ],
+  "img": "q34.png",
+  "opcoes": [
+   "cherrys",
+   "cherryes",
+   "cherries"
+  ],
+  "certa": 2,
+  "fala_q": "One cherry, two... como se escreve?",
+  "fala_r": "Cherries! Consoante mais Y: I E S.",
+  "count": 8.0
+ },
+ {
+  "n": 35,
+  "nivel": 4,
+  "pergunta": "QUE PARTE DA PLANTA FAZ ISSO?",
+  "cartao": [
+   "Faz o alimento",
+   "da planta com",
+   "a luz do Sol."
+  ],
+  "img": "q35.png",
+  "opcoes": [
+   "Roots",
+   "Leaves",
+   "Stem"
+  ],
+  "certa": 1,
+  "fala_q": "Que parte faz o alimento da planta usando a luz do Sol? Roots, Leaves ou Stem?",
+  "fala_r": "Leaves! As folhas.",
+  "count": 8.0
+ },
+ {
+  "n": 36,
+  "nivel": 4,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Next week, they",
+   "______ the zoo.",
+   "(visit)"
+  ],
+  "img": "q36.png",
+  "opcoes": [
+   "will visit",
+   "visited",
+   "visits"
+  ],
+  "certa": 0,
+  "fala_q": "Next week, they... visit... the zoo. Qual a forma certa?",
+  "fala_r": "Will visit! Next week é semana que vem: futuro.",
+  "count": 8.0
+ },
+ {
+  "n": 37,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "pimentao",
+  "rotulo": "PIMENTÃO",
+  "img": "q37.png",
+  "opcoes": [
+   "Pumpkin",
+   "Pepper",
+   "Eggplant"
+  ],
+  "certa": 1,
+  "fala_q": "Como se diz pimentão em inglês? Pumpkin, Pepper ou Eggplant?",
+  "fala_r": "Pepper! Pumpkin é abóbora e eggplant é berinjela.",
+  "count": 8.0
+ },
+ {
+  "n": 38,
+  "nivel": 4,
+  "pergunta": "QUAL É O PLURAL?",
+  "cartao": [
+   "one leaf",
+   "two ______"
+  ],
+  "img": "q38.png",
+  "opcoes": [
+   "leaves",
+   "leafs",
+   "leafes"
+  ],
+  "certa": 0,
+  "fala_q": "One leaf, uma folha. Two... qual é o plural?",
+  "fala_r": "Leaves! O F vira V E S. É a mesma palavra das folhas da planta!",
+  "count": 8.0,
+  "aviso": "DERRUBA MUITA GENTE!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 39,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "Tomorrow, we",
+   "______ our teacher.",
+   "(help)"
+  ],
+  "img": "q39.png",
+  "opcoes": [
+   "will help",
+   "will helps",
+   "will helped"
+  ],
+  "certa": 0,
+  "fala_q": "Tomorrow, we... help... our teacher. Qual está certa?",
+  "fala_r": "Will help! Depois do will, o verbo fica do jeito que é, sem S e sem E D.",
+  "count": 8.0
+ },
+ {
+  "n": 40,
+  "nivel": 4,
+  "pergunta": "COMO SE DIZ EM INGLÊS?",
+  "foto": "pessego",
+  "rotulo": "PÊSSEGO",
+  "img": "q40.png",
+  "opcoes": [
+   "Pear",
+   "Plum",
+   "Peach"
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz pêssego em inglês? Pear, Plum ou Peach?",
+  "fala_r": "Peach! Pear é pera e plum é ameixa.",
+  "count": 8.0
+ },
+ {
+  "n": 41,
+  "nivel": 4,
+  "pergunta": "COMPLETE COM O VERBO:",
+  "cartao": [
+   "Every day, Ana",
+   "______ English.",
+   "(study)"
+  ],
+  "img": "q41.png",
+  "opcoes": [
+   "studys",
+   "studyes",
+   "studies"
+  ],
+  "certa": 2,
+  "fala_q": "Every day, Ana... study... English. Como se escreve?",
+  "fala_r": "Studies! Consoante mais Y: troca por I E S, igual strawberries.",
+  "count": 8.0
+ },
+ {
+  "n": 42,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ ERRADA?",
+  "cartao": [
+   "Uma dessas",
+   "frases está",
+   "ERRADA!"
+  ],
+  "img": "q42.png",
+  "opcoes": [
+   "He plays soccer.",
+   "She watchs TV.",
+   "It rains a lot."
+  ],
+  "certa": 1,
+  "fala_q": "Uma dessas frases está errada! Qual?",
+  "fala_r": "She watchs TV! O certo é watches, com E S.",
+  "count": 8.0
+ },
+ {
+  "n": 43,
+  "nivel": 4,
+  "pergunta": "QUAL ESTÁ CERTA?",
+  "cartao": [
+   "Eu gosto de",
+   "comer bananas."
+  ],
+  "img": "q43.png",
+  "opcoes": [
+   "I'm like to eat bananas.",
+   "I likes to eat bananas.",
+   "I like to eat bananas."
+  ],
+  "certa": 2,
+  "fala_q": "Como se diz: eu gosto de comer bananas? Qual está certa?",
+  "fala_r": "I like to eat bananas! Não tem I'm, e com I o verbo não ganha S.",
+  "count": 8.0,
+  "aviso": "QUASE TODO MUNDO ERRA!",
+  "fala_s": "A resposta é..."
+ },
+ {
+  "n": 44,
+  "nivel": 4,
+  "pergunta": "QUANTOS ESTÃO NO PASSADO?",
+  "cartao": [
+   "plays • jumped",
+   "will help • cleaned",
+   "opened • walks"
+  ],
+  "img": "q44.png",
+  "opcoes": [
+   "2",
+   "3",
+   "4"
+  ],
+  "certa": 1,
+  "fala_q": "Valendo a nota! Plays, jumped, will help, cleaned, opened e walks. Quantos estão no passado? 2, 3 ou 4?",
+  "fala_r": "Três! Jumped, cleaned e opened. Se acertou essa, tirou dez em inglês!",
+  "count": 12.0,
+  "final": true,
+  "fala_s": "Valendo a nota... a resposta é..."
+ }
+]
