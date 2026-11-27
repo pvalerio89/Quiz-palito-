@@ -1381,6 +1381,19 @@
         "data": "2026-11-27",
         "origem": "github-actions"
       }
+    },
+    "videos/59-science-2": {
+      "youtube": {
+        "status": "publicado",
+        "id": "6GvZ7QHLkec",
+        "url": "https://youtu.be/6GvZ7QHLkec",
+        "data": "2026-11-27",
+        "origem": "github-actions",
+        "sha256": "d3e2c1ae719471b68143a901cbaed5bedebc1bdf6e78787ff0475296b5492f8f"
+      },
+      "tiktok": {
+        "status": "pendente"
+      }
     }
   }
 }
