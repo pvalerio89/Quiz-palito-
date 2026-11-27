@@ -1,12 +1,268 @@
 {
- "data": "2026-11-20",
+ "data": "2026-11-27",
  "canal": {
-  "viewCount": "20191",
-  "subscriberCount": "82",
+  "viewCount": "21477",
+  "subscriberCount": "86",
   "hiddenSubscriberCount": false,
-  "videoCount": "91"
+  "videoCount": "109"
  },
  "videos": [
+  {
+   "id": "9cvSiKLucDs",
+   "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem só 3 vidas! #shorts",
+   "publicado": "2026-11-27",
+   "privacidade": "private",
+   "tipo": "short",
+   "duracao": 47,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "RjUojg6ZUeA",
+   "titulo": "NÃO DIGA O MESMO QUE O PALITO 2 🤐 Você tem 8 vidas: com quantas termina? | Quiz Palito",
+   "publicado": "2026-11-27",
+   "privacidade": "private",
+   "tipo": "longo",
+   "duracao": 748,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "NhlwIjRWYbs",
+   "titulo": "PROVA DE SCIENCE DO 3º ANO 🐪 Seu pai acerta essas? #shorts",
+   "publicado": "2026-11-27",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 46,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "VMMwVaVdkFE",
+   "titulo": "PROVA DE SCIENCE DO 3º ANO 💧🐪 39 Questões sobre Alimentação, Água e o Camelo! | Quiz Palito",
+   "publicado": "2026-11-27",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 879,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "huq8ls3eqK0",
+   "titulo": "CRAQUES DE A a Z parte 2 ⚽ Quase ninguém acerta a última! #shorts",
+   "publicado": "2026-11-26",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 52,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "lR5bacabl0o",
+   "titulo": "JOGADORES de A a Z – PARTE 2 ⚽ Um craque por letra: a última ninguém acerta! | Quiz Palito",
+   "publicado": "2026-11-26",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 721,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "Xw0-kZ28Vc0",
+   "titulo": "6 BANDEIRAS parte 2 🌎 Seu pai acerta essas? A última é impossível! #shorts",
+   "publicado": "2026-11-25",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 51,
+   "views": 18,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "34xHgqibLCA",
+   "titulo": "BANDEIRAS: fácil, médio, difícil e IMPOSSÍVEL 🌎 Até qual nível você chega? | Quiz Palito",
+   "publicado": "2026-11-25",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 764,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "eZGZ1gpb8QM",
+   "titulo": "PROVA DE CIÊNCIAS DO 3º ANO 🌎 Duvido você acertar todas! #shorts",
+   "publicado": "2026-11-25",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 50,
+   "views": 63,
+   "likes": 1,
+   "comentarios": 0
+  },
+  {
+   "id": "LEqP4UpqAvs",
+   "titulo": "PROVA DE CIÊNCIAS DO 3º ANO 🌎 44 Questões sobre a Terra e o Céu, do Médio ao Difícil! | Quiz Palito",
+   "publicado": "2026-11-25",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 1005,
+   "views": 47,
+   "likes": 1,
+   "comentarios": 0
+  },
+  {
+   "id": "db7njbApb-M",
+   "titulo": "QUIZ DO BRASIL 2 🇧🇷 Duvido você acertar todas! #shorts",
+   "publicado": "2026-11-24",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 51,
+   "views": 0,
+   "likes": 0,
+   "comentarios": 0
+  },
+  {
+   "id": "Sqv_V_IR0eU",
+   "titulo": "QUIZ DO BRASIL 2 🇧🇷 Se você acertar 25 de 32, é brasileiro de verdade! | Quiz Palito",
+   "publicado": "2026-11-24",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 721,
+   "views": 1,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 0,
+   "pct_media": 0,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "JvQbQjQZuoo",
+   "titulo": "ADIVINHE O PAÍS SÓ COM 2 LETRAS! 🌎 Só gênio acerta todas! #shorts",
+   "publicado": "2026-11-23",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 50,
+   "views": 16,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 39,
+   "pct_media": 78.81,
+   "inscritos": 0,
+   "minutos": 4
+  },
+  {
+   "id": "XC-1ZEyG9Vg",
+   "titulo": "Adivinhe o PAÍS só com as 2 PRIMEIRAS LETRAS! 🌎 As últimas são impossíveis | Quiz Palito",
+   "publicado": "2026-11-23",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 814,
+   "views": 5,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 0,
+   "pct_media": 0,
+   "inscritos": 0,
+   "minutos": 0
+  },
+  {
+   "id": "jnnoFR2MNmc",
+   "titulo": "2+3=7 está ERRADO! Arruma movendo só 1 palito ✏️ #shorts",
+   "publicado": "2026-11-22",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 20,
+   "views": 16,
+   "likes": 1,
+   "comentarios": 1,
+   "dur_media": 25,
+   "pct_media": 129.35,
+   "inscritos": 0,
+   "minutos": 2
+  },
+  {
+   "id": "IovpP-sHcsM",
+   "titulo": "Qual é o ANIMAL de cada PAÍS? 🐼🦘 A última ninguém acerta! | Quiz Palito",
+   "publicado": "2026-11-22",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 823,
+   "views": 4,
+   "likes": 1,
+   "comentarios": 1,
+   "dur_media": 304,
+   "pct_media": 36.98,
+   "inscritos": 0,
+   "minutos": 15
+  },
+  {
+   "id": "LU-rRBvsigM",
+   "titulo": "TIRE só 1 PALITO e conserte a conta! 🧠 Parece fácil... #shorts",
+   "publicado": "2026-11-21",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 19,
+   "views": 31,
+   "likes": 0,
+   "comentarios": 1,
+   "dur_media": 18,
+   "pct_media": 98.01,
+   "inscritos": 0,
+   "minutos": 3
+  },
+  {
+   "id": "8f-VKIcxHEQ",
+   "titulo": "Uma SELEÇÃO para cada LETRA de A a Z! ⚽ Ninguém acerta a letra W | Quiz Palito",
+   "publicado": "2026-11-21",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 712,
+   "views": 3,
+   "likes": 0,
+   "comentarios": 0,
+   "dur_media": 122,
+   "pct_media": 17.26,
+   "inscritos": 0,
+   "minutos": 4
+  },
+  {
+   "id": "NiUC4bTejVs",
+   "titulo": "Essa conta tem DUAS respostas! Mova 1 palito e ache as duas 🤯 #shorts",
+   "publicado": "2026-11-20",
+   "privacidade": "public",
+   "tipo": "short",
+   "duracao": 20,
+   "views": 27,
+   "likes": 0,
+   "comentarios": 1,
+   "dur_media": 17,
+   "pct_media": 88.64,
+   "inscritos": 0,
+   "minutos": 2
+  },
+  {
+   "id": "hgDygRhl9sE",
+   "titulo": "PAIS contra FILHOS 📚 Quem passa na PROVA DO 5º ANO? Quiz em família | Quiz Palito",
+   "publicado": "2026-11-20",
+   "privacidade": "public",
+   "tipo": "longo",
+   "duracao": 708,
+   "views": 95,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 182,
+   "pct_media": 25.71,
+   "inscritos": 0,
+   "minutos": 211
+  },
   {
    "id": "bRDjuQARPd0",
    "titulo": "Só UM palito e 7+1=0 fica CERTO! Você consegue? 🔥 #shorts",
@@ -14,9 +270,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 21,
-   "views": 1,
+   "views": 21,
    "likes": 0,
-   "comentarios": 1
+   "comentarios": 1,
+   "dur_media": 18,
+   "pct_media": 87.18,
+   "inscritos": 0,
+   "minutos": 1
   },
   {
    "id": "0pUbPHDmF4Q",
@@ -25,9 +285,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 54,
-   "views": 0,
+   "views": 10,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 13,
+   "pct_media": 24.4,
+   "inscritos": 0,
+   "minutos": 1
   },
   {
    "id": "dOImhkT4tSw",
@@ -36,9 +300,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 925,
-   "views": 0,
+   "views": 5,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 242,
+   "pct_media": 26.26,
+   "inscritos": 0,
+   "minutos": 16
   },
   {
    "id": "NPgi_73JATw",
@@ -47,9 +315,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 48,
-   "views": 1,
+   "views": 17,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 18,
+   "pct_media": 38.53,
+   "inscritos": 0,
+   "minutos": 1
   },
   {
    "id": "coK3jodkgU8",
@@ -58,9 +330,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 995,
-   "views": 1,
+   "views": 15,
    "likes": 1,
-   "comentarios": 1
+   "comentarios": 1,
+   "dur_media": 483,
+   "pct_media": 48.6,
+   "inscritos": 0,
+   "minutos": 97
   },
   {
    "id": "Ab68bszQCP4",
@@ -69,9 +345,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 59,
-   "views": 5,
+   "views": 8,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 412,
+   "pct_media": 699.75,
+   "inscritos": 0,
+   "minutos": 13
   },
   {
    "id": "mUOI4xPq4DQ",
@@ -80,9 +360,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 969,
-   "views": 2,
+   "views": 5,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 360,
+   "pct_media": 37.21,
+   "inscritos": 0,
+   "minutos": 19
   },
   {
    "id": "a8jdj8bjsRQ",
@@ -93,7 +377,11 @@
    "duracao": 721,
    "views": 2,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 94,
+   "pct_media": 13.089999999999998,
+   "inscritos": 0,
+   "minutos": 3
   },
   {
    "id": "YQv1H7mslTI",
@@ -102,9 +390,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 54,
-   "views": 0,
-   "likes": 0,
-   "comentarios": 0
+   "views": 6,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 23,
+   "pct_media": 43.65,
+   "inscritos": 0,
+   "minutos": 1
   },
   {
    "id": "bHq2AGvhIU0",
@@ -113,9 +405,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 978,
-   "views": 7,
+   "views": 14,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 70,
+   "pct_media": 7.23,
+   "inscritos": 0,
+   "minutos": 16
   },
   {
    "id": "DgKdweeITU8",
@@ -124,9 +420,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 50,
-   "views": 0,
+   "views": 5,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 0,
+   "pct_media": 0,
+   "inscritos": 0,
+   "minutos": 0
   },
   {
    "id": "oWsgkH5Dxjc",
@@ -146,9 +446,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 48,
-   "views": 0,
+   "views": 44,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 17,
+   "pct_media": 36.01,
+   "inscritos": 0,
+   "minutos": 4
   },
   {
    "id": "8tw29KbsHRU",
@@ -157,9 +461,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1100,
-   "views": 1,
-   "likes": 0,
-   "comentarios": 0
+   "views": 15,
+   "likes": 1,
+   "comentarios": 0,
+   "dur_media": 327,
+   "pct_media": 29.799999999999997,
+   "inscritos": 0,
+   "minutos": 57
   },
   {
    "id": "ZJNzhSKcgek",
@@ -168,9 +476,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 52,
-   "views": 6,
+   "views": 44,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 51,
+   "pct_media": 98.42,
+   "inscritos": 0,
+   "minutos": 18
   },
   {
    "id": "25KlhR3fkyQ",
@@ -179,9 +491,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1023,
-   "views": 3,
-   "likes": 1,
-   "comentarios": 0
+   "views": 37,
+   "likes": 4,
+   "comentarios": 0,
+   "dur_media": 360,
+   "pct_media": 35.28,
+   "inscritos": 2,
+   "minutos": 185
   },
   {
    "id": "5al6GOYA740",
@@ -190,9 +506,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 57,
-   "views": 10,
+   "views": 37,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 21,
+   "pct_media": 38.26,
+   "inscritos": 0,
+   "minutos": 6
   },
   {
    "id": "AW5p7qFabXI",
@@ -201,9 +521,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 912,
-   "views": 7,
+   "views": 19,
    "likes": 1,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 208,
+   "pct_media": 22.85,
+   "inscritos": 0,
+   "minutos": 45
   },
   {
    "id": "mRkL4ydM1P4",
@@ -212,9 +536,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 19,
-   "views": 16,
+   "views": 35,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 29,
+   "pct_media": 157.3,
+   "inscritos": 0,
+   "minutos": 5
   },
   {
    "id": "Ufos9ipgwys",
@@ -223,9 +551,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 52,
-   "views": 19,
+   "views": 87,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 2,
+   "dur_media": 31,
+   "pct_media": 60.589999999999996,
+   "inscritos": 0,
+   "minutos": 21
   },
   {
    "id": "S2X5K-jEREg",
@@ -234,9 +566,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 976,
-   "views": 26,
+   "views": 47,
    "likes": 4,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 310,
+   "pct_media": 31.790000000000003,
+   "inscritos": 0,
+   "minutos": 139
   },
   {
    "id": "Cd9k7MYRHXE",
@@ -245,9 +581,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 780,
-   "views": 8,
+   "views": 13,
    "likes": 0,
-   "comentarios": 0
+   "comentarios": 0,
+   "dur_media": 41,
+   "pct_media": 5.26,
+   "inscritos": 0,
+   "minutos": 4
   },
   {
    "id": "TgzYRttPyBE",
@@ -256,7 +596,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 735,
-   "views": 1,
+   "views": 5,
    "likes": 0,
    "comentarios": 0,
    "dur_media": 115,
@@ -271,13 +611,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 67,
-   "views": 7,
+   "views": 11,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 64,
-   "pct_media": 96.91,
+   "dur_media": 47,
+   "pct_media": 70.53,
    "inscritos": 0,
-   "minutos": 1
+   "minutos": 4
   },
   {
    "id": "tCy6IZaQGG0",
@@ -286,7 +626,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 723,
-   "views": 3,
+   "views": 5,
    "likes": 0,
    "comentarios": 0,
    "dur_media": 26,
@@ -301,13 +641,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 63,
-   "views": 21,
+   "views": 30,
    "likes": 1,
    "comentarios": 0,
-   "dur_media": 4,
-   "pct_media": 6.54,
+   "dur_media": 28,
+   "pct_media": 44.48,
    "inscritos": 0,
-   "minutos": 0
+   "minutos": 9
   },
   {
    "id": "RuhsgkfRDQk",
@@ -316,7 +656,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 35,
-   "views": 3,
+   "views": 4,
    "likes": 0,
    "comentarios": 0,
    "dur_media": 12,
@@ -331,13 +671,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 64,
-   "views": 9,
+   "views": 10,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 29,
-   "pct_media": 46.78,
+   "dur_media": 43,
+   "pct_media": 68.55,
    "inscritos": 0,
-   "minutos": 1
+   "minutos": 3
   },
   {
    "id": "7JmybQ2r0bE",
@@ -346,13 +686,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 710,
-   "views": 13,
+   "views": 15,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 90,
-   "pct_media": 12.770000000000001,
+   "dur_media": 104,
+   "pct_media": 14.78,
    "inscritos": 0,
-   "minutos": 12
+   "minutos": 24
   },
   {
    "id": "CHBirk8FIH4",
@@ -361,28 +701,28 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 61,
-   "views": 33,
+   "views": 43,
    "likes": 1,
    "comentarios": 0,
    "dur_media": 35,
-   "pct_media": 58.599999999999994,
-   "inscritos": 0,
-   "minutos": 7
+   "pct_media": 57.38999999999999,
+   "inscritos": 1,
+   "minutos": 13
   },
   {
-   "id": "G_49n9y62-A",
-   "titulo": "#bug",
+   "id": "7JmybQ2r0bE",
+   "titulo": "QUIZ DE ESPANHOL 🇪🇸 36 Perguntas do Fácil ao Impossível! Você Fala Espanhol? | Quiz Palito",
    "publicado": "2026-11-16",
    "privacidade": "public",
-   "tipo": "short",
-   "duracao": 61,
-   "views": 3,
+   "tipo": "longo",
+   "duracao": 710,
+   "views": 15,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 16,
-   "pct_media": 27.699999999999996,
+   "dur_media": 104,
+   "pct_media": 14.78,
    "inscritos": 0,
-   "minutos": 0
+   "minutos": 24
   },
   {
    "id": "v8-23OoLFjI",
@@ -391,13 +731,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 70,
-   "views": 114,
-   "likes": 1,
+   "views": 161,
+   "likes": 2,
    "comentarios": 0,
-   "dur_media": 39,
-   "pct_media": 56.87,
+   "dur_media": 34,
+   "pct_media": 49.5,
    "inscritos": 1,
-   "minutos": 21
+   "minutos": 45
   },
   {
    "id": "SjNnNrhzQHM",
@@ -406,13 +746,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 635,
-   "views": 27,
-   "likes": 1,
-   "comentarios": 0,
-   "dur_media": 142,
-   "pct_media": 22.37,
+   "views": 100,
+   "likes": 3,
+   "comentarios": 1,
+   "dur_media": 274,
+   "pct_media": 43.19,
    "inscritos": 0,
-   "minutos": 37
+   "minutos": 293
   },
   {
    "id": "XANyHGQugNY",
@@ -421,13 +761,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 57,
-   "views": 51,
-   "likes": 2,
+   "views": 122,
+   "likes": 3,
    "comentarios": 0,
-   "dur_media": 39,
-   "pct_media": 69.83,
+   "dur_media": 33,
+   "pct_media": 58.48,
    "inscritos": 0,
-   "minutos": 6
+   "minutos": 29
   },
   {
    "id": "D5ml1lS-29k",
@@ -436,13 +776,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 655,
-   "views": 33,
+   "views": 61,
    "likes": 2,
    "comentarios": 0,
-   "dur_media": 252,
-   "pct_media": 38.51,
+   "dur_media": 273,
+   "pct_media": 41.78,
    "inscritos": 0,
-   "minutos": 71
+   "minutos": 127
   },
   {
    "id": "-QGDe5CO_No",
@@ -451,13 +791,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 69,
-   "views": 16,
+   "views": 19,
    "likes": 1,
    "comentarios": 0,
-   "dur_media": 53,
-   "pct_media": 77.1,
+   "dur_media": 64,
+   "pct_media": 93.93,
    "inscritos": 0,
-   "minutos": 4
+   "minutos": 9
   },
   {
    "id": "kd0--pAZPWU",
@@ -481,7 +821,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 707,
-   "views": 4,
+   "views": 6,
    "likes": 0,
    "comentarios": 0,
    "dur_media": 280,
@@ -496,13 +836,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 61,
-   "views": 77,
+   "views": 82,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 24,
-   "pct_media": 39.83,
-   "inscritos": 0,
-   "minutos": 12
+   "dur_media": 22,
+   "pct_media": 36.92,
+   "inscritos": 1,
+   "minutos": 18
   },
   {
    "id": "Ywul1HDF6dQ",
@@ -514,8 +854,8 @@
    "views": 11,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 27,
-   "pct_media": 37.3,
+   "dur_media": 24,
+   "pct_media": 32.66,
    "inscritos": 0,
    "minutos": 2
   },
@@ -541,13 +881,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 72,
-   "views": 139,
-   "likes": 5,
-   "comentarios": 0,
-   "dur_media": 39,
-   "pct_media": 54.510000000000005,
+   "views": 257,
+   "likes": 6,
+   "comentarios": 1,
+   "dur_media": 40,
+   "pct_media": 55.730000000000004,
    "inscritos": 0,
-   "minutos": 34
+   "minutos": 69
   },
   {
    "id": "BfhCt2SxGyE",
@@ -556,13 +896,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 643,
-   "views": 45,
-   "likes": 3,
+   "views": 79,
+   "likes": 4,
    "comentarios": 0,
-   "dur_media": 207,
-   "pct_media": 32.24,
+   "dur_media": 239,
+   "pct_media": 37.27,
    "inscritos": 0,
-   "minutos": 131
+   "minutos": 260
   },
   {
    "id": "mHz-g3_7Ek4",
@@ -601,13 +941,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 601,
-   "views": 7,
+   "views": 10,
    "likes": 2,
    "comentarios": 1,
-   "dur_media": 240,
-   "pct_media": 39.95,
+   "dur_media": 307,
+   "pct_media": 51.13999999999999,
    "inscritos": 0,
-   "minutos": 20
+   "minutos": 40
   },
   {
    "id": "fUpyh2FbCjA",
@@ -616,13 +956,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 74,
-   "views": 31,
+   "views": 38,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 36,
-   "pct_media": 49.08,
+   "dur_media": 37,
+   "pct_media": 50,
    "inscritos": 0,
-   "minutos": 10
+   "minutos": 13
   },
   {
    "id": "elyYbkuLwlg",
@@ -646,13 +986,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 76,
-   "views": 79,
+   "views": 87,
    "likes": 3,
    "comentarios": 1,
-   "dur_media": 54,
-   "pct_media": 71.12,
-   "inscritos": 1,
-   "minutos": 15
+   "dur_media": 48,
+   "pct_media": 63.28,
+   "inscritos": 2,
+   "minutos": 26
   },
   {
    "id": "WclJ-RcaemE",
@@ -670,19 +1010,19 @@
    "minutos": 6
   },
   {
-   "id": "elyYbkuLwlg",
-   "titulo": "ADIVINHE O PAÍS PELO MAPA 🗺️ 36 Países do Fácil ao Impossível! Quantos Você Acerta? | Quiz Palito",
+   "id": "EBiGgiyN0mU",
+   "titulo": "QUIZ DE MATEMÁTICA do 6º ao 9º Ano 🧮 36 Perguntas do Fácil ao Difícil! Você Passaria? | Quiz Palito",
    "publicado": "2026-11-14",
    "privacidade": "public",
    "tipo": "longo",
-   "duracao": 747,
-   "views": 3,
+   "duracao": 771,
+   "views": 18,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 4,
-   "pct_media": 0.66,
+   "dur_media": 278,
+   "pct_media": 36.09,
    "inscritos": 0,
-   "minutos": 0
+   "minutos": 81
   },
   {
    "id": "1bNvLqwGcIc",
@@ -706,7 +1046,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 71,
-   "views": 7,
+   "views": 8,
    "likes": 1,
    "comentarios": 0,
    "dur_media": 28,
@@ -736,13 +1076,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 675,
-   "views": 5,
+   "views": 13,
    "likes": 3,
    "comentarios": 0,
-   "dur_media": 387,
-   "pct_media": 57.4,
+   "dur_media": 267,
+   "pct_media": 39.56,
    "inscritos": 0,
-   "minutos": 32
+   "minutos": 46
   },
   {
    "id": "-_mZQhLOJAI",
@@ -781,13 +1121,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 548,
-   "views": 2,
+   "views": 3,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 207,
-   "pct_media": 37.8,
+   "dur_media": 267,
+   "pct_media": 48.87,
    "inscritos": 0,
-   "minutos": 6
+   "minutos": 13
   },
   {
    "id": "KlFpT9yZA3o",
@@ -796,13 +1136,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 89,
-   "views": 23,
+   "views": 28,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 40,
-   "pct_media": 45.35,
+   "dur_media": 42,
+   "pct_media": 48.13,
    "inscritos": 0,
-   "minutos": 6
+   "minutos": 10
   },
   {
    "id": "9thukvLDoy0",
@@ -811,13 +1151,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 709,
-   "views": 31,
-   "likes": 2,
+   "views": 128,
+   "likes": 4,
    "comentarios": 0,
-   "dur_media": 220,
-   "pct_media": 31.11,
+   "dur_media": 127,
+   "pct_media": 17.98,
    "inscritos": 0,
-   "minutos": 62
+   "minutos": 135
   },
   {
    "id": "OyevAvYqlKg",
@@ -841,13 +1181,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 91,
-   "views": 19,
+   "views": 20,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 35,
-   "pct_media": 38.83,
+   "dur_media": 40,
+   "pct_media": 44.29,
    "inscritos": 0,
-   "minutos": 5
+   "minutos": 6
   },
   {
    "id": "3Y_nZBWz8_o",
@@ -856,7 +1196,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 82,
-   "views": 878,
+   "views": 881,
    "likes": 14,
    "comentarios": 3,
    "dur_media": 36,
@@ -871,13 +1211,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 633,
-   "views": 101,
+   "views": 104,
    "likes": 4,
    "comentarios": 1,
-   "dur_media": 163,
-   "pct_media": 25.88,
+   "dur_media": 161,
+   "pct_media": 25.480000000000004,
    "inscritos": 2,
-   "minutos": 258
+   "minutos": 260
   },
   {
    "id": "rTmECoKfflk",
@@ -916,11 +1256,11 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 83,
-   "views": 867,
+   "views": 869,
    "likes": 19,
    "comentarios": 0,
    "dur_media": 36,
-   "pct_media": 44.25,
+   "pct_media": 44.09,
    "inscritos": 1,
    "minutos": 308
   },
@@ -931,7 +1271,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 518,
-   "views": 50,
+   "views": 51,
    "likes": 0,
    "comentarios": 0,
    "dur_media": 68,
@@ -946,13 +1286,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 74,
-   "views": 1336,
+   "views": 1337,
    "likes": 35,
    "comentarios": 1,
    "dur_media": 37,
-   "pct_media": 50.68,
+   "pct_media": 50.71,
    "inscritos": 9,
-   "minutos": 518
+   "minutos": 519
   },
   {
    "id": "iotE51SoaZY",
@@ -980,7 +1320,7 @@
    "likes": 20,
    "comentarios": 1,
    "dur_media": 40,
-   "pct_media": 54.02,
+   "pct_media": 53.67000000000001,
    "inscritos": 3,
    "minutos": 399
   },
@@ -1009,8 +1349,8 @@
    "views": 941,
    "likes": 25,
    "comentarios": 1,
-   "dur_media": 45,
-   "pct_media": 60.809999999999995,
+   "dur_media": 44,
+   "pct_media": 60.77,
    "inscritos": 4,
    "minutos": 401
   },
@@ -1036,13 +1376,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 92,
-   "views": 1037,
+   "views": 1038,
    "likes": 24,
    "comentarios": 0,
    "dur_media": 50,
-   "pct_media": 55.21,
+   "pct_media": 55.279999999999994,
    "inscritos": 2,
-   "minutos": 443
+   "minutos": 446
   },
   {
    "id": "keMRIYfyBrA",
@@ -1051,13 +1391,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1235,
-   "views": 480,
+   "views": 485,
    "likes": 5,
    "comentarios": 0,
-   "dur_media": 344,
-   "pct_media": 27.9,
+   "dur_media": 340,
+   "pct_media": 27.589999999999996,
    "inscritos": 2,
-   "minutos": 1359
+   "minutos": 1422
   },
   {
    "id": "fXWaihJ3bkc",
@@ -1070,7 +1410,7 @@
    "likes": 13,
    "comentarios": 4,
    "dur_media": 38,
-   "pct_media": 42.99,
+   "pct_media": 43.1,
    "inscritos": 2,
    "minutos": 250
   },
@@ -1081,11 +1421,11 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1208,
-   "views": 70,
+   "views": 78,
    "likes": 0,
    "comentarios": 0,
-   "dur_media": 198,
-   "pct_media": 16.4,
+   "dur_media": 190,
+   "pct_media": 15.73,
    "inscritos": 0,
    "minutos": 149
   },
@@ -1100,7 +1440,7 @@
    "likes": 20,
    "comentarios": 6,
    "dur_media": 46,
-   "pct_media": 46.21,
+   "pct_media": 46.27,
    "inscritos": 2,
    "minutos": 607
   },
@@ -1111,13 +1451,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 691,
-   "views": 141,
+   "views": 156,
    "likes": 5,
    "comentarios": 2,
-   "dur_media": 333,
-   "pct_media": 48.33,
+   "dur_media": 331,
+   "pct_media": 48.02,
    "inscritos": 0,
-   "minutos": 535
+   "minutos": 582
   },
   {
    "id": "pKpsE98dNyw",
@@ -1130,7 +1470,7 @@
    "likes": 22,
    "comentarios": 0,
    "dur_media": 50,
-   "pct_media": 53.31,
+   "pct_media": 53.38,
    "inscritos": 4,
    "minutos": 522
   },
@@ -1141,13 +1481,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 761,
-   "views": 784,
+   "views": 791,
    "likes": 15,
    "comentarios": 2,
-   "dur_media": 313,
-   "pct_media": 41.18,
+   "dur_media": 315,
+   "pct_media": 41.48,
    "inscritos": 5,
-   "minutos": 2100
+   "minutos": 2136
   },
   {
    "id": "SZjsj-f28r0",
@@ -1156,7 +1496,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 107,
-   "views": 1263,
+   "views": 1265,
    "likes": 37,
    "comentarios": 24,
    "dur_media": 59,
@@ -1171,7 +1511,7 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 743,
-   "views": 211,
+   "views": 212,
    "likes": 3,
    "comentarios": 0,
    "dur_media": 238,
@@ -1186,13 +1526,13 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 87,
-   "views": 1401,
-   "likes": 36,
+   "views": 1541,
+   "likes": 40,
    "comentarios": 4,
    "dur_media": 56,
-   "pct_media": 65.49,
+   "pct_media": 65.07,
    "inscritos": 6,
-   "minutos": 697
+   "minutos": 760
   },
   {
    "id": "wxpJen34tis",
@@ -1201,7 +1541,7 @@
    "privacidade": "public",
    "tipo": "short",
    "duracao": 91,
-   "views": 1320,
+   "views": 1322,
    "likes": 28,
    "comentarios": 1,
    "dur_media": 53,
@@ -1246,13 +1586,13 @@
    "privacidade": "public",
    "tipo": "longo",
    "duracao": 1207,
-   "views": 234,
-   "likes": 2,
+   "views": 243,
+   "likes": 3,
    "comentarios": 2,
-   "dur_media": 381,
-   "pct_media": 31.629999999999995,
+   "dur_media": 380,
+   "pct_media": 31.540000000000003,
    "inscritos": 3,
-   "minutos": 1255
+   "minutos": 1313
   },
   {
    "id": "M4DKSfvhr4o",
@@ -1286,55 +1626,6 @@
   }
  ],
  "diario": [
-  [
-   "2026-08-22",
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "2026-08-23",
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "2026-08-24",
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "2026-08-25",
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "2026-08-26",
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "2026-08-27",
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "2026-08-28",
-   0,
-   0,
-   0,
-   0
-  ],
   [
    "2026-08-29",
    0,
@@ -1897,9 +2188,58 @@
   ],
   [
    "2026-11-17",
-   199,
+   196,
    114,
    1,
+   0
+  ],
+  [
+   "2026-11-18",
+   192,
+   181,
+   1,
+   0
+  ],
+  [
+   "2026-11-19",
+   203,
+   214,
+   1,
+   0
+  ],
+  [
+   "2026-11-20",
+   170,
+   347,
+   0,
+   0
+  ],
+  [
+   "2026-11-21",
+   200,
+   324,
+   1,
+   0
+  ],
+  [
+   "2026-11-22",
+   179,
+   269,
+   2,
+   0
+  ],
+  [
+   "2026-11-23",
+   253,
+   251,
+   2,
+   2
+  ],
+  [
+   "2026-11-24",
+   180,
+   360,
+   0,
    0
   ]
  ],
